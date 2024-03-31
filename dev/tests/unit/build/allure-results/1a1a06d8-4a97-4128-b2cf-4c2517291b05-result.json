@@ -1,0 +1,50 @@
+{
+    "uuid": "1a1a06d8-4a97-4128-b2cf-4c2517291b05",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\Service\\Response\\Validator\\CVV2MatchTest::testValidation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032311,
+    "stop": 1711693032312,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0f668c34048755a564de7cbe5b52d47f",
+    "testCaseId": "b718fba2ea204aeea606a64ba42f5f53",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\Service\\Response\\Validator\\CVV2MatchTest::testValidation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\Service\\Response\\Validator\\CVV2MatchTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

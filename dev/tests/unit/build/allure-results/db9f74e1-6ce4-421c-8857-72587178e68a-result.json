@@ -1,0 +1,50 @@
+{
+    "uuid": "db9f74e1-6ce4-421c-8857-72587178e68a",
+    "name": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleEnableDisableCommandTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054865,
+    "stop": 1711693054866,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"disable, clear static content\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "13d201d14b2906aaa91023cde98da8db",
+    "testCaseId": "e762dc54e0b51318711cacd2d798f1f7",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleEnableDisableCommandTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleEnableDisableCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

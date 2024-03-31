@@ -1,0 +1,43 @@
+{
+    "uuid": "5dc098e2-ede8-440c-aacc-7002b6b5ebac",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Builder\\AbstractCommandTest::testChainAddsNewCommandAsNextInChain",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009872,
+    "stop": 1711693009873,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8cf9de7008452ec158f82e85cca68661",
+    "testCaseId": "132e082b021b6af7e7851c4752a84079",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Builder\\AbstractCommandTest::testChainAddsNewCommandAsNextInChain",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Builder\\AbstractCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testChainAddsNewCommandAsNextInChain"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

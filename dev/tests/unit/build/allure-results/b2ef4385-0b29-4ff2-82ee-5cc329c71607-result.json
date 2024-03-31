@@ -1,0 +1,50 @@
+{
+    "uuid": "b2ef4385-0b29-4ff2-82ee-5cc329c71607",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Asset\\MinificationTest::testIsAssetMinification",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077150,
+    "stop": 1711693077150,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0f1cdabdcf9740041be92f0ab041a8d0",
+    "testCaseId": "291c777e63c0d0b3b7f5e64c5dab60e3",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Asset\\MinificationTest::testIsAssetMinification",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Asset\\MinificationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAssetMinification"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

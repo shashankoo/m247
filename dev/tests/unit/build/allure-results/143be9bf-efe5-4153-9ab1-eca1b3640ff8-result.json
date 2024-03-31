@@ -1,0 +1,43 @@
+{
+    "uuid": "143be9bf-efe5-4153-9ab1-eca1b3640ff8",
+    "name": "Magento\\Payment\\Test\\Unit\\Gateway\\Http\\Client\\ZendTest::testPlaceRequestClientFail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031455,
+    "stop": 1711693031456,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ff6206377a24a1f16696935381ca114a",
+    "testCaseId": "67afafae573837907f6fd898a5a0c368",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Gateway\\Http\\Client\\ZendTest::testPlaceRequestClientFail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Gateway\\Http\\Client\\ZendTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPlaceRequestClientFail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "c6e24563-9da8-4b16-971c-aaa66cfb0874",
+    "name": "Magento\\Payment\\Test\\Unit\\Gateway\\Command\\CommandPoolTest::testGetException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031394,
+    "stop": 1711693031394,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0601e988460d8cc59e67ee2027b1e75d",
+    "testCaseId": "fafedf563590fa882e30a96c736b9bda",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Gateway\\Command\\CommandPoolTest::testGetException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Gateway\\Command\\CommandPoolTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "07350512-dc5a-4e9e-9e03-dbe3e804ca41",
+    "name": "Magento\\Bundle\\Test\\Unit\\Block\\Adminhtml\\Catalog\\Product\\Edit\\Tab\\Attributes\\ExtendTest::testGetExtendedElement",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010407,
+    "stop": 1711693010413,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1c73365b83a73876d56885632a4c8dd3",
+    "testCaseId": "128a96572d075254d372453206847ff8",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Block\\Adminhtml\\Catalog\\Product\\Edit\\Tab\\Attributes\\ExtendTest::testGetExtendedElement",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Block\\Adminhtml\\Catalog\\Product\\Edit\\Tab\\Attributes\\ExtendTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetExtendedElement"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

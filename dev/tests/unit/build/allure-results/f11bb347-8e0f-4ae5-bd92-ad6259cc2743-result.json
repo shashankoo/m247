@@ -1,0 +1,50 @@
+{
+    "uuid": "f11bb347-8e0f-4ae5-bd92-ad6259cc2743",
+    "name": "Magento\\Search\\Test\\Unit\\Block\\TermsTest::testGetTerms",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041147,
+    "stop": 1711693041152,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4361465ce14106b5809a51565e525dca",
+    "testCaseId": "6e2867795aa5e77ce176430bddf07520",
+    "rerunOf": null,
+    "fullName": "Magento\\Search\\Test\\Unit\\Block\\TermsTest::testGetTerms",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Search\\Test\\Unit\\Block\\TermsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTerms"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

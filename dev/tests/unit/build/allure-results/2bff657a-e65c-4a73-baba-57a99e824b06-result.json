@@ -1,0 +1,43 @@
+{
+    "uuid": "2bff657a-e65c-4a73-baba-57a99e824b06",
+    "name": "Magento\\Vault\\Test\\Unit\\Model\\PaymentTokenRepositoryTest::testRepositoryGetList",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053327,
+    "stop": 1711693053330,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "85a1cfbaa2c96a95790d31aaf102df29",
+    "testCaseId": "5d8b7ca415b6372c2e00885236bd3003",
+    "rerunOf": null,
+    "fullName": "Magento\\Vault\\Test\\Unit\\Model\\PaymentTokenRepositoryTest::testRepositoryGetList",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Vault\\Test\\Unit\\Model\\PaymentTokenRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRepositoryGetList"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

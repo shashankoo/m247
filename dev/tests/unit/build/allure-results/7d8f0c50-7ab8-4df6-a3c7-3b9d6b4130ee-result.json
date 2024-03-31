@@ -1,0 +1,50 @@
+{
+    "uuid": "7d8f0c50-7ab8-4df6-a3c7-3b9d6b4130ee",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\VariationHandlerTest::testProcessMediaGalleryForFillingGallery",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018649,
+    "stop": 1711693018649,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"empty array with not empty image\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "603f1de153802dc9dad585ba77fe8648",
+    "testCaseId": "9fc6b0305de26a7a985f1ee9ba901173",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\VariationHandlerTest::testProcessMediaGalleryForFillingGallery",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\VariationHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessMediaGalleryForFillingGallery"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

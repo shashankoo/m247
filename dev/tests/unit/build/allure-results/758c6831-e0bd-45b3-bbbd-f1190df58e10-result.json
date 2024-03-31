@@ -1,0 +1,43 @@
+{
+    "uuid": "758c6831-e0bd-45b3-bbbd-f1190df58e10",
+    "name": "Magento\\Reports\\Test\\Unit\\Observer\\WishlistShareObserverTest::testExecuteWhenReportIsDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693034068,
+    "stop": 1711693034102,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3075e1a09662d104e6d9f11b685b2cfa",
+    "testCaseId": "10da7f2c400a894bf94486b97c733375",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Observer\\WishlistShareObserverTest::testExecuteWhenReportIsDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Observer\\WishlistShareObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenReportIsDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

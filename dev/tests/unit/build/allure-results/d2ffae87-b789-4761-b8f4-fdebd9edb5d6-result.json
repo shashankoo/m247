@@ -1,0 +1,50 @@
+{
+    "uuid": "d2ffae87-b789-4761-b8f4-fdebd9edb5d6",
+    "name": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\FileTest::testGetRealPathSafety",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073249,
+    "stop": 1711693073250,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#12",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b216417ff709f51434930e7a90901857",
+    "testCaseId": "c5d22bd4d0b1de5057ac2fbcfb4626bd",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\FileTest::testGetRealPathSafety",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\FileTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRealPathSafety"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

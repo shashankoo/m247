@@ -1,0 +1,43 @@
+{
+    "uuid": "0921c720-94b6-4892-bafa-94e204b8dac3",
+    "name": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Config\\ConfigTest::testExtendIgnoresFirstSlashesOnPreferences",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074717,
+    "stop": 1711693074717,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0e8bd56977b2b2e231db0e6567751ad6",
+    "testCaseId": "695a17ba499b65f761cb9000ace3f812",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Config\\ConfigTest::testExtendIgnoresFirstSlashesOnPreferences",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Config\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExtendIgnoresFirstSlashesOnPreferences"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

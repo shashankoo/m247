@@ -1,0 +1,43 @@
+{
+    "uuid": "23a74ff8-7898-496a-8678-a89c2935b9ab",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Plugin\\ProductRepositorySaveTest::testBeforeSaveWhenProductIsSimple",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018559,
+    "stop": 1711693018561,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5489a70a1c1a196580a450ff75fbbf5a",
+    "testCaseId": "e9b9f80604ad5bca931ef4917d01429d",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Plugin\\ProductRepositorySaveTest::testBeforeSaveWhenProductIsSimple",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Plugin\\ProductRepositorySaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSaveWhenProductIsSimple"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "0e834f95-b95e-4de2-aebc-c6498a2010da",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testInitiatePasswordResetEmailReminder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019936,
+    "stop": 1711693019939,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cb92514766e3862097f6c64befe4841e",
+    "testCaseId": "0036e94cd29ed335618934d728260eec",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testInitiatePasswordResetEmailReminder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInitiatePasswordResetEmailReminder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

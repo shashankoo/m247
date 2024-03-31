@@ -1,0 +1,43 @@
+{
+    "uuid": "5d61e014-b7d6-4190-97ab-f3cc9a23191d",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\App\\EmulationTest::testStop",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041823,
+    "stop": 1711693041824,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "651e138bb68b1bb0477ba507aefcbc62",
+    "testCaseId": "c35062ffda4a21cb17f32743c775d6cd",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\App\\EmulationTest::testStop",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\App\\EmulationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testStop"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

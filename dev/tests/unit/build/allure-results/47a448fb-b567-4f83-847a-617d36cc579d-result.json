@@ -1,0 +1,50 @@
+{
+    "uuid": "47a448fb-b567-4f83-847a-617d36cc579d",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\BasePriceStorageTest::testUpdate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015221,
+    "stop": 1711693015223,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4398c98a2d91bb6df199c768a2aa523d",
+    "testCaseId": "13793d43bfa67174f3cc4fa0011012c4",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\BasePriceStorageTest::testUpdate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\BasePriceStorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

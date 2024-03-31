@@ -1,0 +1,50 @@
+{
+    "uuid": "817afd8c-4d09-46ac-80e8-b4be0f58c802",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\ReservedAttributeListTest::testIsReservedAttribute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015313,
+    "stop": 1711693015314,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "57e02a42ab885fd852cf082f1530f7b5",
+    "testCaseId": "203800d6abc921f63b741405b70c1592",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\ReservedAttributeListTest::testIsReservedAttribute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\ReservedAttributeListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsReservedAttribute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

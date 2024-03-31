@@ -1,0 +1,50 @@
+{
+    "uuid": "a327c706-8332-447f-a26a-3975df312776",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\Message\\EmptyGroupCategoryTest::testIsDisplayed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041877,
+    "stop": 1711693041877,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5e731b6070b6ee0fee4220389e901a31",
+    "testCaseId": "80df9f429e9fb3d5b792ab5446fe3091",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\Message\\EmptyGroupCategoryTest::testIsDisplayed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\Message\\EmptyGroupCategoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsDisplayed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

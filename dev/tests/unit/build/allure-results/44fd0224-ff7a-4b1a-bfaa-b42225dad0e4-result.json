@@ -1,0 +1,43 @@
+{
+    "uuid": "44fd0224-ff7a-4b1a-bfaa-b42225dad0e4",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Model\\Paypal\\Helper\\QuoteUpdaterTest::testExecuteException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056362,
+    "stop": 1711693056362,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skip this test",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e98541b9d46f74aef824b68655bae586",
+    "testCaseId": "ddb7913dfddbd566bad7280bd6e2f7bf",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Model\\Paypal\\Helper\\QuoteUpdaterTest::testExecuteException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Model\\Paypal\\Helper\\QuoteUpdaterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

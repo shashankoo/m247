@@ -1,0 +1,50 @@
+{
+    "uuid": "e048673e-9159-475a-82a9-5451c36433a7",
+    "name": "Magento\\Checkout\\Test\\Unit\\Block\\Cart\\LinkTest::testGetLabel",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016655,
+    "stop": 1711693016656,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3d711c404f3334841b95c29ed8d27cd5",
+    "testCaseId": "8cd596e9825d68fb872b59c342d97dbc",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Block\\Cart\\LinkTest::testGetLabel",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Block\\Cart\\LinkTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLabel"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

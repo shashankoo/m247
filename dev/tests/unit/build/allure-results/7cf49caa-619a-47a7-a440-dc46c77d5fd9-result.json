@@ -1,0 +1,50 @@
+{
+    "uuid": "7cf49caa-619a-47a7-a440-dc46c77d5fd9",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\ConfigTest::testGetBmlPosition",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032014,
+    "stop": 1711693032014,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1ff1831926a863bb83f2787925bc3f07",
+    "testCaseId": "f5d3944ea18fbf5a1029b6e1b098d133",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\ConfigTest::testGetBmlPosition",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBmlPosition"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

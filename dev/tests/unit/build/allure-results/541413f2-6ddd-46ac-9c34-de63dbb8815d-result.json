@@ -1,0 +1,43 @@
+{
+    "uuid": "541413f2-6ddd-46ac-9c34-de63dbb8815d",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Cache\\InMemoryStateTest::runtimeValuesAreAreNotPreservedWhenPersistedStateIsModified",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057717,
+    "stop": 1711693057717,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b47d0b63be9027f591cb4e540646d3e3",
+    "testCaseId": "18ea2faa89fd423be4c3005f25be4428",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Cache\\InMemoryStateTest::runtimeValuesAreAreNotPreservedWhenPersistedStateIsModified",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Cache\\InMemoryStateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "runtimeValuesAreAreNotPreservedWhenPersistedStateIsModified"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "11953d6d-194c-4311-a735-66909e9917ae",
+    "name": "Magento\\Customer\\Test\\Unit\\Helper\\AddressTest::testGetStreetLines",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019826,
+    "stop": 1711693019827,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#9",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5dccd467c9fa80cfd5a48ac4896a5263",
+    "testCaseId": "c54d850d610ec76be9c0fedaefa6167b",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Helper\\AddressTest::testGetStreetLines",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Helper\\AddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStreetLines"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

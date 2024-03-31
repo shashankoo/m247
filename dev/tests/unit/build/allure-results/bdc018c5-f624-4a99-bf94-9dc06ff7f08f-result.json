@@ -1,0 +1,50 @@
+{
+    "uuid": "bdc018c5-f624-4a99-bf94-9dc06ff7f08f",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsListTest::testValidateCacheHosts",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055134,
+    "stop": 1711693055134,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "924b504c334f76f1d9840b417af6377e",
+    "testCaseId": "94d07baac2858963d332948293824cb9",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsListTest::testValidateCacheHosts",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateCacheHosts"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

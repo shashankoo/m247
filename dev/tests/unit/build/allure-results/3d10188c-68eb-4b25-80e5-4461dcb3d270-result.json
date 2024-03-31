@@ -1,0 +1,50 @@
+{
+    "uuid": "3d10188c-68eb-4b25-80e5-4461dcb3d270",
+    "name": "Magento\\Usps\\Test\\Unit\\Model\\CarrierTest::testIsGirthAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053056,
+    "stop": 1711693053057,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "73e32902b21d8b200eac6f90272f7c48",
+    "testCaseId": "d83c2a8a0b0f8814c78e478eb3f3a9f8",
+    "rerunOf": null,
+    "fullName": "Magento\\Usps\\Test\\Unit\\Model\\CarrierTest::testIsGirthAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Usps\\Test\\Unit\\Model\\CarrierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsGirthAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "55c522b3-fd13-41c6-a4aa-053c3d5555e7",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\InvoiceOrderTest::testCouldNotInvoiceException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037506,
+    "stop": 1711693037508,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4f4f06eec738a82874eda404729de482",
+    "testCaseId": "da4eb5b14e715f1454fcf6b0ab6276b1",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\InvoiceOrderTest::testCouldNotInvoiceException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\InvoiceOrderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCouldNotInvoiceException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

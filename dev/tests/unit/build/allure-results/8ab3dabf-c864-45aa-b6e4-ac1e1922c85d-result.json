@@ -1,0 +1,50 @@
+{
+    "uuid": "8ab3dabf-c864-45aa-b6e4-ac1e1922c85d",
+    "name": "Magento\\DownloadableImportExport\\Test\\Unit\\Helper\\DataTest::testIsRowDownloadableEmptyOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021814,
+    "stop": 1711693021815,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Data set with empty\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "51af861e9311dd75bec8a9046f8a1252",
+    "testCaseId": "46eb5f2aa82fa8c4ac6d7d98d304fdf1",
+    "rerunOf": null,
+    "fullName": "Magento\\DownloadableImportExport\\Test\\Unit\\Helper\\DataTest::testIsRowDownloadableEmptyOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\DownloadableImportExport\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsRowDownloadableEmptyOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

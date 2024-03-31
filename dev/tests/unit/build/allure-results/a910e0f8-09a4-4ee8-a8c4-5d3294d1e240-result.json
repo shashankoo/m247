@@ -1,0 +1,50 @@
+{
+    "uuid": "a910e0f8-09a4-4ee8-a8c4-5d3294d1e240",
+    "name": "Magento\\Directory\\Test\\Unit\\Model\\Currency\\Import\\ConfigTest::testConstructorException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021704,
+    "stop": 1711693021704,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"missing label\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6c4a557789f4debcd2e59ec015d8cc4f",
+    "testCaseId": "0f9f9028c7934cace73c1e69b6acc596",
+    "rerunOf": null,
+    "fullName": "Magento\\Directory\\Test\\Unit\\Model\\Currency\\Import\\ConfigTest::testConstructorException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Directory\\Test\\Unit\\Model\\Currency\\Import\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructorException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

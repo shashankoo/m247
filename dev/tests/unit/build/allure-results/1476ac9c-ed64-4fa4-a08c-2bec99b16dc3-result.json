@@ -1,0 +1,50 @@
+{
+    "uuid": "1476ac9c-ed64-4fa4-a08c-2bec99b16dc3",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\CartTest::testInvalidGetAllItems",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031970,
+    "stop": 1711693031970,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "24bf2a2b5fe8d82798a912c30543d909",
+    "testCaseId": "5478598d3eb6b216e9f02102ba87a800",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\CartTest::testInvalidGetAllItems",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\CartTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInvalidGetAllItems"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

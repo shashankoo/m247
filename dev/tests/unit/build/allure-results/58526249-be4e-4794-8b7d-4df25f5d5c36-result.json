@@ -1,0 +1,50 @@
+{
+    "uuid": "58526249-be4e-4794-8b7d-4df25f5d5c36",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\FieldProvider\\FieldName\\Resolver\\SpecialAttributeTest::testGetFieldName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023273,
+    "stop": 1711693023273,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7c71ccaf5e9429ea7ad136d85e9987f3",
+    "testCaseId": "2194e3ab7c8e0b4f7180108dcc2cb21b",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\FieldProvider\\FieldName\\Resolver\\SpecialAttributeTest::testGetFieldName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\FieldProvider\\FieldName\\Resolver\\SpecialAttributeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFieldName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

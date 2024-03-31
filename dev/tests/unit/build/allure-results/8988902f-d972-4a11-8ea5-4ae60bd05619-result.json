@@ -1,0 +1,43 @@
+{
+    "uuid": "8988902f-d972-4a11-8ea5-4ae60bd05619",
+    "name": "Magento\\User\\Test\\Unit\\Model\\ResourceModel\\UserTest::testUpdateRoleUsersAclNoUsers",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052983,
+    "stop": 1711693052983,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "30d9baf8a7ade584e40850f5a322f226",
+    "testCaseId": "f6ab449300ca3836f492ae04a5ed210f",
+    "rerunOf": null,
+    "fullName": "Magento\\User\\Test\\Unit\\Model\\ResourceModel\\UserTest::testUpdateRoleUsersAclNoUsers",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\User\\Test\\Unit\\Model\\ResourceModel\\UserTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdateRoleUsersAclNoUsers"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

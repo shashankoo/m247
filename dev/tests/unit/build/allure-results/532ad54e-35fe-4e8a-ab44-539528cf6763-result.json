@@ -1,0 +1,50 @@
+{
+    "uuid": "532ad54e-35fe-4e8a-ab44-539528cf6763",
+    "name": "Magento\\Cms\\Test\\Unit\\Helper\\PageTest::testPrepareResultPage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017218,
+    "stop": 1711693017221,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"getPageLayout() AND getLayoutUpdateXml() ARE USED\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dde695366bedc5aabea5be18dc5bb980",
+    "testCaseId": "1754a67731a433341b26903511edab9f",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Helper\\PageTest::testPrepareResultPage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Helper\\PageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareResultPage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

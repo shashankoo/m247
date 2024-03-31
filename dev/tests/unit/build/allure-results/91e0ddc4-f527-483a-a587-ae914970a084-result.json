@@ -1,0 +1,43 @@
+{
+    "uuid": "91e0ddc4-f527-483a-a587-ae914970a084",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Pricing\\Render\\TierPriceBoxTest::testToHtmlEmptyWhenMsrpPriceIsApplicable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018737,
+    "stop": 1711693018740,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "101bc25ef8ba9e1694fa43be332bbe20",
+    "testCaseId": "54e87406fdf3685c49b1ebb276ec7e98",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Pricing\\Render\\TierPriceBoxTest::testToHtmlEmptyWhenMsrpPriceIsApplicable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Pricing\\Render\\TierPriceBoxTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToHtmlEmptyWhenMsrpPriceIsApplicable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "a1ab5b3e-7b55-4d9c-8f15-10747afe11b5",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\OptionTest::testCleanFileExtensions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015203,
+    "stop": 1711693015203,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#6",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e1de7e950127d1f70569901ddc485283",
+    "testCaseId": "208f9428b8a6107e9c71ff44c9af7b53",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\OptionTest::testCleanFileExtensions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\OptionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCleanFileExtensions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

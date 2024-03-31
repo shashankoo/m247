@@ -1,0 +1,43 @@
+{
+    "uuid": "4b7c4efe-75d1-4d1b-bff9-426627f77b4b",
+    "name": "Magento\\Framework\\Code\\Test\\Unit\\Generator\\ClassGeneratorTest::testAddProperties",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069339,
+    "stop": 1711693069340,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skipped in #27500 due to testing protected\/private methods and properties",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bae09fd402685d773742d898ebe84098",
+    "testCaseId": "0e2fa71774f7af93a456038b1964d858",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Code\\Test\\Unit\\Generator\\ClassGeneratorTest::testAddProperties",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Code\\Test\\Unit\\Generator\\ClassGeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddProperties"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

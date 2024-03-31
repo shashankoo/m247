@@ -1,0 +1,50 @@
+{
+    "uuid": "08a61913-0342-4a1f-bf90-23d83c759b24",
+    "name": "PayPal\\Braintree\\Test\\Console\\VaultMigrateTest::testGetOptionsList",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056112,
+    "stop": 1711693056112,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ca62a817a39c07d9251504a0d51fdbc0",
+    "testCaseId": "30fe30c5f23f9bdd61342ad7af6bf8d2",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Console\\VaultMigrateTest::testGetOptionsList",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Console\\VaultMigrateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOptionsList"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

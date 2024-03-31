@@ -1,0 +1,50 @@
+{
+    "uuid": "562c43cc-5f95-44d2-b738-6f618e25bbdc",
+    "name": "Magento\\DownloadableImportExport\\Test\\Unit\\Helper\\DataTest::testGetTypeByValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021821,
+    "stop": 1711693021821,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Case url Option Value\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "aea5678d8158225c0b364c66b7812f00",
+    "testCaseId": "42763a7442d5f3f3a26c06fb7a67dd5c",
+    "rerunOf": null,
+    "fullName": "Magento\\DownloadableImportExport\\Test\\Unit\\Helper\\DataTest::testGetTypeByValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\DownloadableImportExport\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTypeByValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "7436c5a2-951d-4f63-8d75-61f101d4d1ac",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\SchemaPersistorTest::testPersist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076569,
+    "stop": 1711693076571,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4529ad53896bef8588e86fe57e38b91a",
+    "testCaseId": "859236c779134cd6a24a1bf400eadffe",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\SchemaPersistorTest::testPersist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\SchemaPersistorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPersist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "2bb3d14b-4170-4c25-8389-bae6c5bdc5f3",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Export\\Config\\XsdTest::testSchemaCorrectlyIdentifiesInvalidProductOptionsMergedXml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024621,
+    "stop": 1711693024621,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"entity_node_with_required_attribute\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e02034497de4eac1e027da2f5325f50d",
+    "testCaseId": "729af4efe942acf04f6a64cda75bd7d5",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Export\\Config\\XsdTest::testSchemaCorrectlyIdentifiesInvalidProductOptionsMergedXml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Export\\Config\\XsdTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSchemaCorrectlyIdentifiesInvalidProductOptionsMergedXml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

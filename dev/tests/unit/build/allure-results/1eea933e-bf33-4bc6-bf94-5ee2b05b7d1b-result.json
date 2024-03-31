@@ -1,0 +1,50 @@
+{
+    "uuid": "1eea933e-bf33-4bc6-bf94-5ee2b05b7d1b",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testGetItemByQuoteItemId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039744,
+    "stop": 1711693039745,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2349d0217b3b3489337e09f10e26d03f",
+    "testCaseId": "a0662ee366667cd2230bf665de39c1d8",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testGetItemByQuoteItemId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItemByQuoteItemId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

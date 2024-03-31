@@ -1,0 +1,50 @@
+{
+    "uuid": "61eee6e7-2af9-4036-a14d-ce4bb23c5da4",
+    "name": "Magento\\Wishlist\\Test\\Unit\\Model\\Product\\AttributeValueProviderTest::testGetAttributeTextWhenFlatIsEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054485,
+    "stop": 1711693054486,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "145134b952b986a6d80dbf180e61d74a",
+    "testCaseId": "ce99af3448a21b5810c4b76ff2f4c105",
+    "rerunOf": null,
+    "fullName": "Magento\\Wishlist\\Test\\Unit\\Model\\Product\\AttributeValueProviderTest::testGetAttributeTextWhenFlatIsEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Wishlist\\Test\\Unit\\Model\\Product\\AttributeValueProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAttributeTextWhenFlatIsEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

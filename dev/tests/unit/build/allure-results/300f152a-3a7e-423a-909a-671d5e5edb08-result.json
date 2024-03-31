@@ -1,0 +1,50 @@
+{
+    "uuid": "300f152a-3a7e-423a-909a-671d5e5edb08",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\Attribute\\Backend\\SortbyTest::testAfterLoad",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014162,
+    "stop": 1711693014162,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Due to MAGETWO-48956",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"attribute sort by\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0f404337c8cd3f0e69435b4c68920530",
+    "testCaseId": "ffe9931d7aab8c2cd41c67bb4af56401",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\Attribute\\Backend\\SortbyTest::testAfterLoad",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\Attribute\\Backend\\SortbyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterLoad"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

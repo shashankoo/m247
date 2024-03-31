@@ -1,0 +1,43 @@
+{
+    "uuid": "10743954-77d7-4e28-b358-77327b42db28",
+    "name": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\CreatePostTest::testRegenerateIdOnExecution",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019614,
+    "stop": 1711693019614,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Cannot be unit tested with the auto generated builder dependencies",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c3ed6985db8bb63028ef304aeb38daf9",
+    "testCaseId": "8451ce4c71a0e3438d8e6313751d3f09",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\CreatePostTest::testRegenerateIdOnExecution",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\CreatePostTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRegenerateIdOnExecution"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

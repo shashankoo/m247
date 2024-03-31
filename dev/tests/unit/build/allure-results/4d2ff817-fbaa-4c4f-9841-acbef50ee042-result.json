@@ -1,0 +1,43 @@
+{
+    "uuid": "4d2ff817-fbaa-4c4f-9841-acbef50ee042",
+    "name": "Magento\\Backup\\Test\\Unit\\Helper\\DataTest::testGetBackupIgnorePaths",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010324,
+    "stop": 1711693010325,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9eaea7ee11428e2c471681fa1bb8c204",
+    "testCaseId": "66d22be3fb6c1aa0812f6725c743f31f",
+    "rerunOf": null,
+    "fullName": "Magento\\Backup\\Test\\Unit\\Helper\\DataTest::testGetBackupIgnorePaths",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backup\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBackupIgnorePaths"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

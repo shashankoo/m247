@@ -1,0 +1,50 @@
+{
+    "uuid": "18224ca1-6e3c-4fa1-b8f0-500a6ff08f65",
+    "name": "Magento\\GoogleOptimizer\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\GoogleOptimizerTest::testGetDataGoogleExperimentEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024209,
+    "stop": 1711693024209,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "455755667723177f714709fc7e38fc01",
+    "testCaseId": "9a9e35fe5740fb1fa83f5328235924e8",
+    "rerunOf": null,
+    "fullName": "Magento\\GoogleOptimizer\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\GoogleOptimizerTest::testGetDataGoogleExperimentEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GoogleOptimizer\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\GoogleOptimizerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDataGoogleExperimentEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

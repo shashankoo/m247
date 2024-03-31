@@ -1,0 +1,50 @@
+{
+    "uuid": "9842c8ce-7c82-461b-9e28-cb3753cdc587",
+    "name": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\AbstractDbTest::testGetDataChanged",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074285,
+    "stop": 1711693074286,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4320180ca29e3552b5250f94c4c51187",
+    "testCaseId": "2f4fdb8f3d6fa946163d7b2902a88858",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\AbstractDbTest::testGetDataChanged",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\AbstractDbTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDataChanged"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

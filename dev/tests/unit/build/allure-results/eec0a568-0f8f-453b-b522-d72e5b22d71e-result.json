@@ -1,0 +1,50 @@
+{
+    "uuid": "eec0a568-0f8f-453b-b522-d72e5b22d71e",
+    "name": "Magento\\Framework\\Validator\\Test\\Unit\\BuilderTest::testAddConfigurationInvalidFormat",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076944,
+    "stop": 1711693076945,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"configuration incorrect method call\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "09d58826cf9a88e3142653ba98bf5349",
+    "testCaseId": "4819325357f7bbfd4ef046599e19bc60",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Validator\\Test\\Unit\\BuilderTest::testAddConfigurationInvalidFormat",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Validator\\Test\\Unit\\BuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddConfigurationInvalidFormat"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

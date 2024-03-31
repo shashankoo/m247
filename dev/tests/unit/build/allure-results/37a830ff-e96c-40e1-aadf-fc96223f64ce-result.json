@@ -1,0 +1,43 @@
+{
+    "uuid": "37a830ff-e96c-40e1-aadf-fc96223f64ce",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfigTest::testEnvVariablesWithNoBaseConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057901,
+    "stop": 1711693057901,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "49d1c249d42348199d7606f8fb5be2e5",
+    "testCaseId": "3cc5574d1d44f584089c99aa64fa254e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfigTest::testEnvVariablesWithNoBaseConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEnvVariablesWithNoBaseConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "a6950c84-708c-4859-a505-5f9686ed8343",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\CustomerTest::testGetRandomConfirmationKey",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020508,
+    "stop": 1711693020509,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e71a29a75556797dc2e22ed038df9061",
+    "testCaseId": "59eda952e6fb76724359e985bbd0166e",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\CustomerTest::testGetRandomConfirmationKey",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\CustomerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRandomConfirmationKey"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

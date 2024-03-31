@@ -1,0 +1,43 @@
+{
+    "uuid": "68e0bd49-dba3-4901-8add-d24694f65274",
+    "name": "Magento\\UrlRewrite\\Test\\Unit\\Model\\Storage\\DbStorageTest::testFindOneByDataWithRequestPathTwoResults",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052888,
+    "stop": 1711693052888,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "451f62f311b350d609092c9eb53aca37",
+    "testCaseId": "afc8f77bcd3f1e7c2b2151f1224083d2",
+    "rerunOf": null,
+    "fullName": "Magento\\UrlRewrite\\Test\\Unit\\Model\\Storage\\DbStorageTest::testFindOneByDataWithRequestPathTwoResults",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\UrlRewrite\\Test\\Unit\\Model\\Storage\\DbStorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFindOneByDataWithRequestPathTwoResults"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

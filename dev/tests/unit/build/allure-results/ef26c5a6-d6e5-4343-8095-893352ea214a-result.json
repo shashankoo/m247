@@ -1,0 +1,43 @@
+{
+    "uuid": "ef26c5a6-d6e5-4343-8095-893352ea214a",
+    "name": "Magento\\Catalog\\Test\\Unit\\Pricing\\Price\\MinimalTierPriceCalculatorTest::testGetValueTierPricesExistShouldReturnMinTierPrice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016116,
+    "stop": 1711693016116,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "de877cc6ce311942ff019d4cec5d6166",
+    "testCaseId": "3b700373e49606a86d295738c283b1ce",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Pricing\\Price\\MinimalTierPriceCalculatorTest::testGetValueTierPricesExistShouldReturnMinTierPrice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Pricing\\Price\\MinimalTierPriceCalculatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValueTierPricesExistShouldReturnMinTierPrice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

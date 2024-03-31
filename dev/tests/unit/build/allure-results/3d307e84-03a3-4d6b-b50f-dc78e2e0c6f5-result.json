@@ -1,0 +1,50 @@
+{
+    "uuid": "3d307e84-03a3-4d6b-b50f-dc78e2e0c6f5",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\FilePermissionsTest::testGetInstallationWritableDirectories",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076505,
+    "stop": 1711693076506,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cad007e1b65ac0ec8ca90dcbb898e8d7",
+    "testCaseId": "2834accb6dcd257fd645faabf54bda5c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\FilePermissionsTest::testGetInstallationWritableDirectories",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\FilePermissionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetInstallationWritableDirectories"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

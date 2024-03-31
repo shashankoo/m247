@@ -1,0 +1,50 @@
+{
+    "uuid": "26fdd763-de80-4ff5-ab69-19677d180695",
+    "name": "Magento\\AwsS3\\Test\\Unit\\Driver\\AwsS3Test::testGetAbsolutePath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009379,
+    "stop": 1711693009379,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b6f57b73b26ee0285c5f07e4e450c042",
+    "testCaseId": "f76f21aa12125c0676beb55d52d9e54f",
+    "rerunOf": null,
+    "fullName": "Magento\\AwsS3\\Test\\Unit\\Driver\\AwsS3Test::testGetAbsolutePath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AwsS3\\Test\\Unit\\Driver\\AwsS3Test"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAbsolutePath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

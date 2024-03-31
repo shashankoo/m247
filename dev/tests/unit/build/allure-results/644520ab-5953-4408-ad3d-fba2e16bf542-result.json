@@ -1,0 +1,43 @@
+{
+    "uuid": "644520ab-5953-4408-ad3d-fba2e16bf542",
+    "name": "Magento\\CatalogRule\\Test\\Unit\\Model\\Indexer\\ReindexRuleProductTest::testExecuteIfRuleInactive",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012310,
+    "stop": 1711693012311,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "fa30e6a1d43514e1431b3835baeba7e8",
+    "testCaseId": "be32ddf6891128b86c217cf6ca5a0ef6",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogRule\\Test\\Unit\\Model\\Indexer\\ReindexRuleProductTest::testExecuteIfRuleInactive",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogRule\\Test\\Unit\\Model\\Indexer\\ReindexRuleProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteIfRuleInactive"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "2d757f6c-9ad5-4b74-a7f3-67fea851552f",
+    "name": "Magento\\Checkout\\Test\\Unit\\Block\\Cart\\CrosssellTest::testGetItems",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016501,
+    "stop": 1711693016502,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ec0e91e741166acb3bf283267780ee2e",
+    "testCaseId": "301cb559ded2f33d51235b4b51debe58",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Block\\Cart\\CrosssellTest::testGetItems",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Block\\Cart\\CrosssellTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItems"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

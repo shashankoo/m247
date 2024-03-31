@@ -1,0 +1,50 @@
+{
+    "uuid": "91560e8d-512e-47aa-b218-50baa7aeb5aa",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Dashboard\\ChartTest::testGetByPeriod",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009856,
+    "stop": 1711693009862,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d6a7d2ddbd86e850b4102672a480a445",
+    "testCaseId": "867925e24b41437dc5bb333bf0379716",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Dashboard\\ChartTest::testGetByPeriod",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Dashboard\\ChartTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetByPeriod"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "ae57b251-0a80-4618-9581-1c09089c15b2",
+    "name": "Magento\\Framework\\HTTP\\Test\\Unit\\HeaderTest::testHttpMethods",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073634,
+    "stop": 1711693073634,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"getHttpReferer clean false\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4239bf53ddce1adaf583b3a3b3578790",
+    "testCaseId": "bd784a60dab9d7480e5b460c9a5bf36d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\HTTP\\Test\\Unit\\HeaderTest::testHttpMethods",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\HTTP\\Test\\Unit\\HeaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testHttpMethods"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "40096244-7f47-47db-b7c5-5e831b7b800a",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\UpdateQtyTest::testExecuteModelException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037115,
+    "stop": 1711693037115,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2d87269d5b4f4681193fb9695aefa805",
+    "testCaseId": "67c610d741879d471c93f06ed81ea6cf",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\UpdateQtyTest::testExecuteModelException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\UpdateQtyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteModelException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

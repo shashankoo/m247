@@ -1,0 +1,50 @@
+{
+    "uuid": "1403a717-5b95-482b-a969-baf171f12625",
+    "name": "Magento\\Ui\\Test\\Unit\\Component\\Form\\Element\\DataType\\DateTest::testConvertDatetime",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693047330,
+    "stop": 1711693047331,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "72bf008bd474aa59f0f4c79df19536ab",
+    "testCaseId": "5b1c9b2edc6d55c5601b6fd148eadc33",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Component\\Form\\Element\\DataType\\DateTest::testConvertDatetime",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Component\\Form\\Element\\DataType\\DateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvertDatetime"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

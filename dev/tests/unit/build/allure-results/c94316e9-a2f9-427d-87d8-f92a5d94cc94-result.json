@@ -1,0 +1,50 @@
+{
+    "uuid": "c94316e9-a2f9-427d-87d8-f92a5d94cc94",
+    "name": "Magento\\Fedex\\Test\\Unit\\Model\\CarrierTest::testGetTracking",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023920,
+    "stop": 1711693023921,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"tracking1-again\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dc38c8547c81bc70d2d1cc488ad40bb7",
+    "testCaseId": "c350f854f929fc9fee190e069adaed18",
+    "rerunOf": null,
+    "fullName": "Magento\\Fedex\\Test\\Unit\\Model\\CarrierTest::testGetTracking",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Fedex\\Test\\Unit\\Model\\CarrierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTracking"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "06439e50-8ce7-4e28-b898-45eed1843ec9",
+    "name": "Magento\\CardinalCommerce\\Test\\Unit\\Model\\JwtManagementTest::testDecodeWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011372,
+    "stop": 1711693011372,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a95350a5adf1554c4d956fc1503a7e01",
+    "testCaseId": "aa067e5407992a15b5aa12670d2c4a08",
+    "rerunOf": null,
+    "fullName": "Magento\\CardinalCommerce\\Test\\Unit\\Model\\JwtManagementTest::testDecodeWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CardinalCommerce\\Test\\Unit\\Model\\JwtManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDecodeWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

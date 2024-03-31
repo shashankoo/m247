@@ -1,0 +1,43 @@
+{
+    "uuid": "bc03ed33-fc91-460c-a607-5b0d6aa00a12",
+    "name": "Magento\\MediaStorage\\Test\\Unit\\Service\\ImageResizeTest::testSkipResizingAlreadyResizedImageInDatabase",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030482,
+    "stop": 1711693030482,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "da674a30e391ff1182af54e755f551db",
+    "testCaseId": "feb73867d57d3bcf1808ca48a47278fd",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaStorage\\Test\\Unit\\Service\\ImageResizeTest::testSkipResizingAlreadyResizedImageInDatabase",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaStorage\\Test\\Unit\\Service\\ImageResizeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSkipResizingAlreadyResizedImageInDatabase"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

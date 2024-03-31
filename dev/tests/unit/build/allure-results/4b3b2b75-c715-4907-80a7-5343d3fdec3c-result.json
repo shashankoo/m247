@@ -1,0 +1,50 @@
+{
+    "uuid": "4b3b2b75-c715-4907-80a7-5343d3fdec3c",
+    "name": "Magento\\ReleaseNotification\\Test\\Unit\\Model\\Condition\\CanViewNotificationTest::testIsVisible",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033347,
+    "stop": 1711693033347,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "493e0a4a3d3885eb2f172d8ed2e6b5b5",
+    "testCaseId": "ce94ea73cd0a8947d84a88db628b3c30",
+    "rerunOf": null,
+    "fullName": "Magento\\ReleaseNotification\\Test\\Unit\\Model\\Condition\\CanViewNotificationTest::testIsVisible",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ReleaseNotification\\Test\\Unit\\Model\\Condition\\CanViewNotificationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsVisible"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "916de1c3-de48-47dd-881a-53d65d8b9198",
+    "name": "Magento\\Framework\\Convert\\Test\\Unit\\ConvertArrayTest::testAssocToXmlException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070458,
+    "stop": 1711693070459,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "737bc048603d9e05ea117a49d7b59edf",
+    "testCaseId": "f5d8ccd815212493701ac3405c8ae04c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Convert\\Test\\Unit\\ConvertArrayTest::testAssocToXmlException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Convert\\Test\\Unit\\ConvertArrayTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAssocToXmlException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

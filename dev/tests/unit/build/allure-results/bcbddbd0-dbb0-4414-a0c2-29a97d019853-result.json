@@ -1,0 +1,50 @@
+{
+    "uuid": "bcbddbd0-dbb0-4414-a0c2-29a97d019853",
+    "name": "Magento\\Integration\\Test\\Unit\\Block\\Adminhtml\\Integration\\Edit\\Tab\\WebapiTest::testCanShowTab",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029697,
+    "stop": 1711693029697,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"config integration data\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "964637467372c4912b7932ccaae7bafb",
+    "testCaseId": "3d5acab8040f3649c6f8e4e92dcdfdf1",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Block\\Adminhtml\\Integration\\Edit\\Tab\\WebapiTest::testCanShowTab",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Block\\Adminhtml\\Integration\\Edit\\Tab\\WebapiTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanShowTab"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

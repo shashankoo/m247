@@ -1,0 +1,50 @@
+{
+    "uuid": "f4946e95-8d9c-474b-a740-c7b9c262cdd5",
+    "name": "Magento\\Framework\\Message\\Test\\Unit\\ManagerTest::testAddMessage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074214,
+    "stop": 1711693074215,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"warning\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8ccd361b0c70ec38db567a224043a624",
+    "testCaseId": "44432954ca4abb3a70e5c78d3ee08c2c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Message\\Test\\Unit\\ManagerTest::testAddMessage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Message\\Test\\Unit\\ManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddMessage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "1882c714-7200-4935-ab11-8a33041c1b6f",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\SetRememberMeCheckedStatusObserverTest::testSetRememberMeCheckedStatusWhenActionNameIncorrect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032592,
+    "stop": 1711693032593,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "209ea7338699e0959a05dbfbc54afab1",
+    "testCaseId": "421dc7d4dd7e0a10f95a8b1d337dfeb8",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\SetRememberMeCheckedStatusObserverTest::testSetRememberMeCheckedStatusWhenActionNameIncorrect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\SetRememberMeCheckedStatusObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetRememberMeCheckedStatusWhenActionNameIncorrect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "4f445a9e-4e15-4e84-b7b6-9049014398ce",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Creditmemo\\VoidActionTest::testExecuteModelException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037049,
+    "stop": 1711693037049,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "256116d89fb880c9e4a9d7ecf4f02a37",
+    "testCaseId": "7ae8c52f7d030c88f6d397ed8ec5539f",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Creditmemo\\VoidActionTest::testExecuteModelException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Creditmemo\\VoidActionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteModelException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "7d1d876a-4cc3-4c66-a338-1c0c642961e1",
+    "name": "Magento\\Framework\\Authorization\\Test\\Unit\\Policy\\AclTest::testIsAllowedReturnsTrueIfResourceDoesntExistAndAllResourcesAreNotPermitted",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059090,
+    "stop": 1711693059091,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a2310ff9c6be0d38cc3c523d1eac08c5",
+    "testCaseId": "dcb92825ab5ea5e2cfb7830e1233bc54",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Authorization\\Test\\Unit\\Policy\\AclTest::testIsAllowedReturnsTrueIfResourceDoesntExistAndAllResourcesAreNotPermitted",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Authorization\\Test\\Unit\\Policy\\AclTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAllowedReturnsTrueIfResourceDoesntExistAndAllResourcesAreNotPermitted"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

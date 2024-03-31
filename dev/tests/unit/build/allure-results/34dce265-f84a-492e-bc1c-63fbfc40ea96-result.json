@@ -1,0 +1,50 @@
+{
+    "uuid": "34dce265-f84a-492e-bc1c-63fbfc40ea96",
+    "name": "Magento\\Ups\\Test\\Unit\\Model\\CarrierTest::testFilterDebugData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052542,
+    "stop": 1711693052543,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f5f9713d238216bb847b38aa61ad96fa",
+    "testCaseId": "cc5226134d6319e882947acf49997285",
+    "rerunOf": null,
+    "fullName": "Magento\\Ups\\Test\\Unit\\Model\\CarrierTest::testFilterDebugData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ups\\Test\\Unit\\Model\\CarrierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFilterDebugData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

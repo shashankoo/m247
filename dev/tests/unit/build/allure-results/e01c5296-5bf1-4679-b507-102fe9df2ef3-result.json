@@ -1,0 +1,50 @@
+{
+    "uuid": "e01c5296-5bf1-4679-b507-102fe9df2ef3",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\AddDefaultSearchFieldTest::testProcess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023213,
+    "stop": 1711693023214,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"_search field should be prepended and overwrite if exist\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ee49421bd4079c90038c92a8b83404da",
+    "testCaseId": "16aaa44dbc2aa37b58dae2b60ea8af46",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\AddDefaultSearchFieldTest::testProcess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\AddDefaultSearchFieldTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

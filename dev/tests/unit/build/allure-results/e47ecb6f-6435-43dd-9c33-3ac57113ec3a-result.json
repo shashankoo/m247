@@ -1,0 +1,43 @@
+{
+    "uuid": "e47ecb6f-6435-43dd-9c33-3ac57113ec3a",
+    "name": "Magento\\User\\Test\\Unit\\Controller\\Adminhtml\\User\\Role\\DeleteTest::testExecuteDeleteSelfAssignedRole",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052950,
+    "stop": 1711693052951,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a98359d25607e709253b792f8cf67e4c",
+    "testCaseId": "303676dd1b476099d7c531c4226c58ad",
+    "rerunOf": null,
+    "fullName": "Magento\\User\\Test\\Unit\\Controller\\Adminhtml\\User\\Role\\DeleteTest::testExecuteDeleteSelfAssignedRole",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\User\\Test\\Unit\\Controller\\Adminhtml\\User\\Role\\DeleteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteDeleteSelfAssignedRole"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

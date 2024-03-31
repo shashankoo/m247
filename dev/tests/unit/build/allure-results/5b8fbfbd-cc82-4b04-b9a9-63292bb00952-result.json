@@ -1,0 +1,50 @@
+{
+    "uuid": "5b8fbfbd-cc82-4b04-b9a9-63292bb00952",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Filter\\BuilderTest::testBuildNegation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023496,
+    "stop": 1711693023497,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "61599e8a3fe6757ef628e1687acc5e17",
+    "testCaseId": "1721d10b8cb6fd52dd12210c928afa08",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Filter\\BuilderTest::testBuildNegation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Filter\\BuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildNegation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

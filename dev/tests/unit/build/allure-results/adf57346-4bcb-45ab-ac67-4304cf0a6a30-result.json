@@ -1,0 +1,50 @@
+{
+    "uuid": "adf57346-4bcb-45ab-ac67-4304cf0a6a30",
+    "name": "Magento\\Analytics\\Test\\Unit\\ReportXml\\DB\\Assembler\\JoinAssemblerTest::testAssembleNotEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009191,
+    "stop": 1711693009191,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ba388b6d152cdeee6b811b9a29298efd",
+    "testCaseId": "2b44c61b65aeb0fdeab62b9b54be2b65",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\ReportXml\\DB\\Assembler\\JoinAssemblerTest::testAssembleNotEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\ReportXml\\DB\\Assembler\\JoinAssemblerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAssembleNotEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

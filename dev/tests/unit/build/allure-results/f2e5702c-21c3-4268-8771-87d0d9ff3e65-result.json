@@ -1,0 +1,50 @@
+{
+    "uuid": "f2e5702c-21c3-4268-8771-87d0d9ff3e65",
+    "name": "Magento\\Framework\\Test\\Unit\\UrlTest::testGetUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057264,
+    "stop": 1711693057265,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"array query\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5b7210e6e5d2bbfd43252daff9dd9d59",
+    "testCaseId": "b01ae3096a606eba7bde5b5351760a84",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\UrlTest::testGetUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\UrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

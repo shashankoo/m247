@@ -1,0 +1,50 @@
+{
+    "uuid": "34261295-26fb-4f29-95b6-cec57b72d215",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\BooleanTest::testGetOptionText",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020689,
+    "stop": 1711693020689,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Null\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "efa6df96086367dae8d24a269d0810a9",
+    "testCaseId": "6d30fe9ec22e0ae75f22cc8eccd48b7c",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\BooleanTest::testGetOptionText",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\BooleanTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOptionText"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

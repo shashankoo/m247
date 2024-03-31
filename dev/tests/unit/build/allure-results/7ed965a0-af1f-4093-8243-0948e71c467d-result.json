@@ -1,0 +1,50 @@
+{
+    "uuid": "7ed965a0-af1f-4093-8243-0948e71c467d",
+    "name": "Magento\\ProductVideo\\Test\\Unit\\Model\\Plugin\\Catalog\\Product\\Gallery\\CreateHandlerTest::testAfterExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032657,
+    "stop": 1711693032660,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"new_video\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ac922762ca018c060a857dd0cda2eba7",
+    "testCaseId": "8b31e6bfdba8669ae63dbfd84e9543c6",
+    "rerunOf": null,
+    "fullName": "Magento\\ProductVideo\\Test\\Unit\\Model\\Plugin\\Catalog\\Product\\Gallery\\CreateHandlerTest::testAfterExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ProductVideo\\Test\\Unit\\Model\\Plugin\\Catalog\\Product\\Gallery\\CreateHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

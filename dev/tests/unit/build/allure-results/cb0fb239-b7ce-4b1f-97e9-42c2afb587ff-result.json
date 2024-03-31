@@ -1,0 +1,43 @@
+{
+    "uuid": "cb0fb239-b7ce-4b1f-97e9-42c2afb587ff",
+    "name": "Magento\\Payment\\Test\\Unit\\Observer\\SalesOrderBeforeSaveObserverTest::testSalesOrderBeforeSaveIsCanceled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031688,
+    "stop": 1711693031688,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d765e1fe47f3cc3e12b05e1ac41b71f4",
+    "testCaseId": "5cda5405a53e28772b2354874cb01412",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Observer\\SalesOrderBeforeSaveObserverTest::testSalesOrderBeforeSaveIsCanceled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Observer\\SalesOrderBeforeSaveObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSalesOrderBeforeSaveIsCanceled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

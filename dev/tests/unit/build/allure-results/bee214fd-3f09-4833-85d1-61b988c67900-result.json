@@ -1,0 +1,50 @@
+{
+    "uuid": "bee214fd-3f09-4833-85d1-61b988c67900",
+    "name": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest::testCanSendNewInvoiceEmail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037349,
+    "stop": 1711693037349,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fcb34362fee13b54d6f09d98223e81c7",
+    "testCaseId": "57e840193a12d0745157f105d3fc53f5",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest::testCanSendNewInvoiceEmail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanSendNewInvoiceEmail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

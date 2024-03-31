@@ -1,0 +1,50 @@
+{
+    "uuid": "a3dd1412-c2ba-42d0-ab62-f057554e961b",
+    "name": "Magento\\Framework\\Config\\Test\\Unit\\Data\\ConfigDataTest::testSetWrongKey",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069906,
+    "stop": 1711693069906,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"segment is empty\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "46b88d1c38f6728090b5981316f679f3",
+    "testCaseId": "7fd8b00df6f7826b2fdec08dc4a4f704",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Config\\Test\\Unit\\Data\\ConfigDataTest::testSetWrongKey",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Config\\Test\\Unit\\Data\\ConfigDataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetWrongKey"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

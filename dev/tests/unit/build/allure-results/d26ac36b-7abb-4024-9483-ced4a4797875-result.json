@@ -1,0 +1,50 @@
+{
+    "uuid": "d26ac36b-7abb-4024-9483-ced4a4797875",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Creditmemo\\Create\\ItemsTest::testCanReturnItemsToStock",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036574,
+    "stop": 1711693036575,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"manage stock is disabled\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "14a4b7c16cae9c48d7c45aea07f78394",
+    "testCaseId": "0bf2484b871b386ee423358c790594a3",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Creditmemo\\Create\\ItemsTest::testCanReturnItemsToStock",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Creditmemo\\Create\\ItemsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanReturnItemsToStock"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

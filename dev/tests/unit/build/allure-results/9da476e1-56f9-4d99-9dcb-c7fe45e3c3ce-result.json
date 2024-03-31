@@ -1,0 +1,50 @@
+{
+    "uuid": "9da476e1-56f9-4d99-9dcb-c7fe45e3c3ce",
+    "name": "Magento\\Directory\\Test\\Unit\\Model\\TopDestinationCountriesTest::testGetTopDestinations",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021813,
+    "stop": 1711693021813,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "42e62d9c003e6b4e734a09a623a66771",
+    "testCaseId": "ce851e792995656241387734a8c2b5e1",
+    "rerunOf": null,
+    "fullName": "Magento\\Directory\\Test\\Unit\\Model\\TopDestinationCountriesTest::testGetTopDestinations",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Directory\\Test\\Unit\\Model\\TopDestinationCountriesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTopDestinations"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

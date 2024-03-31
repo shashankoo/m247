@@ -1,0 +1,50 @@
+{
+    "uuid": "d267954f-fa7d-4695-976d-1c3924460995",
+    "name": "Magento\\Framework\\Simplexml\\Test\\Unit\\ElementTest::testUnsetSelf",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076596,
+    "stop": 1711693076596,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f0d115067c7179a989a3a70289205615",
+    "testCaseId": "aaa0df77dc01beb59e16f42ac3483ea4",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Simplexml\\Test\\Unit\\ElementTest::testUnsetSelf",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Simplexml\\Test\\Unit\\ElementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUnsetSelf"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

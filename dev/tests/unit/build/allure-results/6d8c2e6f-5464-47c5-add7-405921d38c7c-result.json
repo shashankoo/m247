@@ -1,0 +1,50 @@
+{
+    "uuid": "6d8c2e6f-5464-47c5-add7-405921d38c7c",
+    "name": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Module\\CollectTest::testGetModuleDataRefresh",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030873,
+    "stop": 1711693030873,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "86afebb5af2e4f5bb58737412c67c150",
+    "testCaseId": "41864eca18bea26626b5b5de839e9ef8",
+    "rerunOf": null,
+    "fullName": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Module\\CollectTest::testGetModuleDataRefresh",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Module\\CollectTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetModuleDataRefresh"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

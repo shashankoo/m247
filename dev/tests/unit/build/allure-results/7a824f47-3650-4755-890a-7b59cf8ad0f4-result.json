@@ -1,0 +1,43 @@
+{
+    "uuid": "7a824f47-3650-4755-890a-7b59cf8ad0f4",
+    "name": "Magento\\Framework\\Async\\Test\\Unit\\CallbackDeferredTest::testException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059082,
+    "stop": 1711693059083,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1b2aaed5af060011dc1f4824f398ec40",
+    "testCaseId": "205c89e6c39c17b56118acc477c78d81",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Async\\Test\\Unit\\CallbackDeferredTest::testException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Async\\Test\\Unit\\CallbackDeferredTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

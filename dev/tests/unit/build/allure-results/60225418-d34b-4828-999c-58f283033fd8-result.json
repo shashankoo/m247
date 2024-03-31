@@ -1,0 +1,43 @@
+{
+    "uuid": "60225418-d34b-4828-999c-58f283033fd8",
+    "name": "Magento\\ReleaseNotification\\Test\\Unit\\Controller\\Notification\\MarkUserNotifiedTest::testExecuteFailedWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033343,
+    "stop": 1711693033344,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7eef6b69f75a22e0b6773372ee82dfce",
+    "testCaseId": "f169ddbf72a5aa6e53c7bf6fe2f353ab",
+    "rerunOf": null,
+    "fullName": "Magento\\ReleaseNotification\\Test\\Unit\\Controller\\Notification\\MarkUserNotifiedTest::testExecuteFailedWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ReleaseNotification\\Test\\Unit\\Controller\\Notification\\MarkUserNotifiedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteFailedWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

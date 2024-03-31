@@ -1,0 +1,43 @@
+{
+    "uuid": "bb77bc47-c847-423c-8537-0357ac55f5a1",
+    "name": "Magento\\Persistent\\Test\\Unit\\CustomerData\\PersistentTest::testGetSectionDataWhenDisablePersistent",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032476,
+    "stop": 1711693032477,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ef22ed7ba482f64344c112feb340b310",
+    "testCaseId": "c3466c26dd9f27a14568e513da6e39a7",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\CustomerData\\PersistentTest::testGetSectionDataWhenDisablePersistent",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\CustomerData\\PersistentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSectionDataWhenDisablePersistent"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

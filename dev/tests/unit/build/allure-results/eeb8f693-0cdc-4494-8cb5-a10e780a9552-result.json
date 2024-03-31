@@ -1,0 +1,43 @@
+{
+    "uuid": "eeb8f693-0cdc-4494-8cb5-a10e780a9552",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\BillingAgreementConfigProviderTest::testGetConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031965,
+    "stop": 1711693031967,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8bc5c9b4810137700711236a430525bc",
+    "testCaseId": "6af6562b7c46db0de6d5901c0bcc6230",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\BillingAgreementConfigProviderTest::testGetConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\BillingAgreementConfigProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

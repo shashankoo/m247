@@ -1,0 +1,43 @@
+{
+    "uuid": "647e2672-a0a7-428f-86d7-291067d7289e",
+    "name": "Magento\\Theme\\Test\\Unit\\Plugin\\CollectionTest::testCurrentPageIsNotOverriddenIfFirstPage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043811,
+    "stop": 1711693043812,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f43d26c0d3de0a89486f15c147a1ccbc",
+    "testCaseId": "b425e83a3bc536beab9f0881a99c8447",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Plugin\\CollectionTest::testCurrentPageIsNotOverriddenIfFirstPage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Plugin\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCurrentPageIsNotOverriddenIfFirstPage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

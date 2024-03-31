@@ -1,0 +1,43 @@
+{
+    "uuid": "5a790255-3099-49c2-8efb-7ae93ff508c6",
+    "name": "Magento\\MediaStorage\\Test\\Unit\\Model\\File\\Storage\\Directory\\DatabaseTest::testImportDirectoriesFailureNotArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030464,
+    "stop": 1711693030465,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f314b0c8a78989ec880425d3d8231b06",
+    "testCaseId": "59bfe7566a8c85f770c73696cb95f610",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaStorage\\Test\\Unit\\Model\\File\\Storage\\Directory\\DatabaseTest::testImportDirectoriesFailureNotArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaStorage\\Test\\Unit\\Model\\File\\Storage\\Directory\\DatabaseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testImportDirectoriesFailureNotArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

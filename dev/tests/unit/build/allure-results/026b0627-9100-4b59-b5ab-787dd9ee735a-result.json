@@ -1,0 +1,43 @@
+{
+    "uuid": "026b0627-9100-4b59-b5ab-787dd9ee735a",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Indexer\\Product\\Price\\Plugin\\ImportTest::testAfterImportSource",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011840,
+    "stop": 1711693011844,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ddd6cdddc1a81b1fedbd82a19ec96771",
+    "testCaseId": "d5d5c12a2c46fab639d4d394b4071361",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Indexer\\Product\\Price\\Plugin\\ImportTest::testAfterImportSource",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Indexer\\Product\\Price\\Plugin\\ImportTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterImportSource"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "1dc2d349-847e-4c11-a1d4-2add3fca5929",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\ArrayManagerTest::testRemove",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076616,
+    "stop": 1711693076616,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9314411d3cbbe7cf462ec5275df82709",
+    "testCaseId": "c054073753c1332c35db376ea87b4520",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\ArrayManagerTest::testRemove",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\ArrayManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRemove"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

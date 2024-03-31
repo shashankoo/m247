@@ -1,0 +1,43 @@
+{
+    "uuid": "f3f4a52e-b66f-4146-8285-19e2232335fe",
+    "name": "Magento\\Customer\\Test\\Unit\\Controller\\Adminhtml\\Index\\SaveTest::testExecuteWithNewCustomerAndException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019760,
+    "stop": 1711693019761,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "27cbc64bf358e364706143bfa6e3a767",
+    "testCaseId": "c5774a66ef4dfe1e561e737376f36517",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Controller\\Adminhtml\\Index\\SaveTest::testExecuteWithNewCustomerAndException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Controller\\Adminhtml\\Index\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithNewCustomerAndException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

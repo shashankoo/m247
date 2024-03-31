@@ -1,0 +1,50 @@
+{
+    "uuid": "f47edb30-4e32-4bc2-bf5d-4decdfdd1aa4",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\ConfigTest::testGetBmlSize",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032015,
+    "stop": 1711693032015,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dc0073d36c3e607586b97e1940e9a667",
+    "testCaseId": "942db6d0cbe688a52cf3ed741447c982",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\ConfigTest::testGetBmlSize",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBmlSize"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "14b86f8b-f770-4c01-ba9e-952d149c82f0",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\ValidatorTest::testAttributeValidation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011637,
+    "stop": 1711693011638,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "504f295b9e1da5b6f29a061e80c36c16",
+    "testCaseId": "dba4faa63aa7ae05e3d8e4bb6e79f50b",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\ValidatorTest::testAttributeValidation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\ValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAttributeValidation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

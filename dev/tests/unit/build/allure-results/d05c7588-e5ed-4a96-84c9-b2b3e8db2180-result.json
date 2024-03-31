@@ -1,0 +1,50 @@
+{
+    "uuid": "d05c7588-e5ed-4a96-84c9-b2b3e8db2180",
+    "name": "Magento\\Theme\\Test\\Unit\\ViewModel\\Block\\Html\\Header\\LogoSizeResolverTest::testGetWidth",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043832,
+    "stop": 1711693043833,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4dae8ccadeb3ed6c48047d9349e27599",
+    "testCaseId": "09ff56f73254abbe9e3dfed2df5987c2",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\ViewModel\\Block\\Html\\Header\\LogoSizeResolverTest::testGetWidth",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\ViewModel\\Block\\Html\\Header\\LogoSizeResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetWidth"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

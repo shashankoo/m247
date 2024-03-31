@@ -1,0 +1,50 @@
+{
+    "uuid": "7e7daa90-3d07-4f44-8b16-5863d858cac7",
+    "name": "Magento\\AdminAdobeIms\\Test\\Unit\\Command\\AdminAdobeImsEnableCommandTest::testAdminAdobeImsModuleEnableWillClearCacheWhenSuccessful",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008376,
+    "stop": 1711693008377,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "62a1b796db6ca27d2d0920a2e0dc2ab8",
+    "testCaseId": "d66a388f0cd6161dc6d02f438ec50e77",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminAdobeIms\\Test\\Unit\\Command\\AdminAdobeImsEnableCommandTest::testAdminAdobeImsModuleEnableWillClearCacheWhenSuccessful",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminAdobeIms\\Test\\Unit\\Command\\AdminAdobeImsEnableCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAdminAdobeImsModuleEnableWillClearCacheWhenSuccessful"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

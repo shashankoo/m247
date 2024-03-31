@@ -1,0 +1,43 @@
+{
+    "uuid": "6a5d45c0-bf60-42fc-b1a6-568d94122592",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testPriceReindexCallback",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015656,
+    "stop": 1711693015658,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getStockItem\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4f66189c2a18266d7b5982d17cf2e926",
+    "testCaseId": "98876833939aa56e405f1fbed5fb4abc",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testPriceReindexCallback",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPriceReindexCallback"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

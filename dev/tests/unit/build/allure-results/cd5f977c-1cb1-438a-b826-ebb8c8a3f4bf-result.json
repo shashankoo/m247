@@ -1,0 +1,50 @@
+{
+    "uuid": "cd5f977c-1cb1-438a-b826-ebb8c8a3f4bf",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Helper\\MinsaleqtyTest::testMakeStorableArrayFieldValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011905,
+    "stop": 1711693011905,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"valid numeric\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "120998135a04b30db9d88a94c1354e17",
+    "testCaseId": "07bf8333bd3659f7754d141f47e67275",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Helper\\MinsaleqtyTest::testMakeStorableArrayFieldValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Helper\\MinsaleqtyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMakeStorableArrayFieldValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

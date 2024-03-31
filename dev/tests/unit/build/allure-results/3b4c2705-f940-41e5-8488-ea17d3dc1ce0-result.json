@@ -1,0 +1,43 @@
+{
+    "uuid": "3b4c2705-f940-41e5-8488-ea17d3dc1ce0",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testCanReorderProductNotSalable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039878,
+    "stop": 1711693039879,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4304284832ecf4e0d15a3b974fcf1b14",
+    "testCaseId": "f78afa515673954c7fad861303e3670c",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testCanReorderProductNotSalable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanReorderProductNotSalable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

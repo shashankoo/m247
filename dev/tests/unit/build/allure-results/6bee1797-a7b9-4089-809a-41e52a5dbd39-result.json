@@ -1,0 +1,50 @@
+{
+    "uuid": "6bee1797-a7b9-4089-809a-41e52a5dbd39",
+    "name": "Magento\\UrlRewrite\\Test\\Unit\\Controller\\RouterTest::testMatchWithCustomExternalRedirect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052843,
+    "stop": 1711693052843,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b3335536407f05c80917b42d433f5c28",
+    "testCaseId": "b55ebc3775ab63fcf3d46c3ea4af2153",
+    "rerunOf": null,
+    "fullName": "Magento\\UrlRewrite\\Test\\Unit\\Controller\\RouterTest::testMatchWithCustomExternalRedirect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\UrlRewrite\\Test\\Unit\\Controller\\RouterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMatchWithCustomExternalRedirect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

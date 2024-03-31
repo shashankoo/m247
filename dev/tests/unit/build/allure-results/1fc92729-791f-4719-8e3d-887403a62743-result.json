@@ -1,0 +1,43 @@
+{
+    "uuid": "1fc92729-791f-4719-8e3d-887403a62743",
+    "name": "Magento\\Backend\\Test\\Unit\\Controller\\Adminhtml\\Cache\\MassDisableTest::testExecuteWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009769,
+    "stop": 1711693009770,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8ac86015eb4f628d9750fdc21b02df89",
+    "testCaseId": "8dbaf7cc7fc071e75e5188be9a51c315",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Controller\\Adminhtml\\Cache\\MassDisableTest::testExecuteWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Controller\\Adminhtml\\Cache\\MassDisableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

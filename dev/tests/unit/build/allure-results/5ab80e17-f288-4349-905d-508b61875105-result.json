@@ -1,0 +1,50 @@
+{
+    "uuid": "5ab80e17-f288-4349-905d-508b61875105",
+    "name": "Magento\\Weee\\Test\\Unit\\Observer\\UpdateProductOptionsObserverTest::testUpdateProductOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054070,
+    "stop": 1711693054071,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"weee enabled, and display prices excluding tax but without Weee\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ccdc1c24b3dc2ee20a7d15f1ffeb56fe",
+    "testCaseId": "863ede65f4bba2dcd78a76904da76301",
+    "rerunOf": null,
+    "fullName": "Magento\\Weee\\Test\\Unit\\Observer\\UpdateProductOptionsObserverTest::testUpdateProductOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Weee\\Test\\Unit\\Observer\\UpdateProductOptionsObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdateProductOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

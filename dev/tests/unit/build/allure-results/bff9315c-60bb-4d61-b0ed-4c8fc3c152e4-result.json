@@ -1,0 +1,50 @@
+{
+    "uuid": "bff9315c-60bb-4d61-b0ed-4c8fc3c152e4",
+    "name": "Magento\\InventorySales\\Test\\Unit\\Model\\ReturnProcessor\\GetInvoicedItemsPerSourceByPriorityTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030310,
+    "stop": 1711693030311,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5bad3dbb55693c7e5d48fb3890582b8d",
+    "testCaseId": "7c44f8f93764352d9414ec75898e856d",
+    "rerunOf": null,
+    "fullName": "Magento\\InventorySales\\Test\\Unit\\Model\\ReturnProcessor\\GetInvoicedItemsPerSourceByPriorityTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\InventorySales\\Test\\Unit\\Model\\ReturnProcessor\\GetInvoicedItemsPerSourceByPriorityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

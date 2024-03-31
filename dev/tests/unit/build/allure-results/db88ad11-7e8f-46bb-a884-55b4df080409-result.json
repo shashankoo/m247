@@ -1,0 +1,43 @@
+{
+    "uuid": "db88ad11-7e8f-46bb-a884-55b4df080409",
+    "name": "Magento\\Deploy\\Test\\Unit\\Service\\MinifyTemplatesTest::testMinifyTemplates",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021358,
+    "stop": 1711693021362,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d1f51c583e460cb3c80a10f614d99164",
+    "testCaseId": "df82215d504b32543092831453a6ef5c",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Service\\MinifyTemplatesTest::testMinifyTemplates",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Service\\MinifyTemplatesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMinifyTemplates"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

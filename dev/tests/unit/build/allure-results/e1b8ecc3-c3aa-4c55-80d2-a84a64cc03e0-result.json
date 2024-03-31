@@ -1,0 +1,50 @@
+{
+    "uuid": "e1b8ecc3-c3aa-4c55-80d2-a84a64cc03e0",
+    "name": "Magento\\Bundle\\Test\\Unit\\Model\\Sales\\Order\\Pdf\\Items\\AbstractItemsTest::testGetValueHtmlWithoutShipmentSeparately",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011012,
+    "stop": 1711693011012,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "16578f6517e5cd02be66938b5603b2ee",
+    "testCaseId": "1b1623017d566ae9ea8a1dfc1dbdabf6",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Model\\Sales\\Order\\Pdf\\Items\\AbstractItemsTest::testGetValueHtmlWithoutShipmentSeparately",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Model\\Sales\\Order\\Pdf\\Items\\AbstractItemsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValueHtmlWithoutShipmentSeparately"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

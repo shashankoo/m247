@@ -1,0 +1,43 @@
+{
+    "uuid": "395bf20e-15cf-4914-9558-4f52d4d548f5",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Condition\\ProductTest::testValidateCategoriesIgnoresVisibility",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036145,
+    "stop": 1711693036146,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "37006ad2767bf634e2d927a0ee722b8c",
+    "testCaseId": "d998903c262969df5fcd213b0486956b",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Condition\\ProductTest::testValidateCategoriesIgnoresVisibility",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Condition\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateCategoriesIgnoresVisibility"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

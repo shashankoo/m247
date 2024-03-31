@@ -1,0 +1,43 @@
+{
+    "uuid": "a28da482-82a0-45b8-ad7f-54a6def82d76",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\BasePackageInfoTest::testBaseComposerJsonFileNotFound",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055078,
+    "stop": 1711693055080,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cfe86914bfa2682c1697b225f61ad1e0",
+    "testCaseId": "15045e10ec8f8dcecd2e52ceeee111f7",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\BasePackageInfoTest::testBaseComposerJsonFileNotFound",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\BasePackageInfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBaseComposerJsonFileNotFound"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

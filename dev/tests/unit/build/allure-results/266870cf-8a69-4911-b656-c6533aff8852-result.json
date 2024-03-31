@@ -1,0 +1,43 @@
+{
+    "uuid": "266870cf-8a69-4911-b656-c6533aff8852",
+    "name": "Magento\\Setup\\Test\\Unit\\Console\\Command\\DbStatusCommandTest::testExecuteNotInstalled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054756,
+    "stop": 1711693054756,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ee1f0078db954c69847f4b4d0dc31753",
+    "testCaseId": "79b3fd34b62093ab344e6ab3be273156",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Console\\Command\\DbStatusCommandTest::testExecuteNotInstalled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Console\\Command\\DbStatusCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteNotInstalled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

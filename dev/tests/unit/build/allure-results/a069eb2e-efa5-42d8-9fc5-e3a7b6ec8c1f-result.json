@@ -1,0 +1,50 @@
+{
+    "uuid": "a069eb2e-efa5-42d8-9fc5-e3a7b6ec8c1f",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Download\\DownloadCustomOptionTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037162,
+    "stop": 1711693037162,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b64b9efe5478ae4989d5d829738080ca",
+    "testCaseId": "b9216790517f6be8b4c827d68f164bef",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Download\\DownloadCustomOptionTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Download\\DownloadCustomOptionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

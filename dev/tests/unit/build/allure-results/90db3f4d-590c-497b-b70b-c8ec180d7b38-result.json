@@ -1,0 +1,50 @@
+{
+    "uuid": "90db3f4d-590c-497b-b70b-c8ec180d7b38",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\ScopeTypeNormalizerTest::testNormalize",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041916,
+    "stop": 1711693041916,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#8",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6f4de5fb6e22a05fd3af596181592df1",
+    "testCaseId": "1e9411d14baa8c860a69ac8bf53d40e9",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\ScopeTypeNormalizerTest::testNormalize",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\ScopeTypeNormalizerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testNormalize"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

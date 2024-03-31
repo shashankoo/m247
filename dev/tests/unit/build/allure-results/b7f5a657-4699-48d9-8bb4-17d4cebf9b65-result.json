@@ -1,0 +1,50 @@
+{
+    "uuid": "b7f5a657-4699-48d9-8bb4-17d4cebf9b65",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\FieldProvider\\FieldType\\ConverterTest::testConvert",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023275,
+    "stop": 1711693023275,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2ec163a4f48d509d6cfbe8a9cf99ea66",
+    "testCaseId": "551533c88cb9a59f0b9ff7851a6fe2e8",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\FieldProvider\\FieldType\\ConverterTest::testConvert",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\FieldProvider\\FieldType\\ConverterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvert"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

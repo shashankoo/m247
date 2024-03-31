@@ -1,0 +1,43 @@
+{
+    "uuid": "b4bc869e-4b27-45b7-8898-5cba232e81f7",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\InvoiceTest::testInsertLogoDatabaseMediaStorage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038687,
+    "stop": 1711693038688,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "825324155ff8e397263c62300b16363b",
+    "testCaseId": "c85eef077fea76e423abbfe144f3ac3e",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\InvoiceTest::testInsertLogoDatabaseMediaStorage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\InvoiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInsertLogoDatabaseMediaStorage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

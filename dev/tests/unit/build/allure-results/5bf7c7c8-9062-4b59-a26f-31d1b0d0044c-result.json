@@ -1,0 +1,43 @@
+{
+    "uuid": "5bf7c7c8-9062-4b59-a26f-31d1b0d0044c",
+    "name": "Magento\\Checkout\\Test\\Unit\\Controller\\Sidebar\\RemoveItemTest::testExecuteWithDbException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016757,
+    "stop": 1711693016758,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2b2ccd1684a5f8371dcfc284a455fee2",
+    "testCaseId": "65f9814eac2b24967ee1c540f49f2092",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Controller\\Sidebar\\RemoveItemTest::testExecuteWithDbException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Controller\\Sidebar\\RemoveItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithDbException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

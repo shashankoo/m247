@@ -1,0 +1,50 @@
+{
+    "uuid": "0426d8f1-6aa6-48c8-985c-67bb5402eb17",
+    "name": "Magento\\Usps\\Test\\Unit\\Model\\Config\\Backend\\UspsUrlTest::testBeforeSaveErrors",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053072,
+    "stop": 1711693053073,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "43a65ef09955bb3d8a98579a4f0fd4f2",
+    "testCaseId": "610c758406ef984560ae04ab687f34df",
+    "rerunOf": null,
+    "fullName": "Magento\\Usps\\Test\\Unit\\Model\\Config\\Backend\\UspsUrlTest::testBeforeSaveErrors",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Usps\\Test\\Unit\\Model\\Config\\Backend\\UspsUrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSaveErrors"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

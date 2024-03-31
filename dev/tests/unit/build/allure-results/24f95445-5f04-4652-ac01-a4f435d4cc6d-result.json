@@ -1,0 +1,50 @@
+{
+    "uuid": "24f95445-5f04-4652-ac01-a4f435d4cc6d",
+    "name": "Magento\\Fedex\\Test\\Unit\\Model\\CarrierTest::testCollectRatesRateAmountOriginBased",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023906,
+    "stop": 1711693023907,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#13",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "41cf380d5dd0241742e96e47b53973ad",
+    "testCaseId": "8dfe5592b3a232236f8dfa7cb61d0a97",
+    "rerunOf": null,
+    "fullName": "Magento\\Fedex\\Test\\Unit\\Model\\CarrierTest::testCollectRatesRateAmountOriginBased",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Fedex\\Test\\Unit\\Model\\CarrierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectRatesRateAmountOriginBased"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

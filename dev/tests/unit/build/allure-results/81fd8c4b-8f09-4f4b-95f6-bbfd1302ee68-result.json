@@ -1,0 +1,50 @@
+{
+    "uuid": "81fd8c4b-8f09-4f4b-95f6-bbfd1302ee68",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\TextareaTest::testValidateValueLength",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020922,
+    "stop": 1711693020922,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"false\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "936c5f268bd3925c007aaaec95f79381",
+    "testCaseId": "529fd46ce4e214e4b7da7c6f91245dd7",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\TextareaTest::testValidateValueLength",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\TextareaTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateValueLength"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

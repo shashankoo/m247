@@ -1,0 +1,43 @@
+{
+    "uuid": "5024c933-c2d4-4c54-b521-1a8bfa92c692",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Controller\\Checkout\\Address\\EditAddressTest::testExecuteWhenCustomerAddressBlockNotExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030704,
+    "stop": 1711693030704,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c36e01d0932c883b9cff069dca00cd1a",
+    "testCaseId": "ef57d24fcbe7d775418e9568a196313c",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Controller\\Checkout\\Address\\EditAddressTest::testExecuteWhenCustomerAddressBlockNotExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Controller\\Checkout\\Address\\EditAddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenCustomerAddressBlockNotExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

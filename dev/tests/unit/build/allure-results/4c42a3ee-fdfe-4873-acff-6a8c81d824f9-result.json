@@ -1,0 +1,43 @@
+{
+    "uuid": "4c42a3ee-fdfe-4873-acff-6a8c81d824f9",
+    "name": "Magento\\Indexer\\Test\\Unit\\Model\\ProcessorTest::testReindexAllInvalid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693028684,
+    "stop": 1711693028787,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "75f87a9fda7e5c01798cdaeafdcef6d5",
+    "testCaseId": "95b50730bdd0512034d87aa82c6b1341",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Model\\ProcessorTest::testReindexAllInvalid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Model\\ProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReindexAllInvalid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

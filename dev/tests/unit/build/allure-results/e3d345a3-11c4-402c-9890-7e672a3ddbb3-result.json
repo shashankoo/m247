@@ -1,0 +1,50 @@
+{
+    "uuid": "e3d345a3-11c4-402c-9890-7e672a3ddbb3",
+    "name": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\BundleSelectionPriceTest::testFixedPriceWithMultipleQty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011149,
+    "stop": 1711693011150,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"useRegularPrice\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "59d5e7b56a405361aff304170f6a68f1",
+    "testCaseId": "60741b1166a049c33f918c2e3d44bc6d",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\BundleSelectionPriceTest::testFixedPriceWithMultipleQty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\BundleSelectionPriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFixedPriceWithMultipleQty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

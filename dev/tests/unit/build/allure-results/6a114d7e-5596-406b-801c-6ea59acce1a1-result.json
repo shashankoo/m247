@@ -1,0 +1,43 @@
+{
+    "uuid": "6a114d7e-5596-406b-801c-6ea59acce1a1",
+    "name": "Magento\\Paypal\\Test\\Unit\\Block\\Billing\\AgreementsTest::testGetItemValueCreatedAtNoData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031785,
+    "stop": 1711693031786,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "926ff65bd53bc2b420b8fd96fcca5dfe",
+    "testCaseId": "69e5e5a95617fa7bbeae4da10bd29b31",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Block\\Billing\\AgreementsTest::testGetItemValueCreatedAtNoData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Block\\Billing\\AgreementsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItemValueCreatedAtNoData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

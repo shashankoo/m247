@@ -1,0 +1,43 @@
+{
+    "uuid": "aab856da-95c8-421d-9699-af26dff7f99c",
+    "name": "Magento\\Search\\Test\\Unit\\Model\\QueryFactoryTest::testGetTooLongQuery",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041200,
+    "stop": 1711693041201,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5aeb4fe471e9c5a6a9ceefac3de5cdb8",
+    "testCaseId": "4654d6e34e7a9b94bdeeb2bf4d35f481",
+    "rerunOf": null,
+    "fullName": "Magento\\Search\\Test\\Unit\\Model\\QueryFactoryTest::testGetTooLongQuery",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Search\\Test\\Unit\\Model\\QueryFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTooLongQuery"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

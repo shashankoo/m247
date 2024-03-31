@@ -1,0 +1,43 @@
+{
+    "uuid": "619a7ffa-4ede-428e-b58c-04fabc73ea57",
+    "name": "Magento\\Webapi\\Test\\Unit\\Model\\Authorization\\GuestUserContextTest::testGetUserId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053531,
+    "stop": 1711693053532,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "fa642106994b5834657957eda3e4c0f1",
+    "testCaseId": "0f4feeedc1cec9d9626a3ed56650497e",
+    "rerunOf": null,
+    "fullName": "Magento\\Webapi\\Test\\Unit\\Model\\Authorization\\GuestUserContextTest::testGetUserId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Webapi\\Test\\Unit\\Model\\Authorization\\GuestUserContextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUserId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

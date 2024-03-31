@@ -1,0 +1,43 @@
+{
+    "uuid": "e2e92a0f-21cf-44da-9eb7-6ce656aca099",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest::testCheckInstallationFilePermissions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055341,
+    "stop": 1711693055341,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8dfe6b7a36ffdc4f1a2acd93824783eb",
+    "testCaseId": "e8efe85f9f56d02ef5b65b15738db4bf",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest::testCheckInstallationFilePermissions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckInstallationFilePermissions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

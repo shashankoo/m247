@@ -1,0 +1,50 @@
+{
+    "uuid": "3fe94f6b-4900-407c-9bf5-aaf8b38a9855",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\Dependency\\FieldTest::testIsValueSatisfy",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017998,
+    "stop": 1711693017998,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cdc8a129f7ca90c95e351177a6ec83a2",
+    "testCaseId": "9afdb922f39a749c739c44ffff2b4198",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\Dependency\\FieldTest::testIsValueSatisfy",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\Dependency\\FieldTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValueSatisfy"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

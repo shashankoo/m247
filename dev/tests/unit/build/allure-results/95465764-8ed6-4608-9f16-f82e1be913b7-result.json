@@ -1,0 +1,43 @@
+{
+    "uuid": "95465764-8ed6-4608-9f16-f82e1be913b7",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\ScopeDefinerTest::testGetScopeReturnsStoreScopeIfStoreIsSpecified",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017933,
+    "stop": 1711693017933,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9871fa91468695faf8915e27bcfdbccd",
+    "testCaseId": "8494e7ab18cf60a0512034a8f62ffc3c",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\ScopeDefinerTest::testGetScopeReturnsStoreScopeIfStoreIsSpecified",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\ScopeDefinerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetScopeReturnsStoreScopeIfStoreIsSpecified"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

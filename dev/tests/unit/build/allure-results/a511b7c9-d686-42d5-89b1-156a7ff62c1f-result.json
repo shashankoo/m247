@@ -1,0 +1,50 @@
+{
+    "uuid": "a511b7c9-d686-42d5-89b1-156a7ff62c1f",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testDenyPaymentNegative",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038463,
+    "stop": 1711693038464,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Fraud = 0\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b5bf25c54ca62e7d400d7701311b1b59",
+    "testCaseId": "ef24fdb16e01c2c054fbb6d39a99ca2a",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testDenyPaymentNegative",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDenyPaymentNegative"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "9e3ed4fc-46fd-4624-8171-c38fac6f4921",
+    "name": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\Redis\\ConfigTest::testGetMinLifetime",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076076,
+    "stop": 1711693076076,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "283097800cbf5ebdb9d06c10666c2596",
+    "testCaseId": "cd0c73b0ef93bb175658021d7d804883",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\Redis\\ConfigTest::testGetMinLifetime",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\Redis\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMinLifetime"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

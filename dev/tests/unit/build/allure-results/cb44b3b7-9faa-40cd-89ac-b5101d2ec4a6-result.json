@@ -1,0 +1,43 @@
+{
+    "uuid": "cb44b3b7-9faa-40cd-89ac-b5101d2ec4a6",
+    "name": "Magento\\Vault\\Test\\Unit\\Model\\PaymentTokenManagementTest::testGetByPaymentIdNull",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053317,
+    "stop": 1711693053317,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "66f1edd778159fa47a64a18b29095731",
+    "testCaseId": "c7bcf4d52f4b9237ee7f7088b3925362",
+    "rerunOf": null,
+    "fullName": "Magento\\Vault\\Test\\Unit\\Model\\PaymentTokenManagementTest::testGetByPaymentIdNull",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Vault\\Test\\Unit\\Model\\PaymentTokenManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetByPaymentIdNull"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

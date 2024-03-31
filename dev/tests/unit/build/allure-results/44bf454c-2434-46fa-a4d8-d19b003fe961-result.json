@@ -1,0 +1,43 @@
+{
+    "uuid": "44bf454c-2434-46fa-a4d8-d19b003fe961",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\LogTest::testGetLastLoginAt",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020585,
+    "stop": 1711693020585,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "56bb1a4a7fade104f7f0bdee88a34311",
+    "testCaseId": "bd79ba72ad59e9683eafb963ed37796f",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\LogTest::testGetLastLoginAt",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\LogTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLastLoginAt"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

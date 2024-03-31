@@ -1,0 +1,43 @@
+{
+    "uuid": "ffd473ff-b52b-4816-abdf-eb7e4d8819e8",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\PreventClearCheckoutSessionObserverTest::testExecuteWhenSessionIsPersist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032569,
+    "stop": 1711693032570,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f026af31a66e0422794af21ed0a66b99",
+    "testCaseId": "0c91c473d52eea1984f53c1664a94749",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\PreventClearCheckoutSessionObserverTest::testExecuteWhenSessionIsPersist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\PreventClearCheckoutSessionObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenSessionIsPersist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

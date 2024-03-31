@@ -1,0 +1,50 @@
+{
+    "uuid": "113682d0-24e2-4f4a-8427-e40594618ea1",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\RefreshCustomerDataTest::testBeforeStart",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032571,
+    "stop": 1711693032572,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "67f4304ad3ecad21ab6102d17b874a2f",
+    "testCaseId": "7f918aa4509069938a39e923e4a07bdf",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\RefreshCustomerDataTest::testBeforeStart",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\RefreshCustomerDataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeStart"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

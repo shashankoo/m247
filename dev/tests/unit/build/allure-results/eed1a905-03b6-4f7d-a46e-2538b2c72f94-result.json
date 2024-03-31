@@ -1,0 +1,50 @@
+{
+    "uuid": "eed1a905-03b6-4f7d-a46e-2538b2c72f94",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Element\\Message\\MessageConfigurationsPoolTest::testConstructWrongDataException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077671,
+    "stop": 1711693077672,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1cde641ebde025dc7d522a378ff856c0",
+    "testCaseId": "dd55405696c80a78649ece558c88a8e5",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Element\\Message\\MessageConfigurationsPoolTest::testConstructWrongDataException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Element\\Message\\MessageConfigurationsPoolTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructWrongDataException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

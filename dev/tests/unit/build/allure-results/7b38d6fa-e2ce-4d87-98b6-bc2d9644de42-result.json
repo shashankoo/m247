@@ -1,0 +1,43 @@
+{
+    "uuid": "7b38d6fa-e2ce-4d87-98b6-bc2d9644de42",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\GroupRepositoryTest::testSaveThrowExceptionIfProvidedGroupDoesNotExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022482,
+    "stop": 1711693022482,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3e9a6f8174adbd808ae8d9dcf04a4071",
+    "testCaseId": "64784b69f48384a612779c4852ae252b",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\GroupRepositoryTest::testSaveThrowExceptionIfProvidedGroupDoesNotExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\GroupRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveThrowExceptionIfProvidedGroupDoesNotExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

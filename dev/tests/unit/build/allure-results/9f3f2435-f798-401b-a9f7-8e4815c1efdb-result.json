@@ -1,0 +1,50 @@
+{
+    "uuid": "9f3f2435-f798-401b-a9f7-8e4815c1efdb",
+    "name": "Magento\\GiftMessage\\Test\\Unit\\Observer\\SalesEventQuoteMergeTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024059,
+    "stop": 1711693024060,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e2e2767852ad904c6eead6e75410bc6b",
+    "testCaseId": "8316a6a9afcb60a4d17ff5a5fc3bd88d",
+    "rerunOf": null,
+    "fullName": "Magento\\GiftMessage\\Test\\Unit\\Observer\\SalesEventQuoteMergeTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GiftMessage\\Test\\Unit\\Observer\\SalesEventQuoteMergeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

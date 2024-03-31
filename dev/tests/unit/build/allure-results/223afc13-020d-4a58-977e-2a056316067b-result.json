@@ -1,0 +1,50 @@
+{
+    "uuid": "223afc13-020d-4a58-977e-2a056316067b",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\Entity\\AbstractTest::testIsAttributeValid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024681,
+    "stop": 1711693024681,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#9",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f01681023b9ad75d102f7c09e116f2af",
+    "testCaseId": "b267c73722b9f08b564f32332bd86e35",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\Entity\\AbstractTest::testIsAttributeValid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\Entity\\AbstractTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAttributeValid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

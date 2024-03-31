@@ -1,0 +1,43 @@
+{
+    "uuid": "0925a2b1-9a1b-4e4e-b29e-2dbf38da5c63",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\SetQuotePersistentDataObserverTest::testExecuteWhenQuoteNotExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032588,
+    "stop": 1711693032588,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c1065120db9e99acdda396a4502bfa5a",
+    "testCaseId": "b01a30eea2bc6279b7eda8a1b5ff87bb",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\SetQuotePersistentDataObserverTest::testExecuteWhenQuoteNotExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\SetQuotePersistentDataObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenQuoteNotExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

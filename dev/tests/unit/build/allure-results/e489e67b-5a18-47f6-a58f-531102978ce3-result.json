@@ -1,0 +1,50 @@
+{
+    "uuid": "e489e67b-5a18-47f6-a58f-531102978ce3",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\ScopeResolverTest::testIsBelongsToScope",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041909,
+    "stop": 1711693041909,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Store belongs to website\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7cf14fed3b78a6b09615e93bda3420ec",
+    "testCaseId": "4929fa90726121b5b5e588c3ff2e6831",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\ScopeResolverTest::testIsBelongsToScope",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\ScopeResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsBelongsToScope"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

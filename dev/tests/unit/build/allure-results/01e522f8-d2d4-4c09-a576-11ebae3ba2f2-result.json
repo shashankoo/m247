@@ -1,0 +1,50 @@
+{
+    "uuid": "01e522f8-d2d4-4c09-a576-11ebae3ba2f2",
+    "name": "Magento\\Framework\\Phrase\\Test\\Unit\\Renderer\\PlaceholderTest::testRenderPlaceholder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075148,
+    "stop": 1711693075149,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dd0943f9c33d15d56921bd3bf80346d6",
+    "testCaseId": "06ae6f4c8039d848332d030a04dd3887",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Phrase\\Test\\Unit\\Renderer\\PlaceholderTest::testRenderPlaceholder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Phrase\\Test\\Unit\\Renderer\\PlaceholderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRenderPlaceholder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

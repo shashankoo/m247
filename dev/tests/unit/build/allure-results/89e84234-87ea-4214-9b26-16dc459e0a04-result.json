@@ -1,0 +1,50 @@
+{
+    "uuid": "89e84234-87ea-4214-9b26-16dc459e0a04",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\PageCache\\KernelTest::testLoadWithoutCachedData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058547,
+    "stop": 1711693058548,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dcae7f64705444882718a779fc4d57e0",
+    "testCaseId": "6a298942670eaa7b4e1d7322875de6a1",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\PageCache\\KernelTest::testLoadWithoutCachedData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\PageCache\\KernelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLoadWithoutCachedData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "fb70b606-eab5-40e5-a916-77fb9a8907a0",
+    "name": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\LockConfigProcessorTest::testCustomException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017771,
+    "stop": 1711693017772,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "94c3573b6ff0a5a69f4c986fa6269754",
+    "testCaseId": "e9eb24c1fa09f474c612d384b3f57bdc",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\LockConfigProcessorTest::testCustomException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\LockConfigProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCustomException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

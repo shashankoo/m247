@@ -1,0 +1,50 @@
+{
+    "uuid": "19728de3-855a-4981-9f01-39ce0e72ac49",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\AdminOrder\\CreateTest::testSetShippingAsBilling",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037414,
+    "stop": 1711693037416,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"testcase when sameAsBillingFlag is false\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7b36d8a05da369ac3dcf3280f60fcaaa",
+    "testCaseId": "272e5685db655782f7f9bf04a70497f9",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\AdminOrder\\CreateTest::testSetShippingAsBilling",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\AdminOrder\\CreateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetShippingAsBilling"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

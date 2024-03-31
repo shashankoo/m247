@@ -1,0 +1,43 @@
+{
+    "uuid": "32b4beb1-21ce-46d9-8396-8aa18f798b98",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\ItemTest::testGetLowStockDate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012104,
+    "stop": 1711693012104,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8bed17826586d889e98ee13f28dfca41",
+    "testCaseId": "8cec0d692b0b33e32f07da322cf37dbd",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\ItemTest::testGetLowStockDate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLowStockDate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

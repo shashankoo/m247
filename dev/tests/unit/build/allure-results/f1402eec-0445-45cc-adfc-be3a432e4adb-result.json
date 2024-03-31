@@ -1,0 +1,43 @@
+{
+    "uuid": "f1402eec-0445-45cc-adfc-be3a432e4adb",
+    "name": "Magento\\Checkout\\Test\\Unit\\Model\\ShippingInformationManagementTest::testSaveAddressInformationIfCarrierCodeIsInvalid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016929,
+    "stop": 1711693016929,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getShippingAssignments\" with addMethods(), but it exists in class \"Magento\\Quote\\Api\\Data\\CartExtension\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8c8e10842a5f9a73737a2218129e0588",
+    "testCaseId": "764d75f14aee640f1df334d31ca8d8e8",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Model\\ShippingInformationManagementTest::testSaveAddressInformationIfCarrierCodeIsInvalid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Model\\ShippingInformationManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveAddressInformationIfCarrierCodeIsInvalid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

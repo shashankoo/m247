@@ -1,0 +1,50 @@
+{
+    "uuid": "1ac8d1bc-c481-41d9-869d-48bc51e96371",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\Rules\\ReaderTest::testReadExistingCountryConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031981,
+    "stop": 1711693031981,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "eeb02363d0e783add8874e241e7bbb8a",
+    "testCaseId": "bff60256051e24aef55a9b75c0d4eb53",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\Rules\\ReaderTest::testReadExistingCountryConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\Rules\\ReaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReadExistingCountryConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

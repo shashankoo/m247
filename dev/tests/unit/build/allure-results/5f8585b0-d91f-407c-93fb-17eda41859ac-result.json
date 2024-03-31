@@ -1,0 +1,43 @@
+{
+    "uuid": "5f8585b0-d91f-407c-93fb-17eda41859ac",
+    "name": "Magento\\Bundle\\Test\\Unit\\Block\\Adminhtml\\Sales\\Order\\Items\\RendererTest::testGetSelectionAttributesWithBundle",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010455,
+    "stop": 1711693010456,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "68890eb0237fe973848d6414caf47dfc",
+    "testCaseId": "e463545bc138c59b03b5be0fce2fbf0c",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Block\\Adminhtml\\Sales\\Order\\Items\\RendererTest::testGetSelectionAttributesWithBundle",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Block\\Adminhtml\\Sales\\Order\\Items\\RendererTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSelectionAttributesWithBundle"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

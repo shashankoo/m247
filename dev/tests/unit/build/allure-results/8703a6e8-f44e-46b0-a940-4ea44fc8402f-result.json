@@ -1,0 +1,43 @@
+{
+    "uuid": "8703a6e8-f44e-46b0-a940-4ea44fc8402f",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\Decorator\\CompressionTest::testIsCompressionNeeded",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059197,
+    "stop": 1711693059198,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e69b62aa0ebb909f488cb346a14695d5",
+    "testCaseId": "dbe73427b2dacbb9940acf9b03d316e2",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\Decorator\\CompressionTest::testIsCompressionNeeded",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\Decorator\\CompressionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsCompressionNeeded"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

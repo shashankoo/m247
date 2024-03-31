@@ -1,0 +1,50 @@
+{
+    "uuid": "b050a8e3-cf47-43c3-b6e3-6fc80e55612d",
+    "name": "Magento\\Framework\\Test\\Unit\\DB\\Adapter\\SqlVersionProviderTest::testGetSqlVersionProviderReturnsRightResponse",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056504,
+    "stop": 1711693056505,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"MySQL-5.7\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5c4478f5aab13c647e703cceb6ac232f",
+    "testCaseId": "e1d389c0a94a4e041d8fe22f1c85cf1f",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\DB\\Adapter\\SqlVersionProviderTest::testGetSqlVersionProviderReturnsRightResponse",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\DB\\Adapter\\SqlVersionProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSqlVersionProviderReturnsRightResponse"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

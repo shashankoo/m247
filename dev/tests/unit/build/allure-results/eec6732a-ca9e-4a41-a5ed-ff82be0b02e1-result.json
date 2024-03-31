@@ -1,0 +1,50 @@
+{
+    "uuid": "eec6732a-ca9e-4a41-a5ed-ff82be0b02e1",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Totals\\TaxTest::testGetFullTaxInfo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036600,
+    "stop": 1711693036601,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"source is an instance of \\Magento\\Sales\\Model\\Order and has reasonable data\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "af42df46cbdf212137e2fa107951fc18",
+    "testCaseId": "da7128482e57580a87368db5e9926dd3",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Totals\\TaxTest::testGetFullTaxInfo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Totals\\TaxTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFullTaxInfo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "70d39d1c-3e46-4ae5-b5be-f18fc12899dd",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\StatementAggregatorTest::testAddReferenceStatements",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076290,
+    "stop": 1711693076300,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b8a39464a38bbc464c22e0dedb8082b2",
+    "testCaseId": "f4330591f611a3ac01fed759b85e5809",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\StatementAggregatorTest::testAddReferenceStatements",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\StatementAggregatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddReferenceStatements"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

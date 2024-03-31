@@ -1,0 +1,43 @@
+{
+    "uuid": "0e41b920-5758-45ef-acbf-6e34bf468709",
+    "name": "Magento\\Paypal\\Test\\Unit\\Controller\\Payflow\\ReturnUrlTest::testCheckRejectByPaymentMethod",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031861,
+    "stop": 1711693031862,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a4d87697b37687575df0cc742863a8a6",
+    "testCaseId": "0871397bc660cc72d2a05e8f3f5c0158",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Controller\\Payflow\\ReturnUrlTest::testCheckRejectByPaymentMethod",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Controller\\Payflow\\ReturnUrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckRejectByPaymentMethod"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

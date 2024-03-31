@@ -1,0 +1,43 @@
+{
+    "uuid": "65ac949b-eaf0-4844-92cc-c4a5567914ab",
+    "name": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\PaymentDataObjectTest::testGetPayment",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031438,
+    "stop": 1711693031438,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6897e9369c38d6687683dffd9f1de437",
+    "testCaseId": "d7149d7c053ae2d0595d49b406b3ca65",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\PaymentDataObjectTest::testGetPayment",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\PaymentDataObjectTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPayment"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

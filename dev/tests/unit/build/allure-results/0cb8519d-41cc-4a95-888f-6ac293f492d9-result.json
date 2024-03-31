@@ -1,0 +1,50 @@
+{
+    "uuid": "0cb8519d-41cc-4a95-888f-6ac293f492d9",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\ConfigTest::testGetEntityTypes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024672,
+    "stop": 1711693024672,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"not existing entity\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "66317b51205e4d14b167a503f65d4ef1",
+    "testCaseId": "8d7b05d8fd8c314b91637c04b42dad92",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\ConfigTest::testGetEntityTypes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetEntityTypes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

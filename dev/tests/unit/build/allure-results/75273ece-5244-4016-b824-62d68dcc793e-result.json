@@ -1,0 +1,50 @@
+{
+    "uuid": "75273ece-5244-4016-b824-62d68dcc793e",
+    "name": "Magento\\Framework\\Encryption\\Test\\Unit\\CryptTest::testConstructor",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071644,
+    "stop": 1711693071645,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"blowfish-ecb\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8c1c5906a8672a268396aefe137a20ee",
+    "testCaseId": "b3431abacbdf20fea46d06ff049e215e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Encryption\\Test\\Unit\\CryptTest::testConstructor",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Encryption\\Test\\Unit\\CryptTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructor"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

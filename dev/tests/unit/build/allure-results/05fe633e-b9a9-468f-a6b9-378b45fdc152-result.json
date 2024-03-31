@@ -1,0 +1,50 @@
+{
+    "uuid": "05fe633e-b9a9-468f-a6b9-378b45fdc152",
+    "name": "Magento\\Email\\Test\\Unit\\Model\\Template\\Config\\XsdTest::testMergedXml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023689,
+    "stop": 1711693023689,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"node \"template\" with invalid attribute \"type\"\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5ca17930c75a9693a99efac566d80089",
+    "testCaseId": "f0aaa5df39f697a6dc7c3e47f38f566b",
+    "rerunOf": null,
+    "fullName": "Magento\\Email\\Test\\Unit\\Model\\Template\\Config\\XsdTest::testMergedXml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Email\\Test\\Unit\\Model\\Template\\Config\\XsdTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMergedXml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "924eebe1-e775-4885-8bc7-7688c23513b3",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest::testSaveThrowsTemporaryStateExceptionIfDatabaseConnectionErrorOccurred",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015569,
+    "stop": 1711693015573,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "84c4b818caf3fad3c53ab0ba8b58329a",
+    "testCaseId": "871311bf1bb03e764d3af4ef838c07a9",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest::testSaveThrowsTemporaryStateExceptionIfDatabaseConnectionErrorOccurred",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveThrowsTemporaryStateExceptionIfDatabaseConnectionErrorOccurred"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

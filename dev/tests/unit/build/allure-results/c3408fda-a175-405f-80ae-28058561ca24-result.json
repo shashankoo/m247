@@ -1,0 +1,50 @@
+{
+    "uuid": "c3408fda-a175-405f-80ae-28058561ca24",
+    "name": "Magento\\InventoryReservations\\Test\\Unit\\Model\\SnakeToCamelCaseConverterTest::testArrayElementConversion",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030277,
+    "stop": 1711693030277,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"underscore_to_camelcase\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e2d3bff272361a7c58e4d3cc67a5880b",
+    "testCaseId": "734ea4421d856a12213eb48e26e90337",
+    "rerunOf": null,
+    "fullName": "Magento\\InventoryReservations\\Test\\Unit\\Model\\SnakeToCamelCaseConverterTest::testArrayElementConversion",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\InventoryReservations\\Test\\Unit\\Model\\SnakeToCamelCaseConverterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testArrayElementConversion"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

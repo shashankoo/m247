@@ -1,0 +1,50 @@
+{
+    "uuid": "438f07e1-67ae-4699-bd0c-75d661e70043",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductOptions\\Config\\XsdTest::testSchemaCorrectlyIdentifiesInvalidProductOptionsMergedXml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015481,
+    "stop": 1711693015482,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"options_node_is_required\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "411c74abb3a34f2cd7fcdf32cb5f351d",
+    "testCaseId": "37753e26bc17ca75e0e336a23dd890c8",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductOptions\\Config\\XsdTest::testSchemaCorrectlyIdentifiesInvalidProductOptionsMergedXml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductOptions\\Config\\XsdTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSchemaCorrectlyIdentifiesInvalidProductOptionsMergedXml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

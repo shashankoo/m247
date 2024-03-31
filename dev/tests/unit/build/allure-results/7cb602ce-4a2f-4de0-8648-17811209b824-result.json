@@ -1,0 +1,50 @@
+{
+    "uuid": "7cb602ce-4a2f-4de0-8648-17811209b824",
+    "name": "Magento\\Analytics\\Test\\Unit\\Model\\Config\\MapperTest::testExecution",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009049,
+    "stop": 1711693009050,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"wrongConfig\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ff434482d6469f3cb8cb7be0c673e57c",
+    "testCaseId": "06f1e44e34efe2f74b1d1ffcb5805548",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Model\\Config\\MapperTest::testExecution",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Model\\Config\\MapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecution"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

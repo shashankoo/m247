@@ -1,0 +1,43 @@
+{
+    "uuid": "b4fc2f09-0487-4dbc-beee-6fa5bf391f40",
+    "name": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\Field\\Enable\\AbstractEnableTest::testGetUiId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031733,
+    "stop": 1711693031736,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a818e4ec3f5732b1d14dc9fc019e78f1",
+    "testCaseId": "88abd38de5c8dda350f8393aaaad5b12",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\Field\\Enable\\AbstractEnableTest::testGetUiId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\Field\\Enable\\AbstractEnableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUiId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

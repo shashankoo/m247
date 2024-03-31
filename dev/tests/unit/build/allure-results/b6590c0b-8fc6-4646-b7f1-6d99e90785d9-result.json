@@ -1,0 +1,43 @@
+{
+    "uuid": "b6590c0b-8fc6-4646-b7f1-6d99e90785d9",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Authorization\\RoleLocatorTest::testGetAclRoleIdReturnsCurrentUserAclRoleId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009842,
+    "stop": 1711693009843,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "227c807551c71086bf7fb5143312c6bc",
+    "testCaseId": "40304704386b16d542e27b617cad4584",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Authorization\\RoleLocatorTest::testGetAclRoleIdReturnsCurrentUserAclRoleId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Authorization\\RoleLocatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAclRoleIdReturnsCurrentUserAclRoleId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

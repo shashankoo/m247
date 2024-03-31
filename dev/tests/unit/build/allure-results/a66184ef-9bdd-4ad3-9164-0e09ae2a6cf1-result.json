@@ -1,0 +1,43 @@
+{
+    "uuid": "a66184ef-9bdd-4ad3-9164-0e09ae2a6cf1",
+    "name": "Magento\\GiftMessage\\Test\\Unit\\Model\\Plugin\\OrderGetTest::testAfterGetGiftMessageOnItemLevel",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024027,
+    "stop": 1711693024027,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getGiftMessage\" with addMethods(), but it exists in class \"Magento\\Sales\\Api\\Data\\OrderExtension\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0ebc4b4a40d18c5708b0d05a2fab9292",
+    "testCaseId": "e955f204e0ca734dd8a8c4608d33fc6a",
+    "rerunOf": null,
+    "fullName": "Magento\\GiftMessage\\Test\\Unit\\Model\\Plugin\\OrderGetTest::testAfterGetGiftMessageOnItemLevel",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GiftMessage\\Test\\Unit\\Model\\Plugin\\OrderGetTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetGiftMessageOnItemLevel"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

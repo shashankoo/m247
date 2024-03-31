@@ -1,0 +1,50 @@
+{
+    "uuid": "1f04f172-c4b5-4af9-9e70-9e2208fb7d3d",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Image\\ParamsBuilderTest::testBuild",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015066,
+    "stop": 1711693015067,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"watermark config empty\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a018eefb881bce2d1c9f8814766bb1ab",
+    "testCaseId": "4c628db15f13e2b3dc21abfc48cbd049",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Image\\ParamsBuilderTest::testBuild",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Image\\ParamsBuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuild"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "75fafbdc-d0a4-4a16-b47e-fc5faf114c3e",
+    "name": "Magento\\Fedex\\Test\\Unit\\Plugin\\Block\\DataProviders\\Tracking\\ChangeTitleTest::testAfterGetTitle",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023961,
+    "stop": 1711693023961,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a5b3e8a54f68ba060bc0de6ff6d12719",
+    "testCaseId": "6a83ce62cb266b19244d6f9ec0c219e3",
+    "rerunOf": null,
+    "fullName": "Magento\\Fedex\\Test\\Unit\\Plugin\\Block\\DataProviders\\Tracking\\ChangeTitleTest::testAfterGetTitle",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Fedex\\Test\\Unit\\Plugin\\Block\\DataProviders\\Tracking\\ChangeTitleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetTitle"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

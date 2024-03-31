@@ -1,0 +1,43 @@
+{
+    "uuid": "12c9baf9-cc01-4ab8-b5ce-9e8b342b94fc",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Observer\\InvalidatePriceIndexUponConfigChangeObserverTest::testInvalidatingPriceOnChangingAnyOtherConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012188,
+    "stop": 1711693012188,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "51fa5f40a99b524dcd99449b7766d7ef",
+    "testCaseId": "41011e7b6ffdfbfc9a28cf9caaa640cc",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Observer\\InvalidatePriceIndexUponConfigChangeObserverTest::testInvalidatingPriceOnChangingAnyOtherConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Observer\\InvalidatePriceIndexUponConfigChangeObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInvalidatingPriceOnChangingAnyOtherConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

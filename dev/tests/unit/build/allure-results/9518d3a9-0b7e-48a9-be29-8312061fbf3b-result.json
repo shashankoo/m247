@@ -1,0 +1,50 @@
+{
+    "uuid": "9518d3a9-0b7e-48a9-be29-8312061fbf3b",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\ProTest::testCanReviewPayment",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032412,
+    "stop": 1711693032414,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "77cdbfbbf27a234e4561640801dd6cf1",
+    "testCaseId": "8d16c5f9985280d88c8617b4d7bb2df4",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\ProTest::testCanReviewPayment",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\ProTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanReviewPayment"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

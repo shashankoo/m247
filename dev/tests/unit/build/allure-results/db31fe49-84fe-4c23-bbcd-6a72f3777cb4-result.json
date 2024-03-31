@@ -1,0 +1,50 @@
+{
+    "uuid": "db31fe49-84fe-4c23-bbcd-6a72f3777cb4",
+    "name": "Magento\\Framework\\Test\\Unit\\TranslateTest::testGetData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057245,
+    "stop": 1711693057246,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "97e1001f9331329a44b0f17d7fd02ab1",
+    "testCaseId": "f1fb9fec72046abcf4a42f419b8697c6",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\TranslateTest::testGetData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\TranslateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "3ef12880-093a-4a23-b1ba-90bcdf9c6132",
+    "name": "Magento\\Framework\\Webapi\\Test\\Unit\\ServiceInputProcessorTest::testNonExistentPropertiesWithoutDefaultArgumentValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078645,
+    "stop": 1711693078645,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1573a3873852ea4c122afff7da9a9148",
+    "testCaseId": "08b83c264f0269a16c63466ae50e3d38",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Webapi\\Test\\Unit\\ServiceInputProcessorTest::testNonExistentPropertiesWithoutDefaultArgumentValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Webapi\\Test\\Unit\\ServiceInputProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testNonExistentPropertiesWithoutDefaultArgumentValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

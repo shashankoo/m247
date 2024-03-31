@@ -1,0 +1,50 @@
+{
+    "uuid": "2108df75-87e1-460e-859c-57dcf3fa7c57",
+    "name": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\Response\\Renderer\\XmlTest::testRender",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078600,
+    "stop": 1711693078600,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "736f440c283646571c0c1b770b31ab69",
+    "testCaseId": "3e1251f9f8d8bd0af1fe7e9001175592",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\Response\\Renderer\\XmlTest::testRender",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\Response\\Renderer\\XmlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRender"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

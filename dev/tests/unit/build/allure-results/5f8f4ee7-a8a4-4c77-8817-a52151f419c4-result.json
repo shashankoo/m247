@@ -1,0 +1,50 @@
+{
+    "uuid": "5f8f4ee7-a8a4-4c77-8817-a52151f419c4",
+    "name": "Magento\\OfflineShipping\\Test\\Unit\\Model\\Carrier\\FlatrateTest::testCollectRatesWithGlobalFreeShipping",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031099,
+    "stop": 1711693031100,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Test needs refactoring.",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "00bf8d7e33e1661994436938d222cf59",
+    "testCaseId": "674fc12884b31395378675a6935e0e24",
+    "rerunOf": null,
+    "fullName": "Magento\\OfflineShipping\\Test\\Unit\\Model\\Carrier\\FlatrateTest::testCollectRatesWithGlobalFreeShipping",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\OfflineShipping\\Test\\Unit\\Model\\Carrier\\FlatrateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectRatesWithGlobalFreeShipping"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

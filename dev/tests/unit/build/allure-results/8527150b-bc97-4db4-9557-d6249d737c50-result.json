@@ -1,0 +1,43 @@
+{
+    "uuid": "8527150b-bc97-4db4-9557-d6249d737c50",
+    "name": "Magento\\MysqlMq\\Test\\Unit\\Model\\QueueManagementTest::testAddMessageToQueues",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030819,
+    "stop": 1711693030822,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b6854f167e25dfa5c46663849db0ef9b",
+    "testCaseId": "e09f679645f896e5b8bfaaad40b2e49f",
+    "rerunOf": null,
+    "fullName": "Magento\\MysqlMq\\Test\\Unit\\Model\\QueueManagementTest::testAddMessageToQueues",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MysqlMq\\Test\\Unit\\Model\\QueueManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddMessageToQueues"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

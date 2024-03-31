@@ -1,0 +1,50 @@
+{
+    "uuid": "c023686d-85a9-4f9e-997e-2e9d507825ab",
+    "name": "Magento\\Framework\\Validator\\Test\\Unit\\BuilderTest::testConstructorConfigValidation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076935,
+    "stop": 1711693076936,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"constructor invalid arguments\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ddf23c90c0602b09eb03c886060bda4a",
+    "testCaseId": "a8fa1849c1ea333d346567588c983ac9",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Validator\\Test\\Unit\\BuilderTest::testConstructorConfigValidation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Validator\\Test\\Unit\\BuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructorConfigValidation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

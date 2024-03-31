@@ -1,0 +1,43 @@
+{
+    "uuid": "a349a2ba-5763-4b03-b325-4b7c1126f508",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Validation\\CanInvoiceTest::testCanInvoiceNoItems",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039514,
+    "stop": 1711693039514,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ae1beb3c54044ff992b7e558b3c69a6e",
+    "testCaseId": "aa7cd35ac0f80f0bac271a6a1c6e8ad6",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Validation\\CanInvoiceTest::testCanInvoiceNoItems",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Validation\\CanInvoiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanInvoiceNoItems"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "1953dbbf-23d2-49a0-9fe3-c6dd70b27d9f",
+    "name": "Magento\\Analytics\\Test\\Unit\\Cron\\UpdateTest::testExecuteWithoutToken",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009021,
+    "stop": 1711693009022,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7bcac273d5d2675fccaec6dec2f32dca",
+    "testCaseId": "6234515e8a994808c4a46798838b9254",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Cron\\UpdateTest::testExecuteWithoutToken",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Cron\\UpdateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithoutToken"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

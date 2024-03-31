@@ -1,0 +1,43 @@
+{
+    "uuid": "db109b2d-d446-4110-ab00-b02ab77662bb",
+    "name": "Magento\\Framework\\Acl\\Test\\Unit\\BuilderTest::testGetAclRethrowsException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057557,
+    "stop": 1711693057557,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0fddbb99684adfd825d59edffd4d7e16",
+    "testCaseId": "87dc3b80c3683bedc04aa35c3094d58f",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Acl\\Test\\Unit\\BuilderTest::testGetAclRethrowsException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Acl\\Test\\Unit\\BuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAclRethrowsException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

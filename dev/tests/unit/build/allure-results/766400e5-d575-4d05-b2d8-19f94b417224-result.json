@@ -1,0 +1,50 @@
+{
+    "uuid": "766400e5-d575-4d05-b2d8-19f94b417224",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\FileInfoTest::testIsExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014195,
+    "stop": 1711693014195,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0df07acf19527ae3451da8dcad5ee92b",
+    "testCaseId": "97a5424c5cd0c669357c459e7dc32985",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\FileInfoTest::testIsExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\FileInfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "fba15599-568c-4fd9-a44c-9a4df6d5e6ea",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Layout\\Argument\\Interpreter\\Decorator\\UpdaterTest::testEvaluateWrongUpdaterValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077821,
+    "stop": 1711693077822,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f2be978ecf44a09cf6f17d71bd7cf19f",
+    "testCaseId": "0d0847abc3eb3535b3041b018d027142",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Layout\\Argument\\Interpreter\\Decorator\\UpdaterTest::testEvaluateWrongUpdaterValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Layout\\Argument\\Interpreter\\Decorator\\UpdaterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEvaluateWrongUpdaterValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "12168fe6-17e0-41cf-9dbb-20abc18bf028",
+    "name": "Magento\\SampleData\\Test\\Unit\\Console\\Command\\SampleDataRemoveCommandTest::testExecuteWithNoUpdate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041139,
+    "stop": 1711693041139,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Successful sample data removing\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a4c3a3188ffcfeaf0d65281ecd46f53e",
+    "testCaseId": "62c03fb3c23a45dca795802e4a887b49",
+    "rerunOf": null,
+    "fullName": "Magento\\SampleData\\Test\\Unit\\Console\\Command\\SampleDataRemoveCommandTest::testExecuteWithNoUpdate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SampleData\\Test\\Unit\\Console\\Command\\SampleDataRemoveCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithNoUpdate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

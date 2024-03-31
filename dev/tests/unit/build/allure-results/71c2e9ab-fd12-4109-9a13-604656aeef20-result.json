@@ -1,0 +1,43 @@
+{
+    "uuid": "71c2e9ab-fd12-4109-9a13-604656aeef20",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Token\\ProviderTest::testValidateRequestTokenAlreadyUsedToken",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030113,
+    "stop": 1711693030113,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c57e7d0d973f918b496fd50157351f51",
+    "testCaseId": "6d12430c1e392b6c1637da9b65901cf1",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Token\\ProviderTest::testValidateRequestTokenAlreadyUsedToken",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Token\\ProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateRequestTokenAlreadyUsedToken"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "885ed356-e0cf-4220-8b42-4c503f084007",
+    "name": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Observer\\ReportProductSavedToNewRelicTest::testReportProductUpdatedToNewRelic",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030905,
+    "stop": 1711693030905,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "60419f32dc855eb20ae4a3f11256f29f",
+    "testCaseId": "ab2c292a5f5cc4df0a3ae7f54225b0aa",
+    "rerunOf": null,
+    "fullName": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Observer\\ReportProductSavedToNewRelicTest::testReportProductUpdatedToNewRelic",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Observer\\ReportProductSavedToNewRelicTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReportProductUpdatedToNewRelic"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

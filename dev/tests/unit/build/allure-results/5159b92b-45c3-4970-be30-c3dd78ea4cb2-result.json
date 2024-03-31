@@ -1,0 +1,50 @@
+{
+    "uuid": "5159b92b-45c3-4970-be30-c3dd78ea4cb2",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\ResourceModel\\HelperTest::testGetBestsellersReportUpdateRatingPos",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693040391,
+    "stop": 1711693040481,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "175648f53e5d266f15e09954c5ea00f0",
+    "testCaseId": "82b57824929df1cf55ec863bffcf6dde",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\ResourceModel\\HelperTest::testGetBestsellersReportUpdateRatingPos",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\ResourceModel\\HelperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBestsellersReportUpdateRatingPos"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

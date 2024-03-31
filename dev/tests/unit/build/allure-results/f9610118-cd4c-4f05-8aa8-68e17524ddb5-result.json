@@ -1,0 +1,50 @@
+{
+    "uuid": "f9610118-cd4c-4f05-8aa8-68e17524ddb5",
+    "name": "Magento\\Vault\\Test\\Unit\\Model\\Ui\\Adminhtml\\TokensConfigProviderTest::testGetTokensComponentsGuestCustomerOrderNotFound",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053339,
+    "stop": 1711693053340,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ac39ef2f920be252b1e01c2fb4c23c67",
+    "testCaseId": "430c969dfedb07056bca73c9f94ae673",
+    "rerunOf": null,
+    "fullName": "Magento\\Vault\\Test\\Unit\\Model\\Ui\\Adminhtml\\TokensConfigProviderTest::testGetTokensComponentsGuestCustomerOrderNotFound",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Vault\\Test\\Unit\\Model\\Ui\\Adminhtml\\TokensConfigProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTokensComponentsGuestCustomerOrderNotFound"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

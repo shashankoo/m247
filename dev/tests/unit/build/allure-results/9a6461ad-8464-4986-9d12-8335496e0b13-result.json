@@ -1,0 +1,43 @@
+{
+    "uuid": "9a6461ad-8464-4986-9d12-8335496e0b13",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest::testInstallWithUnresolvableRemoteStorageValidator",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055321,
+    "stop": 1711693055327,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a13196b0008713cca0b89554c44de0a4",
+    "testCaseId": "02dff464df907097dce5923f2f2cd572",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest::testInstallWithUnresolvableRemoteStorageValidator",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInstallWithUnresolvableRemoteStorageValidator"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "75cba48a-6c4f-40c7-bf69-86c0f18da80a",
+    "name": "Magento\\Customer\\Test\\Unit\\Ui\\Component\\Listing\\Filter\\TextFilterConfigProviderTest::testGetConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021187,
+    "stop": 1711693021187,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "feb3a0509fbe028ef7919b78eb6f3f31",
+    "testCaseId": "dc02f7c8dfc032a39bd9f2418f952f46",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Ui\\Component\\Listing\\Filter\\TextFilterConfigProviderTest::testGetConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Ui\\Component\\Listing\\Filter\\TextFilterConfigProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

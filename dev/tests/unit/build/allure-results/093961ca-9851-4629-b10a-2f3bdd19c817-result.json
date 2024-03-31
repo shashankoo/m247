@@ -1,0 +1,43 @@
+{
+    "uuid": "093961ca-9851-4629-b10a-2f3bdd19c817",
+    "name": "Magento\\CustomerGraphQl\\Test\\Unit\\Plugin\\ClearCustomerSessionAfterRequestTest::testAfterDispatch",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019147,
+    "stop": 1711693019148,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "150cef8a8b4b10b0b6897ba4a2351d31",
+    "testCaseId": "1e2ce11cdceb64adf532b2b9bb3859d4",
+    "rerunOf": null,
+    "fullName": "Magento\\CustomerGraphQl\\Test\\Unit\\Plugin\\ClearCustomerSessionAfterRequestTest::testAfterDispatch",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CustomerGraphQl\\Test\\Unit\\Plugin\\ClearCustomerSessionAfterRequestTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterDispatch"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

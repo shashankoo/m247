@@ -1,0 +1,43 @@
+{
+    "uuid": "5e7edf5a-6c64-4edf-b7a0-d2b2ea0dd9b6",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\MongoDbTest::testGetCapabilities",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059228,
+    "stop": 1711693059228,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "725d27f45f84b4b7d14310a713d430ef",
+    "testCaseId": "2be1f4381374c964f19836e3b8f60572",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\MongoDbTest::testGetCapabilities",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\MongoDbTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCapabilities"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

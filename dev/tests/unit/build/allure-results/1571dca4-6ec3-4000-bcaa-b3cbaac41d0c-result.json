@@ -1,0 +1,50 @@
+{
+    "uuid": "1571dca4-6ec3-4000-bcaa-b3cbaac41d0c",
+    "name": "Magento\\Framework\\Indexer\\Test\\Unit\\CacheContextTest::testUniqueTags",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073713,
+    "stop": 1711693073713,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"same entities with overlapping ids\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1f931789e378763244589d6643c95686",
+    "testCaseId": "2da525e43507280b0ea874a816cb6e9b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Indexer\\Test\\Unit\\CacheContextTest::testUniqueTags",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Indexer\\Test\\Unit\\CacheContextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUniqueTags"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

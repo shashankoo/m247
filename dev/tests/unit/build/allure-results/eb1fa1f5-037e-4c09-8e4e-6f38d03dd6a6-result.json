@@ -1,0 +1,43 @@
+{
+    "uuid": "eb1fa1f5-037e-4c09-8e4e-6f38d03dd6a6",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\Payment\\InfoTest::testGetPaymentInfo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030676,
+    "stop": 1711693030682,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4c79be43d2e41a703ae21ee11d245132",
+    "testCaseId": "87c9376bbec4c443d5fbb21d65ffeff0",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\Payment\\InfoTest::testGetPaymentInfo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\Payment\\InfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPaymentInfo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

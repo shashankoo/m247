@@ -1,0 +1,50 @@
+{
+    "uuid": "738f7bff-93c0-4cbc-99a9-052e26a268fd",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Customer\\Attribute\\Backend\\PasswordTest::testBeforeSaveNegative",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020400,
+    "stop": 1711693020400,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"with-space-prefix\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1ef3851490f2f12d859a0b951e724c91",
+    "testCaseId": "88e82d1ff76124a2f12e15b936fd4afd",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Customer\\Attribute\\Backend\\PasswordTest::testBeforeSaveNegative",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Customer\\Attribute\\Backend\\PasswordTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSaveNegative"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

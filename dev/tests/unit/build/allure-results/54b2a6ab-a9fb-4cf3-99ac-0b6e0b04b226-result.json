@@ -1,0 +1,43 @@
+{
+    "uuid": "54b2a6ab-a9fb-4cf3-99ac-0b6e0b04b226",
+    "name": "Magento\\Catalog\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Tab\\InventoryTest::testIsReadonly",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013495,
+    "stop": 1711693013496,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6665195648c4a9b8b8677431bf64e62b",
+    "testCaseId": "8d56a15d433cbc45964876ccb52bae93",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Tab\\InventoryTest::testIsReadonly",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Tab\\InventoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsReadonly"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

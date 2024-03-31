@@ -1,0 +1,43 @@
+{
+    "uuid": "9bf01c1f-7db1-4cb9-ba7e-5f3d23206dac",
+    "name": "Magento\\CatalogRule\\Test\\Unit\\Plugin\\Indexer\\Product\\Save\\ApplyRulesTest::testAfterSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012529,
+    "stop": 1711693012532,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "345c20819fb5441fec08d00180ba56a4",
+    "testCaseId": "9b133bde0d421592db4f5e1f8fd5ad14",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogRule\\Test\\Unit\\Plugin\\Indexer\\Product\\Save\\ApplyRulesTest::testAfterSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogRule\\Test\\Unit\\Plugin\\Indexer\\Product\\Save\\ApplyRulesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

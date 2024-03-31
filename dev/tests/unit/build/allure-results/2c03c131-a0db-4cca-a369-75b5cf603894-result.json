@@ -1,0 +1,50 @@
+{
+    "uuid": "2c03c131-a0db-4cca-a369-75b5cf603894",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Model\\DisableMultishippingTest::testExecuteWithMultishippingModeEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030790,
+    "stop": 1711693030791,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getShippingAssignments\" with addMethods(), but it exists in class \"Magento\\Quote\\Api\\Data\\CartExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"check_without_shipping_assignments\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ee4989ca6784011cea5bfb9c3353c3e7",
+    "testCaseId": "0f34eb379582e867dcf936b7f6357afe",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Model\\DisableMultishippingTest::testExecuteWithMultishippingModeEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Model\\DisableMultishippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithMultishippingModeEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

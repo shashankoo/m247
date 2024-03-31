@@ -1,0 +1,50 @@
+{
+    "uuid": "0e57d57b-cf65-4802-b0c9-9e55307509fa",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\CacheTest::testRemove",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057765,
+    "stop": 1711693057765,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"failure\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f29395876903261071d68fe5b9499363",
+    "testCaseId": "88628c23f51cce308e0482949df26e44",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\CacheTest::testRemove",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\CacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRemove"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

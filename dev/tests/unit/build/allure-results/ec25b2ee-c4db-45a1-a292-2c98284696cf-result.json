@@ -1,0 +1,43 @@
+{
+    "uuid": "ec25b2ee-c4db-45a1-a292-2c98284696cf",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testCanReorder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039873,
+    "stop": 1711693039874,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "747b78bbba78c5a5c6a70f57b38720c6",
+    "testCaseId": "c6eac192eb74b2ec93c7d0c775959e7e",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testCanReorder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanReorder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

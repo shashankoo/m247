@@ -1,0 +1,50 @@
+{
+    "uuid": "16d9b22f-52e6-4e93-8d50-eede97b89d53",
+    "name": "Magento\\Framework\\Config\\Test\\Unit\\DomTest::testMerge",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069977,
+    "stop": 1711693069979,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"cdata\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "718265512ffb665b12caa0ccd9bb1325",
+    "testCaseId": "d8d9a45eb42fc526d8cd50d950e59901",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Config\\Test\\Unit\\DomTest::testMerge",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Config\\Test\\Unit\\DomTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMerge"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

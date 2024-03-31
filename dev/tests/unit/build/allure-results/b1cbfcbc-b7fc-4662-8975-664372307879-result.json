@@ -1,0 +1,43 @@
+{
+    "uuid": "b1cbfcbc-b7fc-4662-8975-664372307879",
+    "name": "Magento\\Webapi\\Test\\Unit\\Controller\\Rest\\RequestValidatorTest::testInSecureRequestOverSecureRoute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053459,
+    "stop": 1711693053460,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "120de054f838203106d8f6f098f11300",
+    "testCaseId": "120f0e73463b08a5ccc0a5f961d67b6c",
+    "rerunOf": null,
+    "fullName": "Magento\\Webapi\\Test\\Unit\\Controller\\Rest\\RequestValidatorTest::testInSecureRequestOverSecureRoute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Webapi\\Test\\Unit\\Controller\\Rest\\RequestValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInSecureRequestOverSecureRoute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "8d8350cc-9b11-4671-bcee-0a245db4cf5a",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\TimezoneTest::testDateIncludeTime",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076764,
+    "stop": 1711693076765,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Parse Saudi Arabia date with zero time\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0144f56380195c41e9ae55161b490aa4",
+    "testCaseId": "4983626a98b372c833813a10f1fbddd3",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\TimezoneTest::testDateIncludeTime",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\TimezoneTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDateIncludeTime"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

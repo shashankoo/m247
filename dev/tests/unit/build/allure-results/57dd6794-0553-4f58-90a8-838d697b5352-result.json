@@ -1,0 +1,43 @@
+{
+    "uuid": "57dd6794-0553-4f58-90a8-838d697b5352",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Observer\\CategoryProductIndexerTest::testExecuteIfCategoryHasNoneChangedProducts",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023408,
+    "stop": 1711693023408,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b4ff105040e721067fe73f21f6365947",
+    "testCaseId": "b8e7519ec1ab847a9e65af2e3d283d0b",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Observer\\CategoryProductIndexerTest::testExecuteIfCategoryHasNoneChangedProducts",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Observer\\CategoryProductIndexerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteIfCategoryHasNoneChangedProducts"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

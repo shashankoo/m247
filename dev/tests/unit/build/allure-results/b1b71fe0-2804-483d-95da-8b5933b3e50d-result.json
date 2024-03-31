@@ -1,0 +1,50 @@
+{
+    "uuid": "b1b71fe0-2804-483d-95da-8b5933b3e50d",
+    "name": "Magento\\ReleaseNotification\\Test\\Unit\\Model\\ContentProvider\\Http\\UrlBuilderTest::testGetUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033356,
+    "stop": 1711693033356,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"no-edition\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "416eec6a70d74b2e00fd245d26a70fb4",
+    "testCaseId": "a3537ea6ed8778cedd2670c34ee6498e",
+    "rerunOf": null,
+    "fullName": "Magento\\ReleaseNotification\\Test\\Unit\\Model\\ContentProvider\\Http\\UrlBuilderTest::testGetUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ReleaseNotification\\Test\\Unit\\Model\\ContentProvider\\Http\\UrlBuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

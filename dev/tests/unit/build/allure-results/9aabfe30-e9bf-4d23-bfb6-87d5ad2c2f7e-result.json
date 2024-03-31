@@ -1,0 +1,50 @@
+{
+    "uuid": "9aabfe30-e9bf-4d23-bfb6-87d5ad2c2f7e",
+    "name": "Magento\\Directory\\Test\\Unit\\Model\\CurrencyTest::testFormatTxtWithNumberFormatter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021773,
+    "stop": 1711693021774,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#16",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0e898896c516366c086ed12879fa4e0e",
+    "testCaseId": "e6d09d0bdc2417b316c71b6007d803a1",
+    "rerunOf": null,
+    "fullName": "Magento\\Directory\\Test\\Unit\\Model\\CurrencyTest::testFormatTxtWithNumberFormatter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Directory\\Test\\Unit\\Model\\CurrencyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFormatTxtWithNumberFormatter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

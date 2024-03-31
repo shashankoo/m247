@@ -1,0 +1,43 @@
+{
+    "uuid": "acc24f67-1baa-4f15-80bd-3fd5bdb123d6",
+    "name": "Magento\\GroupedProduct\\Test\\Unit\\Block\\Adminhtml\\Product\\Composite\\Fieldset\\GroupedTest::testGetAssociatedProducts",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024285,
+    "stop": 1711693024286,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3cf413806dfe38c1e919faca89305b07",
+    "testCaseId": "ad9bbb0ae0d87da138413cdf14b88820",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedProduct\\Test\\Unit\\Block\\Adminhtml\\Product\\Composite\\Fieldset\\GroupedTest::testGetAssociatedProducts",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedProduct\\Test\\Unit\\Block\\Adminhtml\\Product\\Composite\\Fieldset\\GroupedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAssociatedProducts"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

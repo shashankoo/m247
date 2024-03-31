@@ -1,0 +1,43 @@
+{
+    "uuid": "54707284-a294-4f6f-8ee2-ebed0c55b3ee",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Items\\AbstractTest::testGetItemRendererThrowsExceptionForNonexistentRenderer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036715,
+    "stop": 1711693036715,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "53833a29baf117d4fcbbc40dd2599ba8",
+    "testCaseId": "fd95ef3c2b54fa13dfe04316a538005e",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Items\\AbstractTest::testGetItemRendererThrowsExceptionForNonexistentRenderer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Items\\AbstractTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItemRendererThrowsExceptionForNonexistentRenderer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

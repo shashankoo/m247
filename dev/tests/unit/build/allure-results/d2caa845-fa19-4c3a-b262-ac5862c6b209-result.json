@@ -1,0 +1,50 @@
+{
+    "uuid": "d2caa845-fa19-4c3a-b262-ac5862c6b209",
+    "name": "Magento\\RequireJs\\Test\\Unit\\Model\\FileManagerTest::testCreateRequireJsConfigAsset",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693034232,
+    "stop": 1711693034232,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1ef34073ac90d7852d7930f72963b397",
+    "testCaseId": "9428068c8a07ac79e1a4bf2a2bd8c654",
+    "rerunOf": null,
+    "fullName": "Magento\\RequireJs\\Test\\Unit\\Model\\FileManagerTest::testCreateRequireJsConfigAsset",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\RequireJs\\Test\\Unit\\Model\\FileManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateRequireJsConfigAsset"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

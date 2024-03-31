@@ -1,0 +1,50 @@
+{
+    "uuid": "0d04dd9b-5439-4595-aa8c-68a1cc8ed42a",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Address\\AbstractAddressTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020038,
+    "stop": 1711693020039,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"telephone\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a32c213211562d585b60e5adedb1f53b",
+    "testCaseId": "007251009847520b1fcd4c61d4450f2c",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Address\\AbstractAddressTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Address\\AbstractAddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

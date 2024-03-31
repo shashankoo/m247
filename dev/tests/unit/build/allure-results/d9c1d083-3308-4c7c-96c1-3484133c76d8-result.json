@@ -1,0 +1,43 @@
+{
+    "uuid": "d9c1d083-3308-4c7c-96c1-3484133c76d8",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowExpressTest::testCanFetchTransactionInfo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032349,
+    "stop": 1711693032349,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "47ba23e1da54a181d310f5046afeb964",
+    "testCaseId": "37afe22eb2f3d624fec6833485994c64",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowExpressTest::testCanFetchTransactionInfo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowExpressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanFetchTransactionInfo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "43fef27e-cd66-4117-8595-ce73fbcd47dc",
+    "name": "Magento\\Weee\\Test\\Unit\\Block\\Item\\Price\\RendererTest::testDisplayPriceWithWeeeDetails",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053683,
+    "stop": 1711693053683,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"weee_enabled_not_showing_detail_true\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3d3f4a50616b55d022e7d55ea5ea6f1f",
+    "testCaseId": "ebeb98d9bb1a142dd412ea000ffe8518",
+    "rerunOf": null,
+    "fullName": "Magento\\Weee\\Test\\Unit\\Block\\Item\\Price\\RendererTest::testDisplayPriceWithWeeeDetails",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Weee\\Test\\Unit\\Block\\Item\\Price\\RendererTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDisplayPriceWithWeeeDetails"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

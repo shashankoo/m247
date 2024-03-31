@@ -1,0 +1,43 @@
+{
+    "uuid": "dd7d1096-9fda-4506-93d9-dad33bd15414",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Model\\Quote\\Item\\CartItemProcessorTest::testProcessProductOptionsWhenItemDoesNotHaveDownloadableLinks",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022067,
+    "stop": 1711693022068,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"setDownloadableOption\" with addMethods(), but it exists in class \"Magento\\Quote\\Api\\Data\\ProductOptionExtension\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "55d5565d033c35b9f47463157fd99b80",
+    "testCaseId": "87c6e6979306d1b8344d14e7f83bd2ef",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Model\\Quote\\Item\\CartItemProcessorTest::testProcessProductOptionsWhenItemDoesNotHaveDownloadableLinks",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Model\\Quote\\Item\\CartItemProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessProductOptionsWhenItemDoesNotHaveDownloadableLinks"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

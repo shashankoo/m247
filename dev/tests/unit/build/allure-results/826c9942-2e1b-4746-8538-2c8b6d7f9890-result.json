@@ -1,0 +1,43 @@
+{
+    "uuid": "826c9942-2e1b-4746-8538-2c8b6d7f9890",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\View\\InfoTest::testGetAddressEditLink",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036636,
+    "stop": 1711693036645,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b0ff95c1f0acd94469396297c9af3ee9",
+    "testCaseId": "dc3c004d16d624c874b19da9259e9064",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\View\\InfoTest::testGetAddressEditLink",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\View\\InfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAddressEditLink"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

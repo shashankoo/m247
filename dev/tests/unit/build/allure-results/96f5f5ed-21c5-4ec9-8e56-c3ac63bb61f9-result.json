@@ -1,0 +1,50 @@
+{
+    "uuid": "96f5f5ed-21c5-4ec9-8e56-c3ac63bb61f9",
+    "name": "Magento\\CatalogSearch\\Test\\Unit\\Model\\ResourceModel\\AdvancedTest::testPrepareCondition",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012860,
+    "stop": 1711693012861,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e6d3a5ade379849dc77fa31c12261e10",
+    "testCaseId": "ca5271cec5da00511c602aae1b376862",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogSearch\\Test\\Unit\\Model\\ResourceModel\\AdvancedTest::testPrepareCondition",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogSearch\\Test\\Unit\\Model\\ResourceModel\\AdvancedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareCondition"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

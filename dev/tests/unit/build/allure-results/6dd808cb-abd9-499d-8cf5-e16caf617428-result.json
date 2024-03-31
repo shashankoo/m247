@@ -1,0 +1,50 @@
+{
+    "uuid": "6dd808cb-abd9-499d-8cf5-e16caf617428",
+    "name": "Magento\\Framework\\Acl\\Test\\Unit\\AclResource\\Config\\Converter\\DomTest::testConvertWithInvalidDom",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057481,
+    "stop": 1711693057481,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5f6f5d54b789594d112bacfa82b67e33",
+    "testCaseId": "48af64dfcb7ca7cb0edaf4da2c90b2c4",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Acl\\Test\\Unit\\AclResource\\Config\\Converter\\DomTest::testConvertWithInvalidDom",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Acl\\Test\\Unit\\AclResource\\Config\\Converter\\DomTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvertWithInvalidDom"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

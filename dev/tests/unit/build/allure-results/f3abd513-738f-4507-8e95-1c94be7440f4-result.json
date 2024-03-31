@@ -1,0 +1,50 @@
+{
+    "uuid": "f3abd513-738f-4507-8e95-1c94be7440f4",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Session\\AdminConfigTest::testSetSessionSettingsByConstructor",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010201,
+    "stop": 1711693010201,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f49a029092b53dc8b0cd74b5cd1a37bb",
+    "testCaseId": "372ebc445da0a957aa2993f3f221818b",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Session\\AdminConfigTest::testSetSessionSettingsByConstructor",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Session\\AdminConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetSessionSettingsByConstructor"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

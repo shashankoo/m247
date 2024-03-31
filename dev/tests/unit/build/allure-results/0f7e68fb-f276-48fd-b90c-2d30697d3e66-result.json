@@ -1,0 +1,50 @@
+{
+    "uuid": "0f7e68fb-f276-48fd-b90c-2d30697d3e66",
+    "name": "Magento\\Payment\\Test\\Unit\\Model\\Checks\\CanUseForCurrencyTest::testIsApplicable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031616,
+    "stop": 1711693031617,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "26964b39349e07af79ae227f38c97eb1",
+    "testCaseId": "4676904fd59401e79bd0540a7b42ff5d",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Model\\Checks\\CanUseForCurrencyTest::testIsApplicable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Model\\Checks\\CanUseForCurrencyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsApplicable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

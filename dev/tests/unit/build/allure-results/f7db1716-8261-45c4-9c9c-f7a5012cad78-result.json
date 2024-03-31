@@ -1,0 +1,43 @@
+{
+    "uuid": "f7db1716-8261-45c4-9c9c-f7a5012cad78",
+    "name": "Magento\\Wishlist\\Test\\Unit\\Controller\\Index\\UpdateTest::testUpdateThrowsNotFoundExceptionWhenWishlistDoNotExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054360,
+    "stop": 1711693054360,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0325daaac4f67f83f2e603ac367130c5",
+    "testCaseId": "529009b6ece24d747e8e141c2bdf6711",
+    "rerunOf": null,
+    "fullName": "Magento\\Wishlist\\Test\\Unit\\Controller\\Index\\UpdateTest::testUpdateThrowsNotFoundExceptionWhenWishlistDoNotExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Wishlist\\Test\\Unit\\Controller\\Index\\UpdateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdateThrowsNotFoundExceptionWhenWishlistDoNotExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

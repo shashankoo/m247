@@ -1,0 +1,43 @@
+{
+    "uuid": "594801f2-1f04-4cb0-be51-a03d35853cd2",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\GraphTest::testFindPathsToReachableNodes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071460,
+    "stop": 1711693071460,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7a9c0746d9cf908c9128e39bf9dc4308",
+    "testCaseId": "c7f6f396b2d9ddce0d394416f0e22966",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\GraphTest::testFindPathsToReachableNodes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\GraphTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFindPathsToReachableNodes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

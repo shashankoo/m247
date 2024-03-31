@@ -1,0 +1,50 @@
+{
+    "uuid": "e85ec54d-f7c1-4f7b-96bb-af85264e8ae5",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\OrderSenderTest::testSendVirtualOrder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037837,
+    "stop": 1711693037838,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ffa61ce8e5f5b8bef6a0cc6e2bd48fe4",
+    "testCaseId": "7163093ae8fb13519ed9998268b4973f",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\OrderSenderTest::testSendVirtualOrder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\OrderSenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSendVirtualOrder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "6abbb33e-37dd-4047-a665-6d39be1e5277",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\QuoteRepository\\Plugin\\AuthorizationTest::testAfterGetActiveReturnsQuoteIfQuoteIsAllowedForCurrentUserContext",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033097,
+    "stop": 1711693033097,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6ee9ff273d253ce90e487df129da20af",
+    "testCaseId": "3e0160e00541d2d154b78ede1cfe7ed5",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\QuoteRepository\\Plugin\\AuthorizationTest::testAfterGetActiveReturnsQuoteIfQuoteIsAllowedForCurrentUserContext",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\QuoteRepository\\Plugin\\AuthorizationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetActiveReturnsQuoteIfQuoteIsAllowedForCurrentUserContext"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

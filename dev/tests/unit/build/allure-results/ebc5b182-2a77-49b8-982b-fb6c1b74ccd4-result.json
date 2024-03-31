@@ -1,0 +1,43 @@
+{
+    "uuid": "ebc5b182-2a77-49b8-982b-fb6c1b74ccd4",
+    "name": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\CreateLabelTest::testExecuteLabelGenerateFail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041390,
+    "stop": 1711693041390,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8c68ab7fbb399bd89313665446114dc0",
+    "testCaseId": "c8ff34c4c7725a651658ed447a6d58e8",
+    "rerunOf": null,
+    "fullName": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\CreateLabelTest::testExecuteLabelGenerateFail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\CreateLabelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteLabelGenerateFail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

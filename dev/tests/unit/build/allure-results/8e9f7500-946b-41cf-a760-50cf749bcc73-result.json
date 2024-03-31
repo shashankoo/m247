@@ -1,0 +1,43 @@
+{
+    "uuid": "8e9f7500-946b-41cf-a760-50cf749bcc73",
+    "name": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\Redis\\ConfigTest::testGetCompressionThreshold",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076073,
+    "stop": 1711693076073,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "fd19de4f9983f637d72574b40e226f28",
+    "testCaseId": "8a537578d8bab34768b3a36376d9fe17",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\Redis\\ConfigTest::testGetCompressionThreshold",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\Redis\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCompressionThreshold"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "0f135a66-b316-4fb7-b1dc-adf879f9c67c",
+    "name": "Magento\\AdobeStockImage\\Test\\Unit\\Model\\GetImageListTest::testWithDefaultFilters",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008801,
+    "stop": 1711693008802,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "92d52724be9b2875f7548401a1cd86d7",
+    "testCaseId": "302e22ae9f937f8c62900312fd14c18e",
+    "rerunOf": null,
+    "fullName": "Magento\\AdobeStockImage\\Test\\Unit\\Model\\GetImageListTest::testWithDefaultFilters",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdobeStockImage\\Test\\Unit\\Model\\GetImageListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWithDefaultFilters"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "e2a6ab12-a4ff-4647-a3e8-9af8c83c174c",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\TaxClass\\FactoryTest::testCreate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042769,
+    "stop": 1711693042769,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6f6d590ae05eb1ad75f7bb33452d7066",
+    "testCaseId": "f5b9ff9525cc01efff81c8c41eef6621",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\TaxClass\\FactoryTest::testCreate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\TaxClass\\FactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

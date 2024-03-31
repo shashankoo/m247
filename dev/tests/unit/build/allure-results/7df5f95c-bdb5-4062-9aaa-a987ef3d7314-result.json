@@ -1,0 +1,43 @@
+{
+    "uuid": "7df5f95c-bdb5-4062-9aaa-a987ef3d7314",
+    "name": "Magento\\Sitemap\\Test\\Unit\\Model\\ObserverTest::testScheduledGenerateSitemapsSendsExceptionEmail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041696,
+    "stop": 1711693041697,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6710a8005dd89120988f2cb4ad28c10e",
+    "testCaseId": "5cc1941e3dee63f4d371c8643d55de56",
+    "rerunOf": null,
+    "fullName": "Magento\\Sitemap\\Test\\Unit\\Model\\ObserverTest::testScheduledGenerateSitemapsSendsExceptionEmail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sitemap\\Test\\Unit\\Model\\ObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testScheduledGenerateSitemapsSendsExceptionEmail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

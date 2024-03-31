@@ -1,0 +1,43 @@
+{
+    "uuid": "9cc5decb-7df8-4c4e-bc53-cef5f5256355",
+    "name": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Category\\MoveTest::testExecuteWithGenericException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013764,
+    "stop": 1711693013769,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d2e3ff2739de409060b09d40c081e89a",
+    "testCaseId": "ee42f5a046e0c177a2615d96e1b5f9f2",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Category\\MoveTest::testExecuteWithGenericException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Category\\MoveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithGenericException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

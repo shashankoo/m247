@@ -1,0 +1,43 @@
+{
+    "uuid": "8dbccc62-ad92-4ede-9376-f94fe5aa3bf2",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Auth\\SessionTest::testProlong",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009830,
+    "stop": 1711693009833,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "61787449f343d79a8984e6e4aa3ab247",
+    "testCaseId": "bc634c0ecb6f304269887807fb17b1cd",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Auth\\SessionTest::testProlong",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Auth\\SessionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProlong"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

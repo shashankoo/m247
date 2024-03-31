@@ -1,0 +1,43 @@
+{
+    "uuid": "3385c49f-633d-421d-b7b8-53b27b4c2e97",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Helper\\SubjectReaderTest::testReadPublicHashWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056202,
+    "stop": 1711693056202,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skip this test",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "985568f7c7868ff09d6f024b56e60e32",
+    "testCaseId": "73dfa5f7536dcf34e52b06b6770ee862",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Helper\\SubjectReaderTest::testReadPublicHashWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Helper\\SubjectReaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReadPublicHashWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

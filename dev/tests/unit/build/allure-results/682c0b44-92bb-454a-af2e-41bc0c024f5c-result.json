@@ -1,0 +1,50 @@
+{
+    "uuid": "682c0b44-92bb-454a-af2e-41bc0c024f5c",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\MassactionTest::testAddItem",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009688,
+    "stop": 1711693009689,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "88f84a9fd2a95e1f781b39c38e0386f1",
+    "testCaseId": "d3a73ffe15a763e7d823281fd6384968",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\MassactionTest::testAddItem",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\MassactionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddItem"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

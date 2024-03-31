@@ -1,0 +1,50 @@
+{
+    "uuid": "a1b9ec2a-4052-4e89-81d0-b0883c622ba0",
+    "name": "Magento\\Framework\\Config\\Test\\Unit\\Data\\ScopedTest::testGetConfigByPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069912,
+    "stop": 1711693069912,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8bd65cde65cb974b6fbe6ee24ac604ae",
+    "testCaseId": "bfe2025eec8b455f6e03af0c8cf45220",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Config\\Test\\Unit\\Data\\ScopedTest::testGetConfigByPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Config\\Test\\Unit\\Data\\ScopedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfigByPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

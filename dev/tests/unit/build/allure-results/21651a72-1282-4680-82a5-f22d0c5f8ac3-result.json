@@ -1,0 +1,43 @@
+{
+    "uuid": "21651a72-1282-4680-82a5-f22d0c5f8ac3",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\File\\Collector\\Override\\ThemeModularTest::testGetFilesWrongAncestor",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077780,
+    "stop": 1711693077780,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5a9df81b04e3775df00950f39d13e634",
+    "testCaseId": "c164dcb526c985f4daa1bc2f6f5a5b6d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\File\\Collector\\Override\\ThemeModularTest::testGetFilesWrongAncestor",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\File\\Collector\\Override\\ThemeModularTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFilesWrongAncestor"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

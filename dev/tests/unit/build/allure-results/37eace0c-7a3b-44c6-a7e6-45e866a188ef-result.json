@@ -1,0 +1,43 @@
+{
+    "uuid": "37eace0c-7a3b-44c6-a7e6-45e866a188ef",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\QuoteManagementTest::testAssignCustomerFromAnotherStore",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032963,
+    "stop": 1711693032964,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "780b586d25f9cc065c197923321a1456",
+    "testCaseId": "ef6af677424cc48723f63cb2ef4f09f2",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\QuoteManagementTest::testAssignCustomerFromAnotherStore",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\QuoteManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAssignCustomerFromAnotherStore"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

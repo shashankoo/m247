@@ -1,0 +1,43 @@
+{
+    "uuid": "f5a54652-e425-419a-a51c-ed166107b705",
+    "name": "Magento\\Catalog\\Test\\Unit\\Pricing\\Price\\FinalPriceTest::testGetMinimalPriceWithoutMinimalPrice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016113,
+    "stop": 1711693016113,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f551f4d18e83a9995fdeacec85fc6798",
+    "testCaseId": "6e4d340b7f36ee58bbceeb2cd2890858",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Pricing\\Price\\FinalPriceTest::testGetMinimalPriceWithoutMinimalPrice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Pricing\\Price\\FinalPriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMinimalPriceWithoutMinimalPrice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

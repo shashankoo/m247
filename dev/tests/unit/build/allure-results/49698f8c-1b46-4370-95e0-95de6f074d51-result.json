@@ -1,0 +1,43 @@
+{
+    "uuid": "49698f8c-1b46-4370-95e0-95de6f074d51",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\ShipmentTest::testInsertLogoDatabaseMediaStorage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038689,
+    "stop": 1711693038693,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "43e0694d1a1a88269e4889074f1dc710",
+    "testCaseId": "e536a26f756cbed54d9c9f704e26ca0f",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\ShipmentTest::testInsertLogoDatabaseMediaStorage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\ShipmentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInsertLogoDatabaseMediaStorage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

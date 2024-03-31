@@ -1,0 +1,50 @@
+{
+    "uuid": "f2658c86-7926-471d-9d49-9c424754e317",
+    "name": "Magento\\Paypal\\Test\\Unit\\Block\\Express\\FormTest::testGetBillingAgreementCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031805,
+    "stop": 1711693031806,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9cc02c13e99893a46780a55ff62f8e7d",
+    "testCaseId": "5d59df71f9e7aa95d5ad48fcf2af3acd",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Block\\Express\\FormTest::testGetBillingAgreementCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Block\\Express\\FormTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBillingAgreementCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

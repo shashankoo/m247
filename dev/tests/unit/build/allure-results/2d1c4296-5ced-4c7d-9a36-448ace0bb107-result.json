@@ -1,0 +1,50 @@
+{
+    "uuid": "2d1c4296-5ced-4c7d-9a36-448ace0bb107",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Account\\RegisterLinkTest::testToHtml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019283,
+    "stop": 1711693019283,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e196e1f04b0b45be362aeb44aaddb5cb",
+    "testCaseId": "6167c8d6717c26d4953881c4a4e7a8f7",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Account\\RegisterLinkTest::testToHtml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Account\\RegisterLinkTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToHtml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

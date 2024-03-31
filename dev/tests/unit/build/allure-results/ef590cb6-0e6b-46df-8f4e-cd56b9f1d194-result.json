@@ -1,0 +1,50 @@
+{
+    "uuid": "ef590cb6-0e6b-46df-8f4e-cd56b9f1d194",
+    "name": "Magento\\Analytics\\Test\\Unit\\Model\\FileInfoManagerTest::testLoad",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009118,
+    "stop": 1711693009118,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Empty flag data\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bc598bc6d19130153eefbceb714ea6a4",
+    "testCaseId": "7092c57df40caacc76a14a6c86a7b1f7",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Model\\FileInfoManagerTest::testLoad",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Model\\FileInfoManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLoad"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

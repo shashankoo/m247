@@ -1,0 +1,43 @@
+{
+    "uuid": "6bbce4fa-26b4-40be-8765-7d6f436adb64",
+    "name": "Magento\\ReleaseNotification\\Test\\Unit\\Model\\ContentProvider\\Http\\HttpContentProviderTest::testGetContentSuccessOnLocaleDefault",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033352,
+    "stop": 1711693033352,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5fa3b085b4fac5e06c3cf98b509b584a",
+    "testCaseId": "2d3a882434e49e07ae97533211f26128",
+    "rerunOf": null,
+    "fullName": "Magento\\ReleaseNotification\\Test\\Unit\\Model\\ContentProvider\\Http\\HttpContentProviderTest::testGetContentSuccessOnLocaleDefault",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ReleaseNotification\\Test\\Unit\\Model\\ContentProvider\\Http\\HttpContentProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetContentSuccessOnLocaleDefault"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

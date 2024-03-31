@@ -1,0 +1,50 @@
+{
+    "uuid": "b4e13134-53f4-4122-9c8a-da90aeba8ce9",
+    "name": "Magento\\Review\\Test\\Unit\\Model\\ResourceModel\\Review\\CollectionTest::testAddEntityFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693035394,
+    "stop": 1711693035395,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e3c8f89a5e00ca3e41b0cd168a2c4614",
+    "testCaseId": "0f6e87e16972b0b2bdc286c76653f819",
+    "rerunOf": null,
+    "fullName": "Magento\\Review\\Test\\Unit\\Model\\ResourceModel\\Review\\CollectionTest::testAddEntityFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Review\\Test\\Unit\\Model\\ResourceModel\\Review\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddEntityFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

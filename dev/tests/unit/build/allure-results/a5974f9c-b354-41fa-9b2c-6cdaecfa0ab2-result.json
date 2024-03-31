@@ -1,0 +1,43 @@
+{
+    "uuid": "a5974f9c-b354-41fa-9b2c-6cdaecfa0ab2",
+    "name": "Magento\\Integration\\Test\\Unit\\Oauth\\OauthTest::testValidateAccessTokenNoConsumer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030179,
+    "stop": 1711693030180,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "83c2419de3bd030de820d161f02883d8",
+    "testCaseId": "9d2d3bde32f76002fefe66983213b053",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Oauth\\OauthTest::testValidateAccessTokenNoConsumer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Oauth\\OauthTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateAccessTokenNoConsumer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

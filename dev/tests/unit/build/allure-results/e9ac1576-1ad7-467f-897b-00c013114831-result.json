@@ -1,0 +1,43 @@
+{
+    "uuid": "e9ac1576-1ad7-467f-897b-00c013114831",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ItemTest::testGetChildrenCreatesSubmenuOnFirstCall",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010062,
+    "stop": 1711693010062,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "05d95fbacdb223d9502e2910d15316cc",
+    "testCaseId": "938a81bf6e001825c8adf4f39f1570e1",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ItemTest::testGetChildrenCreatesSubmenuOnFirstCall",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetChildrenCreatesSubmenuOnFirstCall"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

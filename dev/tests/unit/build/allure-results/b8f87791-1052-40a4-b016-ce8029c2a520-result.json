@@ -1,0 +1,50 @@
+{
+    "uuid": "b8f87791-1052-40a4-b016-ce8029c2a520",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\Validation\\StoreNameValidatorTest::testIsValid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041995,
+    "stop": 1711693041996,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"true\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "88fe1d8e17938429733e444877c683f0",
+    "testCaseId": "e8f1f363db5ad98b8c016ec744a0a324",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\Validation\\StoreNameValidatorTest::testIsValid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\Validation\\StoreNameValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "5e89d703-98e0-44bf-96f3-e865543e35d8",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testSendPasswordReminderEmail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019932,
+    "stop": 1711693019934,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "fe472d4621dc9a9d3f1d45a7f935ba95",
+    "testCaseId": "a9a9ec4fa2f1de7ad3b902f036b90432",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testSendPasswordReminderEmail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSendPasswordReminderEmail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

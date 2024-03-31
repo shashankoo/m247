@@ -1,0 +1,50 @@
+{
+    "uuid": "18722709-d002-4894-9fc0-5e2db5a384e2",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Source\\BooleanTest::testAddValueSortToCollection",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022703,
+    "stop": 1711693022704,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8173d2fc23c728db343ccea6277a3103",
+    "testCaseId": "4ff85c03d7c0025a77a2ec62a334abe6",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Source\\BooleanTest::testAddValueSortToCollection",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Source\\BooleanTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddValueSortToCollection"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

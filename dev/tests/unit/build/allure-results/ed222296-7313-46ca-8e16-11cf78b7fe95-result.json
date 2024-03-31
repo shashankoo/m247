@@ -1,0 +1,43 @@
+{
+    "uuid": "ed222296-7313-46ca-8e16-11cf78b7fe95",
+    "name": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\DatabaseTest::testIsLockedWithUnavailableDB",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074028,
+    "stop": 1711693074028,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7659dd7c6c7574864bae41c3c5650ad5",
+    "testCaseId": "ed8e041432636b1235e15972069a4b18",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\DatabaseTest::testIsLockedWithUnavailableDB",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\DatabaseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsLockedWithUnavailableDB"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

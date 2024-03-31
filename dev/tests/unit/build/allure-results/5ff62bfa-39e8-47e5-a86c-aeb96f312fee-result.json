@@ -1,0 +1,43 @@
+{
+    "uuid": "5ff62bfa-39e8-47e5-a86c-aeb96f312fee",
+    "name": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest::testProcessSimpleTypeStringArrayToIntArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075495,
+    "stop": 1711693075496,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4c250b053bdda66c66807246cbe8db23",
+    "testCaseId": "54e119a62b411c707c96371b7b385886",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest::testProcessSimpleTypeStringArrayToIntArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessSimpleTypeStringArrayToIntArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

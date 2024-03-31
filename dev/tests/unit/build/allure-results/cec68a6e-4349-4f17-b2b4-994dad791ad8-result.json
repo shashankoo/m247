@@ -1,0 +1,50 @@
+{
+    "uuid": "cec68a6e-4349-4f17-b2b4-994dad791ad8",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Frontend\\DatetimeTest::testGetValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022647,
+    "stop": 1711693022650,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2dfc02264bf63ff4918fb1e28080d86a",
+    "testCaseId": "e35f55cc2d00f6ace9030e2d9cda61cc",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Frontend\\DatetimeTest::testGetValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Frontend\\DatetimeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

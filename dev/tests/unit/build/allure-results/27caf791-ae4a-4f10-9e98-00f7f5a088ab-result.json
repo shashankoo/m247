@@ -1,0 +1,43 @@
+{
+    "uuid": "27caf791-ae4a-4f10-9e98-00f7f5a088ab",
+    "name": "Magento\\Framework\\Pricing\\Test\\Unit\\Render\\RendererPoolTest::testGetAmountRenderBlockTemplateNoTemplate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075332,
+    "stop": 1711693075333,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3549e4a62bef49eec745e07091ed5509",
+    "testCaseId": "dd1548c8c3a24db3fac4c421445d3fb4",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Pricing\\Test\\Unit\\Render\\RendererPoolTest::testGetAmountRenderBlockTemplateNoTemplate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Pricing\\Test\\Unit\\Render\\RendererPoolTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAmountRenderBlockTemplateNoTemplate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

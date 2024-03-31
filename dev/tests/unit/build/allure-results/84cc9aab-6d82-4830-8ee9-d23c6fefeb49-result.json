@@ -1,0 +1,43 @@
+{
+    "uuid": "84cc9aab-6d82-4830-8ee9-d23c6fefeb49",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\ImportTest::testGetProcessedEntitiesCount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024750,
+    "stop": 1711693024751,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "This test has not been implemented yet.",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3b2df803ea3f2fc500f03334fa9c7ed8",
+    "testCaseId": "c11998193eb24a27c3b2e10ab7c972ec",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\ImportTest::testGetProcessedEntitiesCount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\ImportTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetProcessedEntitiesCount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

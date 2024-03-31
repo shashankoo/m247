@@ -1,0 +1,50 @@
+{
+    "uuid": "44c013fc-2e1b-435a-8bd1-fbdbe6caeb1d",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest::testSetAsChildOffset",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071489,
+    "stop": 1711693071489,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fe675bc22fa465687c15de0d6bea79de",
+    "testCaseId": "d36dcb2a908a729e0629e10f89da6168",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest::testSetAsChildOffset",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetAsChildOffset"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

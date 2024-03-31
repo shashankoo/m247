@@ -1,0 +1,50 @@
+{
+    "uuid": "d91ee804-a1bc-4393-90e5-484e370cd16b",
+    "name": "Magento\\Search\\Test\\Unit\\Adapter\\Query\\Preprocessor\\SynonymsTest::testProcess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041147,
+    "stop": 1711693041147,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"noSynonyms\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5893dccad65c7fa0ee1e216149e1a8e0",
+    "testCaseId": "d0afd810b32520cf1b528088a840118d",
+    "rerunOf": null,
+    "fullName": "Magento\\Search\\Test\\Unit\\Adapter\\Query\\Preprocessor\\SynonymsTest::testProcess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Search\\Test\\Unit\\Adapter\\Query\\Preprocessor\\SynonymsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

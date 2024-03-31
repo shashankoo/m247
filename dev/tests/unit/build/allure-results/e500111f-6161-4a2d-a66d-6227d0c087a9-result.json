@@ -1,0 +1,50 @@
+{
+    "uuid": "e500111f-6161-4a2d-a66d-6227d0c087a9",
+    "name": "Magento\\Cms\\Test\\Unit\\Block\\Adminhtml\\Block\\Widget\\ChooserTest::testPrepareElementHtml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017027,
+    "stop": 1711693017031,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"elementValue NOT EMPTY, modelBlockId NOT EMPTY\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d1f98d0a689e512eeac6713c325d6570",
+    "testCaseId": "e1c2788759dcbee3fecad44be441c5ad",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Block\\Adminhtml\\Block\\Widget\\ChooserTest::testPrepareElementHtml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Block\\Adminhtml\\Block\\Widget\\ChooserTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareElementHtml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

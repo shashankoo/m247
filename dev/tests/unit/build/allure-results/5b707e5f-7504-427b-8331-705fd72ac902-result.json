@@ -1,0 +1,50 @@
+{
+    "uuid": "5b707e5f-7504-427b-8331-705fd72ac902",
+    "name": "Magento\\Checkout\\Test\\Unit\\Model\\Type\\OnepageTest::testGetCheckoutMethod",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016968,
+    "stop": 1711693016969,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3f61034d4109d125c5101872a972fc3f",
+    "testCaseId": "8dd0171a9d81e0e4585a572c0791bd28",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Model\\Type\\OnepageTest::testGetCheckoutMethod",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Model\\Type\\OnepageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCheckoutMethod"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

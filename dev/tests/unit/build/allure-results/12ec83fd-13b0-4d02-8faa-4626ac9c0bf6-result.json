@@ -1,0 +1,50 @@
+{
+    "uuid": "12ec83fd-13b0-4d02-8faa-4626ac9c0bf6",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Config\\ConfigTest::testGetThresholdAmount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056193,
+    "stop": 1711693056193,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#7",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "12a5c126cab58574acfca31c147324ab",
+    "testCaseId": "fcfd3b0c728a67e1bca32d31eafa8573",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Config\\ConfigTest::testGetThresholdAmount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Config\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetThresholdAmount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

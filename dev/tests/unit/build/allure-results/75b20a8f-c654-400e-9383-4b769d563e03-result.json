@@ -1,0 +1,50 @@
+{
+    "uuid": "75b20a8f-c654-400e-9383-4b769d563e03",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\ConfigTest::testScopeConfigMethods",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042686,
+    "stop": 1711693042686,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#32",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "72db2b280379a6ace16b933d1a02cb50",
+    "testCaseId": "855f1e739baa179f3d902e398d84ee46",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\ConfigTest::testScopeConfigMethods",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testScopeConfigMethods"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

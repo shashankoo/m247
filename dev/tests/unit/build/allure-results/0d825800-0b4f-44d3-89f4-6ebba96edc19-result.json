@@ -1,0 +1,50 @@
+{
+    "uuid": "0d825800-0b4f-44d3-89f4-6ebba96edc19",
+    "name": "Magento\\Quote\\Test\\Unit\\Observer\\Backend\\CustomerQuoteObserverTest::testDispatch",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033265,
+    "stop": 1711693033265,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "df0617772bf7c5b32e471957b76c709e",
+    "testCaseId": "c98f4c44874bb4273036b51ce3d87256",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Observer\\Backend\\CustomerQuoteObserverTest::testDispatch",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Observer\\Backend\\CustomerQuoteObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDispatch"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "499aa543-d573-4785-b95f-4a307f0bd8c0",
+    "name": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\BulkManagementTest::testRetryBulkWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009263,
+    "stop": 1711693009264,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f60842aeeafe0ef13c7dbd0372927ec2",
+    "testCaseId": "ce50cb4ffb6182b43eb7fc0cb56eceed",
+    "rerunOf": null,
+    "fullName": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\BulkManagementTest::testRetryBulkWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\BulkManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRetryBulkWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

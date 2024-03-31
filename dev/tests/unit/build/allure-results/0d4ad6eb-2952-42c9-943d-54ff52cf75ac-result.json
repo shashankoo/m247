@@ -1,0 +1,43 @@
+{
+    "uuid": "0d4ad6eb-2952-42c9-943d-54ff52cf75ac",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\CancelTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037078,
+    "stop": 1711693037080,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9196d566193560760c49960956bb5164",
+    "testCaseId": "90289b0f5b190cabf2167605ab37a9fc",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\CancelTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\CancelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

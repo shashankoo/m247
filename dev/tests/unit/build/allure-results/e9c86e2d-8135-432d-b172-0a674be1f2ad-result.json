@@ -1,0 +1,43 @@
+{
+    "uuid": "e9c86e2d-8135-432d-b172-0a674be1f2ad",
+    "name": "Magento\\CheckoutAgreements\\Test\\Unit\\Model\\AgreementsConfigProviderTest::testGetConfigIfContentIsHtml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016438,
+    "stop": 1711693016443,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b336b098ccb00e69985f7dbce67fc2af",
+    "testCaseId": "4d8d26f382bae3069985be50bf274e29",
+    "rerunOf": null,
+    "fullName": "Magento\\CheckoutAgreements\\Test\\Unit\\Model\\AgreementsConfigProviderTest::testGetConfigIfContentIsHtml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CheckoutAgreements\\Test\\Unit\\Model\\AgreementsConfigProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfigIfContentIsHtml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

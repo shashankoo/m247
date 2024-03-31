@@ -1,0 +1,50 @@
+{
+    "uuid": "aa228c52-6805-479c-b175-a715de77bb12",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\System\\Config\\ModeTest::testProcessValueOn",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014570,
+    "stop": 1711693014571,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a41570ef5095d535164af1a2e48b5fe2",
+    "testCaseId": "2e17c0cccfd1f7ae5d4d9d7239b410c5",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\System\\Config\\ModeTest::testProcessValueOn",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\System\\Config\\ModeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessValueOn"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

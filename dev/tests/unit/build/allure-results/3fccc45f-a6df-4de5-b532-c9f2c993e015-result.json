@@ -1,0 +1,43 @@
+{
+    "uuid": "3fccc45f-a6df-4de5-b532-c9f2c993e015",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\Quote\\DiscountTest::testCollectItemHasParent",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036064,
+    "stop": 1711693036065,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d65c85500dfa3d5e74893c9d2d0f1a85",
+    "testCaseId": "bc31ac4d0f65e3fefdfb5bac1f59cc56",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\Quote\\DiscountTest::testCollectItemHasParent",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\Quote\\DiscountTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectItemHasParent"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "a9936684-f08b-40d5-b5fb-4b22377af7d0",
+    "name": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\TabsTest::testIsSectionActiveReturnsFalseForNonActiveSection",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017745,
+    "stop": 1711693017746,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ab1148c4213ea5f783b85b75e194beaa",
+    "testCaseId": "2904994fc7964d58d898d0bb344ac94a",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\TabsTest::testIsSectionActiveReturnsFalseForNonActiveSection",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\TabsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsSectionActiveReturnsFalseForNonActiveSection"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

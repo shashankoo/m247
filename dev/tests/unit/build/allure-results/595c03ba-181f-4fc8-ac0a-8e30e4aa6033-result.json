@@ -1,0 +1,50 @@
+{
+    "uuid": "595c03ba-181f-4fc8-ac0a-8e30e4aa6033",
+    "name": "Magento\\JwtFrameworkAdapter\\Test\\Unit\\Model\\UnsecuredJwtFactoryTest::testCreate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030335,
+    "stop": 1711693030335,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"compact-nested\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d32a0c8c4f1f2ff5537ad1a5b83b5283",
+    "testCaseId": "31e14fd7b9126515cc6024dd81f621e6",
+    "rerunOf": null,
+    "fullName": "Magento\\JwtFrameworkAdapter\\Test\\Unit\\Model\\UnsecuredJwtFactoryTest::testCreate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\JwtFrameworkAdapter\\Test\\Unit\\Model\\UnsecuredJwtFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

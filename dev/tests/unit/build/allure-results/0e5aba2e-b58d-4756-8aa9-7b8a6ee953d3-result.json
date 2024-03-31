@@ -1,0 +1,43 @@
+{
+    "uuid": "0e5aba2e-b58d-4756-8aa9-7b8a6ee953d3",
+    "name": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Observer\\CheckConfigTest::testCheckConfigExtensionNotInstalled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030878,
+    "stop": 1711693030878,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f1e0280d3b79d6b5efefb5dbc45141e5",
+    "testCaseId": "630e9b7f011925b3d354190a4c56c1e6",
+    "rerunOf": null,
+    "fullName": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Observer\\CheckConfigTest::testCheckConfigExtensionNotInstalled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Observer\\CheckConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckConfigExtensionNotInstalled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "8c34b719-bd22-43af-8373-64e8adb6324e",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\OrderCommentSenderTest::testSendFalse",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037818,
+    "stop": 1711693037819,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "adf435824b4f41b7abd731c14afd962c",
+    "testCaseId": "c10b516b097cf55c878364fb85535888",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\OrderCommentSenderTest::testSendFalse",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\OrderCommentSenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSendFalse"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

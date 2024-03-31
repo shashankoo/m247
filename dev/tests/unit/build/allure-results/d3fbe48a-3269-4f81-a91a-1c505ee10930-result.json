@@ -1,0 +1,50 @@
+{
+    "uuid": "d3fbe48a-3269-4f81-a91a-1c505ee10930",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Plugin\\SaveCustomerGroupExcludedWebsiteTest::testAfterSaveWithNoExcludedWebsitesChanged",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020955,
+    "stop": 1711693020955,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getExcludeWebsiteIds\" with addMethods(), but it exists in class \"Magento\\Customer\\Api\\Data\\GroupExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cd6fdb7a822ee837e6c1068d2ba1e356",
+    "testCaseId": "a9a795e959083d20394d70cc502cb539",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Plugin\\SaveCustomerGroupExcludedWebsiteTest::testAfterSaveWithNoExcludedWebsitesChanged",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Plugin\\SaveCustomerGroupExcludedWebsiteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSaveWithNoExcludedWebsitesChanged"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

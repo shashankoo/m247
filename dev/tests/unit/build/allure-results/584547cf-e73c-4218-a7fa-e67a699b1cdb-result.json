@@ -1,0 +1,43 @@
+{
+    "uuid": "584547cf-e73c-4218-a7fa-e67a699b1cdb",
+    "name": "Magento\\Sales\\Test\\Unit\\CustomerData\\LastOrderedItemsTest::testGetSectionDataWithNotExistingProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037174,
+    "stop": 1711693037175,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e67e1fb0f306983bf42900b0e650b1bf",
+    "testCaseId": "0c8ac465c1a7e573b54aab5bbb237bc2",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\CustomerData\\LastOrderedItemsTest::testGetSectionDataWithNotExistingProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\CustomerData\\LastOrderedItemsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSectionDataWithNotExistingProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

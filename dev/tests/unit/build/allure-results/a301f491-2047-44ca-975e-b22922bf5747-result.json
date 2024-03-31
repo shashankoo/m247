@@ -1,0 +1,43 @@
+{
+    "uuid": "a301f491-2047-44ca-975e-b22922bf5747",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\IdentityTest::testToDefinitionFalse",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076152,
+    "stop": 1711693076152,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d174ebb1b72f3f91e58888d97eb72406",
+    "testCaseId": "b1d20932158735decabe7d1c8bc8ee53",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\IdentityTest::testToDefinitionFalse",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\IdentityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToDefinitionFalse"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

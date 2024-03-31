@@ -1,0 +1,50 @@
+{
+    "uuid": "55ce4292-0621-4021-a13c-ba319eea1d15",
+    "name": "Magento\\Weee\\Test\\Unit\\Observer\\AfterAddressSaveTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054046,
+    "stop": 1711693054046,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "76a69e4df5e51fc7e63cecd974b25170",
+    "testCaseId": "5b8db53efeba6cbd821be42cfcea5726",
+    "rerunOf": null,
+    "fullName": "Magento\\Weee\\Test\\Unit\\Observer\\AfterAddressSaveTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Weee\\Test\\Unit\\Observer\\AfterAddressSaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

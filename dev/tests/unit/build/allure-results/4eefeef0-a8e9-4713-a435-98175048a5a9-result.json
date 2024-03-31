@@ -1,0 +1,50 @@
+{
+    "uuid": "4eefeef0-a8e9-4713-a435-98175048a5a9",
+    "name": "Magento\\Reports\\Test\\Unit\\Helper\\DataTest::testPrepareIntervalsCollection",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033470,
+    "stop": 1711693033471,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5543ddd6ac7712b70b5ad9890d12e2b3",
+    "testCaseId": "cf9aa8bd895b9021f0cb3219c8bcf146",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Helper\\DataTest::testPrepareIntervalsCollection",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareIntervalsCollection"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "32374295-7d3f-450a-8af5-2996be0df82a",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Cart\\CartTotalRepositoryTest::testGetCartTotal",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032699,
+    "stop": 1711693032703,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Virtual Quote\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2c4c690cbf78951c94bc9d4757d9f7e7",
+    "testCaseId": "28894babd72ecfc055ea0fb76e8e83a2",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Cart\\CartTotalRepositoryTest::testGetCartTotal",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Cart\\CartTotalRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCartTotal"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

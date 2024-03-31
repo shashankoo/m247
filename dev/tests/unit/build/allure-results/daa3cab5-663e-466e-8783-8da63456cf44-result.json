@@ -1,0 +1,43 @@
+{
+    "uuid": "daa3cab5-663e-466e-8783-8da63456cf44",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\DB\\Statement\\MysqlTest::testExecuteWhenThrowPDOException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070660,
+    "stop": 1711693070661,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4f334abe5eda2bdc07ccd5e37df2dad8",
+    "testCaseId": "1ad7e4774584cf04fe112abae12e46e9",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\DB\\Statement\\MysqlTest::testExecuteWhenThrowPDOException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\DB\\Statement\\MysqlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenThrowPDOException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

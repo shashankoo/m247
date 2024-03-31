@@ -1,0 +1,43 @@
+{
+    "uuid": "6228e349-0a15-44e8-acad-9b50c03d9539",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Price\\Action\\RowsTest::testDeletedProductsBatchProcessing",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014618,
+    "stop": 1711693014619,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "532f84d8adf26542c6cca7830414aae4",
+    "testCaseId": "f321342d6df92cf4dd6fecdcd1041d18",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Price\\Action\\RowsTest::testDeletedProductsBatchProcessing",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Price\\Action\\RowsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeletedProductsBatchProcessing"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

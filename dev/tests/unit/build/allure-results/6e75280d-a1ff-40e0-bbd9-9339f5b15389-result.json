@@ -1,0 +1,50 @@
+{
+    "uuid": "6e75280d-a1ff-40e0-bbd9-9339f5b15389",
+    "name": "Magento\\Weee\\Test\\Unit\\Model\\Total\\Quote\\WeeeTest::testCollect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054018,
+    "stop": 1711693054018,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"price_excl_tax_weee_taxable_unit_not_included_in_subtotal_PARENT_ITEM\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4c5cd5f3ee38df4dad60c9c08b831743",
+    "testCaseId": "51011f6e0798cfafae7f8809156bb192",
+    "rerunOf": null,
+    "fullName": "Magento\\Weee\\Test\\Unit\\Model\\Total\\Quote\\WeeeTest::testCollect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Weee\\Test\\Unit\\Model\\Total\\Quote\\WeeeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

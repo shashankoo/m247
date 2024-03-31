@@ -1,0 +1,50 @@
+{
+    "uuid": "156fd03e-dbca-463c-b6fd-db76e78a2077",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Frontend\\DatetimeTest::testGetLocalizedLabel",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022653,
+    "stop": 1711693022654,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5423e5ad962e5d626f84cd349cdde06d",
+    "testCaseId": "9ee0e63165dfeffbba5ca0d548445197",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Frontend\\DatetimeTest::testGetLocalizedLabel",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Frontend\\DatetimeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLocalizedLabel"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

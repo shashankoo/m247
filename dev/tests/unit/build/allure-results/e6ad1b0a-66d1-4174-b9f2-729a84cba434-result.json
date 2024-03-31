@@ -1,0 +1,43 @@
+{
+    "uuid": "e6ad1b0a-66d1-4174-b9f2-729a84cba434",
+    "name": "Magento\\Bundle\\Test\\Unit\\Model\\Product\\TypeTest::testIsSalableWithRequiredOptionsTrue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010925,
+    "stop": 1711693010927,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cbc75947de0d17fed4e476341d2bb0ea",
+    "testCaseId": "21a902658a488214ab47710ab651d64c",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Model\\Product\\TypeTest::testIsSalableWithRequiredOptionsTrue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Model\\Product\\TypeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsSalableWithRequiredOptionsTrue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

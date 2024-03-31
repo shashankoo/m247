@@ -1,0 +1,43 @@
+{
+    "uuid": "e9114107-3fc8-49d3-a3e6-10eca47b3542",
+    "name": "Magento\\GoogleOptimizer\\Test\\Unit\\Observer\\CmsPage\\SaveGoogleExperimentScriptObserverTest::testManagingCodeIfGoogleExperimentIsDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024195,
+    "stop": 1711693024196,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2ec455bcf0c889e4e611d05cb515d2da",
+    "testCaseId": "97b9eddf2399d6e56fcba5841e22a773",
+    "rerunOf": null,
+    "fullName": "Magento\\GoogleOptimizer\\Test\\Unit\\Observer\\CmsPage\\SaveGoogleExperimentScriptObserverTest::testManagingCodeIfGoogleExperimentIsDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GoogleOptimizer\\Test\\Unit\\Observer\\CmsPage\\SaveGoogleExperimentScriptObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testManagingCodeIfGoogleExperimentIsDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "5013c3ef-8024-46c9-b1ea-07a54f296c10",
+    "name": "Magento\\Cms\\Test\\Unit\\Model\\PageRepository\\Validator\\LayoutUpdateValidatorTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017412,
+    "stop": 1711693017412,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#21",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1ded6a0aa958492b7f01cf4e3f89a8e7",
+    "testCaseId": "3133d097eabec4b88d12a4cd21749d50",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Model\\PageRepository\\Validator\\LayoutUpdateValidatorTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Model\\PageRepository\\Validator\\LayoutUpdateValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

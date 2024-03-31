@@ -1,0 +1,43 @@
+{
+    "uuid": "ddd889d6-4812-4b89-9127-f92775e27159",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\SpecialPriceStorageTest::testUpdateWithIncorrectPriceTo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015263,
+    "stop": 1711693015263,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1b5fccd4a8cc72f0614320ad741f5d5b",
+    "testCaseId": "6b917b1fa8f0a864e7b424b426aa2a08",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\SpecialPriceStorageTest::testUpdateWithIncorrectPriceTo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\SpecialPriceStorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdateWithIncorrectPriceTo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

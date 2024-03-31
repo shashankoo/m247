@@ -1,0 +1,50 @@
+{
+    "uuid": "ca22ac1b-4862-42bb-9499-a5f40adfdf2a",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Eav\\Plugin\\StoreViewTest::testAfterSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014490,
+    "stop": 1711693014491,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "02f508a23d21604637d8cad7e93cb6d7",
+    "testCaseId": "223962adf6af2a4ab0909db7d3f5c1a6",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Eav\\Plugin\\StoreViewTest::testAfterSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Eav\\Plugin\\StoreViewTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

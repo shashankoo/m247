@@ -1,0 +1,50 @@
+{
+    "uuid": "6edf9044-f444-4f05-8182-937b53e5143c",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Backend\\Email\\SenderTest::testBeforeSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017855,
+    "stop": 1711693017856,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fa2475ec3836bc21c341b6f68613d9f5",
+    "testCaseId": "dc806cee787cbd1ee5a4b5a36153670a",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Backend\\Email\\SenderTest::testBeforeSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Backend\\Email\\SenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

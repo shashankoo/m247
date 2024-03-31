@@ -1,0 +1,50 @@
+{
+    "uuid": "1592bb26-a03e-48b0-a5a6-b632d57c032a",
+    "name": "Magento\\Framework\\Reflection\\Test\\Unit\\MethodsMapTest::testIsMethodReturnValueRequired",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075452,
+    "stop": 1711693075452,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"FieldNamer#getFieldNameForMethodName\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "193343b51457b04b96bf210db91f6f9e",
+    "testCaseId": "dd09adadda9b349f45e16d89d53e4d6f",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Reflection\\Test\\Unit\\MethodsMapTest::testIsMethodReturnValueRequired",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Reflection\\Test\\Unit\\MethodsMapTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsMethodReturnValueRequired"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

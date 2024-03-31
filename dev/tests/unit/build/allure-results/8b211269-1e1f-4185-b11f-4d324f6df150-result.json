@@ -1,0 +1,43 @@
+{
+    "uuid": "8b211269-1e1f-4185-b11f-4d324f6df150",
+    "name": "Magento\\Review\\Test\\Unit\\Observer\\ProcessProductAfterDeleteEventObserverTest::testCleanupProductReviewsWithoutProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693035531,
+    "stop": 1711693035531,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f0ce90967499d1891354164ee82c2bf5",
+    "testCaseId": "395cc037f34c09a70f08d3e856594555",
+    "rerunOf": null,
+    "fullName": "Magento\\Review\\Test\\Unit\\Observer\\ProcessProductAfterDeleteEventObserverTest::testCleanupProductReviewsWithoutProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Review\\Test\\Unit\\Observer\\ProcessProductAfterDeleteEventObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCleanupProductReviewsWithoutProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

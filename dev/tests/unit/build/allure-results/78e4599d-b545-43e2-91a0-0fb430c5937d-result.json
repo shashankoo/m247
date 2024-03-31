@@ -1,0 +1,50 @@
+{
+    "uuid": "78e4599d-b545-43e2-91a0-0fb430c5937d",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Model\\Product\\TypeHandler\\LinkTest::testDelete",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022024,
+    "stop": 1711693022025,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dbc474c4f1aff18deb434684090bf5e3",
+    "testCaseId": "ab66f455c671e2fa36e59299aad1ddae",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Model\\Product\\TypeHandler\\LinkTest::testDelete",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Model\\Product\\TypeHandler\\LinkTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDelete"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

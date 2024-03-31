@@ -1,0 +1,43 @@
+{
+    "uuid": "d64cdfc4-80aa-430c-96e3-b3102d356752",
+    "name": "Magento\\AdminAdobeImsTwoFactorAuth\\Test\\Unit\\Plugin\\VerifyAdminAdobeImsIsEnableTest::testAroundExecuteWhenAdobeImsIsEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008360,
+    "stop": 1711693008363,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "015bd6facbf5fe37d0da1ccc45403d22",
+    "testCaseId": "751935f3f0a1a35b3647f83fbb204e30",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminAdobeImsTwoFactorAuth\\Test\\Unit\\Plugin\\VerifyAdminAdobeImsIsEnableTest::testAroundExecuteWhenAdobeImsIsEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminAdobeImsTwoFactorAuth\\Test\\Unit\\Plugin\\VerifyAdminAdobeImsIsEnableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundExecuteWhenAdobeImsIsEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

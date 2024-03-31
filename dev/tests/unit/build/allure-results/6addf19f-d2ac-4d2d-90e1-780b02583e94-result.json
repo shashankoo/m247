@@ -1,0 +1,50 @@
+{
+    "uuid": "6addf19f-d2ac-4d2d-90e1-780b02583e94",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\MapperTest::testBuildQuery",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023525,
+    "stop": 1711693023525,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "013ac6a170159a5006e3ddbe014b75fc",
+    "testCaseId": "937ea64c26e9c584481e4f3534d43833",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\MapperTest::testBuildQuery",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\MapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildQuery"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

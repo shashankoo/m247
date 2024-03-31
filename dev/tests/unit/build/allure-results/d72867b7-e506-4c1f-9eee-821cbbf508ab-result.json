@@ -1,0 +1,50 @@
+{
+    "uuid": "d72867b7-e506-4c1f-9eee-821cbbf508ab",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\EntityAbstractTest::testGetBehaviorWithRowData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024692,
+    "stop": 1711693024692,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"delete behavior and row with bogus string in action column\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "417e0e44749212a4bfe91121a368154c",
+    "testCaseId": "54ca4b4f98c755d00edf4e12a82af679",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\EntityAbstractTest::testGetBehaviorWithRowData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\EntityAbstractTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBehaviorWithRowData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

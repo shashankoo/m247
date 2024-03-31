@@ -1,0 +1,43 @@
+{
+    "uuid": "0f3434a0-aa55-4142-88c9-b0122e640d60",
+    "name": "Magento\\Version\\Test\\Unit\\Controller\\Index\\IndexTest::testGitBasedInstallationDoesNotReturnVersion",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053386,
+    "stop": 1711693053387,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1805df919b461ca68c3142c38fa07dda",
+    "testCaseId": "547432775ff83f69e1999e96e18a8ef9",
+    "rerunOf": null,
+    "fullName": "Magento\\Version\\Test\\Unit\\Controller\\Index\\IndexTest::testGitBasedInstallationDoesNotReturnVersion",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Version\\Test\\Unit\\Controller\\Index\\IndexTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGitBasedInstallationDoesNotReturnVersion"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

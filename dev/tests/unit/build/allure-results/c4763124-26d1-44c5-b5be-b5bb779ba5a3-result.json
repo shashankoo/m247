@@ -1,0 +1,43 @@
+{
+    "uuid": "c4763124-26d1-44c5-b5be-b5bb779ba5a3",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\AdminAccountTest::testSaveExceptionUsernameNotMatch",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055074,
+    "stop": 1711693055074,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b66905426cb29c50864cf951a61bd4fb",
+    "testCaseId": "471e2562666ffdf964e531ef58ac093c",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\AdminAccountTest::testSaveExceptionUsernameNotMatch",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\AdminAccountTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveExceptionUsernameNotMatch"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

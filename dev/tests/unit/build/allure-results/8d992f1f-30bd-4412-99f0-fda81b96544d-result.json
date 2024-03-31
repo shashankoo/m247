@@ -1,0 +1,43 @@
+{
+    "uuid": "8d992f1f-30bd-4412-99f0-fda81b96544d",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\AddressTest::testRequestShippingRates",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032844,
+    "stop": 1711693032850,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "63006374e4de4ba210369b4c05cf818b",
+    "testCaseId": "4faeea90d40c94a79eb15e0419c33b21",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\AddressTest::testRequestShippingRates",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\AddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRequestShippingRates"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

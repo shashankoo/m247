@@ -1,0 +1,43 @@
+{
+    "uuid": "4b0d518f-9cf9-4a5a-bdd0-ce18227bdbd9",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Response\\HttpTest::testSetPublicHeadersWithoutTtl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058807,
+    "stop": 1711693058808,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1014e5c7415998d49fabb45a93a6a9b2",
+    "testCaseId": "566f1ace7ae4c61ae9781139e78ca007",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Response\\HttpTest::testSetPublicHeadersWithoutTtl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Response\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetPublicHeadersWithoutTtl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

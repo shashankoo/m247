@@ -1,0 +1,50 @@
+{
+    "uuid": "d38687bf-cdcf-488e-ab70-9ab7d02eeabd",
+    "name": "Magento\\Framework\\Test\\Unit\\ArchiveTest::testIsTar",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056446,
+    "stop": 1711693056446,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#11",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ebfaffa17f1980fce3409152d9e94bc4",
+    "testCaseId": "d0460aeb07fc7c45e951ad65e5195000",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\ArchiveTest::testIsTar",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\ArchiveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsTar"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

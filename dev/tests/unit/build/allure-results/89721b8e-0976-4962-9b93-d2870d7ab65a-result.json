@@ -1,0 +1,43 @@
+{
+    "uuid": "89721b8e-0976-4962-9b93-d2870d7ab65a",
+    "name": "Magento\\GiftMessage\\Test\\Unit\\Model\\OrderItemRepositoryTest::testSaveCouldNotSaveExceptionOnSaveAllInOrder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024022,
+    "stop": 1711693024023,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3d3d97691612812b182e3451167950a4",
+    "testCaseId": "e9ac77d07f40da46def77ecfdf12cecd",
+    "rerunOf": null,
+    "fullName": "Magento\\GiftMessage\\Test\\Unit\\Model\\OrderItemRepositoryTest::testSaveCouldNotSaveExceptionOnSaveAllInOrder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GiftMessage\\Test\\Unit\\Model\\OrderItemRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveCouldNotSaveExceptionOnSaveAllInOrder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

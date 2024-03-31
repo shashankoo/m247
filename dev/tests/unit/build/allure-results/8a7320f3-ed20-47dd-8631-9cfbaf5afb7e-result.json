@@ -1,0 +1,43 @@
+{
+    "uuid": "8a7320f3-ed20-47dd-8631-9cfbaf5afb7e",
+    "name": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\RequestTest::testSetPathInfoWithQueryPart",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073646,
+    "stop": 1711693073646,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c7507b51278e08570540104487b383b3",
+    "testCaseId": "95d3ecbe6e96d93b2c34613302a18c07",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\RequestTest::testSetPathInfoWithQueryPart",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\RequestTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetPathInfoWithQueryPart"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "4d5afdd2-dc7c-44eb-8d33-f0a647060a8f",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\Structure\\PaymentSectionModifierTest::testSpecialGroupsPresent",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031992,
+    "stop": 1711693031992,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a4ec8809491c1aacbdee5003407d3f5e",
+    "testCaseId": "657cd4bb570abeb732f90aadea4a2a0e",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\Structure\\PaymentSectionModifierTest::testSpecialGroupsPresent",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\Structure\\PaymentSectionModifierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSpecialGroupsPresent"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

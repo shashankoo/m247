@@ -1,0 +1,50 @@
+{
+    "uuid": "a61b2b04-98ab-40f0-b610-7ecc49b302e1",
+    "name": "Magento\\Vault\\Test\\Unit\\Plugin\\PaymentVaultConfigurationProcessTest::testBeforeProcess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053381,
+    "stop": 1711693053382,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3582a784f0dc5df85c3fea9e7132e7cd",
+    "testCaseId": "8bd88dcdc5fb7bd7e64a8bef0b3de60d",
+    "rerunOf": null,
+    "fullName": "Magento\\Vault\\Test\\Unit\\Plugin\\PaymentVaultConfigurationProcessTest::testBeforeProcess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Vault\\Test\\Unit\\Plugin\\PaymentVaultConfigurationProcessTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeProcess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

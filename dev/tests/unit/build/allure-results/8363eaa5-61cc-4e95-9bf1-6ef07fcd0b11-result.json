@@ -1,0 +1,50 @@
+{
+    "uuid": "8363eaa5-61cc-4e95-9bf1-6ef07fcd0b11",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ShippingAssignment\\ShippingProcessorTest::testSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032943,
+    "stop": 1711693032944,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4b82abb9080aa90f1c10b80b1da769a8",
+    "testCaseId": "50347ae2fee827cdaff3a5d8c1f6a519",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ShippingAssignment\\ShippingProcessorTest::testSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ShippingAssignment\\ShippingProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

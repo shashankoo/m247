@@ -1,0 +1,43 @@
+{
+    "uuid": "e1b7362b-f378-4906-bf1a-8317b5233ae7",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\TaxCalculationTest::testCalculateTaxIfNoItemsInQuote",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042766,
+    "stop": 1711693042766,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "820895c1dd227566f37fb21b593b5c2f",
+    "testCaseId": "6c8adf828eeafb1961e886c869d6a235",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\TaxCalculationTest::testCalculateTaxIfNoItemsInQuote",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\TaxCalculationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCalculateTaxIfNoItemsInQuote"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

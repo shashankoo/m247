@@ -1,0 +1,43 @@
+{
+    "uuid": "b55e7894-0b20-41c5-9303-67874b2d27fe",
+    "name": "Magento\\GraphQl\\Test\\Unit\\Plugin\\DisableSessionTest::testAfterCheckDataProviderNoAreaCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024242,
+    "stop": 1711693024243,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c9e045d82fbc43b53847f14e1e061873",
+    "testCaseId": "334befc47db4c1b93009ff94e1d4fe46",
+    "rerunOf": null,
+    "fullName": "Magento\\GraphQl\\Test\\Unit\\Plugin\\DisableSessionTest::testAfterCheckDataProviderNoAreaCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GraphQl\\Test\\Unit\\Plugin\\DisableSessionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterCheckDataProviderNoAreaCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

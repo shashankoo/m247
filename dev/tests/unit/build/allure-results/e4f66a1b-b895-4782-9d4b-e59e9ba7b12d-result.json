@@ -1,0 +1,50 @@
+{
+    "uuid": "e4f66a1b-b895-4782-9d4b-e59e9ba7b12d",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Model\\AvsEmsCodeMapperTest::testGetCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056337,
+    "stop": 1711693056338,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7b950f5bdd8caf9da983f55c113031c8",
+    "testCaseId": "5cefd08047023509c63c560a7346d8aa",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Model\\AvsEmsCodeMapperTest::testGetCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Model\\AvsEmsCodeMapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "e7900c29-f575-4a43-b6ec-6258d1879d96",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest::testHasSpecialPrice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018731,
+    "stop": 1711693018732,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f399b348acaa0b33eadbc4c3f23e9185",
+    "testCaseId": "d099bfcbe6d3599587dfd87eb755e119",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest::testHasSpecialPrice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testHasSpecialPrice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "e3ab0629-7ce1-4056-b9ea-8b7daf9b61fa",
+    "name": "Magento\\Backend\\Test\\Unit\\Console\\Command\\CacheFlushCommandTest::testExecuteInvalidCacheType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009733,
+    "stop": 1711693009733,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5bd211bbf469b6e7131c016a70d7c538",
+    "testCaseId": "d0456501c122b62331902fd39a6af7a2",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Console\\Command\\CacheFlushCommandTest::testExecuteInvalidCacheType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Console\\Command\\CacheFlushCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteInvalidCacheType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

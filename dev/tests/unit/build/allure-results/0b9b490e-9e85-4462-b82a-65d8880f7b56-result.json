@@ -1,0 +1,50 @@
+{
+    "uuid": "0b9b490e-9e85-4462-b82a-65d8880f7b56",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Config\\FileResolverTest::testGetPrimary",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057783,
+    "stop": 1711693057783,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "adf9aadb177bda670c315d711059854d",
+    "testCaseId": "8f10119c25a28b4c13bc566e10edcf9c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Config\\FileResolverTest::testGetPrimary",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Config\\FileResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPrimary"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

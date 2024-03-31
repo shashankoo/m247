@@ -1,0 +1,50 @@
+{
+    "uuid": "6a6674e2-cd39-4f80-a559-b2bbcac38819",
+    "name": "Magento\\DownloadableImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\DownloadableTest::testSaveDataAppend",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021833,
+    "stop": 1711693021834,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5a585d8c368118dd825360efd70ca1e5",
+    "testCaseId": "05509f3d438f316197da8ffec7452d63",
+    "rerunOf": null,
+    "fullName": "Magento\\DownloadableImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\DownloadableTest::testSaveDataAppend",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\DownloadableImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\DownloadableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveDataAppend"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

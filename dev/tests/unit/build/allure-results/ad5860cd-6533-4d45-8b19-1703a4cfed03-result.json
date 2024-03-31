@@ -1,0 +1,43 @@
+{
+    "uuid": "ad5860cd-6533-4d45-8b19-1703a4cfed03",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\AreaListTest::testGetCodeByFrontNameWhenAreaDoesNotContainFrontName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057670,
+    "stop": 1711693057671,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8bc1a96c688227de5dcd7cda79f7e942",
+    "testCaseId": "88521cfd8fff1ca033c9b5a0d71786ef",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\AreaListTest::testGetCodeByFrontNameWhenAreaDoesNotContainFrontName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\AreaListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCodeByFrontNameWhenAreaDoesNotContainFrontName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

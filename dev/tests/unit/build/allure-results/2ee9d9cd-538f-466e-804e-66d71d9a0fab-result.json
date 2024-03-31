@@ -1,0 +1,50 @@
+{
+    "uuid": "2ee9d9cd-538f-466e-804e-66d71d9a0fab",
+    "name": "Magento\\Framework\\Jwt\\Test\\Unit\\Jwe\\JweEncryptionJwksTest::testGetAlgorithmName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073874,
+    "stop": 1711693073874,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"json\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "40621ebf52932137ebeafe7e8926a627",
+    "testCaseId": "9df646ff18c3f7b1df303932f8bd79c2",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Jwt\\Test\\Unit\\Jwe\\JweEncryptionJwksTest::testGetAlgorithmName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Jwt\\Test\\Unit\\Jwe\\JweEncryptionJwksTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAlgorithmName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

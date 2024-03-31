@@ -1,0 +1,50 @@
+{
+    "uuid": "637f0c47-9bd2-4130-a118-bcdc9deb9282",
+    "name": "Magento\\InventoryReservations\\Test\\Unit\\Model\\ReservationBuilderTest::testThrowValidationException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030275,
+    "stop": 1711693030275,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"with_missing_sku\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2cbccf12a726a09f0c6087facf16fb61",
+    "testCaseId": "64f3f09a7afa4e4cfe0ff11c09a05b23",
+    "rerunOf": null,
+    "fullName": "Magento\\InventoryReservations\\Test\\Unit\\Model\\ReservationBuilderTest::testThrowValidationException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\InventoryReservations\\Test\\Unit\\Model\\ReservationBuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testThrowValidationException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

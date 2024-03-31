@@ -1,0 +1,50 @@
+{
+    "uuid": "80bdd1b9-29ba-4edc-bb00-5732eb9de8e8",
+    "name": "Magento\\SampleData\\Test\\Unit\\Console\\Command\\SampleDataDeployCommandTest::testExecuteWithNoUpdate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041133,
+    "stop": 1711693041134,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"No auth.json found\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "848bd5b1afde5f87df13195a486e6a04",
+    "testCaseId": "07a61c8227cfe451a264b9bd53cfe107",
+    "rerunOf": null,
+    "fullName": "Magento\\SampleData\\Test\\Unit\\Console\\Command\\SampleDataDeployCommandTest::testExecuteWithNoUpdate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SampleData\\Test\\Unit\\Console\\Command\\SampleDataDeployCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithNoUpdate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

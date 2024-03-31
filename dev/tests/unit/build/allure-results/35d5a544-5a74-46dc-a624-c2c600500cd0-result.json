@@ -1,0 +1,50 @@
+{
+    "uuid": "35d5a544-5a74-46dc-a624-c2c600500cd0",
+    "name": "Magento\\Weee\\Test\\Unit\\Pricing\\TaxAdjustmentTest::testIsIncludedInDisplayPrice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054150,
+    "stop": 1711693054151,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"display_incl_tax\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "81f48c8b222fe81a559ff6ea7777f554",
+    "testCaseId": "7db4a6fc052cd3128a88f1a23f49d16b",
+    "rerunOf": null,
+    "fullName": "Magento\\Weee\\Test\\Unit\\Pricing\\TaxAdjustmentTest::testIsIncludedInDisplayPrice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Weee\\Test\\Unit\\Pricing\\TaxAdjustmentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsIncludedInDisplayPrice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

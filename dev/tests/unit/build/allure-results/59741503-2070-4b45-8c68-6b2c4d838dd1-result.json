@@ -1,0 +1,43 @@
+{
+    "uuid": "59741503-2070-4b45-8c68-6b2c4d838dd1",
+    "name": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\SetModeCommandTest::testSetProductionSkipCompilation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021247,
+    "stop": 1711693021247,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "fd69c7949bd784bec8640f4aa4c7ea64",
+    "testCaseId": "78ab17831340fe27453ec5cd041c1d58",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\SetModeCommandTest::testSetProductionSkipCompilation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\SetModeCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetProductionSkipCompilation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

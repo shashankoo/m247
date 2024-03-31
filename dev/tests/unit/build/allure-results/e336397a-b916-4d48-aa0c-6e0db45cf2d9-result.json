@@ -1,0 +1,43 @@
+{
+    "uuid": "e336397a-b916-4d48-aa0c-6e0db45cf2d9",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ItemTest::testGetQtyOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032908,
+    "stop": 1711693032909,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getStockItem\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "578bd6ae54b60fc932ffb5eb90486293",
+    "testCaseId": "2d84b80a5833655ce5f0031e176990b9",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ItemTest::testGetQtyOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetQtyOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

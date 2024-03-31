@@ -1,0 +1,50 @@
+{
+    "uuid": "4cc37bb8-515c-4abd-8298-a3adf3322e2b",
+    "name": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\Entity\\BulkSummaryMapperTest::testEntityToDatabase",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009274,
+    "stop": 1711693009276,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b825f24469da7ef2062699b4d0b20ac4",
+    "testCaseId": "def885f8fa556ad9ee79e123962d1eb8",
+    "rerunOf": null,
+    "fullName": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\Entity\\BulkSummaryMapperTest::testEntityToDatabase",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\Entity\\BulkSummaryMapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEntityToDatabase"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

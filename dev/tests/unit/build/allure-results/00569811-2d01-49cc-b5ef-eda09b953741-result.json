@@ -1,0 +1,50 @@
+{
+    "uuid": "00569811-2d01-49cc-b5ef-eda09b953741",
+    "name": "Magento\\Sales\\Test\\Unit\\Ui\\Component\\Listing\\Column\\PriceTest::testPrepareDataSource",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041114,
+    "stop": 1711693041114,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f1560b6444d7bb4a06af783187a99a5d",
+    "testCaseId": "93ac6be5e46d71ecd2097fed0d6a4d3b",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Ui\\Component\\Listing\\Column\\PriceTest::testPrepareDataSource",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Ui\\Component\\Listing\\Column\\PriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareDataSource"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

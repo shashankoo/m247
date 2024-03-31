@@ -1,0 +1,50 @@
+{
+    "uuid": "cf484acd-e230-4bd6-b811-9c57ff14599b",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\Option\\ComparatorTest::testCompare",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032862,
+    "stop": 1711693032862,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#7",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3a349c1d255c2e88e4cb2077fef10efb",
+    "testCaseId": "921eac59d2e7b136840269ca2f50c0a3",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\Option\\ComparatorTest::testCompare",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\Option\\ComparatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCompare"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

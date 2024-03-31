@@ -1,0 +1,50 @@
+{
+    "uuid": "8f9ca48a-66d4-478c-b42e-807d5f70983a",
+    "name": "Magento\\Framework\\Indexer\\Test\\Unit\\BatchProviderTest::testGetBatches",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073704,
+    "stop": 1711693073704,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3f684d2a3dfe3374a07c966c038903f3",
+    "testCaseId": "8b83635c0781a6a7b02d5b702f69c1f3",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Indexer\\Test\\Unit\\BatchProviderTest::testGetBatches",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Indexer\\Test\\Unit\\BatchProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBatches"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

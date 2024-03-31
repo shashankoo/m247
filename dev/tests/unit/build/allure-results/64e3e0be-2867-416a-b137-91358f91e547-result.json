@@ -1,0 +1,43 @@
+{
+    "uuid": "64e3e0be-2867-416a-b137-91358f91e547",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\StaticResourceTest::testLaunchProductionMode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058916,
+    "stop": 1711693058919,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "19ae0b2deaa2f0941698cef54427cd53",
+    "testCaseId": "146e031bc726d05ee6f7bfdd88c294eb",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\StaticResourceTest::testLaunchProductionMode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\StaticResourceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLaunchProductionMode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

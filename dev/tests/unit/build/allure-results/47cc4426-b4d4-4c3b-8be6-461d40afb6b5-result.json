@@ -1,0 +1,50 @@
+{
+    "uuid": "47cc4426-b4d4-4c3b-8be6-461d40afb6b5",
+    "name": "Magento\\Swatches\\Test\\Unit\\Observer\\AddFieldsToAttributeObserverTest::testAddFields",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042302,
+    "stop": 1711693042303,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8c171319d7fb25c9f8e11fc5fb37bfba",
+    "testCaseId": "920459a63fb7c3c57213187330a9ea1b",
+    "rerunOf": null,
+    "fullName": "Magento\\Swatches\\Test\\Unit\\Observer\\AddFieldsToAttributeObserverTest::testAddFields",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Swatches\\Test\\Unit\\Observer\\AddFieldsToAttributeObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddFields"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "0c22d5a3-47b6-4ad9-b9b1-54ca90a51fbf",
+    "name": "Magento\\Framework\\Crontab\\Test\\Unit\\TasksProviderTest::testTasksProviderEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070507,
+    "stop": 1711693070508,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e9e0f1e15d79f84d1a7e639545488896",
+    "testCaseId": "a71b79af625150331686adc67210f8f2",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Crontab\\Test\\Unit\\TasksProviderTest::testTasksProviderEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Crontab\\Test\\Unit\\TasksProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testTasksProviderEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

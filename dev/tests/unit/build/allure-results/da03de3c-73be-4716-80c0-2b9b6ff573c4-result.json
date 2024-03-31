@@ -1,0 +1,43 @@
+{
+    "uuid": "da03de3c-73be-4716-80c0-2b9b6ff573c4",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\QuoteManagementTest::testGetCartForCustomer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032981,
+    "stop": 1711693032981,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ec788cb5628f191d2c777f064b5e75ef",
+    "testCaseId": "f7089c860a7742a04825c18e4fda2b5d",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\QuoteManagementTest::testGetCartForCustomer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\QuoteManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCartForCustomer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

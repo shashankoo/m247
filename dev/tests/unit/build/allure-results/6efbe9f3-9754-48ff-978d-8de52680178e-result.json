@@ -1,0 +1,43 @@
+{
+    "uuid": "6efbe9f3-9754-48ff-978d-8de52680178e",
+    "name": "Magento\\Quote\\Test\\Unit\\Observer\\Frontend\\Quote\\Address\\CollectTotalsObserverTest::testDispatchWithAddressCustomerVatIdAndCountryId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033272,
+    "stop": 1711693033273,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "759f51e916c3b0da310ace8c45cd0d3a",
+    "testCaseId": "744eaabe1a986bbba309e7455c81a961",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Observer\\Frontend\\Quote\\Address\\CollectTotalsObserverTest::testDispatchWithAddressCustomerVatIdAndCountryId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Observer\\Frontend\\Quote\\Address\\CollectTotalsObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDispatchWithAddressCustomerVatIdAndCountryId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

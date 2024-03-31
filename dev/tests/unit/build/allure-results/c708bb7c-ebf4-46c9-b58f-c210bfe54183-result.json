@@ -1,0 +1,50 @@
+{
+    "uuid": "c708bb7c-ebf4-46c9-b58f-c210bfe54183",
+    "name": "Magento\\Webapi\\Test\\Unit\\Controller\\PathProcessorTest::testAllStoreCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053439,
+    "stop": 1711693053440,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"All store code\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0155673990c12bd0e02e55b8f927561f",
+    "testCaseId": "d437e0de5e63c0004a83beb9a6c7a077",
+    "rerunOf": null,
+    "fullName": "Magento\\Webapi\\Test\\Unit\\Controller\\PathProcessorTest::testAllStoreCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Webapi\\Test\\Unit\\Controller\\PathProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAllStoreCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

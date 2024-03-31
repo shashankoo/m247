@@ -1,0 +1,43 @@
+{
+    "uuid": "a308ecab-3ed4-40ee-b641-21d56b888f24",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\ProTest::testCapture",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032417,
+    "stop": 1711693032419,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "59601b9d458fa16b3dd63380e843d459",
+    "testCaseId": "c57b9ffec6fc9d92aeb9ac665eca5975",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\ProTest::testCapture",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\ProTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCapture"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

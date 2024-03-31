@@ -1,0 +1,43 @@
+{
+    "uuid": "1049317d-33d2-47a6-8497-536d732491eb",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Rss\\OrderStatusTest::testIsAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041005,
+    "stop": 1711693041006,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e830c42d4dfb41e9d2f33602240367f8",
+    "testCaseId": "45848b5f7e3f8bf441bdba51a36a877c",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Rss\\OrderStatusTest::testIsAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Rss\\OrderStatusTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

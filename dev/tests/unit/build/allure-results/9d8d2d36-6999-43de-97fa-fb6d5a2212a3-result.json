@@ -1,0 +1,43 @@
+{
+    "uuid": "9d8d2d36-6999-43de-97fa-fb6d5a2212a3",
+    "name": "Magento\\Framework\\Locale\\Test\\Unit\\ConfigTest::testGetAllowedCurrenciesGivenRedundantDataArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073885,
+    "stop": 1711693073886,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "aeefe249a4a179031f3455d8afbe1867",
+    "testCaseId": "4c0699367ca98893b2efd21f9bf189f6",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Locale\\Test\\Unit\\ConfigTest::testGetAllowedCurrenciesGivenRedundantDataArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Locale\\Test\\Unit\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAllowedCurrenciesGivenRedundantDataArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

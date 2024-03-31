@@ -1,0 +1,50 @@
+{
+    "uuid": "f34c51c8-6acf-4caf-9996-10d7fb6ba7c5",
+    "name": "Magento\\Theme\\Test\\Unit\\Model\\ThemeTest::testIsPhysical",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043607,
+    "stop": 1711693043607,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b1e40cbb08cc8f1003ddace099436475",
+    "testCaseId": "6e1a11ee38244cceb696fbe03a697a12",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Model\\ThemeTest::testIsPhysical",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Model\\ThemeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsPhysical"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

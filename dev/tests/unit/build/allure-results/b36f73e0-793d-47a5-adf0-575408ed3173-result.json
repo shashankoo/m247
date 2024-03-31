@@ -1,0 +1,43 @@
+{
+    "uuid": "b36f73e0-793d-47a5-adf0-575408ed3173",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\OptionManagementTest::testAddWithCannotSaveException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022681,
+    "stop": 1711693022682,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1188f0a9002a904a17c4e50de5b64a90",
+    "testCaseId": "4236dc1cafb8b51b60eb31cc504003ff",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\OptionManagementTest::testAddWithCannotSaveException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\OptionManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddWithCannotSaveException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

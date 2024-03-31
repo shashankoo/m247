@@ -1,0 +1,50 @@
+{
+    "uuid": "80c32961-58d6-422a-afcb-61e9350a0eac",
+    "name": "Magento\\Framework\\Locale\\Test\\Unit\\FormatTest::testGetPriceFormat",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073941,
+    "stop": 1711693073942,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "40886fb7e8ddd6235a21fe6a664c5e33",
+    "testCaseId": "230b68ea6c8b0c24ac7ea87e62a21cc5",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Locale\\Test\\Unit\\FormatTest::testGetPriceFormat",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Locale\\Test\\Unit\\FormatTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPriceFormat"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

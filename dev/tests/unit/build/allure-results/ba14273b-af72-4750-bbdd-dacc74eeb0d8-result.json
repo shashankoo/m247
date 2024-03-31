@@ -1,0 +1,50 @@
+{
+    "uuid": "ba14273b-af72-4750-bbdd-dacc74eeb0d8",
+    "name": "Magento\\GoogleAnalytics\\Test\\Unit\\Helper\\DataTest::testIsAnonymizedIpActive",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024127,
+    "stop": 1711693024127,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5d8478d2e2eb47b63200d9d9a9f68bc1",
+    "testCaseId": "b5e41e6cc6e07d08be40a35528efc2b2",
+    "rerunOf": null,
+    "fullName": "Magento\\GoogleAnalytics\\Test\\Unit\\Helper\\DataTest::testIsAnonymizedIpActive",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GoogleAnalytics\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAnonymizedIpActive"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

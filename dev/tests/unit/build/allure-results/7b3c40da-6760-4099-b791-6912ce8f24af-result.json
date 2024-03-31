@@ -1,0 +1,43 @@
+{
+    "uuid": "7b3c40da-6760-4099-b791-6912ce8f24af",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Observer\\AddSalesRuleNameToOrderObserverTest::testAddSalesRuleNameToOrderWithoutRule",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036252,
+    "stop": 1711693036252,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3de31e1c5834947bb5c50c4d78a1440c",
+    "testCaseId": "5bd1c74756a7d7afd66f21e56bb4ec7c",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Observer\\AddSalesRuleNameToOrderObserverTest::testAddSalesRuleNameToOrderWithoutRule",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Observer\\AddSalesRuleNameToOrderObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddSalesRuleNameToOrderWithoutRule"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

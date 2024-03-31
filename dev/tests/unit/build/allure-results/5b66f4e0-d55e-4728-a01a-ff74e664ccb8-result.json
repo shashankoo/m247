@@ -1,0 +1,50 @@
+{
+    "uuid": "5b66f4e0-d55e-4728-a01a-ff74e664ccb8",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Utility\\AggregateInvokerTest::testMainFlow",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058949,
+    "stop": 1711693058950,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d28f72450844ae2b1ad88add91a9d0eb",
+    "testCaseId": "79819f55e4aa1f5f76bd99ee0b4c3e23",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Utility\\AggregateInvokerTest::testMainFlow",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Utility\\AggregateInvokerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMainFlow"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

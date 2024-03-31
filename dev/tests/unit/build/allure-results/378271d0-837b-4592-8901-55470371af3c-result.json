@@ -1,0 +1,50 @@
+{
+    "uuid": "378271d0-837b-4592-8901-55470371af3c",
+    "name": "Magento\\Sales\\Test\\Unit\\Helper\\AdminTest::testApplySalableProductTypesFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037328,
+    "stop": 1711693037329,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "aa6fd13e36c97ccbf56b1cfd0fd65c72",
+    "testCaseId": "0f35691ba3ca1609a350ed0734f45487",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Helper\\AdminTest::testApplySalableProductTypesFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Helper\\AdminTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testApplySalableProductTypesFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

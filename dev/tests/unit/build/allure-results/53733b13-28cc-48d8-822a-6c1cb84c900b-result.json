@@ -1,0 +1,43 @@
+{
+    "uuid": "53733b13-28cc-48d8-822a-6c1cb84c900b",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\LockGuardedCacheLoaderTest::testOptimisticDataRead",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059316,
+    "stop": 1711693059316,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f597165ca1766312bf78b0a7fdd4c2e0",
+    "testCaseId": "0aef01a72698a4c3202877173db6b771",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\LockGuardedCacheLoaderTest::testOptimisticDataRead",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\LockGuardedCacheLoaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testOptimisticDataRead"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

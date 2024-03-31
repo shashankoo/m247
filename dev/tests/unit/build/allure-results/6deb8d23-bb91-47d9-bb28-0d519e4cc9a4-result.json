@@ -1,0 +1,43 @@
+{
+    "uuid": "6deb8d23-bb91-47d9-bb28-0d519e4cc9a4",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\PhpReadinessCheckTest::testCheckPhpVersionFailed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055515,
+    "stop": 1711693055515,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9f1b35ece48cf5082f31a60107d86742",
+    "testCaseId": "ea9503c5592ebe890ce804e509385e74",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\PhpReadinessCheckTest::testCheckPhpVersionFailed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\PhpReadinessCheckTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckPhpVersionFailed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

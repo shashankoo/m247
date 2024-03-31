@@ -1,0 +1,43 @@
+{
+    "uuid": "a10d704e-5db7-49c0-8c6c-83ac51e9d4ac",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Reorder\\SidebarTest::testInitOrders",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036749,
+    "stop": 1711693036749,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "MAGETWO-36789",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "aa517ab8065e0bfb7e99d64b8b8f6def",
+    "testCaseId": "d7d737810bc14db9f8e1a13204d53814",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Reorder\\SidebarTest::testInitOrders",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Reorder\\SidebarTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInitOrders"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

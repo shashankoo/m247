@@ -1,0 +1,43 @@
+{
+    "uuid": "3feeb0fc-92c2-4d80-836e-24ee2d60c383",
+    "name": "Magento\\GoogleOptimizer\\Test\\Unit\\Model\\Plugin\\Catalog\\Product\\Category\\DataProviderTest::testAfterGetMetaNegative",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024175,
+    "stop": 1711693024175,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a7f891428aa3eb2e9fadaca8fd8e39c3",
+    "testCaseId": "d048f1a718110ec57092970fd7bab5ae",
+    "rerunOf": null,
+    "fullName": "Magento\\GoogleOptimizer\\Test\\Unit\\Model\\Plugin\\Catalog\\Product\\Category\\DataProviderTest::testAfterGetMetaNegative",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GoogleOptimizer\\Test\\Unit\\Model\\Plugin\\Catalog\\Product\\Category\\DataProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetMetaNegative"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "a37c733f-92f1-4edd-a87c-78ee299b3600",
+    "name": "Magento\\Payment\\Test\\Unit\\Model\\Checks\\CanUseForCountry\\CountryProviderTest::testGetCountryShippingAddress",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031614,
+    "stop": 1711693031614,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1cbe8d64a03f36c390492c45d5301526",
+    "testCaseId": "ff8a48ae29d66c7e9daf2c63edb418d5",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Model\\Checks\\CanUseForCountry\\CountryProviderTest::testGetCountryShippingAddress",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Model\\Checks\\CanUseForCountry\\CountryProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCountryShippingAddress"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

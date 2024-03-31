@@ -1,0 +1,50 @@
+{
+    "uuid": "3a6d9178-0050-4446-8498-00c7d3bf17f0",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testCanNotCreditMemoWithSomeStates",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039867,
+    "stop": 1711693039867,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "824b6f24ffccf678bce61772b17755bd",
+    "testCaseId": "1fb91021b24ee9e3648568f390ea105d",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testCanNotCreditMemoWithSomeStates",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanNotCreditMemoWithSomeStates"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

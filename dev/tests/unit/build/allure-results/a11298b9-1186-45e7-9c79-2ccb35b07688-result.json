@@ -1,0 +1,50 @@
+{
+    "uuid": "a11298b9-1186-45e7-9c79-2ccb35b07688",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\UtilityTest::testMergeIds",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036215,
+    "stop": 1711693036215,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "18578dd427831dcdfd0151fc22c05156",
+    "testCaseId": "7c3af379c9bf1ced7328c75197129816",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\UtilityTest::testMergeIds",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\UtilityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMergeIds"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

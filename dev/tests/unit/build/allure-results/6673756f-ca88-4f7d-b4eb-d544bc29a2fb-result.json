@@ -1,0 +1,43 @@
+{
+    "uuid": "6673756f-ca88-4f7d-b4eb-d544bc29a2fb",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\Calculation\\RateRegistryTest::testRetrieveTaxRate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042619,
+    "stop": 1711693042620,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8d639783eefc64e66564f9aa2fe07ca2",
+    "testCaseId": "75f6ea02034de07167deb26c29b85089",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\Calculation\\RateRegistryTest::testRetrieveTaxRate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\Calculation\\RateRegistryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRetrieveTaxRate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

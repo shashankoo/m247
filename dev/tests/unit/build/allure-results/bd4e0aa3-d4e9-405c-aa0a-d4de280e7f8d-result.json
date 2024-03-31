@@ -1,0 +1,50 @@
+{
+    "uuid": "bd4e0aa3-d4e9-405c-aa0a-d4de280e7f8d",
+    "name": "Magento\\Swatches\\Test\\Unit\\Block\\Adminhtml\\Product\\Attribute\\Edit\\FormTest::testAddValues",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042044,
+    "stop": 1711693042044,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ccc57aaa5b60c2d982216e2ae3403bdb",
+    "testCaseId": "bcf0c6ab8a0320178d01c566894d9909",
+    "rerunOf": null,
+    "fullName": "Magento\\Swatches\\Test\\Unit\\Block\\Adminhtml\\Product\\Attribute\\Edit\\FormTest::testAddValues",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Swatches\\Test\\Unit\\Block\\Adminhtml\\Product\\Attribute\\Edit\\FormTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddValues"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

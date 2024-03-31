@@ -1,0 +1,43 @@
+{
+    "uuid": "6999b9ac-ed24-4b0b-bb94-9efc18f57256",
+    "name": "Magento\\Framework\\DataObject\\Test\\Unit\\CopyTest::testGetDataFromFieldsetWhenFieldsetDoesNotExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071559,
+    "stop": 1711693071560,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dfd0a876d23727fd49ca34627e6b6660",
+    "testCaseId": "ca507906289eee765e436c2c0e317a25",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DataObject\\Test\\Unit\\CopyTest::testGetDataFromFieldsetWhenFieldsetDoesNotExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DataObject\\Test\\Unit\\CopyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDataFromFieldsetWhenFieldsetDoesNotExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

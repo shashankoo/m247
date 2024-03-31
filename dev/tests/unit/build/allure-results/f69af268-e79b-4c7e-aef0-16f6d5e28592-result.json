@@ -1,0 +1,50 @@
+{
+    "uuid": "f69af268-e79b-4c7e-aef0-16f6d5e28592",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlFactoryTest::testCreate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070598,
+    "stop": 1711693070598,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e90dc778d1c0f07537e4770b37903a93",
+    "testCaseId": "052effa06132636b7533d34cd385f569",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlFactoryTest::testCreate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

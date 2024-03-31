@@ -1,0 +1,43 @@
+{
+    "uuid": "0750791c-9836-4124-a4d9-20409cd7d1d8",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\ShippingTest::testGetCarrierNameWithEmptyName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030687,
+    "stop": 1711693030688,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "94178b1dbc047ceea31c0d90b7e4420c",
+    "testCaseId": "9ed6ceb5629306ea797d34e90c1a3cd9",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\ShippingTest::testGetCarrierNameWithEmptyName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\ShippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCarrierNameWithEmptyName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "92f683f2-a830-4d46-8b0b-dbb251d41be5",
+    "name": "Magento\\Security\\Test\\Unit\\Block\\Adminhtml\\Session\\ActivityTest::testFormatDateTime",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041244,
+    "stop": 1711693041244,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3f7902756be092a68ca1806d006f5dcb",
+    "testCaseId": "492789a37bcd623b7405e68128149846",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Block\\Adminhtml\\Session\\ActivityTest::testFormatDateTime",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Block\\Adminhtml\\Session\\ActivityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFormatDateTime"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

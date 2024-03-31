@@ -1,0 +1,43 @@
+{
+    "uuid": "892214f8-798f-464c-a6fb-c758b2f4bda6",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Reorder\\UnavailableProductsProviderTest::testGetForOrder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038703,
+    "stop": 1711693038704,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "33d423733f43ad611f17856c7ae061a5",
+    "testCaseId": "28838fffb67563107869685a0ea5b206",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Reorder\\UnavailableProductsProviderTest::testGetForOrder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Reorder\\UnavailableProductsProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetForOrder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

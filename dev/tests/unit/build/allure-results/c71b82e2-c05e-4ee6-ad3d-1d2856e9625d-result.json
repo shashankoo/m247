@@ -1,0 +1,43 @@
+{
+    "uuid": "c71b82e2-c05e-4ee6-ad3d-1d2856e9625d",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Status\\HistoryTest::testSetIsCustomerNotifiedNotApplicable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039389,
+    "stop": 1711693039389,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c5e0ad49572c36a06aef8b6f4b40cf8e",
+    "testCaseId": "9f4fb7a91d3ffa7c0814f292c58fa3b6",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Status\\HistoryTest::testSetIsCustomerNotifiedNotApplicable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Status\\HistoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetIsCustomerNotifiedNotApplicable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

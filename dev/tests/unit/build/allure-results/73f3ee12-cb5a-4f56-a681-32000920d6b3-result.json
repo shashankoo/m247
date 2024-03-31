@@ -1,0 +1,43 @@
+{
+    "uuid": "73f3ee12-cb5a-4f56-a681-32000920d6b3",
+    "name": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\AddressTest::testValidateRowForUpdateDuplicateRows",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019189,
+    "stop": 1711693019191,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3f3c3525a6350d4fa1fcc2cc520c9172",
+    "testCaseId": "feb2acb7ea51ab2fcd6056b6dbf6a64c",
+    "rerunOf": null,
+    "fullName": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\AddressTest::testValidateRowForUpdateDuplicateRows",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\AddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateRowForUpdateDuplicateRows"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

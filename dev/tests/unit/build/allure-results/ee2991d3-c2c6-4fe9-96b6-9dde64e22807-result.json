@@ -1,0 +1,50 @@
+{
+    "uuid": "ee2991d3-c2c6-4fe9-96b6-9dde64e22807",
+    "name": "Magento\\Tax\\Test\\Unit\\Observer\\UpdateProductOptionsObserverTest::testUpdateProductOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042827,
+    "stop": 1711693042828,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "81f6bcc267808adba9c51f172da0e0d0",
+    "testCaseId": "1c0f71fe05c981485a4f5fc30b793ef9",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Observer\\UpdateProductOptionsObserverTest::testUpdateProductOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Observer\\UpdateProductOptionsObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdateProductOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

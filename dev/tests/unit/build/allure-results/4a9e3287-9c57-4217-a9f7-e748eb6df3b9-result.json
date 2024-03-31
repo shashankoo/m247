@@ -1,0 +1,50 @@
+{
+    "uuid": "4a9e3287-9c57-4217-a9f7-e748eb6df3b9",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnTest::testGetSortable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009624,
+    "stop": 1711693009624,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"false\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c300262fecad5bd198f77d9ecaecfe89",
+    "testCaseId": "59ba49a93045556de5095edbf2df66d2",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnTest::testGetSortable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSortable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

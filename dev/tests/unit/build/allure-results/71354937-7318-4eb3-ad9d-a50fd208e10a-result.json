@@ -1,0 +1,43 @@
+{
+    "uuid": "71354937-7318-4eb3-ad9d-a50fd208e10a",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\AddressTest::testValidateMiniumumAmountWithoutDiscount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032837,
+    "stop": 1711693032838,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "99e7b1534268aa6b4f34b425f0cbaf71",
+    "testCaseId": "12c975ccf3fb1cd6629421c2ca160e74",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\AddressTest::testValidateMiniumumAmountWithoutDiscount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\AddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateMiniumumAmountWithoutDiscount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

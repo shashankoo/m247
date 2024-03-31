@@ -1,0 +1,43 @@
+{
+    "uuid": "2801c6d4-4c1d-4ede-986e-c84436e334ab",
+    "name": "Magento\\Cms\\Test\\Unit\\Model\\PageRepository\\ValidationCompositeTest::testSaveInvokesValidatorsWithSuccess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017384,
+    "stop": 1711693017384,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "17f154deac587295696b71a84bd291de",
+    "testCaseId": "40f2e17524a2c5c143a5244cc875f64f",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Model\\PageRepository\\ValidationCompositeTest::testSaveInvokesValidatorsWithSuccess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Model\\PageRepository\\ValidationCompositeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveInvokesValidatorsWithSuccess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

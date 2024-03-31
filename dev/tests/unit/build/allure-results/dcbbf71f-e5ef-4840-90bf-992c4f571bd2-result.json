@@ -1,0 +1,43 @@
+{
+    "uuid": "dcbbf71f-e5ef-4840-90bf-992c4f571bd2",
+    "name": "Magento\\Vault\\Test\\Unit\\Observer\\PaymentTokenAssignerTest::testExecuteNoPublicHash",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053360,
+    "stop": 1711693053361,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2a9f48258d9889f62832b3a4666e891b",
+    "testCaseId": "a45845c8a70dbfc21b7504f35aea174a",
+    "rerunOf": null,
+    "fullName": "Magento\\Vault\\Test\\Unit\\Observer\\PaymentTokenAssignerTest::testExecuteNoPublicHash",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Vault\\Test\\Unit\\Observer\\PaymentTokenAssignerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteNoPublicHash"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

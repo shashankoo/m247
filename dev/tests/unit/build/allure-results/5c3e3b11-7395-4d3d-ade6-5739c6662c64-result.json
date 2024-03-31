@@ -1,0 +1,43 @@
+{
+    "uuid": "5c3e3b11-7395-4d3d-ade6-5739c6662c64",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Reader\\FileClassScannerTest::testGetClassNameAndSingleNamespace",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055671,
+    "stop": 1711693055671,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e318f6ac673a75a77197c935b862a215",
+    "testCaseId": "2c98d57c0e1e9e5b95c5a2cb9427041a",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Reader\\FileClassScannerTest::testGetClassNameAndSingleNamespace",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Reader\\FileClassScannerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetClassNameAndSingleNamespace"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

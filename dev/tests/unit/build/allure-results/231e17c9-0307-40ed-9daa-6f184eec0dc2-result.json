@@ -1,0 +1,43 @@
+{
+    "uuid": "231e17c9-0307-40ed-9daa-6f184eec0dc2",
+    "name": "Magento\\Framework\\Test\\Unit\\DB\\Query\\GeneratorTest::testGenerateWithNonUniqueStrategy",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056532,
+    "stop": 1711693056532,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a00770ae7d6d82bcaddb9a2599949a38",
+    "testCaseId": "8009ee3c8d1ac6e03616891eddcb69c5",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\DB\\Query\\GeneratorTest::testGenerateWithNonUniqueStrategy",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\DB\\Query\\GeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerateWithNonUniqueStrategy"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

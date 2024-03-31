@@ -1,0 +1,50 @@
+{
+    "uuid": "183b725d-0e64-494c-a019-e538a3b8293f",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Config\\Backend\\Grid\\AsyncIndexingTest::testAfterSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037434,
+    "stop": 1711693037435,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5eda7dbf95fe12c030b32cf78ed15a20",
+    "testCaseId": "ca1267532af152445b5eca11d30abc1f",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Config\\Backend\\Grid\\AsyncIndexingTest::testAfterSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Config\\Backend\\Grid\\AsyncIndexingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

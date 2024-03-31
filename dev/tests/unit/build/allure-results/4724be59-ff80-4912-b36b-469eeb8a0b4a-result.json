@@ -1,0 +1,50 @@
+{
+    "uuid": "4724be59-ff80-4912-b36b-469eeb8a0b4a",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testCannotCancelNotOpenedInvoice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038167,
+    "stop": 1711693038168,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f27f1bc6a16be61caeb16e4c0c6360b2",
+    "testCaseId": "28e582dfb1e58368599210fa88a8bc37",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testCannotCancelNotOpenedInvoice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCannotCancelNotOpenedInvoice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "e71fef0b-1b3a-42f5-b2cf-2de5c79ef126",
+    "name": "Magento\\Framework\\Locale\\Test\\Unit\\Deployed\\OptionsTest::testGetOptionLocalesLimited",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073930,
+    "stop": 1711693073931,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c207940b743e96dc1318c41e470116e4",
+    "testCaseId": "6e45e6c5b22ad2cc5b03ebeeb51ecf48",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Locale\\Test\\Unit\\Deployed\\OptionsTest::testGetOptionLocalesLimited",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Locale\\Test\\Unit\\Deployed\\OptionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOptionLocalesLimited"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

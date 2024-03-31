@@ -1,0 +1,50 @@
+{
+    "uuid": "765616eb-0a69-471d-b3f1-0873962f7d20",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testAcceptApprovePaymentFalseOrderState",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038458,
+    "stop": 1711693038459,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Fraud = 0\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5596b43555a1e3838a34474a38b7993d",
+    "testCaseId": "63d371bafd2f8adf7ccafbf594bed94e",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testAcceptApprovePaymentFalseOrderState",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAcceptApprovePaymentFalseOrderState"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

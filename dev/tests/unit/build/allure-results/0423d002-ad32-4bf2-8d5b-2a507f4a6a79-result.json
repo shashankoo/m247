@@ -1,0 +1,43 @@
+{
+    "uuid": "0423d002-ad32-4bf2-8d5b-2a507f4a6a79",
+    "name": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\AttributeTest::testDispatch",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013863,
+    "stop": 1711693013863,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Should be dispatched in parent",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "75879143b8333148364214ef474010af",
+    "testCaseId": "30c1e57643bf283086bc0e6f4cc1696e",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\AttributeTest::testDispatch",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\AttributeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDispatch"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

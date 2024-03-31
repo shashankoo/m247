@@ -1,0 +1,50 @@
+{
+    "uuid": "dc8a0400-24fe-40ed-a3e4-82175b23d6f6",
+    "name": "Magento\\Fedex\\Test\\Unit\\Model\\CarrierTest::testGetTrackingWithEvents",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023933,
+    "stop": 1711693023933,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"tracking3\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8b27c00fde878569ebae3586cc8b9367",
+    "testCaseId": "e383017ec7c922b246aeaa99b974a7a9",
+    "rerunOf": null,
+    "fullName": "Magento\\Fedex\\Test\\Unit\\Model\\CarrierTest::testGetTrackingWithEvents",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Fedex\\Test\\Unit\\Model\\CarrierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTrackingWithEvents"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

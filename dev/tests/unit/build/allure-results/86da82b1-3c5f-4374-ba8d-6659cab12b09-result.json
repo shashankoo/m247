@@ -1,0 +1,43 @@
+{
+    "uuid": "86da82b1-3c5f-4374-ba8d-6659cab12b09",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnTest::testGetFilterWithInvalidFilterTypeWhenUseDefaultFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009628,
+    "stop": 1711693009628,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "70025615a409d0583f99dd5d88be7040",
+    "testCaseId": "d6336541ecb74f50d5025319fdb3e0a4",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnTest::testGetFilterWithInvalidFilterTypeWhenUseDefaultFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFilterWithInvalidFilterTypeWhenUseDefaultFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

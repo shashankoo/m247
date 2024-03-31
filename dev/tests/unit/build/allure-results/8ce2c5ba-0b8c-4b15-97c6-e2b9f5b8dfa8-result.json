@@ -1,0 +1,43 @@
+{
+    "uuid": "8ce2c5ba-0b8c-4b15-97c6-e2b9f5b8dfa8",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\ProductTest::testParseAttributesWithoutWrappedValuesWillReturnsLowercasedAttributeCodes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011799,
+    "stop": 1711693011800,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "05d194d6e11eb1d38b7e22c83e69581c",
+    "testCaseId": "2a845fb6e1bff24590d3f83881942449",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\ProductTest::testParseAttributesWithoutWrappedValuesWillReturnsLowercasedAttributeCodes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testParseAttributesWithoutWrappedValuesWillReturnsLowercasedAttributeCodes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

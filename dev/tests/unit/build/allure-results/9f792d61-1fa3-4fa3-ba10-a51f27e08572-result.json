@@ -1,0 +1,43 @@
+{
+    "uuid": "9f792d61-1fa3-4fa3-ba10-a51f27e08572",
+    "name": "Magento\\Bundle\\Test\\Unit\\Observer\\AppendUpsellProductsObserverTest::testObserverWithoutLinkedProducts",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011041,
+    "stop": 1711693011041,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1625cb6960106be4a8dbe67cf55f0061",
+    "testCaseId": "5f838ac4308d6eb95ed65cf7147e045d",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Observer\\AppendUpsellProductsObserverTest::testObserverWithoutLinkedProducts",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Observer\\AppendUpsellProductsObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testObserverWithoutLinkedProducts"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

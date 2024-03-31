@@ -1,0 +1,43 @@
+{
+    "uuid": "e5018463-a976-4e90-b891-c97c39b43977",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\PhpReadinessCheckTest::testCheckPhpVersionPrettyVersion",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055510,
+    "stop": 1711693055512,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "504e0dce54f753252028c99898ddceec",
+    "testCaseId": "aa560b234049048a02a1ba015e9641d3",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\PhpReadinessCheckTest::testCheckPhpVersionPrettyVersion",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\PhpReadinessCheckTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckPhpVersionPrettyVersion"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

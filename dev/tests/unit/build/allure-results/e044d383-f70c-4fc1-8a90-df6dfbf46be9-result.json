@@ -1,0 +1,43 @@
+{
+    "uuid": "e044d383-f70c-4fc1-8a90-df6dfbf46be9",
+    "name": "Magento\\Theme\\Test\\Unit\\Controller\\Adminhtml\\System\\Design\\Theme\\UploadJsTest::testExecuteWithoutTheme",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042993,
+    "stop": 1711693042996,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dfdfbc6409d2eca21828ca44a59214ff",
+    "testCaseId": "94b5295f7524abd6b78d7a97bffb4337",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Controller\\Adminhtml\\System\\Design\\Theme\\UploadJsTest::testExecuteWithoutTheme",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Controller\\Adminhtml\\System\\Design\\Theme\\UploadJsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithoutTheme"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

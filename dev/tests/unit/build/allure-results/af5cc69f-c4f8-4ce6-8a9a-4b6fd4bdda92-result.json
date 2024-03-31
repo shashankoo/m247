@@ -1,0 +1,50 @@
+{
+    "uuid": "af5cc69f-c4f8-4ce6-8a9a-4b6fd4bdda92",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\MultilineTest::testValidateValueLength",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020809,
+    "stop": 1711693020810,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"L1\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0bf5ec3d12a09dc803db17771e65787f",
+    "testCaseId": "841249e9d5cdd6bd1012fb58f1c7e4e5",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\MultilineTest::testValidateValueLength",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\MultilineTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateValueLength"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "fa54f043-7e43-4077-b405-996fe47f6afc",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\FactoryTest::testCreateExceptionInvalidArgument",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071193,
+    "stop": 1711693071193,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Magento\\Framework\\Data\\Form\\Element\\Collection\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fbfad0ab752c3da111acd5918ffaeb37",
+    "testCaseId": "61765890d67240221f6818e24463e146",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\FactoryTest::testCreateExceptionInvalidArgument",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\FactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateExceptionInvalidArgument"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

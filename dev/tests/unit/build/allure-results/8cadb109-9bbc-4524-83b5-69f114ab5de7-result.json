@@ -1,0 +1,43 @@
+{
+    "uuid": "8cadb109-9bbc-4524-83b5-69f114ab5de7",
+    "name": "Magento\\User\\Test\\Unit\\Model\\Backend\\Config\\ObserverConfigTest::testGetMaxFailures",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052965,
+    "stop": 1711693052965,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6a4b9cf4a4059abfcd5e2bb40f25e957",
+    "testCaseId": "843f7714fa9d6a6b622739c605f0a91c",
+    "rerunOf": null,
+    "fullName": "Magento\\User\\Test\\Unit\\Model\\Backend\\Config\\ObserverConfigTest::testGetMaxFailures",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\User\\Test\\Unit\\Model\\Backend\\Config\\ObserverConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMaxFailures"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

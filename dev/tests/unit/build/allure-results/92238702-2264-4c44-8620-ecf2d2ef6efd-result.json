@@ -1,0 +1,50 @@
+{
+    "uuid": "92238702-2264-4c44-8620-ecf2d2ef6efd",
+    "name": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleConfigStatusCommandTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054841,
+    "stop": 1711693054842,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c159a26d35a6de49443af253247e2f22",
+    "testCaseId": "0db4241385176b90119a334c2dc09532",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleConfigStatusCommandTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleConfigStatusCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

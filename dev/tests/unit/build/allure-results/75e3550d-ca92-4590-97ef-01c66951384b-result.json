@@ -1,0 +1,43 @@
+{
+    "uuid": "75e3550d-ca92-4590-97ef-01c66951384b",
+    "name": "Magento\\Framework\\ObjectManager\\Test\\Unit\\ObjectManagerTest::testGetDetectsCircularDependency",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075098,
+    "stop": 1711693075098,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e480ae5cbd9496641ae6cfc08d0eb4f6",
+    "testCaseId": "6372f4c763a9f81bcb060058f64fdb55",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\ObjectManager\\Test\\Unit\\ObjectManagerTest::testGetDetectsCircularDependency",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\ObjectManager\\Test\\Unit\\ObjectManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDetectsCircularDependency"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

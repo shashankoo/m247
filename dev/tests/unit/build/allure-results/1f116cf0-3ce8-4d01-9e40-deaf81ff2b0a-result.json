@@ -1,0 +1,43 @@
+{
+    "uuid": "1f116cf0-3ce8-4d01-9e40-deaf81ff2b0a",
+    "name": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\CopyConstructor\\GroupedTest::testBuildWithNonGroupedProductType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024339,
+    "stop": 1711693024340,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d6c937645d120d51d844e9329e0a4ab5",
+    "testCaseId": "9c7d84b3261c16766e23faeebbac04c7",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\CopyConstructor\\GroupedTest::testBuildWithNonGroupedProductType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\CopyConstructor\\GroupedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildWithNonGroupedProductType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

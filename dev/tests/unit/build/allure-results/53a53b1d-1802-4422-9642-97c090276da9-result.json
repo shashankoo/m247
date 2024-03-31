@@ -1,0 +1,50 @@
+{
+    "uuid": "53a53b1d-1802-4422-9642-97c090276da9",
+    "name": "Magento\\Payment\\Test\\Unit\\Block\\InfoTest::testGetValueAsArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031366,
+    "stop": 1711693031367,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8a245775dad81b3cfebcbd202f2fbf39",
+    "testCaseId": "f01e4d1fdd2d73ef5c0a531c7757e3f4",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Block\\InfoTest::testGetValueAsArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Block\\InfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValueAsArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

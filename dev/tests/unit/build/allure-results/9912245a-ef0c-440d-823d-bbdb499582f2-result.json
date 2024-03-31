@@ -1,0 +1,43 @@
+{
+    "uuid": "9912245a-ef0c-440d-823d-bbdb499582f2",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ItemTest::testGetOptionByCodeNonExistent",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032916,
+    "stop": 1711693032916,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3b0d0eeea03b422096e5bdd04a48b4af",
+    "testCaseId": "f50b60e4c8c37519c038dad08a7a01e3",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ItemTest::testGetOptionByCodeNonExistent",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOptionByCodeNonExistent"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

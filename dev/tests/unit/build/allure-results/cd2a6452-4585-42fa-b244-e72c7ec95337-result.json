@@ -1,0 +1,50 @@
+{
+    "uuid": "cd2a6452-4585-42fa-b244-e72c7ec95337",
+    "name": "Magento\\InventoryIndexer\\Test\\Unit\\Model\\Queue\\GetSalabilityDataForUpdateTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030252,
+    "stop": 1711693030252,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "96876ab27e1ea93d1ce437050f894d65",
+    "testCaseId": "ee8ffbe67e873e65f7b119a4748a7a40",
+    "rerunOf": null,
+    "fullName": "Magento\\InventoryIndexer\\Test\\Unit\\Model\\Queue\\GetSalabilityDataForUpdateTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\InventoryIndexer\\Test\\Unit\\Model\\Queue\\GetSalabilityDataForUpdateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

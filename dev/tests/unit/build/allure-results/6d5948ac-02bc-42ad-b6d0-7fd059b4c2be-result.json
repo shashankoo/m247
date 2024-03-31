@@ -1,0 +1,43 @@
+{
+    "uuid": "6d5948ac-02bc-42ad-b6d0-7fd059b4c2be",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\UnsignedTest::testFromDefinitionSigned",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076200,
+    "stop": 1711693076200,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "945ffe360f4ea0cedbe74b133f5b3356",
+    "testCaseId": "53914b97ce7b715eb2e427a71cfff4f1",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\UnsignedTest::testFromDefinitionSigned",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\UnsignedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFromDefinitionSigned"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

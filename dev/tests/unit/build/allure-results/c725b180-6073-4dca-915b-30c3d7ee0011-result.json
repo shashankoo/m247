@@ -1,0 +1,43 @@
+{
+    "uuid": "c725b180-6073-4dca-915b-30c3d7ee0011",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Method\\Checks\\SpecificationPluginTest::testAfterIsApplicableNotAgreement",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032217,
+    "stop": 1711693032218,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e885fe0ee2d232802b2927e1691f0fa6",
+    "testCaseId": "67a60372bf6ee9e62ffe126e6e320abd",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Method\\Checks\\SpecificationPluginTest::testAfterIsApplicableNotAgreement",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Method\\Checks\\SpecificationPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterIsApplicableNotAgreement"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

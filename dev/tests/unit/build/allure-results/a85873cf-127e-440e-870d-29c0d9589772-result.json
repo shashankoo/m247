@@ -1,0 +1,50 @@
+{
+    "uuid": "a85873cf-127e-440e-870d-29c0d9589772",
+    "name": "Magento\\Analytics\\Test\\Unit\\Model\\Plugin\\BaseUrlConfigPluginTest::testAfterSavePluginIsNotApplicable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009142,
+    "stop": 1711693009142,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Unsecure URL has been changed\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "47a91ecfe62239b1a0f021578dd77045",
+    "testCaseId": "71de603955f427a9eb930c6a5e8c34ea",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Model\\Plugin\\BaseUrlConfigPluginTest::testAfterSavePluginIsNotApplicable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Model\\Plugin\\BaseUrlConfigPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSavePluginIsNotApplicable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

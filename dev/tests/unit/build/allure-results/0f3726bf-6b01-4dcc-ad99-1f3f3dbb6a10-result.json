@@ -1,0 +1,43 @@
+{
+    "uuid": "0f3726bf-6b01-4dcc-ad99-1f3f3dbb6a10",
+    "name": "Magento\\Vault\\Test\\Unit\\Model\\Ui\\Adminhtml\\TokensConfigProviderTest::testGetTokensComponentsForGuestCustomerWithoutStoredTokens",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053345,
+    "stop": 1711693053346,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "789295077244842a17e7a849b2192732",
+    "testCaseId": "42ecbafbc38905adb160740c014d2778",
+    "rerunOf": null,
+    "fullName": "Magento\\Vault\\Test\\Unit\\Model\\Ui\\Adminhtml\\TokensConfigProviderTest::testGetTokensComponentsForGuestCustomerWithoutStoredTokens",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Vault\\Test\\Unit\\Model\\Ui\\Adminhtml\\TokensConfigProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTokensComponentsForGuestCustomerWithoutStoredTokens"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

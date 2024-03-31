@@ -1,0 +1,50 @@
+{
+    "uuid": "298249b2-c0b1-4d11-938a-48f1669e9c71",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Spi\\StockStateProviderTest::testCheckQtyWithPositiveQtyAndOutOfStockstatus",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012078,
+    "stop": 1711693012079,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d8095d43f69f44751e3756e2d6438861",
+    "testCaseId": "1e6874b71012a03b446efadc1048e8b2",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Spi\\StockStateProviderTest::testCheckQtyWithPositiveQtyAndOutOfStockstatus",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Spi\\StockStateProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckQtyWithPositiveQtyAndOutOfStockstatus"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

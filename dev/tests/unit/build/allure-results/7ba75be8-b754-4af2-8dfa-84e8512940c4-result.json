@@ -1,0 +1,43 @@
+{
+    "uuid": "7ba75be8-b754-4af2-8dfa-84e8512940c4",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\ContextTest::testGetSession",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077230,
+    "stop": 1711693077230,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Testcase needs to be refactored.",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1e08163458e5456b3c285591ed182ed8",
+    "testCaseId": "05e0a8919cde181fab4d55a913ab55aa",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\ContextTest::testGetSession",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\ContextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSession"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "858d1ed6-b478-4e40-a147-03008451d3ce",
+    "name": "Magento\\User\\Test\\Unit\\Block\\Role\\Grid\\UserTest::testGetUsersNoRolesAndJsonFalse",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052912,
+    "stop": 1711693052913,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "22190664edaf31d8167d9982f45b2a7a",
+    "testCaseId": "f2af61bb724a443c025d52a2431ab5e5",
+    "rerunOf": null,
+    "fullName": "Magento\\User\\Test\\Unit\\Block\\Role\\Grid\\UserTest::testGetUsersNoRolesAndJsonFalse",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\User\\Test\\Unit\\Block\\Role\\Grid\\UserTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUsersNoRolesAndJsonFalse"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

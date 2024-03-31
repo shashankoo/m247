@@ -1,0 +1,50 @@
+{
+    "uuid": "dec3d59a-c97f-4530-8fbf-964bc0495f68",
+    "name": "Magento\\Ui\\Test\\Unit\\Component\\MassAction\\FilterTest::testGetCollectionWithCollection",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693049736,
+    "stop": 1711693049736,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8f57a3e6556056e9ff4e78623505e4f3",
+    "testCaseId": "7173f3f053cfd07d1067869c8c695db8",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Component\\MassAction\\FilterTest::testGetCollectionWithCollection",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Component\\MassAction\\FilterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCollectionWithCollection"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "0ae0a7c2-1cbd-4bf7-ba81-2bbcffacfe30",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\OauthServiceTest::testDeleteToken",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030125,
+    "stop": 1711693030125,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "be461802e067e47881a0bbe863b07a28",
+    "testCaseId": "547d5ae73efe6ce17b10c98315fcf0f3",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\OauthServiceTest::testDeleteToken",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\OauthServiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteToken"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "e35309ac-8a88-425a-bae5-5f3f8ac98253",
+    "name": "Magento\\Dhl\\Test\\Unit\\Model\\CarrierTest::testBuildMessageReferenceInvalidPrefix",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021623,
+    "stop": 1711693021624,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "df5e6c9fa890f3ca6374afce5c3d0296",
+    "testCaseId": "832866765f7bbccab4bdfe2359685be1",
+    "rerunOf": null,
+    "fullName": "Magento\\Dhl\\Test\\Unit\\Model\\CarrierTest::testBuildMessageReferenceInvalidPrefix",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Dhl\\Test\\Unit\\Model\\CarrierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildMessageReferenceInvalidPrefix"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

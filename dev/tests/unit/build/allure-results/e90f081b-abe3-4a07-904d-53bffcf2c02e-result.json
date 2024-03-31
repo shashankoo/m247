@@ -1,0 +1,50 @@
+{
+    "uuid": "e90f081b-abe3-4a07-904d-53bffcf2c02e",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\ConfigTest::testGetPayPalBasicStartUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032012,
+    "stop": 1711693032012,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fe51335df6f1e3f06ffe7571b8b510bb",
+    "testCaseId": "f10e63906ed1319e83f61fef9c2e486c",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\ConfigTest::testGetPayPalBasicStartUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPayPalBasicStartUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "9974ab25-6b8f-4225-ad8a-6d56c37bdc1b",
+    "name": "Magento\\PageCache\\Test\\Unit\\Model\\App\\FrontController\\VarnishPluginTest::testAfterDispatchNotResponse",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031230,
+    "stop": 1711693031231,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d0dd63ceaaa9a47519ca5a6a8e35a4c5",
+    "testCaseId": "a1abcae74331151b5976b5ada9352ca8",
+    "rerunOf": null,
+    "fullName": "Magento\\PageCache\\Test\\Unit\\Model\\App\\FrontController\\VarnishPluginTest::testAfterDispatchNotResponse",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\PageCache\\Test\\Unit\\Model\\App\\FrontController\\VarnishPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterDispatchNotResponse"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

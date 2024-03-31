@@ -1,0 +1,50 @@
+{
+    "uuid": "4f65c614-8d5b-4295-b1a7-fdffdf617d9a",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Filter\\DateTimeTest::testFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015025,
+    "stop": 1711693015026,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9aed2824b08e8c8aec0fefad7cb910dc",
+    "testCaseId": "cc44cbd5419097ef2176a343d239abdc",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Filter\\DateTimeTest::testFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Filter\\DateTimeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

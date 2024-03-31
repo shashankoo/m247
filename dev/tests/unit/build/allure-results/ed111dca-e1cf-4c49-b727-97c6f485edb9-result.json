@@ -1,0 +1,50 @@
+{
+    "uuid": "ed111dca-e1cf-4c49-b727-97c6f485edb9",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\TextTest::testAlphanumericValidationWithSpaces",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022470,
+    "stop": 1711693022471,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "60abede3dcc3f1b1df3f4bea19853d32",
+    "testCaseId": "846bbcae98a44046b9d729fe4258c91c",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\TextTest::testAlphanumericValidationWithSpaces",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\TextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAlphanumericValidationWithSpaces"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

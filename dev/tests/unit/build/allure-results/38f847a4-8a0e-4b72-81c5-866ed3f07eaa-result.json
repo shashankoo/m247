@@ -1,0 +1,43 @@
+{
+    "uuid": "38f847a4-8a0e-4b72-81c5-866ed3f07eaa",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Order\\Admin\\Item\\Plugin\\ConfigurableTest::testAroundGetSkuIfProductIsSimple",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018547,
+    "stop": 1711693018547,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "92d2e59e0e231dbb517ad8f888ec1338",
+    "testCaseId": "35126c4b316f50d35289168190b5c0d8",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Order\\Admin\\Item\\Plugin\\ConfigurableTest::testAroundGetSkuIfProductIsSimple",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Order\\Admin\\Item\\Plugin\\ConfigurableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundGetSkuIfProductIsSimple"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "f2682388-9cd6-4ad7-b8fe-0d86ed179b5f",
+    "name": "Magento\\Reports\\Test\\Unit\\Block\\Adminhtml\\Grid\\AbstractGridTest::testGetCurrentCurrencyCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033388,
+    "stop": 1711693033388,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d8ff6a512990aeb7aef7b39c6fcb442b",
+    "testCaseId": "6a798c4615432f9464407bb96c7ba6f6",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Block\\Adminhtml\\Grid\\AbstractGridTest::testGetCurrentCurrencyCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Block\\Adminhtml\\Grid\\AbstractGridTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCurrentCurrencyCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

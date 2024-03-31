@@ -1,0 +1,43 @@
+{
+    "uuid": "15212ff2-b1e2-4d69-8cd0-5ea0961b5c2e",
+    "name": "Magento\\Developer\\Test\\Unit\\Model\\Config\\Backend\\WorkflowTypeTest::testAfterSaveValueIsChangedShouldCleanViewFiles",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021528,
+    "stop": 1711693021529,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6fab1c25b434b85cfc353a1bd46d8690",
+    "testCaseId": "e93b335367e7170517b32a9d4b05361c",
+    "rerunOf": null,
+    "fullName": "Magento\\Developer\\Test\\Unit\\Model\\Config\\Backend\\WorkflowTypeTest::testAfterSaveValueIsChangedShouldCleanViewFiles",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Developer\\Test\\Unit\\Model\\Config\\Backend\\WorkflowTypeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSaveValueIsChangedShouldCleanViewFiles"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "999c2651-9bd3-47f0-ba49-ae78a314ad7a",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ItemTest::testGetOptionByCodeDeletedCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032916,
+    "stop": 1711693032917,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "27f9cca5466edd549c91d9bfc83fd5f5",
+    "testCaseId": "bba2c5b1b397cd7911dbbfad7f384c8b",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ItemTest::testGetOptionByCodeDeletedCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOptionByCodeDeletedCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

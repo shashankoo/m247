@@ -1,0 +1,43 @@
+{
+    "uuid": "d0bd5c5d-3ef0-4d74-a9f5-e818046a3627",
+    "name": "Magento\\Ui\\Test\\Unit\\Controller\\Adminhtml\\Bookmark\\SaveTest::testExecuteWontBeExecutedWhenNoUserIdInContext",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693051679,
+    "stop": 1711693052172,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f39a04fce5ba373fc5fcd352b3ff57da",
+    "testCaseId": "f008969cab7ab080deb284955198c7ef",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Controller\\Adminhtml\\Bookmark\\SaveTest::testExecuteWontBeExecutedWhenNoUserIdInContext",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Controller\\Adminhtml\\Bookmark\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWontBeExecutedWhenNoUserIdInContext"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "307f7951-4431-4009-8bc7-8f6083405c94",
+    "name": "Magento\\Theme\\Test\\Unit\\Console\\Command\\ThemeUninstallCommandTest::testExecuteCleanStaticFiles",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042923,
+    "stop": 1711693042924,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d333bc4499bc37f32a408ca92913398e",
+    "testCaseId": "727eb1ae58936bf6ee78f9ebcd3a5167",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Console\\Command\\ThemeUninstallCommandTest::testExecuteCleanStaticFiles",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Console\\Command\\ThemeUninstallCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteCleanStaticFiles"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

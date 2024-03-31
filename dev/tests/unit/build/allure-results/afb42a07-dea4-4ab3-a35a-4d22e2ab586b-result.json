@@ -1,0 +1,43 @@
+{
+    "uuid": "afb42a07-dea4-4ab3-a35a-4d22e2ab586b",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\Form\\AddressTest::testGetAddressCollectionJson",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036395,
+    "stop": 1711693036399,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3cfcd643733a397730941493889622e7",
+    "testCaseId": "a7e4a0821324b08e5ce5cf0c5314c4a6",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\Form\\AddressTest::testGetAddressCollectionJson",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\Form\\AddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAddressCollectionJson"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

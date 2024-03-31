@@ -1,0 +1,50 @@
+{
+    "uuid": "5f444d5c-8bfd-48a0-9257-84ae9dfa8cc3",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\SessionTest::testIndividualOptionsAreSetProperly",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055124,
+    "stop": 1711693055124,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#14",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a76f5e64784138fed34be841fba5a0f2",
+    "testCaseId": "733fccde781a7ac8f343bca0061bcfb1",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\SessionTest::testIndividualOptionsAreSetProperly",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\SessionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIndividualOptionsAreSetProperly"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

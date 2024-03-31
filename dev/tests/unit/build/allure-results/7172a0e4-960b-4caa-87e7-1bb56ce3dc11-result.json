@@ -1,0 +1,43 @@
+{
+    "uuid": "7172a0e4-960b-4caa-87e7-1bb56ce3dc11",
+    "name": "Magento\\Paypal\\Test\\Unit\\Block\\Payflow\\Link\\IframeTest::testCheckIsScopePrivate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031817,
+    "stop": 1711693031819,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4b8cd4c93288ac38fbf420020b29202b",
+    "testCaseId": "9d77e0b401951fa179d0586508b12c58",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Block\\Payflow\\Link\\IframeTest::testCheckIsScopePrivate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Block\\Payflow\\Link\\IframeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckIsScopePrivate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

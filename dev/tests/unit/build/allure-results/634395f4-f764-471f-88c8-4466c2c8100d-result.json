@@ -1,0 +1,50 @@
+{
+    "uuid": "634395f4-f764-471f-88c8-4466c2c8100d",
+    "name": "Magento\\Framework\\Filter\\Test\\Unit\\Input\\MaliciousCodeTest::testFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073335,
+    "stop": 1711693073335,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Base64\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6dd2a4c7db6cc115d2d6e647700ec772",
+    "testCaseId": "4568c2fa74c4fb24206874e4f202619d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filter\\Test\\Unit\\Input\\MaliciousCodeTest::testFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filter\\Test\\Unit\\Input\\MaliciousCodeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

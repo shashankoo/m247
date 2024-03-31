@@ -1,0 +1,43 @@
+{
+    "uuid": "0222cfa8-f77d-43b0-ad9a-ac3a2a9fc780",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\ModuleUninstallerTest::testUninstallRemoveData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055361,
+    "stop": 1711693055363,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cacd1516b148ae21e5735a31609a2487",
+    "testCaseId": "60448803b261201d8f22b19ae3a7fe0a",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\ModuleUninstallerTest::testUninstallRemoveData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\ModuleUninstallerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUninstallRemoveData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

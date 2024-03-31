@@ -1,0 +1,50 @@
+{
+    "uuid": "99f454fb-90c5-410c-bf80-99fb90dc45bc",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\LockTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055108,
+    "stop": 1711693055108,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Empty host and path for Zookeeper\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "97ff0b21dd9c8e05914c47dc3979092f",
+    "testCaseId": "310b761bf8316866a758f2f7dabbe886",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\LockTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\LockTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

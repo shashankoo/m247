@@ -1,0 +1,50 @@
+{
+    "uuid": "89062bcd-6115-4fb4-bd11-d25437e812d0",
+    "name": "Magento\\Security\\Test\\Unit\\Model\\ConfigTest::testIsAdminAccountSharingIsEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041267,
+    "stop": 1711693041268,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "473707f38447dc6fa5a024c55f175900",
+    "testCaseId": "6cb4c5c450c15fa4bd162df84cf82984",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Model\\ConfigTest::testIsAdminAccountSharingIsEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Model\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAdminAccountSharingIsEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

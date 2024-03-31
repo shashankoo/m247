@@ -1,0 +1,50 @@
+{
+    "uuid": "be6be5f0-1962-494d-ac03-f26e6fa15cc2",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Page\\Config\\RendererTest::testRenderAssets",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078371,
+    "stop": 1711693078372,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8a6055227684db9e9110976fd274e578",
+    "testCaseId": "9f84c4f0ac3f8503eae9e404f4b39ebd",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Page\\Config\\RendererTest::testRenderAssets",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Page\\Config\\RendererTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRenderAssets"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

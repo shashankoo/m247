@@ -1,0 +1,50 @@
+{
+    "uuid": "08ffb0b9-6902-4e11-9729-ed6160155c96",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\Argument\\Interpreter\\CompositeTest::testEvaluateWrongDiscriminator",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070867,
+    "stop": 1711693070867,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"no discriminator\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "271a730784e7f1d90b5743bbb25f17c0",
+    "testCaseId": "0aef75a430c7c17d7c639192ccde738a",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\Argument\\Interpreter\\CompositeTest::testEvaluateWrongDiscriminator",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\Argument\\Interpreter\\CompositeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEvaluateWrongDiscriminator"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

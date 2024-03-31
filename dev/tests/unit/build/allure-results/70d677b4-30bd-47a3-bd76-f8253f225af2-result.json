@@ -1,0 +1,50 @@
+{
+    "uuid": "70d677b4-30bd-47a3-bd76-f8253f225af2",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\TransparentTest::testCaptureCorrectId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032328,
+    "stop": 1711693032329,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"With Transaction ID\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d1ae786e6a5e418b2ea751f59e88d95f",
+    "testCaseId": "e36e0b73d6a5d659ebd32c14df367c95",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\TransparentTest::testCaptureCorrectId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\TransparentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCaptureCorrectId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

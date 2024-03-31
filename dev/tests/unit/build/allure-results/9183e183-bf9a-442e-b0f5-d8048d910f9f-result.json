@@ -1,0 +1,50 @@
+{
+    "uuid": "9183e183-bf9a-442e-b0f5-d8048d910f9f",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\ProductTest::testUploadMediaFiles",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011815,
+    "stop": 1711693011816,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b210d683d6850c46e768ae28969a0377",
+    "testCaseId": "e665508140c687449bbe465cfbe6a18a",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\ProductTest::testUploadMediaFiles",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUploadMediaFiles"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

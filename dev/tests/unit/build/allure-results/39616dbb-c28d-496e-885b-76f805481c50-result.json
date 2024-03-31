@@ -1,0 +1,43 @@
+{
+    "uuid": "39616dbb-c28d-496e-885b-76f805481c50",
+    "name": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\SaveTest::testSaveActionExceptionDuringServiceCreation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029830,
+    "stop": 1711693029831,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bbe283111b4c2c1d6b49c511ee77b860",
+    "testCaseId": "58432a689a7c6435a3c94485f94d5ad5",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\SaveTest::testSaveActionExceptionDuringServiceCreation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveActionExceptionDuringServiceCreation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

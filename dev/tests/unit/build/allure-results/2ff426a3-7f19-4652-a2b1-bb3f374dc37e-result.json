@@ -1,0 +1,50 @@
+{
+    "uuid": "2ff426a3-7f19-4652-a2b1-bb3f374dc37e",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testPay",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038163,
+    "stop": 1711693038163,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "40a3bc56d2c4a727ed8469a89a5b54f0",
+    "testCaseId": "6673460830fa49f21f05cec95057824c",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testPay",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPay"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

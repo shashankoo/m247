@@ -1,0 +1,50 @@
+{
+    "uuid": "e02eabbb-0aae-45e6-adbc-fd140fe8725e",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Config\\ConfigTest::testGet3DSecureSpecificCountries",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056195,
+    "stop": 1711693056196,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c0be739a0de32579ec616ed493502d49",
+    "testCaseId": "5bba3716f2067e054a90cf957932e2d3",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Config\\ConfigTest::testGet3DSecureSpecificCountries",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Config\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGet3DSecureSpecificCountries"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

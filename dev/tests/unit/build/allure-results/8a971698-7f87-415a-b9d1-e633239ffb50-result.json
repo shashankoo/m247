@@ -1,0 +1,43 @@
+{
+    "uuid": "8a971698-7f87-415a-b9d1-e633239ffb50",
+    "name": "Magento\\Quote\\Test\\Unit\\Observer\\SendInvoiceEmailObserverTest::testSendEmailWhenRedirectUrlExists",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033290,
+    "stop": 1711693033290,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "239024422198bb39f6d42c0db6498705",
+    "testCaseId": "bcbe1a2db260b0970b5e8ce36593ae95",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Observer\\SendInvoiceEmailObserverTest::testSendEmailWhenRedirectUrlExists",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Observer\\SendInvoiceEmailObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSendEmailWhenRedirectUrlExists"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

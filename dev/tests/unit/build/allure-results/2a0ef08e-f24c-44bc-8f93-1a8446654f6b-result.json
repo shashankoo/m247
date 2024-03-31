@@ -1,0 +1,50 @@
+{
+    "uuid": "2a0ef08e-f24c-44bc-8f93-1a8446654f6b",
+    "name": "Magento\\GoogleAdwords\\Test\\Unit\\Helper\\DataTest::testGetStoreConfigValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024083,
+    "stop": 1711693024083,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#6",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d7a86b9e01bf829c46a08a9a38cc53d4",
+    "testCaseId": "e371bddb22f92c11a4dabd09c2a42051",
+    "rerunOf": null,
+    "fullName": "Magento\\GoogleAdwords\\Test\\Unit\\Helper\\DataTest::testGetStoreConfigValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GoogleAdwords\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStoreConfigValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

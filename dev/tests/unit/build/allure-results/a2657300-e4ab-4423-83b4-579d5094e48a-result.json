@@ -1,0 +1,43 @@
+{
+    "uuid": "a2657300-e4ab-4423-83b4-579d5094e48a",
+    "name": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\DeleteTest::testDeleteActionForServiceGenericException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029813,
+    "stop": 1711693029814,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "189f61643ccfc7b163b27b37e49e6e4f",
+    "testCaseId": "5aa972213e0998349c3a0ad558b6ed88",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\DeleteTest::testDeleteActionForServiceGenericException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\DeleteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteActionForServiceGenericException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

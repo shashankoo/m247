@@ -1,0 +1,43 @@
+{
+    "uuid": "4e9891a8-daec-47e1-b00c-743f0b969275",
+    "name": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\ConfigImport\\ProcessorTest::testImportWithValidation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021210,
+    "stop": 1711693021211,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "02053ae363e4ac05286f75a0b008abf2",
+    "testCaseId": "125e69930d2baa661de4f389fb139a5f",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\ConfigImport\\ProcessorTest::testImportWithValidation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\ConfigImport\\ProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testImportWithValidation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

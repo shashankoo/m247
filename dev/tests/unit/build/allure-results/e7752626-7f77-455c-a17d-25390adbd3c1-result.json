@@ -1,0 +1,50 @@
+{
+    "uuid": "e7752626-7f77-455c-a17d-25390adbd3c1",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\ResourceModel\\Attribute\\CollectionTest::testInitSelect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022858,
+    "stop": 1711693022860,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"main_table_expression\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "952f67bd2c615c58502e7bb008adcff1",
+    "testCaseId": "81fad5360fefbd02fc5e3bae3fd10a47",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\ResourceModel\\Attribute\\CollectionTest::testInitSelect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\ResourceModel\\Attribute\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInitSelect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

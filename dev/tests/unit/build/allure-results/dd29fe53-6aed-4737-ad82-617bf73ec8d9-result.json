@@ -1,0 +1,43 @@
+{
+    "uuid": "dd29fe53-6aed-4737-ad82-617bf73ec8d9",
+    "name": "Magento\\Setup\\Test\\Unit\\Console\\Command\\DiCompileCommandTest::testExecuteModulesNotEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054768,
+    "stop": 1711693054769,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e9c2e7c100c05e10a9d4059a1d3753a7",
+    "testCaseId": "3c581f054dbc6bdc3e850b4b1a2cde2b",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Console\\Command\\DiCompileCommandTest::testExecuteModulesNotEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Console\\Command\\DiCompileCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteModulesNotEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

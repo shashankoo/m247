@@ -1,0 +1,43 @@
+{
+    "uuid": "11d6b921-ee37-40ca-af3b-87977212e0e0",
+    "name": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\ResponseTest::testSetHeaderWithoutReplacing",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073670,
+    "stop": 1711693073670,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bc83608033ad001b714c2983d9c1a3b2",
+    "testCaseId": "5aaf1079c47d02ba419718e4b908136c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\ResponseTest::testSetHeaderWithoutReplacing",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\ResponseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetHeaderWithoutReplacing"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

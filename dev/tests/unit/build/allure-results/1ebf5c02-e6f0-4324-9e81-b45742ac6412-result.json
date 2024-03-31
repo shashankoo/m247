@@ -1,0 +1,43 @@
+{
+    "uuid": "1ebf5c02-e6f0-4324-9e81-b45742ac6412",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\ErrorProcessing\\ProcessingErrorAggregatorTest::testGetErrorsByCodeInArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024724,
+    "stop": 1711693024724,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1b2f04d372d813599e424a9e42be15ea",
+    "testCaseId": "72f2b448e987ac8493c11a5e655fe54d",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\ErrorProcessing\\ProcessingErrorAggregatorTest::testGetErrorsByCodeInArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\ErrorProcessing\\ProcessingErrorAggregatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetErrorsByCodeInArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

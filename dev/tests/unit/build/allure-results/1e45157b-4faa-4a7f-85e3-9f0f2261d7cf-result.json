@@ -1,0 +1,50 @@
+{
+    "uuid": "1e45157b-4faa-4a7f-85e3-9f0f2261d7cf",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\Coupon\\MassgeneratorTest::testGenerateCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693035982,
+    "stop": 1711693035983,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7c8139e06eaec7c0e35ab3d3a2a5c409",
+    "testCaseId": "8f13fb331fc6667c9e22d132fa00c80a",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\Coupon\\MassgeneratorTest::testGenerateCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\Coupon\\MassgeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerateCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

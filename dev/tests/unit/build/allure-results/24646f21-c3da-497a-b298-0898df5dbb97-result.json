@@ -1,0 +1,50 @@
+{
+    "uuid": "24646f21-c3da-497a-b298-0898df5dbb97",
+    "name": "Magento\\OfflineShipping\\Test\\Unit\\Model\\ResourceModel\\Carrier\\Tablerate\\CSV\\ColumnResolverTest::testGetColumnValueByPosition",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031132,
+    "stop": 1711693031133,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Shipping Price\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "25fa94de94e5d950ba44a7367cedc287",
+    "testCaseId": "9b147bd611f4b0228b108a7d3a6a5b20",
+    "rerunOf": null,
+    "fullName": "Magento\\OfflineShipping\\Test\\Unit\\Model\\ResourceModel\\Carrier\\Tablerate\\CSV\\ColumnResolverTest::testGetColumnValueByPosition",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\OfflineShipping\\Test\\Unit\\Model\\ResourceModel\\Carrier\\Tablerate\\CSV\\ColumnResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetColumnValueByPosition"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

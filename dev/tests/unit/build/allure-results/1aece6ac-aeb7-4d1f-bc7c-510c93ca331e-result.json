@@ -1,0 +1,43 @@
+{
+    "uuid": "1aece6ac-aeb7-4d1f-bc7c-510c93ca331e",
+    "name": "Magento\\Captcha\\Test\\Unit\\Plugin\\ResetPaymentAttemptsAfterOrderIsPlacedPluginTest::testExecuteExpectsDeleteUserAttemptsCalled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011363,
+    "stop": 1711693011369,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "63b7a46879a62e47012b726101de3f5f",
+    "testCaseId": "c9708b450df0d65bddec628cf4672588",
+    "rerunOf": null,
+    "fullName": "Magento\\Captcha\\Test\\Unit\\Plugin\\ResetPaymentAttemptsAfterOrderIsPlacedPluginTest::testExecuteExpectsDeleteUserAttemptsCalled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Captcha\\Test\\Unit\\Plugin\\ResetPaymentAttemptsAfterOrderIsPlacedPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteExpectsDeleteUserAttemptsCalled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

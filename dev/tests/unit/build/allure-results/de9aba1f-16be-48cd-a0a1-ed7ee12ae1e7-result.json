@@ -1,0 +1,50 @@
+{
+    "uuid": "de9aba1f-16be-48cd-a0a1-ed7ee12ae1e7",
+    "name": "Magento\\Bundle\\Test\\Unit\\Pricing\\Adjustment\\CalculatorTest::testGetOptionsAmount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011088,
+    "stop": 1711693011088,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"true, false\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f896e0ce336a4c6fedd1979c3c8ff3c4",
+    "testCaseId": "5d8b64af603773d247a670b67d54ed0a",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Pricing\\Adjustment\\CalculatorTest::testGetOptionsAmount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Pricing\\Adjustment\\CalculatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOptionsAmount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

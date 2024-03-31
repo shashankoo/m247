@@ -1,0 +1,50 @@
+{
+    "uuid": "1481200e-f990-4696-a132-7b7903f0cf92",
+    "name": "Magento\\Framework\\Webapi\\Test\\Unit\\RequestTest::testGetRequestedServicesSuccess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078530,
+    "stop": 1711693078532,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "eefa5bfd615eeb69ea576252742f2f16",
+    "testCaseId": "3dfbd1f46ae1aa21edd8cdb4452d06ac",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Webapi\\Test\\Unit\\RequestTest::testGetRequestedServicesSuccess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Webapi\\Test\\Unit\\RequestTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRequestedServicesSuccess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

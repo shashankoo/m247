@@ -1,0 +1,43 @@
+{
+    "uuid": "35cd9d1b-dd14-4612-ba2e-4bd8192b3d0d",
+    "name": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\CacheTest::testLockWithEmptyLockSign",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074020,
+    "stop": 1711693074020,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "016538ba057c1271984844ca623e5968",
+    "testCaseId": "3366a4247f78a8174cd5d89354fc440e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\CacheTest::testLockWithEmptyLockSign",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\CacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLockWithEmptyLockSign"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

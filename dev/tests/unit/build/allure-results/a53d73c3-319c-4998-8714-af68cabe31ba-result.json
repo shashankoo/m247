@@ -1,0 +1,50 @@
+{
+    "uuid": "a53d73c3-319c-4998-8714-af68cabe31ba",
+    "name": "Magento\\Framework\\Api\\Test\\Unit\\SortOrderTest::testItReturnsTheCorrectValuesIfSortOrderIsSet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057648,
+    "stop": 1711693057648,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ed2139844b381ccdbf4bf224abd85a63",
+    "testCaseId": "bffb689fabaf764f6bb0cce84edc835d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Api\\Test\\Unit\\SortOrderTest::testItReturnsTheCorrectValuesIfSortOrderIsSet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Api\\Test\\Unit\\SortOrderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testItReturnsTheCorrectValuesIfSortOrderIsSet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

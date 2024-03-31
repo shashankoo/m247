@@ -1,0 +1,50 @@
+{
+    "uuid": "24343bcc-2294-41db-b716-e690a42a8cd1",
+    "name": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\BundleOptionsTest::testGetOptionSelectionAmount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011116,
+    "stop": 1711693011117,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "591823b290a2a75b07109875a7f178ec",
+    "testCaseId": "af275d5c8d75237fd7e38eb0faf99a09",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\BundleOptionsTest::testGetOptionSelectionAmount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\BundleOptionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOptionSelectionAmount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

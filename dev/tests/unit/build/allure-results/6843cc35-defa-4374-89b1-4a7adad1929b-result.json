@@ -1,0 +1,43 @@
+{
+    "uuid": "6843cc35-defa-4374-89b1-4a7adad1929b",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testRegisterRefundNotification",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038499,
+    "stop": 1711693038502,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2feb726de4fd41e35fccf1984a3d3637",
+    "testCaseId": "a6921c811ee132ed6b89ea75f8acd829",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testRegisterRefundNotification",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRegisterRefundNotification"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "2b5e650d-5fb5-4368-b064-a239c5878792",
+    "name": "Magento\\Framework\\Indexer\\Test\\Unit\\IndexerRegistryTest::testGetCreatesIndexerInstancesAndReusesExistingOnes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073752,
+    "stop": 1711693073752,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "046cc10afb34f965766e4d589a448dea",
+    "testCaseId": "16a58a3de2f6a1bfaa66afe070701be7",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Indexer\\Test\\Unit\\IndexerRegistryTest::testGetCreatesIndexerInstancesAndReusesExistingOnes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Indexer\\Test\\Unit\\IndexerRegistryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCreatesIndexerInstancesAndReusesExistingOnes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "be50cce9-4971-4e8d-b0e6-2ff89d73c73f",
+    "name": "Magento\\MediaStorage\\Test\\Unit\\Helper\\File\\StorageTest::testIsInternalStorage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030450,
+    "stop": 1711693030450,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"given external storage\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bf0f9656d81c21505119c7cf1a8eb436",
+    "testCaseId": "1b1b0b2b93d58996f19f1911aa8bbc27",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaStorage\\Test\\Unit\\Helper\\File\\StorageTest::testIsInternalStorage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaStorage\\Test\\Unit\\Helper\\File\\StorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsInternalStorage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

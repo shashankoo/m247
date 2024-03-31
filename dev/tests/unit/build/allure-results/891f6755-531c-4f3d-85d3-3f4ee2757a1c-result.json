@@ -1,0 +1,50 @@
+{
+    "uuid": "891f6755-531c-4f3d-85d3-3f4ee2757a1c",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductOptions\\Config\\XsdTest::testSchemaCorrectlyIdentifiesValidXml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015485,
+    "stop": 1711693015486,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"product_options\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "66f76582ea46db5ffbe58c8b2f15a2ce",
+    "testCaseId": "3aa3d2aa65ca69e93a01b01b1c2a2b5e",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductOptions\\Config\\XsdTest::testSchemaCorrectlyIdentifiesValidXml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductOptions\\Config\\XsdTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSchemaCorrectlyIdentifiesValidXml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

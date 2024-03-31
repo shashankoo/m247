@@ -1,0 +1,50 @@
+{
+    "uuid": "d060fda9-b8bd-4388-8eea-c006d728b437",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Frontend\\InputType\\PresentationTest::testConvertPresentationDataToInputType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014935,
+    "stop": 1711693014935,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "74116c3c027d15352829d4abeda1529e",
+    "testCaseId": "3844d2d43819143da253297708aefea3",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Frontend\\InputType\\PresentationTest::testConvertPresentationDataToInputType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Frontend\\InputType\\PresentationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvertPresentationDataToInputType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

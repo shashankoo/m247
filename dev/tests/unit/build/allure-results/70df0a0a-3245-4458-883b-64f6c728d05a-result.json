@@ -1,0 +1,50 @@
+{
+    "uuid": "70df0a0a-3245-4458-883b-64f6c728d05a",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\FactoryTest::testCreatePositiveWithNotEmptyConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071185,
+    "stop": 1711693071185,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"note\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cca82c091059b31fb273e11c5fe838c4",
+    "testCaseId": "04b454954b305732f7cbeaf8b0d01f8c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\FactoryTest::testCreatePositiveWithNotEmptyConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\FactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreatePositiveWithNotEmptyConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

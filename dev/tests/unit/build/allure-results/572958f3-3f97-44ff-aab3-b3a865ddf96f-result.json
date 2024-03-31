@@ -1,0 +1,50 @@
+{
+    "uuid": "572958f3-3f97-44ff-aab3-b3a865ddf96f",
+    "name": "Magento\\Framework\\Encryption\\Test\\Unit\\Helper\\SecurityTest::testCompareStrings",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693072920,
+    "stop": 1711693072921,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2b79bbe29398158e1a681dd8af762a8c",
+    "testCaseId": "d0bfb28bf8dff6c11969ad06eefd70f9",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Encryption\\Test\\Unit\\Helper\\SecurityTest::testCompareStrings",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Encryption\\Test\\Unit\\Helper\\SecurityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCompareStrings"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

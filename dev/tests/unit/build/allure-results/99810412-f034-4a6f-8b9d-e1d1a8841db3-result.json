@@ -1,0 +1,43 @@
+{
+    "uuid": "99810412-f034-4a6f-8b9d-e1d1a8841db3",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\CustomerManagementTest::testValidateAddressesNotSavedInAddressBook",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032729,
+    "stop": 1711693032730,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0f966dd9ee71152f9360acab9229b937",
+    "testCaseId": "bfa328cca36e8cfe849b013f8d7b3d62",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\CustomerManagementTest::testValidateAddressesNotSavedInAddressBook",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\CustomerManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateAddressesNotSavedInAddressBook"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

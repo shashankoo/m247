@@ -1,0 +1,43 @@
+{
+    "uuid": "1e3f66b3-951c-45ea-9c28-e8f5841a5714",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\SessionTest::testCreateConfigWithRedisInput",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055116,
+    "stop": 1711693055116,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "74173cabb0c9e0a4009a501fcf1f9cb2",
+    "testCaseId": "f2397b64579b848fb5ceac6e66c62115",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\SessionTest::testCreateConfigWithRedisInput",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\SessionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateConfigWithRedisInput"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "a4c76766-8584-4776-8994-00577289d3bd",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Model\\File\\ContentValidatorTest::testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021960,
+    "stop": 1711693021960,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4b0fb669e4bbe84794ca83787958f472",
+    "testCaseId": "815a62fd138d6fff4947d944c89ef9ed",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Model\\File\\ContentValidatorTest::testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Model\\File\\ContentValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValidThrowsExceptionIfProvidedImageNameContainsForbiddenCharacters"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

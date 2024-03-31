@@ -1,0 +1,43 @@
+{
+    "uuid": "4febc8d0-65dc-4461-b8bc-d44c69c7eae7",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\AreaListTest::testGetFrontNameWhenAreaCodeAndFrontNameArentSet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057672,
+    "stop": 1711693057673,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a1527c5fbee2d566d91eb0a47fd42e09",
+    "testCaseId": "38237630085febfbf3f0a190741b2a24",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\AreaListTest::testGetFrontNameWhenAreaCodeAndFrontNameArentSet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\AreaListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFrontNameWhenAreaCodeAndFrontNameArentSet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

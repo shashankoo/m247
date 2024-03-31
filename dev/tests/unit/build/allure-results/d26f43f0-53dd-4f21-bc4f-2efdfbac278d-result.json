@@ -1,0 +1,43 @@
+{
+    "uuid": "d26f43f0-53dd-4f21-bc4f-2efdfbac278d",
+    "name": "Magento\\Security\\Test\\Unit\\Model\\ResourceModel\\AdminSessionInfo\\CollectionTest::testDeleteSessionsOlderThen",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041291,
+    "stop": 1711693041292,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3bf575f1fe3a74973c5c58d429ec1de1",
+    "testCaseId": "b44e42d0d2fc5684460d39a33e9351a7",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Model\\ResourceModel\\AdminSessionInfo\\CollectionTest::testDeleteSessionsOlderThen",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Model\\ResourceModel\\AdminSessionInfo\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteSessionsOlderThen"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

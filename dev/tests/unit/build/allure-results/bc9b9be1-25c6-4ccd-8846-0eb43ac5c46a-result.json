@@ -1,0 +1,43 @@
+{
+    "uuid": "bc9b9be1-25c6-4ccd-8846-0eb43ac5c46a",
+    "name": "Magento\\Integration\\Test\\Unit\\Block\\Adminhtml\\Integration\\Edit\\Tab\\InfoTest::testIsHidden",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029484,
+    "stop": 1711693029485,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e83d324299fbe3fc68949573be3e9634",
+    "testCaseId": "e875a3c5a575b5964177cd4c4c3baf21",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Block\\Adminhtml\\Integration\\Edit\\Tab\\InfoTest::testIsHidden",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Block\\Adminhtml\\Integration\\Edit\\Tab\\InfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsHidden"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

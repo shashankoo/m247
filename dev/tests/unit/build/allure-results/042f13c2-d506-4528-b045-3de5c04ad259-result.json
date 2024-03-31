@@ -1,0 +1,43 @@
+{
+    "uuid": "042f13c2-d506-4528-b045-3de5c04ad259",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Dependency\\Report\\Dependency\\Data\\DependencyTest::testThatHardTypeIsDefault",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055591,
+    "stop": 1711693055591,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "54e161592d1aca14631a11182c27678e",
+    "testCaseId": "2f89079594092c6c894e37c9342d2cc1",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Dependency\\Report\\Dependency\\Data\\DependencyTest::testThatHardTypeIsDefault",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Dependency\\Report\\Dependency\\Data\\DependencyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testThatHardTypeIsDefault"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

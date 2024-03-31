@@ -1,0 +1,50 @@
+{
+    "uuid": "73e57f60-ab71-446e-964d-9eff20ebd9fc",
+    "name": "Magento\\Framework\\Validator\\Test\\Unit\\Constraint\\Option\\CallbackTest::testGetValueException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077030,
+    "stop": 1711693077030,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1aad71c7da09d6496a9dd1a62a6c46aa",
+    "testCaseId": "44afe60acd6654163e3590b497bb5619",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Validator\\Test\\Unit\\Constraint\\Option\\CallbackTest::testGetValueException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Validator\\Test\\Unit\\Constraint\\Option\\CallbackTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValueException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

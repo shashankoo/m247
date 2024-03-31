@@ -1,0 +1,43 @@
+{
+    "uuid": "0c22fbd1-1694-4007-a7ba-6704fd0b85da",
+    "name": "Magento\\Elasticsearch7\\Test\\Unit\\Model\\Client\\ElasticsearchTest::testDeleteIndex",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023011,
+    "stop": 1711693023012,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "22bb91d9e694f27e441951b48355d300",
+    "testCaseId": "9b0140e1eff6fb84234af1a9023562ab",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch7\\Test\\Unit\\Model\\Client\\ElasticsearchTest::testDeleteIndex",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch7\\Test\\Unit\\Model\\Client\\ElasticsearchTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteIndex"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "ecc9d6c7-c254-429f-acd7-a767db932de9",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Total\\DiscountTest::testCollectInvoiceWithZeroGrandTotal",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038068,
+    "stop": 1711693038071,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1524a54d62481f1b4d664384defa52e8",
+    "testCaseId": "b72f00b78c6a39f8ac26f034182c8bf6",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Total\\DiscountTest::testCollectInvoiceWithZeroGrandTotal",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Total\\DiscountTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectInvoiceWithZeroGrandTotal"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "bcaea141-bbdd-4741-b88d-6081ec15dbf1",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Condition\\ProductTest::testQuoteLocaleFormatPrice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036147,
+    "stop": 1711693036148,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"number\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0e516d68f6085a6889946432a64bb2e3",
+    "testCaseId": "044b186d1cc8439359ffdfca84413a6d",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Condition\\ProductTest::testQuoteLocaleFormatPrice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Condition\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testQuoteLocaleFormatPrice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

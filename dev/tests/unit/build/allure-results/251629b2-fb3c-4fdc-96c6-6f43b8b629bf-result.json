@@ -1,0 +1,50 @@
+{
+    "uuid": "251629b2-fb3c-4fdc-96c6-6f43b8b629bf",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Page\\ConfigTest::testAddPageAsset",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078399,
+    "stop": 1711693078399,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "afc2c743f75b661762470458c0b7592e",
+    "testCaseId": "78a2290af6252a6fe0b6f8e948c0aa92",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Page\\ConfigTest::testAddPageAsset",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Page\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddPageAsset"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

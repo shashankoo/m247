@@ -1,0 +1,43 @@
+{
+    "uuid": "04cefba2-ca8b-4e49-9d7b-ef35bbca8e9a",
+    "name": "Magento\\Security\\Test\\Unit\\Model\\Plugin\\AuthTest::testAfterLogin",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041281,
+    "stop": 1711693041282,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b8f9de28005e623053247191535ea25a",
+    "testCaseId": "e30de316962af805db90eb3a69fbea42",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Model\\Plugin\\AuthTest::testAfterLogin",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Model\\Plugin\\AuthTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterLogin"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

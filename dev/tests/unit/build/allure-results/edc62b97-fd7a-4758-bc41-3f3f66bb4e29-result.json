@@ -1,0 +1,43 @@
+{
+    "uuid": "edc62b97-fd7a-4758-bc41-3f3f66bb4e29",
+    "name": "Magento\\Persistent\\Test\\Unit\\Model\\QuoteManagerTest::testSetGuestWhenShoppingCartAndQuoteAreNotPersistent",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032515,
+    "stop": 1711693032515,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a972a468f204e33c146fdfabd464e25a",
+    "testCaseId": "27c78c06a01ef58d7d5703903e433bda",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Model\\QuoteManagerTest::testSetGuestWhenShoppingCartAndQuoteAreNotPersistent",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Model\\QuoteManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetGuestWhenShoppingCartAndQuoteAreNotPersistent"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

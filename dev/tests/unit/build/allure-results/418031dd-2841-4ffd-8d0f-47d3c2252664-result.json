@@ -1,0 +1,50 @@
+{
+    "uuid": "418031dd-2841-4ffd-8d0f-47d3c2252664",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\QuoteManagementTest::testPlaceOrderIfCustomerIsGuest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032975,
+    "stop": 1711693032977,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "76df6f92b6c9d972e549d91128a3bb53",
+    "testCaseId": "a9bda1a55f3f569d0247a5b411fdc31d",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\QuoteManagementTest::testPlaceOrderIfCustomerIsGuest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\QuoteManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPlaceOrderIfCustomerIsGuest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "c4ad2c5d-9e0a-403d-b618-df86cc3e331b",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\ConfigTest::testGetPaymentMarkImageUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032019,
+    "stop": 1711693032020,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "75c97d83a6a0f74ac3b1571a678c315c",
+    "testCaseId": "2387652b5530f1d1716b10b0f4d75b7c",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\ConfigTest::testGetPaymentMarkImageUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPaymentMarkImageUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "a5ad076c-99d5-4297-8c00-c35bbef68aa6",
+    "name": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Order\\OrderAdapterTest::testGetShippingAddressIsNull",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031428,
+    "stop": 1711693031429,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d65caf02d62011464799fa28c8723635",
+    "testCaseId": "4883db7a4b7a0e6b8367103e297bf9d7",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Order\\OrderAdapterTest::testGetShippingAddressIsNull",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Order\\OrderAdapterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetShippingAddressIsNull"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

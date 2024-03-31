@@ -1,0 +1,50 @@
+{
+    "uuid": "3d184fe0-57f0-4650-a33d-d9f3d792673b",
+    "name": "Magento\\OfflineShipping\\Test\\Unit\\Model\\Quote\\Address\\FreeShippingTest::testIsFreeShipping",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031120,
+    "stop": 1711693031126,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3e803af3ab39eec3445fd9de1826f3f1",
+    "testCaseId": "eee7a47af6bcb15b6cb7ef8df96e381e",
+    "rerunOf": null,
+    "fullName": "Magento\\OfflineShipping\\Test\\Unit\\Model\\Quote\\Address\\FreeShippingTest::testIsFreeShipping",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\OfflineShipping\\Test\\Unit\\Model\\Quote\\Address\\FreeShippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsFreeShipping"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "ee965c6a-2b73-4796-a79b-aef61297072c",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\Logger\\FileTest::testLogStatsUnknownType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070742,
+    "stop": 1711693070743,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5cc10d76b0ae7fccf80ab6b6ac03bd15",
+    "testCaseId": "d1a15b0fe5974d9a494424e25e290f4c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\Logger\\FileTest::testLogStatsUnknownType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\Logger\\FileTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLogStatsUnknownType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

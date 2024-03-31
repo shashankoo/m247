@@ -1,0 +1,50 @@
+{
+    "uuid": "d9e1f2d4-d97e-4391-9c98-f56a189a18e7",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\EntityAbstractTest::testGetBehaviorWithRowData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024701,
+    "stop": 1711693024701,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"custom behavior and row with null in action column and empty available behaviors\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3e30219e1b7553229eaabfbcf09ff61a",
+    "testCaseId": "54ca4b4f98c755d00edf4e12a82af679",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\EntityAbstractTest::testGetBehaviorWithRowData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\EntityAbstractTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBehaviorWithRowData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "01a3de8f-f58b-4115-8545-c05fe592ce1d",
+    "name": "Magento\\MediaStorage\\Test\\Unit\\App\\MediaTest::testCatchException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030418,
+    "stop": 1711693030418,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"default mode\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fd29f1b8eab990b320becabf8a1599ad",
+    "testCaseId": "9bcd9732c27a9ea3a3c33fcbbd4020c1",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaStorage\\Test\\Unit\\App\\MediaTest::testCatchException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaStorage\\Test\\Unit\\App\\MediaTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCatchException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "9a8f3dc1-1fdd-4521-ba1c-c666d88d583b",
+    "name": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\FileTest::testGetAbsolutePath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073235,
+    "stop": 1711693073235,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d0059c698e89fec5f3b684fac19bd2f1",
+    "testCaseId": "e61c247e957c679afd3288ffc7acd4ae",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\FileTest::testGetAbsolutePath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\FileTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAbsolutePath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

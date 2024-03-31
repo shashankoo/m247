@@ -1,0 +1,50 @@
+{
+    "uuid": "12d878aa-a09f-43dc-8bfa-b1bac828308e",
+    "name": "Magento\\Sitemap\\Test\\Unit\\Model\\SitemapTest::testGetSitemapUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041728,
+    "stop": 1711693041729,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "774f338b505507d60a2be57fb490e5d9",
+    "testCaseId": "b7fb9139dd3718ac3657590c1f4a7330",
+    "rerunOf": null,
+    "fullName": "Magento\\Sitemap\\Test\\Unit\\Model\\SitemapTest::testGetSitemapUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sitemap\\Test\\Unit\\Model\\SitemapTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSitemapUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "dbfa5c65-2da2-4436-a6ff-d6e292105fa8",
+    "name": "Magento\\Framework\\Module\\Test\\Unit\\ConflictCheckerTest::testCheckConflictWhenEnableModuleDifferentVersionWithCurEnabledModules",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074380,
+    "stop": 1711693074380,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "00e26cf003444dd90ad6164a87361452",
+    "testCaseId": "c96ff9f66bc0e93c85e0e584f4d3b58a",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Module\\Test\\Unit\\ConflictCheckerTest::testCheckConflictWhenEnableModuleDifferentVersionWithCurEnabledModules",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Module\\Test\\Unit\\ConflictCheckerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckConflictWhenEnableModuleDifferentVersionWithCurEnabledModules"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

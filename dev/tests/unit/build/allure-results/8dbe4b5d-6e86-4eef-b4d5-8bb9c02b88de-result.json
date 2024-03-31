@@ -1,0 +1,50 @@
+{
+    "uuid": "8dbe4b5d-6e86-4eef-b4d5-8bb9c02b88de",
+    "name": "Magento\\Email\\Test\\Unit\\ViewModel\\Template\\Preview\\FormTest::testGetFormFields",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023866,
+    "stop": 1711693023866,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"get_request_valid_ignore_params\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "895219b875fe4349ed3574b5a5bc6950",
+    "testCaseId": "c30cf657bdf19387a75ab45a15d5e218",
+    "rerunOf": null,
+    "fullName": "Magento\\Email\\Test\\Unit\\ViewModel\\Template\\Preview\\FormTest::testGetFormFields",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Email\\Test\\Unit\\ViewModel\\Template\\Preview\\FormTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFormFields"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

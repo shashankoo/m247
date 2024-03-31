@@ -1,0 +1,43 @@
+{
+    "uuid": "cd0de587-02b6-4922-9409-4b75a8880afb",
+    "name": "Magento\\User\\Test\\Unit\\Observer\\Backend\\ForceAdminPasswordChangeObserverTest::testForceAdminPasswordChange",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053014,
+    "stop": 1711693053015,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "70a3719eaca0b064139e4fd51ef9902c",
+    "testCaseId": "34a4f222f67f01dd8e75ebdd7d924c0c",
+    "rerunOf": null,
+    "fullName": "Magento\\User\\Test\\Unit\\Observer\\Backend\\ForceAdminPasswordChangeObserverTest::testForceAdminPasswordChange",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\User\\Test\\Unit\\Observer\\Backend\\ForceAdminPasswordChangeObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testForceAdminPasswordChange"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

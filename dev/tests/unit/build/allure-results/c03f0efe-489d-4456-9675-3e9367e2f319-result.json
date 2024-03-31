@@ -1,0 +1,50 @@
+{
+    "uuid": "c03f0efe-489d-4456-9675-3e9367e2f319",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\Link\\SaveHandlerTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014213,
+    "stop": 1711693014214,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"setCategoryLinks\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9e605c4b4b34e8695769e3aecb5be3d5",
+    "testCaseId": "0df88684f5969c5b744989fcf28a1b21",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\Link\\SaveHandlerTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\Link\\SaveHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

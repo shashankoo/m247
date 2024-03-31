@@ -1,0 +1,50 @@
+{
+    "uuid": "a599aaa4-a0ec-465d-92e6-44d78750b4e6",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\Validator\\SelectTest::testIsValidateWithInvalidData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015180,
+    "stop": 1711693015181,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"empty_title\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ff7ec8de0253e94f10eaaa532e2ecd09",
+    "testCaseId": "03e43ce30915dafafb2737dcd26f9bce",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\Validator\\SelectTest::testIsValidateWithInvalidData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\Validator\\SelectTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValidateWithInvalidData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

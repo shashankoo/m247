@@ -1,0 +1,43 @@
+{
+    "uuid": "59eb37ca-0ae6-4c6b-a6f5-8830e3527775",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\ShippingMethodManagementTest::testGetMethodWhenShippingAddressIsNotSet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033240,
+    "stop": 1711693033242,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9dcf40541e9f26525c88d656976bdaaf",
+    "testCaseId": "4690f001b2ec4e8ddbc5a8185b3bf4cd",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\ShippingMethodManagementTest::testGetMethodWhenShippingAddressIsNotSet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\ShippingMethodManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMethodWhenShippingAddressIsNotSet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

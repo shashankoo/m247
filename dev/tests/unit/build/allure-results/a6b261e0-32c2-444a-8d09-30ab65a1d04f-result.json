@@ -1,0 +1,50 @@
+{
+    "uuid": "a6b261e0-32c2-444a-8d09-30ab65a1d04f",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Layout\\Reader\\MoveTest::testProcess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078162,
+    "stop": 1711693078163,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"move_before\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c667b51eb5939aea270791b2a6191e60",
+    "testCaseId": "12d83a496bd39e16bd736ebb2b579054",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Layout\\Reader\\MoveTest::testProcess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Layout\\Reader\\MoveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

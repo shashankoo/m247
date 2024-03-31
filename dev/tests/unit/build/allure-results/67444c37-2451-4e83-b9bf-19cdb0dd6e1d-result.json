@@ -1,0 +1,50 @@
+{
+    "uuid": "67444c37-2451-4e83-b9bf-19cdb0dd6e1d",
+    "name": "Magento\\Customer\\Test\\Unit\\Observer\\AfterAddressSaveObserverTest::testAfterAddressSaveDefaultGroup",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021104,
+    "stop": 1711693021104,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"when vatId is empty, non EU country and disable auto group true\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "abd2cabf3cbf104804c7fb705eb14547",
+    "testCaseId": "b2a9dfa46c076d76e2f17b26c1f3d168",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Observer\\AfterAddressSaveObserverTest::testAfterAddressSaveDefaultGroup",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Observer\\AfterAddressSaveObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterAddressSaveDefaultGroup"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

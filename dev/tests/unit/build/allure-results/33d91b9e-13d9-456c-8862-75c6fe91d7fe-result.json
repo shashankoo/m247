@@ -1,0 +1,43 @@
+{
+    "uuid": "33d91b9e-13d9-456c-8862-75c6fe91d7fe",
+    "name": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Quote\\AddressAdapterTest::testGetPostcode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031445,
+    "stop": 1711693031445,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "03918f14aa236cd559c78c7ccf524290",
+    "testCaseId": "723fef31c43fc585085bc3ab30f8660f",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Quote\\AddressAdapterTest::testGetPostcode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Quote\\AddressAdapterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPostcode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

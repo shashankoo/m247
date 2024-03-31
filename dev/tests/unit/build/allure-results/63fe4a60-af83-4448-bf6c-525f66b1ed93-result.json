@@ -1,0 +1,50 @@
+{
+    "uuid": "63fe4a60-af83-4448-bf6c-525f66b1ed93",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\ItemTest::testGetQtyIncrements",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012111,
+    "stop": 1711693012111,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5c90136331e247c1e6a2102b32c3ce03",
+    "testCaseId": "a642afbbe8c23f6e1e2b82cad7264a6a",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\ItemTest::testGetQtyIncrements",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetQtyIncrements"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

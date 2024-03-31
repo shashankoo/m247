@@ -1,0 +1,50 @@
+{
+    "uuid": "5ba2a469-14a0-4f2f-85bf-10af3b4af87f",
+    "name": "Magento\\Backend\\Test\\Unit\\Console\\Command\\CacheEnableCommandTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009728,
+    "stop": 1711693009729,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"specified types\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e0355cfef0ecae532e830cd352fac3a8",
+    "testCaseId": "ca0e70afdded95713a2f2dbd53774c2c",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Console\\Command\\CacheEnableCommandTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Console\\Command\\CacheEnableCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

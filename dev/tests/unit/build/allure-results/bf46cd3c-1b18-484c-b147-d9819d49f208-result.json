@@ -1,0 +1,50 @@
+{
+    "uuid": "bf46cd3c-1b18-484c-b147-d9819d49f208",
+    "name": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\CategoryUrlPathAutogeneratorObserverTest::testShouldFormatUrlKeyAndGenerateUrlPathIfUrlKeyIsNotUsingDefaultValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013149,
+    "stop": 1711693013151,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f2277dfa79daa4fdf43c6ffcfe6a190e",
+    "testCaseId": "1b62c73d80d725af02b4e3117c843322",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\CategoryUrlPathAutogeneratorObserverTest::testShouldFormatUrlKeyAndGenerateUrlPathIfUrlKeyIsNotUsingDefaultValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\CategoryUrlPathAutogeneratorObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testShouldFormatUrlKeyAndGenerateUrlPathIfUrlKeyIsNotUsingDefaultValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

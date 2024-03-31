@@ -1,0 +1,50 @@
+{
+    "uuid": "5e5c355c-9aad-408a-bee6-eb47fe72bf16",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\ConcealInProductionConfigListTest::testIsDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017966,
+    "stop": 1711693017966,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#6",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ab5ca9c379fd88f9ac3b2c73cecd09eb",
+    "testCaseId": "3f015c04cd491171b83f76a2279a87ff",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\ConcealInProductionConfigListTest::testIsDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\ConcealInProductionConfigListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

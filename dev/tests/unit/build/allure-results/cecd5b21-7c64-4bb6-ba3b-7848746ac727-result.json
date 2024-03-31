@@ -1,0 +1,50 @@
+{
+    "uuid": "cecd5b21-7c64-4bb6-ba3b-7848746ac727",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Validator\\QuantityTest::testIsValid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011590,
+    "stop": 1711693011590,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6ba6e9743fc42277e57f1060c02e400d",
+    "testCaseId": "1171e5abf401cf2bffb9464f6025070b",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Validator\\QuantityTest::testIsValid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Validator\\QuantityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

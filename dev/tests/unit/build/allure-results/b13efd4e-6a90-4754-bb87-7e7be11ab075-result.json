@@ -1,0 +1,50 @@
+{
+    "uuid": "b13efd4e-6a90-4754-bb87-7e7be11ab075",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlTest::testAddIndexWithDuplicationsInDB",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070647,
+    "stop": 1711693070648,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"New unique index\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4c541c761486f7ede23d0ab79c40f8d2",
+    "testCaseId": "e254c5a366cc2572d219c050d24353ae",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlTest::testAddIndexWithDuplicationsInDB",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddIndexWithDuplicationsInDB"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "1468312f-4828-41ca-abf7-1bb790a4044d",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\MongoDbTest::testGetFillingPercentage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059224,
+    "stop": 1711693059224,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "420d39cb01d131bdda53e0eef158407e",
+    "testCaseId": "44d77dd2f9472b9f718e64abf37e0ef8",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\MongoDbTest::testGetFillingPercentage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\MongoDbTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFillingPercentage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

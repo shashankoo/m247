@@ -1,0 +1,43 @@
+{
+    "uuid": "d958ac29-ef45-49ce-b392-89f2407b7be9",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\PhpReadinessCheckTest::testCheckPhpSettings",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055516,
+    "stop": 1711693055516,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3c45f25938340b13e29cc0f0563d5e81",
+    "testCaseId": "4f265e65f2ce7216eb50f3b3e2f25b92",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\PhpReadinessCheckTest::testCheckPhpSettings",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\PhpReadinessCheckTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckPhpSettings"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

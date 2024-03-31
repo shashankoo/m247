@@ -1,0 +1,50 @@
+{
+    "uuid": "ccf9d284-7a22-4dd8-bbed-1db0511e423e",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Block\\Product\\View\\Type\\ConfigurableTest::testGetCacheKeyInfo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018346,
+    "stop": 1711693018347,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"with_price_currency\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "db95c52a155db59143d8da72be4a4bc2",
+    "testCaseId": "c138aec928e80af2c1bae97bbb60fb4f",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Block\\Product\\View\\Type\\ConfigurableTest::testGetCacheKeyInfo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Block\\Product\\View\\Type\\ConfigurableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCacheKeyInfo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

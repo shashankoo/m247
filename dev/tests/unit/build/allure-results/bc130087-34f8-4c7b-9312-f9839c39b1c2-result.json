@@ -1,0 +1,43 @@
+{
+    "uuid": "bc130087-34f8-4c7b-9312-f9839c39b1c2",
+    "name": "Magento\\AdminAdobeIms\\Test\\Unit\\Controller\\Adminhtml\\OAuth\\ImsReauthCallbackTest::testExecuteStateKeyNotExistsInCallBack",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008395,
+    "stop": 1711693008399,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6351147c82ac27c0e548d8eaebb48e9e",
+    "testCaseId": "2cb0ba04fab8a453915004c3d11bc19b",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminAdobeIms\\Test\\Unit\\Controller\\Adminhtml\\OAuth\\ImsReauthCallbackTest::testExecuteStateKeyNotExistsInCallBack",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminAdobeIms\\Test\\Unit\\Controller\\Adminhtml\\OAuth\\ImsReauthCallbackTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteStateKeyNotExistsInCallBack"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

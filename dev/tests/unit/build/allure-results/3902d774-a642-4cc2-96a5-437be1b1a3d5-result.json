@@ -1,0 +1,50 @@
+{
+    "uuid": "3902d774-a642-4cc2-96a5-437be1b1a3d5",
+    "name": "Magento\\Webapi\\Test\\Unit\\Controller\\Rest\\Router\\RouteTest::testRoute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053478,
+    "stop": 1711693053478,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#12",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "491f79b9d641c7073e32dd6617694e54",
+    "testCaseId": "feaa4d9215a343bf2e8c6846595788d0",
+    "rerunOf": null,
+    "fullName": "Magento\\Webapi\\Test\\Unit\\Controller\\Rest\\Router\\RouteTest::testRoute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Webapi\\Test\\Unit\\Controller\\Rest\\Router\\RouteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRoute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

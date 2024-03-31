@@ -1,0 +1,50 @@
+{
+    "uuid": "e9ad83d3-e54a-4e14-9041-e9709f5ecf88",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\ErrorProcessing\\ProcessingErrorAggregatorTest::testIsRowInvalid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024717,
+    "stop": 1711693024717,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5c481c8387cb575d3eace4c588e27447",
+    "testCaseId": "a459a4263468ac1188b371354a90dc57",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\ErrorProcessing\\ProcessingErrorAggregatorTest::testIsRowInvalid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\ErrorProcessing\\ProcessingErrorAggregatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsRowInvalid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

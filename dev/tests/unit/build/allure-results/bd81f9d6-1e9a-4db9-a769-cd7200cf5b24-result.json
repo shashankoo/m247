@@ -1,0 +1,50 @@
+{
+    "uuid": "bd81f9d6-1e9a-4db9-a769-cd7200cf5b24",
+    "name": "Magento\\Framework\\Interception\\Test\\Unit\\Config\\ConfigTest::testHasPluginsWhenDataIsNotCached",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073811,
+    "stop": 1711693073812,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4789fb3a3f2be7f66489fa88874df5d4",
+    "testCaseId": "0bbdee6fc96e8c46ee5146495f74536a",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Interception\\Test\\Unit\\Config\\ConfigTest::testHasPluginsWhenDataIsNotCached",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Interception\\Test\\Unit\\Config\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testHasPluginsWhenDataIsNotCached"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

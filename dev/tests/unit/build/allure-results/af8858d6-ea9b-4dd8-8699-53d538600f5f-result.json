@@ -1,0 +1,50 @@
+{
+    "uuid": "af8858d6-ea9b-4dd8-8699-53d538600f5f",
+    "name": "Magento\\Email\\Test\\Unit\\Model\\Template\\SenderResolverTest::testResolveThrowException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023740,
+    "stop": 1711693023741,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0a2261f0c40e236e32aaac60c9a2fad2",
+    "testCaseId": "7c1463edea2f659ec5c89a235d33fb64",
+    "rerunOf": null,
+    "fullName": "Magento\\Email\\Test\\Unit\\Model\\Template\\SenderResolverTest::testResolveThrowException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Email\\Test\\Unit\\Model\\Template\\SenderResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testResolveThrowException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

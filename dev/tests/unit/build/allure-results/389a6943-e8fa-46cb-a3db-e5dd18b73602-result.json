@@ -1,0 +1,50 @@
+{
+    "uuid": "389a6943-e8fa-46cb-a3db-e5dd18b73602",
+    "name": "Magento\\Analytics\\Test\\Unit\\Model\\LinkProviderTest::testFileNotReady",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009138,
+    "stop": 1711693009138,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "77739c0b6bc6fe2a54ef578bd0dc4260",
+    "testCaseId": "7e2a5a87d22c86d326adbc82a27ee9c6",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Model\\LinkProviderTest::testFileNotReady",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Model\\LinkProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFileNotReady"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

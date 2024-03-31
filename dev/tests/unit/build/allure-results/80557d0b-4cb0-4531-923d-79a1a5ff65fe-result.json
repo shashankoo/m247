@@ -1,0 +1,50 @@
+{
+    "uuid": "80557d0b-4cb0-4531-923d-79a1a5ff65fe",
+    "name": "Magento\\Framework\\Session\\Test\\Unit\\ConfigTest::testSetOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076000,
+    "stop": 1711693076000,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b1394ae67bf48bbfe6b318be6fd90419",
+    "testCaseId": "e703b28658cbc988ae1b6a3608df6508",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Session\\Test\\Unit\\ConfigTest::testSetOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Session\\Test\\Unit\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

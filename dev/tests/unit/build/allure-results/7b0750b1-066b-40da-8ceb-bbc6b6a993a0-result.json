@@ -1,0 +1,50 @@
+{
+    "uuid": "7b0750b1-066b-40da-8ceb-bbc6b6a993a0",
+    "name": "Magento\\Framework\\Module\\Test\\Unit\\Declaration\\Converter\\DomTest::testConvertWithInvalidDom",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074394,
+    "stop": 1711693074395,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Sequence module node without \"name\" attribute\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "df5e4b8a38c061396a4c39c7041613ef",
+    "testCaseId": "1ffaf92aadd012975fb8082393a8957e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Module\\Test\\Unit\\Declaration\\Converter\\DomTest::testConvertWithInvalidDom",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Module\\Test\\Unit\\Declaration\\Converter\\DomTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvertWithInvalidDom"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

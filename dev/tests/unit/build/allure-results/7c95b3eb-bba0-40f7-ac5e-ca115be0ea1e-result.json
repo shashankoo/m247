@@ -1,0 +1,50 @@
+{
+    "uuid": "7c95b3eb-bba0-40f7-ac5e-ca115be0ea1e",
+    "name": "Magento\\MediaGallery\\Test\\Unit\\Model\\ResourceModel\\Keyword\\SaveAssetLinksTest::testAssetKeywordsSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030403,
+    "stop": 1711693030403,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "657a8c273d0a92ed1a13d9bb4f855691",
+    "testCaseId": "ef3c11d2bdc063f2658dfc657613372a",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaGallery\\Test\\Unit\\Model\\ResourceModel\\Keyword\\SaveAssetLinksTest::testAssetKeywordsSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaGallery\\Test\\Unit\\Model\\ResourceModel\\Keyword\\SaveAssetLinksTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAssetKeywordsSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

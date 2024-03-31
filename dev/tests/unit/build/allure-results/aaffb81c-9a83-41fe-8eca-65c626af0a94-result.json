@@ -1,0 +1,50 @@
+{
+    "uuid": "aaffb81c-9a83-41fe-8eca-65c626af0a94",
+    "name": "Magento\\Search\\Test\\Unit\\Controller\\Adminhtml\\Term\\SaveTest::testExecuteIsPostData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041178,
+    "stop": 1711693041180,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d68594698a04613a7cf6c14b57f7d547",
+    "testCaseId": "65122dfbf26eff535e676d06645e564d",
+    "rerunOf": null,
+    "fullName": "Magento\\Search\\Test\\Unit\\Controller\\Adminhtml\\Term\\SaveTest::testExecuteIsPostData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Search\\Test\\Unit\\Controller\\Adminhtml\\Term\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteIsPostData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

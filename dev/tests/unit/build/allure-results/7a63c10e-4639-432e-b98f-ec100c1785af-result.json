@@ -1,0 +1,50 @@
+{
+    "uuid": "7a63c10e-4639-432e-b98f-ec100c1785af",
+    "name": "Magento\\Checkout\\Test\\Unit\\Model\\SidebarTest::testGetResponseData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016932,
+    "stop": 1711693016932,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a49652c2549f20c3ffbe3364512dcb0f",
+    "testCaseId": "e472b4ff944419b6d225a232dc1a00ce",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Model\\SidebarTest::testGetResponseData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Model\\SidebarTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetResponseData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

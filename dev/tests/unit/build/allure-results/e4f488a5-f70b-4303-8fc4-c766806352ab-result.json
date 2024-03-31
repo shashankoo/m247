@@ -1,0 +1,43 @@
+{
+    "uuid": "e4f488a5-f70b-4303-8fc4-c766806352ab",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\Calculation\\TotalBaseCalculatorTest::testCalculateWithTaxNotInPrice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042654,
+    "stop": 1711693042655,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "28a13c1d7d23c54cfefea8ae6fa6b6dc",
+    "testCaseId": "18cc123ec05b03a9c80a2ffb3611e397",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\Calculation\\TotalBaseCalculatorTest::testCalculateWithTaxNotInPrice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\Calculation\\TotalBaseCalculatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCalculateWithTaxNotInPrice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

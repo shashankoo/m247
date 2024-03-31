@@ -1,0 +1,50 @@
+{
+    "uuid": "8165d6b0-377c-4c2d-9dc2-efd05a8ba57e",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Category\\Flat\\StateTest::testIsAvailable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014405,
+    "stop": 1711693014405,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3cdd7703dcce8b5f3be5ef1cdf180220",
+    "testCaseId": "2bd0d6ae9d52a3a93d9944919166e1bb",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Category\\Flat\\StateTest::testIsAvailable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Category\\Flat\\StateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAvailable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

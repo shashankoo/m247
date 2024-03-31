@@ -1,0 +1,50 @@
+{
+    "uuid": "2c63418b-a765-4681-a073-ad196e1af90e",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Model\\Product\\TypeHandler\\SampleTest::testSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022026,
+    "stop": 1711693022028,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e79b64fa49280cd7d993f6afe753306c",
+    "testCaseId": "71becafb96abe8715ffe7241cbaa30ad",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Model\\Product\\TypeHandler\\SampleTest::testSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Model\\Product\\TypeHandler\\SampleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "ab192938-a03a-490c-9c31-b75d62099368",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\SchemaBuilderTest::testBuildUnknownIndexColumn",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076254,
+    "stop": 1711693076256,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "83ab9dbe7e267d657480c538164be24b",
+    "testCaseId": "580682902ee0122e1a486225cdb2572f",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\SchemaBuilderTest::testBuildUnknownIndexColumn",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\SchemaBuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildUnknownIndexColumn"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

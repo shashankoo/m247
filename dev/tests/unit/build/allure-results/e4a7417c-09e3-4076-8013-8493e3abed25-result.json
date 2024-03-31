@@ -1,0 +1,50 @@
+{
+    "uuid": "e4a7417c-09e3-4076-8013-8493e3abed25",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Mapper\\Helper\\RelativePathConverterTest::testConvert",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018070,
+    "stop": 1711693018070,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "77c3107396b562f4ba79e8c9bc6df8a7",
+    "testCaseId": "a8bfc38616468f7e12088182b21efb28",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Mapper\\Helper\\RelativePathConverterTest::testConvert",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Mapper\\Helper\\RelativePathConverterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvert"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

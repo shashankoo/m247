@@ -1,0 +1,50 @@
+{
+    "uuid": "e922f142-f1f2-4bcf-bb41-7ece43ca0dd6",
+    "name": "Magento\\Fedex\\Test\\Unit\\Model\\Config\\Backend\\FedexUrlTest::testBeforeSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023946,
+    "stop": 1711693023947,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a571c870d288ccc3eb085c0833f6fe7d",
+    "testCaseId": "e6dc472a6689a95772ac50623ff0e843",
+    "rerunOf": null,
+    "fullName": "Magento\\Fedex\\Test\\Unit\\Model\\Config\\Backend\\FedexUrlTest::testBeforeSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Fedex\\Test\\Unit\\Model\\Config\\Backend\\FedexUrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

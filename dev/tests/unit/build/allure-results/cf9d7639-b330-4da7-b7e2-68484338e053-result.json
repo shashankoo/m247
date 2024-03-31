@@ -1,0 +1,50 @@
+{
+    "uuid": "cf9d7639-b330-4da7-b7e2-68484338e053",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\Calculation\\RateTest::testExceptionOfValidation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042641,
+    "stop": 1711693042641,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"equal or greater\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "240fe246fd1a5b1c8615dd8988cf5612",
+    "testCaseId": "8d5d30dc1bbdddfa5224cef1a0674b9b",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\Calculation\\RateTest::testExceptionOfValidation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\Calculation\\RateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExceptionOfValidation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "211b3118-b02c-4f4c-b0b7-54c057c42900",
+    "name": "Magento\\Tax\\Test\\Unit\\CustomerData\\CheckoutTotalsJsLayoutDataProviderTest::testGetData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042437,
+    "stop": 1711693042437,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Test with settings display cart incl and excl is Yes\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8b5f4a1b754b4991c878aa8dd3b0244f",
+    "testCaseId": "274e7aa7b6ee49eb575f6634efe454c5",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\CustomerData\\CheckoutTotalsJsLayoutDataProviderTest::testGetData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\CustomerData\\CheckoutTotalsJsLayoutDataProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "c7deff8a-1bbe-4275-8688-cdc17898ee23",
+    "name": "Magento\\Bundle\\Test\\Unit\\Model\\Quote\\Item\\Option\\BundleSelectionAttributesComparatorTest::testCompare",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010967,
+    "stop": 1711693010968,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cf2c3adda29aa25325222b2ea8fbedc4",
+    "testCaseId": "c81d5518efa2ef2918c4a8f5d875321e",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Model\\Quote\\Item\\Option\\BundleSelectionAttributesComparatorTest::testCompare",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Model\\Quote\\Item\\Option\\BundleSelectionAttributesComparatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCompare"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

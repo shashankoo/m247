@@ -1,0 +1,43 @@
+{
+    "uuid": "e20c45f8-cb4d-4437-a65d-899e9429bb5a",
+    "name": "Magento\\Catalog\\Test\\Unit\\Ui\\Component\\Listing\\Columns\\StatusTextTest::testPrepareDataSource",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016219,
+    "stop": 1711693016221,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a2b41a8f107502adf24a3cdd98f8e09e",
+    "testCaseId": "b9c2dd1d44a812e09ac11c936e81b872",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Ui\\Component\\Listing\\Columns\\StatusTextTest::testPrepareDataSource",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Ui\\Component\\Listing\\Columns\\StatusTextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareDataSource"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

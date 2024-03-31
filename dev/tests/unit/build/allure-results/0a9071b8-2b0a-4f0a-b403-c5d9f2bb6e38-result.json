@@ -1,0 +1,50 @@
+{
+    "uuid": "0a9071b8-2b0a-4f0a-b403-c5d9f2bb6e38",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Category\\Flat\\System\\Config\\ModeTest::testProcessValueOff",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014415,
+    "stop": 1711693014415,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "274067db25505b1db6a15d4bf4fb13e4",
+    "testCaseId": "b5feaa8774aef9511236e5b0749cf463",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Category\\Flat\\System\\Config\\ModeTest::testProcessValueOff",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Category\\Flat\\System\\Config\\ModeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessValueOff"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "bbd71521-9a2b-4454-98c1-38e0445e9fef",
+    "name": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\CacheTest::testLockWithNotEmptyData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074020,
+    "stop": 1711693074021,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b22ea54cb7bcd1288b3095e04fc4cfbc",
+    "testCaseId": "0f8d41b9ebe50bcb1e471ab33d09e06d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\CacheTest::testLockWithNotEmptyData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\CacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLockWithNotEmptyData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

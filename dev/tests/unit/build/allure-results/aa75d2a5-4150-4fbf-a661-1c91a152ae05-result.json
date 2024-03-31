@@ -1,0 +1,50 @@
+{
+    "uuid": "aa75d2a5-4150-4fbf-a661-1c91a152ae05",
+    "name": "Magento\\Cms\\Test\\Unit\\Helper\\PageTest::testPrepareResultPage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017216,
+    "stop": 1711693017217,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"page->load IS SUCCESSFUL BUT internalPageId IS EMPTY\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b917a6c451c54765ad6e3b728e0c8336",
+    "testCaseId": "1754a67731a433341b26903511edab9f",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Helper\\PageTest::testPrepareResultPage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Helper\\PageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareResultPage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

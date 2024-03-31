@@ -1,0 +1,43 @@
+{
+    "uuid": "4dc0b0b6-3110-4118-887b-628c063dbccc",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\CaptureTest::testExecuteModelException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037085,
+    "stop": 1711693037086,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "23cdbfba630f4655cb9358400a9757dc",
+    "testCaseId": "2cf7058c15620572ee2b01be2366f76c",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\CaptureTest::testExecuteModelException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\CaptureTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteModelException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

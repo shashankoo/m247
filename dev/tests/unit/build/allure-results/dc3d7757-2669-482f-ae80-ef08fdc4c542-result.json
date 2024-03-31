@@ -1,0 +1,43 @@
+{
+    "uuid": "dc3d7757-2669-482f-ae80-ef08fdc4c542",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Type\\PriceTest::testGetPricesWithPercentType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015358,
+    "stop": 1711693015359,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getPercentageValue\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductTierPriceExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2959c55754f60cd9f308ff664223ed8a",
+    "testCaseId": "d7449459f20cbe4791071fa8a5bce702",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Type\\PriceTest::testGetPricesWithPercentType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Type\\PriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPricesWithPercentType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

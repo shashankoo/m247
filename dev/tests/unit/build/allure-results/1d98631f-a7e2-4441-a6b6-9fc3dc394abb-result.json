@@ -1,0 +1,43 @@
+{
+    "uuid": "1d98631f-a7e2-4441-a6b6-9fc3dc394abb",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Shipment\\Validation\\TrackValidatorTest::testValidateTrackWithEmptyTracks",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039008,
+    "stop": 1711693039009,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "be002026ffed79974004eb4c92bdea87",
+    "testCaseId": "b188849ee36b1552dc94d9cce85c5dc2",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Shipment\\Validation\\TrackValidatorTest::testValidateTrackWithEmptyTracks",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Shipment\\Validation\\TrackValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateTrackWithEmptyTracks"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

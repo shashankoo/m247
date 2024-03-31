@@ -1,0 +1,50 @@
+{
+    "uuid": "67d814b0-993d-427f-88ba-7739108e6760",
+    "name": "Magento\\Framework\\Test\\Unit\\UrlTest::testIsOwnOriginUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057427,
+    "stop": 1711693057428,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"is not origin url\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6771e4c65e1585fee81599e755cfbca2",
+    "testCaseId": "a3cf07398233418edbf3605272a4da0c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\UrlTest::testIsOwnOriginUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\UrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsOwnOriginUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

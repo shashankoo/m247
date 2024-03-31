@@ -1,0 +1,50 @@
+{
+    "uuid": "b0695eb4-e2ef-4cd2-a385-a1d81d3d5732",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\TimezoneTest::testDate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076776,
+    "stop": 1711693076777,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"now_datetimeimmutable_utc\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6040181a3e38c4161b442e311270db5d",
+    "testCaseId": "146942fe9869bdbbd9560887e092b1c6",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\TimezoneTest::testDate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\TimezoneTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

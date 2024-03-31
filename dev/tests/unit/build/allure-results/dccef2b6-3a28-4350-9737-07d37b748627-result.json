@@ -1,0 +1,43 @@
+{
+    "uuid": "dccef2b6-3a28-4350-9737-07d37b748627",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Response\\HttpTest::testWakeUpWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058812,
+    "stop": 1711693058813,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4c3fc33ea5f3ec41295ceef9c0253ee5",
+    "testCaseId": "610b662d9b1aaf884cc3f6f02eb05369",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Response\\HttpTest::testWakeUpWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Response\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWakeUpWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

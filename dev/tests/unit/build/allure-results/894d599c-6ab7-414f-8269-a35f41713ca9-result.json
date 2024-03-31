@@ -1,0 +1,43 @@
+{
+    "uuid": "894d599c-6ab7-414f-8269-a35f41713ca9",
+    "name": "Magento\\Setup\\Test\\Unit\\Console\\Command\\RollbackCommandTest::testExecuteNotInstalled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054932,
+    "stop": 1711693054932,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4ab77a6ef449af2b58f94d3b349d1748",
+    "testCaseId": "a5b915faa54c94e4b25c3934ff236d1a",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Console\\Command\\RollbackCommandTest::testExecuteNotInstalled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Console\\Command\\RollbackCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteNotInstalled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

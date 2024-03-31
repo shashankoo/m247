@@ -1,0 +1,50 @@
+{
+    "uuid": "f76c7066-27a7-4b8c-8583-65bf20fd6d35",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\Select\\GroupRendererTest::testRenderNoPart",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070801,
+    "stop": 1711693070801,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "39d80faff20b5c904a2ac54fe7863a39",
+    "testCaseId": "13bc9dd78f082dd57631ba26011b898d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\Select\\GroupRendererTest::testRenderNoPart",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\Select\\GroupRendererTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRenderNoPart"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

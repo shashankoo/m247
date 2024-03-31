@@ -1,0 +1,50 @@
+{
+    "uuid": "140c584c-827a-4d12-89b2-f4e1b1c61bb8",
+    "name": "Magento\\Rule\\Test\\Unit\\Model\\Condition\\AbstractConditionTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693035669,
+    "stop": 1711693035669,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#11",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "05c12fa80cdbfafa0ac7feef0e0d980b",
+    "testCaseId": "b64a105a0b61163214be49e5572371f0",
+    "rerunOf": null,
+    "fullName": "Magento\\Rule\\Test\\Unit\\Model\\Condition\\AbstractConditionTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Rule\\Test\\Unit\\Model\\Condition\\AbstractConditionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

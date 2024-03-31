@@ -1,0 +1,50 @@
+{
+    "uuid": "86125dd6-86c0-4b10-b1f4-7d3640773dc5",
+    "name": "Magento\\Widget\\Test\\Unit\\Model\\NamespaceResolverTest::testDetermineOmittedNamespace",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054204,
+    "stop": 1711693054204,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "745543abd911953cd5d2da8b9f5607c0",
+    "testCaseId": "beb2a5b8cf7e27d0fb1bdd2c75d46dbc",
+    "rerunOf": null,
+    "fullName": "Magento\\Widget\\Test\\Unit\\Model\\NamespaceResolverTest::testDetermineOmittedNamespace",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Widget\\Test\\Unit\\Model\\NamespaceResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDetermineOmittedNamespace"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

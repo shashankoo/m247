@@ -1,0 +1,50 @@
+{
+    "uuid": "fe87a8d9-caca-41fd-a963-1580c5acd50b",
+    "name": "Magento\\Ui\\Test\\Unit\\Component\\Listing\\Columns\\WebsitesTest::testSorting",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693049535,
+    "stop": 1711693049536,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b2466d90fde3f0b314ed778e8894abfa",
+    "testCaseId": "a90ffccaf45ab59079551f2cf7141161",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Component\\Listing\\Columns\\WebsitesTest::testSorting",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Component\\Listing\\Columns\\WebsitesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSorting"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

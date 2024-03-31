@@ -1,0 +1,50 @@
+{
+    "uuid": "e9e767c8-8d3f-4b3e-b033-fe1891c8d40a",
+    "name": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Factory\\FactoryTest::testCircular",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074812,
+    "stop": 1711693074812,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4a980021db7786211aaa047a11aa2a41",
+    "testCaseId": "7a6d35d7d02bcbf7ee9781e4b60d7941",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Factory\\FactoryTest::testCircular",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Factory\\FactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCircular"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

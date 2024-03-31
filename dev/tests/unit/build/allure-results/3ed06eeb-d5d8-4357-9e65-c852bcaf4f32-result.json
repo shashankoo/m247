@@ -1,0 +1,50 @@
+{
+    "uuid": "3ed06eeb-d5d8-4357-9e65-c852bcaf4f32",
+    "name": "Magento\\MessageQueue\\Test\\Unit\\Model\\Cron\\ConsumersRunnerTest::testRunBasedOnOnlySpawnWhenMessageAvailableConsumerConfiguration",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030522,
+    "stop": 1711693030523,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4ae562132c5aa5895201887fc55b0904",
+    "testCaseId": "4a0aa36d688034cb37a001217ccd4615",
+    "rerunOf": null,
+    "fullName": "Magento\\MessageQueue\\Test\\Unit\\Model\\Cron\\ConsumersRunnerTest::testRunBasedOnOnlySpawnWhenMessageAvailableConsumerConfiguration",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MessageQueue\\Test\\Unit\\Model\\Cron\\ConsumersRunnerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRunBasedOnOnlySpawnWhenMessageAvailableConsumerConfiguration"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

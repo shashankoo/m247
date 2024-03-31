@@ -1,0 +1,50 @@
+{
+    "uuid": "e5e7b1ff-46ab-4281-83c9-8ba66e4befcc",
+    "name": "Magento\\Framework\\Validator\\Test\\Unit\\StringLengthTest::testIsValid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077074,
+    "stop": 1711693077074,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e5edd147bdda89d3ef35388b7674cf1f",
+    "testCaseId": "0a6d274cc194a09a581123179e788f45",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Validator\\Test\\Unit\\StringLengthTest::testIsValid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Validator\\Test\\Unit\\StringLengthTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

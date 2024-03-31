@@ -1,0 +1,50 @@
+{
+    "uuid": "54112dee-5a0f-42a3-89a0-25d7d06614d8",
+    "name": "Magento\\AdvancedPricingImportExport\\Test\\Unit\\Model\\Import\\AdvancedPricingTest::testValidateRowResult",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008884,
+    "stop": 1711693008885,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "41793df94b663873810dc7080b01d364",
+    "testCaseId": "a2705c44a9d55495f11973cabd575c73",
+    "rerunOf": null,
+    "fullName": "Magento\\AdvancedPricingImportExport\\Test\\Unit\\Model\\Import\\AdvancedPricingTest::testValidateRowResult",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdvancedPricingImportExport\\Test\\Unit\\Model\\Import\\AdvancedPricingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateRowResult"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "858bef58-fe72-446f-b97d-a689043906ee",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\AdminOrder\\Product\\Quote\\InitializerTest::testInitWithNonDecimalQty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037428,
+    "stop": 1711693037428,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "44157cc84508f9474983a1f5fa9310a9",
+    "testCaseId": "f5526e06f312be78f1ead38d057f1cb1",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\AdminOrder\\Product\\Quote\\InitializerTest::testInitWithNonDecimalQty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\AdminOrder\\Product\\Quote\\InitializerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInitWithNonDecimalQty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

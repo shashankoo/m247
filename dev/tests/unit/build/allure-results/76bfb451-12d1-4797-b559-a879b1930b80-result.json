@@ -1,0 +1,43 @@
+{
+    "uuid": "76bfb451-12d1-4797-b559-a879b1930b80",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Service\\OrderServiceTest::testCancel",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041044,
+    "stop": 1711693041049,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b305756d3d154e99c62e9484aa6a7cd3",
+    "testCaseId": "0e6952e4cee92c2644ecc61f5395c8ef",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Service\\OrderServiceTest::testCancel",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Service\\OrderServiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCancel"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

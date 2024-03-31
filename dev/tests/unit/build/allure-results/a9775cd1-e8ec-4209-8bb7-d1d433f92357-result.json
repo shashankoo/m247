@@ -1,0 +1,43 @@
+{
+    "uuid": "a9775cd1-e8ec-4209-8bb7-d1d433f92357",
+    "name": "Magento\\Cron\\Test\\Unit\\Model\\ScheduleTest::testTryLockJobFailure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019031,
+    "stop": 1711693019031,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "064f447f272cdaaf1d731a7f5cfef8c3",
+    "testCaseId": "d03b1099af65842d82637499f436a3bb",
+    "rerunOf": null,
+    "fullName": "Magento\\Cron\\Test\\Unit\\Model\\ScheduleTest::testTryLockJobFailure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cron\\Test\\Unit\\Model\\ScheduleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testTryLockJobFailure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

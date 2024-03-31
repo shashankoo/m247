@@ -1,0 +1,43 @@
+{
+    "uuid": "9fc7ab5b-4dda-4dcd-9c9c-908a3f30523d",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\CheckExpirePersistentQuoteObserverTest::testExecuteWhenCanNotApplyPersistentData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032537,
+    "stop": 1711693032538,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bf28a48b6ab69fc6a934ee427ba0bb04",
+    "testCaseId": "1ebb4a8724e5f312995a30015ca173d6",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\CheckExpirePersistentQuoteObserverTest::testExecuteWhenCanNotApplyPersistentData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\CheckExpirePersistentQuoteObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenCanNotApplyPersistentData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

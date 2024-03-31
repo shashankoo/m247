@@ -1,0 +1,50 @@
+{
+    "uuid": "8683b802-07ee-487c-b2e9-c47330c900af",
+    "name": "Magento\\AdvancedSearch\\Test\\Unit\\Model\\Indexer\\Fulltext\\Plugin\\CustomerGroupTest::testAroundSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008949,
+    "stop": 1711693008949,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "eae3092055dfad5db29d8d41d9722c6b",
+    "testCaseId": "a4eeaca7e4db17cc587bde2f6e077a10",
+    "rerunOf": null,
+    "fullName": "Magento\\AdvancedSearch\\Test\\Unit\\Model\\Indexer\\Fulltext\\Plugin\\CustomerGroupTest::testAroundSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdvancedSearch\\Test\\Unit\\Model\\Indexer\\Fulltext\\Plugin\\CustomerGroupTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

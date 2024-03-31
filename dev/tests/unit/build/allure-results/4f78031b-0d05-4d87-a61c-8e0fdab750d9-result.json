@@ -1,0 +1,50 @@
+{
+    "uuid": "4f78031b-0d05-4d87-a61c-8e0fdab750d9",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest::testSaveWithLinks",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015587,
+    "stop": 1711693015589,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"scenario_1\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c32eaa48976e9e02b5154af9087b6549",
+    "testCaseId": "32392daff419b2b797b14f8080133427",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest::testSaveWithLinks",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveWithLinks"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

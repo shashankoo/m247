@@ -1,0 +1,43 @@
+{
+    "uuid": "204c8436-8811-4c75-8f88-1b3e20b63924",
+    "name": "Magento\\Directory\\Test\\Unit\\Model\\Currency\\Import\\CurrencyConverterApiTest::testFetchRates",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021707,
+    "stop": 1711693021710,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c68c6c7f55373b1fc303e5be35baf4b6",
+    "testCaseId": "5d2dde013a8fc22481295137c0c86334",
+    "rerunOf": null,
+    "fullName": "Magento\\Directory\\Test\\Unit\\Model\\Currency\\Import\\CurrencyConverterApiTest::testFetchRates",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Directory\\Test\\Unit\\Model\\Currency\\Import\\CurrencyConverterApiTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFetchRates"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

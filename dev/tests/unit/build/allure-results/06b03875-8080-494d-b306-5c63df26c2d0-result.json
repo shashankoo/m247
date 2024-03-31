@@ -1,0 +1,50 @@
+{
+    "uuid": "06b03875-8080-494d-b306-5c63df26c2d0",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Observer\\HideUnsupportedAttributeTypesTest::testExecuteWithDefaultTypes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018691,
+    "stop": 1711693018691,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"testWithCustomTypes\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "058aba5986229a2fe7f44f102e7cbd53",
+    "testCaseId": "e659e59bd1d5903e6e9db6264fa5fb91",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Observer\\HideUnsupportedAttributeTypesTest::testExecuteWithDefaultTypes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Observer\\HideUnsupportedAttributeTypesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithDefaultTypes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

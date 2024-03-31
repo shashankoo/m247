@@ -1,0 +1,50 @@
+{
+    "uuid": "0a97b4e2-d68a-4b77-9762-a9987f94af76",
+    "name": "Magento\\Weee\\Test\\Unit\\Model\\Total\\Invoice\\WeeeTest::testCollect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053969,
+    "stop": 1711693053970,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"last_partial_invoice\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0af7231b8e4b5925b0697c3f3d44d889",
+    "testCaseId": "4a131b1c937a98c4243c1e058f0fc029",
+    "rerunOf": null,
+    "fullName": "Magento\\Weee\\Test\\Unit\\Model\\Total\\Invoice\\WeeeTest::testCollect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Weee\\Test\\Unit\\Model\\Total\\Invoice\\WeeeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

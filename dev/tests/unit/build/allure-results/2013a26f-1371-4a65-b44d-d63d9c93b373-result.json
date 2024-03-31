@@ -1,0 +1,50 @@
+{
+    "uuid": "2013a26f-1371-4a65-b44d-d63d9c93b373",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\Edit\\Tab\\View\\PersonalInfoTest::testGetLastLoginDate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019441,
+    "stop": 1711693019441,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d181660438d19e1cfaf8950e2c81b721",
+    "testCaseId": "30e723e9ecf5b6f33e2c9af05846acad",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\Edit\\Tab\\View\\PersonalInfoTest::testGetLastLoginDate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\Edit\\Tab\\View\\PersonalInfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLastLoginDate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

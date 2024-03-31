@@ -1,0 +1,50 @@
+{
+    "uuid": "a75a52ee-1d89-4f67-ac14-ff11a48e88d0",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Observer\\RuleQuoteRecollectTotalsObserverTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036283,
+    "stop": 1711693036283,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "563574e8a3e463333a39cd0764c09f20",
+    "testCaseId": "110fec624a5c2d77ad3aaf52ed50642a",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Observer\\RuleQuoteRecollectTotalsObserverTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Observer\\RuleQuoteRecollectTotalsObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

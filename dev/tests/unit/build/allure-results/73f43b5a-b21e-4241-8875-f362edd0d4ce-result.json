@@ -1,0 +1,43 @@
+{
+    "uuid": "73f43b5a-b21e-4241-8875-f362edd0d4ce",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testGetMediaGalleryImagesMerging",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015723,
+    "stop": 1711693015723,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getStockItem\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cbf40923a857c469fa50aba51a24d634",
+    "testCaseId": "228ca818ad9249cfaefdcd516fb9f08c",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testGetMediaGalleryImagesMerging",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMediaGalleryImagesMerging"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

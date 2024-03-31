@@ -1,0 +1,43 @@
+{
+    "uuid": "d23e632a-b8d1-4ea3-aec5-87f6468e704d",
+    "name": "Magento\\Payment\\Test\\Unit\\Gateway\\Validator\\ValidatorCompositeTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031469,
+    "stop": 1711693031470,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6db66b715ecf78039e6ca1ea3f6bb7cd",
+    "testCaseId": "6e5fe3541b58c059d2fbcff1ddaefc04",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Gateway\\Validator\\ValidatorCompositeTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Gateway\\Validator\\ValidatorCompositeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

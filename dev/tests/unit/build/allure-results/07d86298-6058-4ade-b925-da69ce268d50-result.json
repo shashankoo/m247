@@ -1,0 +1,50 @@
+{
+    "uuid": "07d86298-6058-4ade-b925-da69ce268d50",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Source\\Export\\FormatTest::testToOptionArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024773,
+    "stop": 1711693024773,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Empty file format\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "43597b53ec3fe5cf485760ff99ca2d70",
+    "testCaseId": "078fb924f40a0c21caf6821d4f530ecc",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Source\\Export\\FormatTest::testToOptionArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Source\\Export\\FormatTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToOptionArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

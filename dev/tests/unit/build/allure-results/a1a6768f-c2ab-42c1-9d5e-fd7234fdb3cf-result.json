@@ -1,0 +1,50 @@
+{
+    "uuid": "a1a6768f-c2ab-42c1-9d5e-fd7234fdb3cf",
+    "name": "Magento\\Checkout\\Test\\Unit\\Model\\SessionTest::testClearHelperData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016908,
+    "stop": 1711693016909,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d81ce1aad87ecb7fbaf4765ad8be9ac3",
+    "testCaseId": "3b23406e4ee491feee8ab0aa7c686824",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Model\\SessionTest::testClearHelperData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Model\\SessionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testClearHelperData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

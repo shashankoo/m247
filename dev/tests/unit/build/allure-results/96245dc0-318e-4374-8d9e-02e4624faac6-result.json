@@ -1,0 +1,50 @@
+{
+    "uuid": "96245dc0-318e-4374-8d9e-02e4624faac6",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\ArrayUtilsTest::testRecursiveDiff",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076635,
+    "stop": 1711693076635,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ec0b64dbab0732ee130a4980d003d906",
+    "testCaseId": "4ad0b02efa307fa3afd065072fb39886",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\ArrayUtilsTest::testRecursiveDiff",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\ArrayUtilsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRecursiveDiff"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "5aca1f0a-d758-4d04-bffc-c11bb59fcdec",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\AddressTest::testValidateMinimumAmountVirtual",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032833,
+    "stop": 1711693032834,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b75c042f0f7c77ad351c534ae8836df7",
+    "testCaseId": "e5e05c8225fbdf839cf7b76126f8e10b",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\AddressTest::testValidateMinimumAmountVirtual",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\AddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateMinimumAmountVirtual"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "edddb346-f1d4-4024-9b67-89a9f7fe57df",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\Form\\FormKey\\ValidatorTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071435,
+    "stop": 1711693071435,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"formKeyExist\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "aedb9bd03d74b2235eebcbd5d2aea7d0",
+    "testCaseId": "bcdd3e3ee87f692848e39b3f9b3935b6",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\Form\\FormKey\\ValidatorTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\Form\\FormKey\\ValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

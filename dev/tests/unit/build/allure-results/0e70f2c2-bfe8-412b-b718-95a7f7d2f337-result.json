@@ -1,0 +1,43 @@
+{
+    "uuid": "0e70f2c2-bfe8-412b-b718-95a7f7d2f337",
+    "name": "Magento\\Framework\\Event\\Test\\Unit\\CollectionTest::testGetEventByNameNotSet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693072980,
+    "stop": 1711693072980,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "73faa7f78b365ca26c0da2f9757c963d",
+    "testCaseId": "6d06c76711085b48901e7916386e89ad",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Event\\Test\\Unit\\CollectionTest::testGetEventByNameNotSet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Event\\Test\\Unit\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetEventByNameNotSet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

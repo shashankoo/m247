@@ -1,0 +1,43 @@
+{
+    "uuid": "fddf022d-6833-4b78-82e6-78ce274cceb4",
+    "name": "Magento\\Authorization\\Test\\Unit\\Model\\Acl\\AclRetrieverTest::testGetAllowedResourcesByUserTypeCustomer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009343,
+    "stop": 1711693009344,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "66a184696ecb9b7a044f19ac8c28b6a8",
+    "testCaseId": "f04565b1a5f1f61067964943fc98b2b0",
+    "rerunOf": null,
+    "fullName": "Magento\\Authorization\\Test\\Unit\\Model\\Acl\\AclRetrieverTest::testGetAllowedResourcesByUserTypeCustomer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Authorization\\Test\\Unit\\Model\\Acl\\AclRetrieverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAllowedResourcesByUserTypeCustomer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "bb376013-4ca1-403b-9493-c3a7f61af4c4",
+    "name": "Magento\\Ups\\Test\\Unit\\Model\\CarrierTest::testGetMethodPrice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052531,
+    "stop": 1711693052531,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#12",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3828de9bd8560a0c409c8027bf928a13",
+    "testCaseId": "39e63cac08dbbb48ec5fade4f5452ef2",
+    "rerunOf": null,
+    "fullName": "Magento\\Ups\\Test\\Unit\\Model\\CarrierTest::testGetMethodPrice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ups\\Test\\Unit\\Model\\CarrierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMethodPrice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

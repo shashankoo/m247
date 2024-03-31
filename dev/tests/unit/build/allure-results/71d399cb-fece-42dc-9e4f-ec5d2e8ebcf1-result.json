@@ -1,0 +1,50 @@
+{
+    "uuid": "71d399cb-fece-42dc-9e4f-ec5d2e8ebcf1",
+    "name": "Magento\\Framework\\Test\\Unit\\UrlTest::testSessionUrlVarWithMatchedHostsAndBaseUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057434,
+    "stop": 1711693057435,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bbb1e08dba890d5b5213b614ba00dde3",
+    "testCaseId": "ae5acbab2b0d434d41e8836f53c8aaf1",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\UrlTest::testSessionUrlVarWithMatchedHostsAndBaseUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\UrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSessionUrlVarWithMatchedHostsAndBaseUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

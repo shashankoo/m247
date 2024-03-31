@@ -1,0 +1,50 @@
+{
+    "uuid": "43a5c913-2310-4d0e-b1fc-6575957a5719",
+    "name": "Magento\\Developer\\Test\\Unit\\Model\\Config\\Backend\\AllowedIpsTest::testBeforeSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021520,
+    "stop": 1711693021520,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "02ead4ad2df5d1ed3421c4f5f97ba4aa",
+    "testCaseId": "467d08c752d97f8deea658b1f45e05ed",
+    "rerunOf": null,
+    "fullName": "Magento\\Developer\\Test\\Unit\\Model\\Config\\Backend\\AllowedIpsTest::testBeforeSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Developer\\Test\\Unit\\Model\\Config\\Backend\\AllowedIpsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "bca8d638-7ab6-4873-ad15-2dd56e723fe5",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Condition\\ProductTest::testGetValueElementChooserUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036143,
+    "stop": 1711693036143,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"sku_without_with_js_object\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "51524e3c5adb38e2e95c3c3796bdd802",
+    "testCaseId": "2c8a02545edbd2a006c77732252e575e",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Condition\\ProductTest::testGetValueElementChooserUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Condition\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValueElementChooserUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

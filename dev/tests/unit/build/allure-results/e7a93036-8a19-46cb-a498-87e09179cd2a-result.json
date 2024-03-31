@@ -1,0 +1,50 @@
+{
+    "uuid": "e7a93036-8a19-46cb-a498-87e09179cd2a",
+    "name": "Magento\\Framework\\Serialize\\Test\\Unit\\Serializer\\JsonHexTagTest::testUnserializeException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075969,
+    "stop": 1711693075969,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "40f2160b953ce8bbe6caba8d291f5398",
+    "testCaseId": "6010db05f1af6c29d8e4c29bfa35c1b3",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Serialize\\Test\\Unit\\Serializer\\JsonHexTagTest::testUnserializeException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Serialize\\Test\\Unit\\Serializer\\JsonHexTagTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUnserializeException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

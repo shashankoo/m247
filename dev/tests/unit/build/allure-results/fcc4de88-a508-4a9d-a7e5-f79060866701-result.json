@@ -1,0 +1,50 @@
+{
+    "uuid": "fcc4de88-a508-4a9d-a7e5-f79060866701",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Frontend\\Decorator\\ProfilerTest::testProxyMethod",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059302,
+    "stop": 1711693059302,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4f4513bd4e7c8937a45e0ce8460e4f1e",
+    "testCaseId": "8880310a91ad0b4cff56fd3aa2b14a9e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Frontend\\Decorator\\ProfilerTest::testProxyMethod",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Frontend\\Decorator\\ProfilerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProxyMethod"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

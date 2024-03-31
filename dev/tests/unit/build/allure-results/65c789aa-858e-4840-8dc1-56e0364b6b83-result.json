@@ -1,0 +1,43 @@
+{
+    "uuid": "65c789aa-858e-4840-8dc1-56e0364b6b83",
+    "name": "Magento\\Framework\\Code\\Test\\Unit\\Reader\\ClassReaderTest::testGetConstructorWithNonexistentDependency",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069460,
+    "stop": 1711693069462,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8885df9b9e174ddc12062c773c85a30d",
+    "testCaseId": "4692a98e3169df970a649e04f3badec9",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Code\\Test\\Unit\\Reader\\ClassReaderTest::testGetConstructorWithNonexistentDependency",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Code\\Test\\Unit\\Reader\\ClassReaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConstructorWithNonexistentDependency"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

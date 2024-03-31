@@ -1,0 +1,50 @@
+{
+    "uuid": "92aba4c0-7bfc-4ab3-9588-982ed108aeb8",
+    "name": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\FileTest::testGetRelativePath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073235,
+    "stop": 1711693073235,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fb9cbda561af5641074c15a042e591d4",
+    "testCaseId": "a6dbc918514a290a3e43e6890dc9dbb4",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\FileTest::testGetRelativePath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\FileTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRelativePath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

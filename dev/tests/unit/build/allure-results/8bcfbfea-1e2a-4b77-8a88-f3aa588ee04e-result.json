@@ -1,0 +1,43 @@
+{
+    "uuid": "8bcfbfea-1e2a-4b77-8a88-f3aa588ee04e",
+    "name": "Magento\\Bundle\\Test\\Unit\\Pricing\\Adjustment\\DefaultSelectionPriceListProviderTest::testGetPriceList",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011090,
+    "stop": 1711693011094,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "39a166d8f7041fb5993ea590e6d758dd",
+    "testCaseId": "5e48a31759d4a81dbf127920c600916e",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Pricing\\Adjustment\\DefaultSelectionPriceListProviderTest::testGetPriceList",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Pricing\\Adjustment\\DefaultSelectionPriceListProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPriceList"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

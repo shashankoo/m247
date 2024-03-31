@@ -1,0 +1,50 @@
+{
+    "uuid": "4a6b8543-3b2f-4a48-b60b-c946090360f8",
+    "name": "Magento\\GoogleAdwords\\Test\\Unit\\Helper\\DataTest::testIsGoogleAdwordsActive",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024074,
+    "stop": 1711693024075,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1e18b88412bd0f776831e7baf5785e40",
+    "testCaseId": "bb5518c5efabd54607d1194dcc7ef2de",
+    "rerunOf": null,
+    "fullName": "Magento\\GoogleAdwords\\Test\\Unit\\Helper\\DataTest::testIsGoogleAdwordsActive",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GoogleAdwords\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsGoogleAdwordsActive"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

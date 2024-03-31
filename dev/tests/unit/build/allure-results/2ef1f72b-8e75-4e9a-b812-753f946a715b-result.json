@@ -1,0 +1,50 @@
+{
+    "uuid": "2ef1f72b-8e75-4e9a-b812-753f946a715b",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\FileTest::testValidateValueToUpload",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020722,
+    "stop": 1711693020722,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"isValid\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c7683d042f33fa6f12ffdcf8dc984cf9",
+    "testCaseId": "14b0b74b879dd0fc3b48e68f57167b9f",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\FileTest::testValidateValueToUpload",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\FileTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateValueToUpload"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

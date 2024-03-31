@@ -1,0 +1,43 @@
+{
+    "uuid": "0a1ec872-22e9-42b1-9b06-3499bceb44a7",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\CategoryTest::testMovePrimaryWorkflow",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014283,
+    "stop": 1711693014284,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3dd8ace8444c4bcba323929b72ee06b5",
+    "testCaseId": "a6648077e50a3c85b0030982dc78ef8f",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\CategoryTest::testMovePrimaryWorkflow",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\CategoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMovePrimaryWorkflow"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

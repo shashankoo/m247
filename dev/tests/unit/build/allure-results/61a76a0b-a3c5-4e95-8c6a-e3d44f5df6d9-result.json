@@ -1,0 +1,50 @@
+{
+    "uuid": "61a76a0b-a3c5-4e95-8c6a-e3d44f5df6d9",
+    "name": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\Collection\\AbstractCollectionTest::testRemoveFieldFromSelect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074318,
+    "stop": 1711693074319,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fc2fe3d409b4c89d8dd31dcb7018c383",
+    "testCaseId": "3aab37812b14bb3772a084d9942ae778",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\Collection\\AbstractCollectionTest::testRemoveFieldFromSelect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\Collection\\AbstractCollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRemoveFieldFromSelect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "1b0fa783-2c7e-4a7c-9258-5954cf6b7adf",
+    "name": "Magento\\Framework\\Reflection\\Test\\Unit\\DataObjectProcessorTest::testBuildOutputDataArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075420,
+    "stop": 1711693075421,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"With Excluded Method\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "560e30f3c4ce2de616007c870bcda5bb",
+    "testCaseId": "3e8df326aafee9fae8797c65ff929bc0",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Reflection\\Test\\Unit\\DataObjectProcessorTest::testBuildOutputDataArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Reflection\\Test\\Unit\\DataObjectProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildOutputDataArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "5cffdfd2-2ffa-415a-8119-6efc590e66cf",
+    "name": "Magento\\Indexer\\Test\\Unit\\Model\\Indexer\\AbstractProcessorTest::testReindexList",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024960,
+    "stop": 1711693024961,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "49e6f927eb560485e1cd9ced6c7ef50d",
+    "testCaseId": "66c204b4d46e7813254953fe468458a0",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Model\\Indexer\\AbstractProcessorTest::testReindexList",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Model\\Indexer\\AbstractProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReindexList"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

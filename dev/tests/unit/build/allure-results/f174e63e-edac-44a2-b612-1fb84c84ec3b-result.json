@@ -1,0 +1,43 @@
+{
+    "uuid": "f174e63e-edac-44a2-b612-1fb84c84ec3b",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\StatementAggregatorTest::testAddStatementsForDifferentResources",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076286,
+    "stop": 1711693076286,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "24c69784466fb03e5aefd7a58778d12a",
+    "testCaseId": "069ad6bbc48196810d56657194e17533",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\StatementAggregatorTest::testAddStatementsForDifferentResources",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\StatementAggregatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddStatementsForDifferentResources"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

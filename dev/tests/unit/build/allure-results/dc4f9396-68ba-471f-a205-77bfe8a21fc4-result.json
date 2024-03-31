@@ -1,0 +1,50 @@
+{
+    "uuid": "dc4f9396-68ba-471f-a205-77bfe8a21fc4",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Ui\\Component\\Report\\Filters\\Type\\DateRangeTest::testPrepare",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056410,
+    "stop": 1711693056411,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skip this test",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "93906650b5cea0769d65865c1de7f954",
+    "testCaseId": "6a2e63660540392425cecee8bc7d5637",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Ui\\Component\\Report\\Filters\\Type\\DateRangeTest::testPrepare",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Ui\\Component\\Report\\Filters\\Type\\DateRangeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepare"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

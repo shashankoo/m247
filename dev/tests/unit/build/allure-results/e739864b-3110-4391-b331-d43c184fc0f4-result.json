@@ -1,0 +1,50 @@
+{
+    "uuid": "e739864b-3110-4391-b331-d43c184fc0f4",
+    "name": "Magento\\Payment\\Test\\Unit\\Model\\Cart\\SalesModel\\FactoryTest::testCreate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031481,
+    "stop": 1711693031482,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "26bbfd69745c035b1ab477d28e01ef50",
+    "testCaseId": "75cdbda9390c5706e554c13e49f4e3d3",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Model\\Cart\\SalesModel\\FactoryTest::testCreate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Model\\Cart\\SalesModel\\FactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

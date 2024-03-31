@@ -1,0 +1,50 @@
+{
+    "uuid": "06861316-f192-4d11-9661-0cba57c6cc17",
+    "name": "Magento\\Customer\\Test\\Unit\\Setup\\RecurringDataTest::testInstall",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021141,
+    "stop": 1711693021141,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c0b2aac48c15c53372de4fa06bd4a4ec",
+    "testCaseId": "b68a6bebb5159d6c8172f8f5211bc959",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Setup\\RecurringDataTest::testInstall",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Setup\\RecurringDataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInstall"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

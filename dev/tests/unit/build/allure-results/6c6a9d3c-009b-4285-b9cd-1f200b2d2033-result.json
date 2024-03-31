@@ -1,0 +1,50 @@
+{
+    "uuid": "6c6a9d3c-009b-4285-b9cd-1f200b2d2033",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\Config\\ValidatorTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041862,
+    "stop": 1711693041862,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "01fbf99af156b15699f5b796404c0ff8",
+    "testCaseId": "d3bfa0cd6f7b4105b68b8edcd6d927df",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\Config\\ValidatorTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\Config\\ValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

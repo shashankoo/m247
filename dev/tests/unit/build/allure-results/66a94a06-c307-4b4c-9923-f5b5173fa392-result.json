@@ -1,0 +1,50 @@
+{
+    "uuid": "66a94a06-c307-4b4c-9923-f5b5173fa392",
+    "name": "Magento\\Framework\\HTTP\\Test\\Unit\\AuthenticationTest::testGetCredentials",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073611,
+    "stop": 1711693073612,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e832e1ef506dad2a8d5848c1e3e038af",
+    "testCaseId": "80e8b3cf7739967c81906ae8a5a52f97",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\HTTP\\Test\\Unit\\AuthenticationTest::testGetCredentials",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\HTTP\\Test\\Unit\\AuthenticationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCredentials"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

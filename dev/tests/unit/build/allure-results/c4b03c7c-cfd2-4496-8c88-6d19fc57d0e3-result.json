@@ -1,0 +1,43 @@
+{
+    "uuid": "c4b03c7c-cfd2-4496-8c88-6d19fc57d0e3",
+    "name": "Magento\\Deploy\\Test\\Unit\\Model\\DeploymentConfig\\ImporterPoolTest::testGetImporters",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021287,
+    "stop": 1711693021288,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b1f8fdf2b7b7ba2239e8f2ba04b79bb8",
+    "testCaseId": "5a4872007f7f56acdebdb70c04ec7830",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Model\\DeploymentConfig\\ImporterPoolTest::testGetImporters",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Model\\DeploymentConfig\\ImporterPoolTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetImporters"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "80c99585-924c-4b51-a323-398bcd34726a",
+    "name": "Magento\\Sales\\Test\\Unit\\Observer\\AssignOrderToCustomerObserverTest::testAssignOrderToCustomerAfterGuestOrder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041078,
+    "stop": 1711693041078,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7c4a0876f84ce7fd5f91d636f2a545fc",
+    "testCaseId": "8b6efda8e82e559763983c19bf397aeb",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Observer\\AssignOrderToCustomerObserverTest::testAssignOrderToCustomerAfterGuestOrder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Observer\\AssignOrderToCustomerObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAssignOrderToCustomerAfterGuestOrder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

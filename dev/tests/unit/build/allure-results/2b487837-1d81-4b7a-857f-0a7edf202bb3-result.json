@@ -1,0 +1,43 @@
+{
+    "uuid": "2b487837-1d81-4b7a-857f-0a7edf202bb3",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Block\\Adminhtml\\Promo\\Quote\\Edit\\GenericButtonTest::testCanRender",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693035904,
+    "stop": 1711693035905,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bfbaa06b3c22b10cf6b3225bc8a75c21",
+    "testCaseId": "e2a02fb98bd0b8bdffc7eaefa84c164d",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Block\\Adminhtml\\Promo\\Quote\\Edit\\GenericButtonTest::testCanRender",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Block\\Adminhtml\\Promo\\Quote\\Edit\\GenericButtonTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanRender"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

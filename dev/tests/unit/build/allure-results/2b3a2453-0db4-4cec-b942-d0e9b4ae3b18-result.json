@@ -1,0 +1,50 @@
+{
+    "uuid": "2b3a2453-0db4-4cec-b942-d0e9b4ae3b18",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\AbstractMapperTest::testAddFieldToFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070593,
+    "stop": 1711693070594,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "622e90300cddc51b804f6c40096b5b63",
+    "testCaseId": "324866066474e1582ac5103c5dcced7b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\AbstractMapperTest::testAddFieldToFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\AbstractMapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddFieldToFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

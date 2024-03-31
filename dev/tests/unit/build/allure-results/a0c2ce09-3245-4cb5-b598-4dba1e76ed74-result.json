@@ -1,0 +1,50 @@
+{
+    "uuid": "a0c2ce09-3245-4cb5-b598-4dba1e76ed74",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Backend\\EncryptedTest::testBeforeSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017860,
+    "stop": 1711693017860,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d7ef8c3be1b929984a4da28ab24b19fc",
+    "testCaseId": "2d3009a5ef882d81b50d119678662ac7",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Backend\\EncryptedTest::testBeforeSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Backend\\EncryptedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

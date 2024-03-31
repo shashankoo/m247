@@ -1,0 +1,43 @@
+{
+    "uuid": "837e1c2c-e96c-4db2-999f-20f223ebe161",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Asset\\LockerProcessTest::testNotUnlockProcessInProductionMode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077122,
+    "stop": 1711693077123,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "686a6b14676661322188eb68ca6fa926",
+    "testCaseId": "ded7f3cc8f7dad05d21688626629b2de",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Asset\\LockerProcessTest::testNotUnlockProcessInProductionMode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Asset\\LockerProcessTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testNotUnlockProcessInProductionMode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

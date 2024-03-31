@@ -1,0 +1,43 @@
+{
+    "uuid": "cdbd40ed-54c3-42ed-bcde-e6725b57caac",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\SynchronizePersistentInfoObserverTest::testSynchronizePersistentInfoWhenPersistentDataNotEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032594,
+    "stop": 1711693032594,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e2e31d08d2df4e875e16feed0a9a7cfe",
+    "testCaseId": "145fb16d0caca94c424ce88e2b1ac95e",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\SynchronizePersistentInfoObserverTest::testSynchronizePersistentInfoWhenPersistentDataNotEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\SynchronizePersistentInfoObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSynchronizePersistentInfoWhenPersistentDataNotEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

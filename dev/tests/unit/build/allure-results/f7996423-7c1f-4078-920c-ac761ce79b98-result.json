@@ -1,0 +1,43 @@
+{
+    "uuid": "f7996423-7c1f-4078-920c-ac761ce79b98",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Token\\ProviderTest::testGetIntegrationTokenByConsumerIdException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030107,
+    "stop": 1711693030107,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "69d7ed72a2427eb2b42e3fe51448b401",
+    "testCaseId": "ad3aaaf7b0d7baef7a7da5c50af9ef31",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Token\\ProviderTest::testGetIntegrationTokenByConsumerIdException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Token\\ProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIntegrationTokenByConsumerIdException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

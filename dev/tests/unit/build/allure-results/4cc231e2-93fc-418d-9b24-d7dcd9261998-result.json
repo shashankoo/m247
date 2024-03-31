@@ -1,0 +1,43 @@
+{
+    "uuid": "4cc231e2-93fc-418d-9b24-d7dcd9261998",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\AdminPathConfigTest::testGetCurrentSecureUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009811,
+    "stop": 1711693009813,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "531e43aa1edb6f5ecc6dac0f08b434e4",
+    "testCaseId": "20397bc31790f2f125d9690e1dddcae7",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\AdminPathConfigTest::testGetCurrentSecureUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\AdminPathConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCurrentSecureUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

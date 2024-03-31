@@ -1,0 +1,43 @@
+{
+    "uuid": "8bcf49b2-afde-4386-b0dd-05e895a2c35b",
+    "name": "Magento\\Store\\Test\\Unit\\App\\Request\\PathInfoProcessorTest::testProcessIfStoreIsEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041763,
+    "stop": 1711693041772,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3ef639ed084760c3af5dfcd56421d66e",
+    "testCaseId": "24718ef6bbda353d20773355cc4ba6c6",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\App\\Request\\PathInfoProcessorTest::testProcessIfStoreIsEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\App\\Request\\PathInfoProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessIfStoreIsEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

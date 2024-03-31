@@ -1,0 +1,43 @@
+{
+    "uuid": "80d3b507-8487-40a9-81bb-f3ba6394e2c9",
+    "name": "Magento\\Eav\\Test\\Unit\\Plugin\\Model\\ResourceModel\\Entity\\AttributeTest::testAroundGetStoreLabelsByAttributeIdCacheDoesNotExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022959,
+    "stop": 1711693022960,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b23d8c81d0d9abf3b1195b3ee06423db",
+    "testCaseId": "49d9c0e9e9f69b8c834ebc44ec45d299",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Plugin\\Model\\ResourceModel\\Entity\\AttributeTest::testAroundGetStoreLabelsByAttributeIdCacheDoesNotExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Plugin\\Model\\ResourceModel\\Entity\\AttributeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundGetStoreLabelsByAttributeIdCacheDoesNotExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

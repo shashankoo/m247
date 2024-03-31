@@ -1,0 +1,50 @@
+{
+    "uuid": "09424454-483e-4fa2-8c89-44178ded27ca",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Webapi\\Rest\\RequestTypeBasedDeserializerTest::testDeserialize",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015401,
+    "stop": 1711693015404,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"request body with xml data\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8570ed770632ad802ae23398991c721e",
+    "testCaseId": "c6dbc0e3e83f755289affc67b64e46ab",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Webapi\\Rest\\RequestTypeBasedDeserializerTest::testDeserialize",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Webapi\\Rest\\RequestTypeBasedDeserializerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeserialize"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

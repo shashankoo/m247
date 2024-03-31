@@ -1,0 +1,50 @@
+{
+    "uuid": "99c6b4ed-4b3d-454f-8709-c7ecb6e33350",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\TabTest::testGetters",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009711,
+    "stop": 1711693009712,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"isHidden\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "efe723729db533d8578e2e9fb3cf10c9",
+    "testCaseId": "7510decf1d1f4cd092ec8983dbd56924",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\TabTest::testGetters",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\TabTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetters"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

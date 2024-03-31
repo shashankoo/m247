@@ -1,0 +1,43 @@
+{
+    "uuid": "52b9927a-d323-41cf-ab5e-1ce508396c62",
+    "name": "Magento\\GiftMessage\\Test\\Unit\\Model\\OrderItemRepositoryTest::testGetNoSuchEntityExceptionOnGetGiftMessageId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024020,
+    "stop": 1711693024020,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "06d042535f256586223ba28108c46ba1",
+    "testCaseId": "e52a34e15413f768523fca57c4df4013",
+    "rerunOf": null,
+    "fullName": "Magento\\GiftMessage\\Test\\Unit\\Model\\OrderItemRepositoryTest::testGetNoSuchEntityExceptionOnGetGiftMessageId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GiftMessage\\Test\\Unit\\Model\\OrderItemRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetNoSuchEntityExceptionOnGetGiftMessageId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

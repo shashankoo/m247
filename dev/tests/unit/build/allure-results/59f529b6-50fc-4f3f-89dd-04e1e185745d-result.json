@@ -1,0 +1,50 @@
+{
+    "uuid": "59f529b6-50fc-4f3f-89dd-04e1e185745d",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\AbstractCriteriaTest::testSetLimit",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070847,
+    "stop": 1711693070847,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fcc4665b6663d3041c045e41a342dc91",
+    "testCaseId": "a06cdc079a806e8ceb6de517e53e5596",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\AbstractCriteriaTest::testSetLimit",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\AbstractCriteriaTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetLimit"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

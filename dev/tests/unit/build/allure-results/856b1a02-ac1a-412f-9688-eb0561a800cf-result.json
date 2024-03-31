@@ -1,0 +1,50 @@
+{
+    "uuid": "856b1a02-ac1a-412f-9688-eb0561a800cf",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Layer\\Category\\AvailabilityFlagTest::testIsEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014648,
+    "stop": 1711693014648,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d5ed553a22f7ee767633c97f53730bfa",
+    "testCaseId": "324a5ebbb9b831ca255b097e32e92723",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Layer\\Category\\AvailabilityFlagTest::testIsEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Layer\\Category\\AvailabilityFlagTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

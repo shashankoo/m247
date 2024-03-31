@@ -1,0 +1,50 @@
+{
+    "uuid": "0aecc17a-0c4e-4929-ba94-961aca2bbfe1",
+    "name": "Magento\\Checkout\\Test\\Unit\\Model\\CartTest::testAddProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016841,
+    "stop": 1711693016841,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"prod_obj_info_object\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "807a03d72de0b23e24e1a3077b6aaed9",
+    "testCaseId": "d1d5351e042750a5b50d17e3c1e57548",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Model\\CartTest::testAddProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Model\\CartTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

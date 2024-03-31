@@ -1,0 +1,43 @@
+{
+    "uuid": "d1dd3be5-80e4-4a2e-b355-2cc686365b0a",
+    "name": "Magento\\Version\\Test\\Unit\\Controller\\Index\\IndexTest::testCommunityVersionDisplaysMajorMinorVersionAndEditionName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053388,
+    "stop": 1711693053388,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "61756b5bec45f69ce12b11764f0cd2ee",
+    "testCaseId": "b625c8709e37d6dbdd4259934df6c3ad",
+    "rerunOf": null,
+    "fullName": "Magento\\Version\\Test\\Unit\\Controller\\Index\\IndexTest::testCommunityVersionDisplaysMajorMinorVersionAndEditionName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Version\\Test\\Unit\\Controller\\Index\\IndexTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCommunityVersionDisplaysMajorMinorVersionAndEditionName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

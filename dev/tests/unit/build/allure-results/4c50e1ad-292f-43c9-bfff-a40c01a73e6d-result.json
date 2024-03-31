@@ -1,0 +1,50 @@
+{
+    "uuid": "4c50e1ad-292f-43c9-bfff-a40c01a73e6d",
+    "name": "Magento\\Widget\\Test\\Unit\\Model\\Template\\FilterTest::testGenerateWidget",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054218,
+    "stop": 1711693054219,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "09fcb84c1d96f3106d9b057c88b1ab0e",
+    "testCaseId": "da2182bf6f0cc275ae77a782d55d434c",
+    "rerunOf": null,
+    "fullName": "Magento\\Widget\\Test\\Unit\\Model\\Template\\FilterTest::testGenerateWidget",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Widget\\Test\\Unit\\Model\\Template\\FilterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerateWidget"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

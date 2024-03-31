@@ -1,0 +1,50 @@
+{
+    "uuid": "bf1bca57-38b8-4fcf-92ad-c180690778e9",
+    "name": "Magento\\Framework\\Image\\Test\\Unit\\Adapter\\Gd2Test::testOpen",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073686,
+    "stop": 1711693073686,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"no_limit\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f2bced6b6815f0b5ff8b0be145a8cc1a",
+    "testCaseId": "409fe07a146ac5e79bffb23ccb61594d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Image\\Test\\Unit\\Adapter\\Gd2Test::testOpen",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Image\\Test\\Unit\\Adapter\\Gd2Test"
+        },
+        {
+            "name": "testMethod",
+            "value": "testOpen"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

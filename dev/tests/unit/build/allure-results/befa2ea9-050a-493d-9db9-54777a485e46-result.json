@@ -1,0 +1,43 @@
+{
+    "uuid": "befa2ea9-050a-493d-9db9-54777a485e46",
+    "name": "Magento\\Captcha\\Test\\Unit\\CustomerData\\CaptchaTest::testGetSectionDataWhenLoginAndRequireCaptcha",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011258,
+    "stop": 1711693011265,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3b386dadf7f7dd7ba94710c7a08d9846",
+    "testCaseId": "ed8407ee383ebb83a478e346e6da2c11",
+    "rerunOf": null,
+    "fullName": "Magento\\Captcha\\Test\\Unit\\CustomerData\\CaptchaTest::testGetSectionDataWhenLoginAndRequireCaptcha",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Captcha\\Test\\Unit\\CustomerData\\CaptchaTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSectionDataWhenLoginAndRequireCaptcha"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

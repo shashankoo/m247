@@ -1,0 +1,43 @@
+{
+    "uuid": "9c29d5a0-87b6-4f8a-a5ea-39dcaacfceb1",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\AdapterTest::testFindAdapterFor",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024647,
+    "stop": 1711693024648,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skipped because findAdapterFor method has static modifier",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5b6a033e370df4538f99e63d877cf8b6",
+    "testCaseId": "8d1c4fd1732ea51bf09a08b690e6a6b6",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\AdapterTest::testFindAdapterFor",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\AdapterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFindAdapterFor"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

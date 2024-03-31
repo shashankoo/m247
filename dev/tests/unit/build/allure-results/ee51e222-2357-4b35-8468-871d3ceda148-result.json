@@ -1,0 +1,50 @@
+{
+    "uuid": "ee51e222-2357-4b35-8468-871d3ceda148",
+    "name": "Magento\\Newsletter\\Test\\Unit\\Model\\SubscriptionManagerTest::testUnsubscribeCustomer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031009,
+    "stop": 1711693031009,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Unsubscribe existing\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "33ab6cc3d32e19455852b3be8a208ad4",
+    "testCaseId": "8b50b1d671fb84f228e8bd19a4b87c2e",
+    "rerunOf": null,
+    "fullName": "Magento\\Newsletter\\Test\\Unit\\Model\\SubscriptionManagerTest::testUnsubscribeCustomer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Newsletter\\Test\\Unit\\Model\\SubscriptionManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUnsubscribeCustomer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

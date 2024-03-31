@@ -1,0 +1,43 @@
+{
+    "uuid": "d2d19d7c-a7a3-48f2-9fca-194b68de4c69",
+    "name": "Magento\\Indexer\\Test\\Unit\\Model\\IndexerTest::testReindexAllWithError",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693025028,
+    "stop": 1711693025029,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "fa3486cb2d2baa9fa9599b560b36de6f",
+    "testCaseId": "6ac60f03a8257b97ca8bf6e1c5531bd0",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Model\\IndexerTest::testReindexAllWithError",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Model\\IndexerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReindexAllWithError"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

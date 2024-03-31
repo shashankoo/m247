@@ -1,0 +1,43 @@
+{
+    "uuid": "d992f0c7-2638-4a85-a879-9fc27d816ee5",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\DB\\Statement\\MysqlTest::testExecuteWhenParamsAsParameterObject",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070662,
+    "stop": 1711693070664,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0004a04fa17e0e965f2a5fe966b15b3e",
+    "testCaseId": "aad5f62d701a6894084cad2e662b139b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\DB\\Statement\\MysqlTest::testExecuteWhenParamsAsParameterObject",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\DB\\Statement\\MysqlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenParamsAsParameterObject"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "56b23b82-4687-4d4b-b890-661083c4fd7e",
+    "name": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\SensitiveConfigSet\\SimpleCollectorTest::testWrongConfigPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021235,
+    "stop": 1711693021235,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c51d8ab6d96766c9a997fa38e4e1a675",
+    "testCaseId": "52126aa83e117fb7a8e47c098257c0dd",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\SensitiveConfigSet\\SimpleCollectorTest::testWrongConfigPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\SensitiveConfigSet\\SimpleCollectorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWrongConfigPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

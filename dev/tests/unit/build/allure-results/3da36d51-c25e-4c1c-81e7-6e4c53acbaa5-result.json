@@ -1,0 +1,50 @@
+{
+    "uuid": "3da36d51-c25e-4c1c-81e7-6e4c53acbaa5",
+    "name": "Magento\\Wishlist\\Test\\Unit\\Model\\ItemTest::testRemoveOptionByCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054469,
+    "stop": 1711693054469,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6d09efa48874af53f5ca609995cd1631",
+    "testCaseId": "1751dc21052158f47902cb15b66fb18c",
+    "rerunOf": null,
+    "fullName": "Magento\\Wishlist\\Test\\Unit\\Model\\ItemTest::testRemoveOptionByCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Wishlist\\Test\\Unit\\Model\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRemoveOptionByCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

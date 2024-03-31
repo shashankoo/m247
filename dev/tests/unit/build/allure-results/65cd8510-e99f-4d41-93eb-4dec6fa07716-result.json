@@ -1,0 +1,50 @@
+{
+    "uuid": "65cd8510-e99f-4d41-93eb-4dec6fa07716",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\AddressRepositoryTest::testGet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037531,
+    "stop": 1711693037531,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a7b7cd0fe0b993065b7bd3adf80cba74",
+    "testCaseId": "5a990f46be51d1f753cdeea1e28a9c1f",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\AddressRepositoryTest::testGet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\AddressRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

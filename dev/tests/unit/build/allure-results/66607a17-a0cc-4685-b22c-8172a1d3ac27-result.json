@@ -1,0 +1,50 @@
+{
+    "uuid": "66607a17-a0cc-4685-b22c-8172a1d3ac27",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\AuthenticationTest::testAuthenticate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020377,
+    "stop": 1711693020377,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bd1464c55d8936bb7830817af8180479",
+    "testCaseId": "24d21f0fc2bbddb5fcc50649cf145bdb",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\AuthenticationTest::testAuthenticate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\AuthenticationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAuthenticate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

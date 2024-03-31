@@ -1,0 +1,43 @@
+{
+    "uuid": "0e1086d7-ea8d-4b42-a1b9-83dfaf38deb9",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\StateResolverTest::testStateComplete",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039305,
+    "stop": 1711693039322,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0a55209b04fb1e92dbf1bb71b27bb636",
+    "testCaseId": "844c0d11bd47cb4f4dbd26da5b9eec4b",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\StateResolverTest::testStateComplete",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\StateResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testStateComplete"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

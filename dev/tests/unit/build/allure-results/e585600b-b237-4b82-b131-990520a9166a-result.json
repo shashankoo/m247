@@ -1,0 +1,50 @@
+{
+    "uuid": "e585600b-b237-4b82-b131-990520a9166a",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\ImageTest::testGetCountAllProductImages",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015922,
+    "stop": 1711693015923,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "649880b87bddcefc64513ccd0c2ff363",
+    "testCaseId": "e7868d711d61550e2eb4172074602e98",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\ImageTest::testGetCountAllProductImages",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\ImageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCountAllProductImages"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

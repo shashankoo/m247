@@ -1,0 +1,50 @@
+{
+    "uuid": "110cb5f5-3bdf-4101-ba14-e543785b89d7",
+    "name": "Magento\\Catalog\\Test\\Unit\\Helper\\ImageTest::testGetHeight",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014043,
+    "stop": 1711693014044,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"data\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ecc67873434b09d72efa5c8548b1390a",
+    "testCaseId": "f64380dc440dc6527c0f682fcdd84f25",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Helper\\ImageTest::testGetHeight",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Helper\\ImageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetHeight"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

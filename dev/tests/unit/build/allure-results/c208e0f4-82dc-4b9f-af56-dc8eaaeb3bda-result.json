@@ -1,0 +1,50 @@
+{
+    "uuid": "c208e0f4-82dc-4b9f-af56-dc8eaaeb3bda",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Patch\\PatchApplierTest::testApplyDataPatchForNewlyInstalledModule",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076533,
+    "stop": 1711693076541,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"newly installed module\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "18d3fb7cbd15dee0ef67cb1d4acdb1de",
+    "testCaseId": "1ec19aa97ff21ed89004d7be21630e5c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Patch\\PatchApplierTest::testApplyDataPatchForNewlyInstalledModule",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Patch\\PatchApplierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testApplyDataPatchForNewlyInstalledModule"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

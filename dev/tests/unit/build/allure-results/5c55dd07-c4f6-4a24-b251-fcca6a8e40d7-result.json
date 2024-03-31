@@ -1,0 +1,50 @@
+{
+    "uuid": "5c55dd07-c4f6-4a24-b251-fcca6a8e40d7",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Validator\\IpValidatorTest::testValidateIpsNoneNotAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010250,
+    "stop": 1711693010250,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c2cc9d8bb81272d1f0a05af891b20c01",
+    "testCaseId": "78a5c1f2157198a109ffd1e9b3c71363",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Validator\\IpValidatorTest::testValidateIpsNoneNotAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Validator\\IpValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateIpsNoneNotAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

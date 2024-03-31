@@ -1,0 +1,43 @@
+{
+    "uuid": "245cf8d9-6a5c-4784-8df0-b91cd6873f45",
+    "name": "Magento\\Webapi\\Test\\Unit\\Controller\\SoapTest::testDispatchSoapRequest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053516,
+    "stop": 1711693053517,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "76f3d5524009e6e18e319b219d889944",
+    "testCaseId": "fb574241f2bbd4a328c43d2bf9d19fc3",
+    "rerunOf": null,
+    "fullName": "Magento\\Webapi\\Test\\Unit\\Controller\\SoapTest::testDispatchSoapRequest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Webapi\\Test\\Unit\\Controller\\SoapTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDispatchSoapRequest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

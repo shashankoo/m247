@@ -1,0 +1,43 @@
+{
+    "uuid": "b660d7a5-7f46-42b1-b6f1-3deb7886c356",
+    "name": "Magento\\Developer\\Test\\Unit\\Model\\View\\Asset\\PreProcessor\\PreprocessorStrategyTest::testProcessClientSideCompilation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021575,
+    "stop": 1711693021576,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f61b5c4abce2f8c9f2482bdd39760053",
+    "testCaseId": "97c0cfc1c44e93df4279b6b9cdd4e65c",
+    "rerunOf": null,
+    "fullName": "Magento\\Developer\\Test\\Unit\\Model\\View\\Asset\\PreProcessor\\PreprocessorStrategyTest::testProcessClientSideCompilation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Developer\\Test\\Unit\\Model\\View\\Asset\\PreProcessor\\PreprocessorStrategyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessClientSideCompilation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

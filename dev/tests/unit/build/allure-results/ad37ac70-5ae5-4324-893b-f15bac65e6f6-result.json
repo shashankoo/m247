@@ -1,0 +1,43 @@
+{
+    "uuid": "ad37ac70-5ae5-4324-893b-f15bac65e6f6",
+    "name": "Magento\\Catalog\\Test\\Unit\\Pricing\\RenderTest::testToHtmlProductFromRegistry",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016180,
+    "stop": 1711693016183,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ac19174b6d45c5fa491dce380e6bc8eb",
+    "testCaseId": "84b8a8a6e98c45106edd072a6043cf63",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Pricing\\RenderTest::testToHtmlProductFromRegistry",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Pricing\\RenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToHtmlProductFromRegistry"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "2dbc49fd-fa1b-410e-a6a9-b2bcc2866d48",
+    "name": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest::testGetParamTypeWithIncorrectAnnotation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075499,
+    "stop": 1711693075500,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9af9dc22cf8a1cb5f57f0fff9f93f87c",
+    "testCaseId": "e503eb0fc955cbfb4a7cabd6f55021c1",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest::testGetParamTypeWithIncorrectAnnotation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetParamTypeWithIncorrectAnnotation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

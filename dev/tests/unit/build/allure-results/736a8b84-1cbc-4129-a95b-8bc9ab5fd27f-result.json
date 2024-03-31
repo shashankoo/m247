@@ -1,0 +1,43 @@
+{
+    "uuid": "736a8b84-1cbc-4129-a95b-8bc9ab5fd27f",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Page\\System\\Config\\Robots\\ResetTest::testGetRobotsDefaultCustomInstructions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009521,
+    "stop": 1711693009522,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9631e6bae948b65a77cc1664068dae68",
+    "testCaseId": "f6ad976fe2daa4b0f384a2418ffac095",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Page\\System\\Config\\Robots\\ResetTest::testGetRobotsDefaultCustomInstructions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Page\\System\\Config\\Robots\\ResetTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRobotsDefaultCustomInstructions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "bce00e0f-0f51-4831-aee9-d0e28861f0e1",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\AbstractElementTest::testGetElementHtml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070970,
+    "stop": 1711693070971,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ee76e393560b2516f47566b11d2357d4",
+    "testCaseId": "16d19dc351c3f80bfca0c82b9015867c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\AbstractElementTest::testGetElementHtml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\AbstractElementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetElementHtml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

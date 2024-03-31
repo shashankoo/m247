@@ -1,0 +1,43 @@
+{
+    "uuid": "e6002d1c-c5ea-4b44-87cb-b8d5d36ea3ee",
+    "name": "Magento\\Checkout\\Test\\Unit\\Helper\\CartTest::testGetShouldRedirectToCart",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016785,
+    "stop": 1711693016786,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f906e8cd3cc710f36e347a415d49ace6",
+    "testCaseId": "afa10aac866fb453935ce93a7c1f8814",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Helper\\CartTest::testGetShouldRedirectToCart",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Helper\\CartTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetShouldRedirectToCart"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

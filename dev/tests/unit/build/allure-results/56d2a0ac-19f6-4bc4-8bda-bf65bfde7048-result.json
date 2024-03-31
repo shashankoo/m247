@@ -1,0 +1,50 @@
+{
+    "uuid": "56d2a0ac-19f6-4bc4-8bda-bf65bfde7048",
+    "name": "Magento\\Bundle\\Test\\Unit\\Block\\Adminhtml\\Sales\\Order\\View\\Items\\RendererTest::testGetValueHtmlWithoutShipmentSeparately",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010503,
+    "stop": 1711693010504,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d568df996caa12e1e765a081dac1daa1",
+    "testCaseId": "e5615a827e436b36505c49fe312be91e",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Block\\Adminhtml\\Sales\\Order\\View\\Items\\RendererTest::testGetValueHtmlWithoutShipmentSeparately",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Block\\Adminhtml\\Sales\\Order\\View\\Items\\RendererTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValueHtmlWithoutShipmentSeparately"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "6909ee07-2873-40df-a9d9-7d92a6087082",
+    "name": "Magento\\Framework\\Test\\Unit\\EscaperTest::testEscapeXssInUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056632,
+    "stop": 1711693056632,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "82c23b57740ca4897d23f3d500a2e365",
+    "testCaseId": "1a4a3822e2e50dbaeea4a38accf31788",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\EscaperTest::testEscapeXssInUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\EscaperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEscapeXssInUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

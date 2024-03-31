@@ -1,0 +1,43 @@
+{
+    "uuid": "f7b80803-d920-4bf2-b817-41acfb66f9f1",
+    "name": "Magento\\User\\Test\\Unit\\Controller\\Adminhtml\\User\\Role\\DeleteTest::testExecuteDeleteWithNormalScenario",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052952,
+    "stop": 1711693052952,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1ea1100f7231ece75256ed40333cd64b",
+    "testCaseId": "59130a05e07ee8e0055fb2e2a22a40f2",
+    "rerunOf": null,
+    "fullName": "Magento\\User\\Test\\Unit\\Controller\\Adminhtml\\User\\Role\\DeleteTest::testExecuteDeleteWithNormalScenario",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\User\\Test\\Unit\\Controller\\Adminhtml\\User\\Role\\DeleteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteDeleteWithNormalScenario"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

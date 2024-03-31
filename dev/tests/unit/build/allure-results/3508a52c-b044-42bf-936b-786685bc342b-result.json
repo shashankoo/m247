@@ -1,0 +1,50 @@
+{
+    "uuid": "3508a52c-b044-42bf-936b-786685bc342b",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Design\\FileResolution\\Fallback\\TemplateFileTest::testGetFileWhenModifiedNeeded",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077291,
+    "stop": 1711693077291,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"production with on demand\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9be163e07c84fe81d92bd0de1d903d21",
+    "testCaseId": "ae70ec3d11f0ae6d27f920085e67bb2f",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Design\\FileResolution\\Fallback\\TemplateFileTest::testGetFileWhenModifiedNeeded",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Design\\FileResolution\\Fallback\\TemplateFileTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFileWhenModifiedNeeded"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

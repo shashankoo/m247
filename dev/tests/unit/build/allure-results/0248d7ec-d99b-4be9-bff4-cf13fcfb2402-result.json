@@ -1,0 +1,50 @@
+{
+    "uuid": "0248d7ec-d99b-4be9-bff4-cf13fcfb2402",
+    "name": "Magento\\PageCache\\Test\\Unit\\App\\CacheIdentifierPluginTest::testAfterGetValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031194,
+    "stop": 1711693031194,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Built-in + PageCache disabled\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d8f21b9ccb7f7aa72219e9f8395ed655",
+    "testCaseId": "d5e38a12dd8410e9f2ec6adb246e67af",
+    "rerunOf": null,
+    "fullName": "Magento\\PageCache\\Test\\Unit\\App\\CacheIdentifierPluginTest::testAfterGetValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\PageCache\\Test\\Unit\\App\\CacheIdentifierPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

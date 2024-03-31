@@ -1,0 +1,50 @@
+{
+    "uuid": "cebda8cc-8663-465c-8dfa-fadfd6b1a831",
+    "name": "Magento\\Framework\\Url\\Test\\Unit\\Helper\\DataTest::testAddRequestParam",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076883,
+    "stop": 1711693076883,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"valid\/invalid param\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e0f683bc1ae43bd8a36b0bcd91b0f2e7",
+    "testCaseId": "73a875e8e47983cc7575ddc9770c874a",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Url\\Test\\Unit\\Helper\\DataTest::testAddRequestParam",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Url\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddRequestParam"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

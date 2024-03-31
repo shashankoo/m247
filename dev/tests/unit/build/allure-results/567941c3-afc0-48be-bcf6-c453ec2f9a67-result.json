@@ -1,0 +1,50 @@
+{
+    "uuid": "567941c3-afc0-48be-bcf6-c453ec2f9a67",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\AbstractItemTest::testGetTotalDiscountAmount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032854,
+    "stop": 1711693032854,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"two_kids\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f5e6fc9da3386b5f6f5471a085d55ea7",
+    "testCaseId": "41defc6f213b4b4acd418ea276272adc",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\AbstractItemTest::testGetTotalDiscountAmount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\AbstractItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTotalDiscountAmount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

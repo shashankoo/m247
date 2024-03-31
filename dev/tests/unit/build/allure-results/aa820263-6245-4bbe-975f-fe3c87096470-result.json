@@ -1,0 +1,43 @@
+{
+    "uuid": "aa820263-6245-4bbe-975f-fe3c87096470",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Service\\OrderServiceTest::testGetStatus",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041053,
+    "stop": 1711693041053,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7ec7567e0ebd1e9d79907c77068d4f79",
+    "testCaseId": "6df8113209204361daf7d814cee5ae1d",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Service\\OrderServiceTest::testGetStatus",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Service\\OrderServiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStatus"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

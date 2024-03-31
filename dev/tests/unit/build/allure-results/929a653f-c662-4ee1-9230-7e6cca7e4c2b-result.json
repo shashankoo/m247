@@ -1,0 +1,43 @@
+{
+    "uuid": "929a653f-c662-4ee1-9230-7e6cca7e4c2b",
+    "name": "Magento\\Weee\\Test\\Unit\\Pricing\\Render\\AdjustmentTest::testGetFinalAmount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054105,
+    "stop": 1711693054107,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "40099a4c9e95412dbe23f7a10eccf2a6",
+    "testCaseId": "54ff07b4d64769a35752d64b16fca6d7",
+    "rerunOf": null,
+    "fullName": "Magento\\Weee\\Test\\Unit\\Pricing\\Render\\AdjustmentTest::testGetFinalAmount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Weee\\Test\\Unit\\Pricing\\Render\\AdjustmentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFinalAmount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

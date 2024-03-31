@@ -1,0 +1,43 @@
+{
+    "uuid": "66fb95f9-7a9e-4c6b-a61c-8619d7feb66b",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\ApplyBlockPersistentDataObserverTest::testExecuteWhenBlockDoesNotExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032532,
+    "stop": 1711693032532,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "49cdbd35d355470fb333ef132fafdc9d",
+    "testCaseId": "8d541be68fa05737ba63222e20655c35",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\ApplyBlockPersistentDataObserverTest::testExecuteWhenBlockDoesNotExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\ApplyBlockPersistentDataObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenBlockDoesNotExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

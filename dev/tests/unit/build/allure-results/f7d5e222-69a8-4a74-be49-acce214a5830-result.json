@@ -1,0 +1,50 @@
+{
+    "uuid": "f7d5e222-69a8-4a74-be49-acce214a5830",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\ConfigTest::testGetStatuses",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037552,
+    "stop": 1711693037552,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"pending state\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cd7b7a93e72270affdf658e2fcc2a5d4",
+    "testCaseId": "805a07cd3d8c25aa4acad7cb119a1242",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\ConfigTest::testGetStatuses",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStatuses"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

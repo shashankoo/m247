@@ -1,0 +1,50 @@
+{
+    "uuid": "cbd58f28-011a-4d51-abbe-85a63cede75d",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Cache\\Type\\ConfigTest::testCleanModeMatchingAnyTag",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057747,
+    "stop": 1711693057747,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"failure, success\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "eabd9c6d9724e0f95c02d179c07a30d8",
+    "testCaseId": "42adf93bf0abaa8ba2c21001fe925ada",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Cache\\Type\\ConfigTest::testCleanModeMatchingAnyTag",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Cache\\Type\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCleanModeMatchingAnyTag"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

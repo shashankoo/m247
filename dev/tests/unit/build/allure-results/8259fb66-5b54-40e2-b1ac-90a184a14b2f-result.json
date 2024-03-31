@@ -1,0 +1,43 @@
+{
+    "uuid": "8259fb66-5b54-40e2-b1ac-90a184a14b2f",
+    "name": "Magento\\CustomerGraphQl\\Test\\Unit\\Model\\Context\\AddUserInfoToContextTest::testExecuteForCustomer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019130,
+    "stop": 1711693019133,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1c0cab5e651a849fbbf43955dc03acec",
+    "testCaseId": "fe993084ed338e1ca5afdba0c9ae89c8",
+    "rerunOf": null,
+    "fullName": "Magento\\CustomerGraphQl\\Test\\Unit\\Model\\Context\\AddUserInfoToContextTest::testExecuteForCustomer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CustomerGraphQl\\Test\\Unit\\Model\\Context\\AddUserInfoToContextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteForCustomer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

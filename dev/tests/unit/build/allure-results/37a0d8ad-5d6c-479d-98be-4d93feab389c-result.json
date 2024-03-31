@@ -1,0 +1,50 @@
+{
+    "uuid": "37a0d8ad-5d6c-479d-98be-4d93feab389c",
+    "name": "Magento\\Usps\\Test\\Unit\\Helper\\DataTest::testDisplayGirthValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053029,
+    "stop": 1711693053029,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#19",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a0b86e5b0ebb0f840f30a84ca199ce8c",
+    "testCaseId": "10614bea59b3789927dbe38de86ca693",
+    "rerunOf": null,
+    "fullName": "Magento\\Usps\\Test\\Unit\\Helper\\DataTest::testDisplayGirthValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Usps\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDisplayGirthValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

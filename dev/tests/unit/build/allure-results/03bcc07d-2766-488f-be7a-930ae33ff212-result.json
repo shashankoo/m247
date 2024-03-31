@@ -1,0 +1,43 @@
+{
+    "uuid": "03bcc07d-2766-488f-be7a-930ae33ff212",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Form\\RegisterTest::testGetMinimumPasswordLength",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019487,
+    "stop": 1711693019487,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9d42e56809f85dfa25c75de93a400775",
+    "testCaseId": "763e00fbbc7d51fc97821ab0f2087413",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Form\\RegisterTest::testGetMinimumPasswordLength",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Form\\RegisterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMinimumPasswordLength"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

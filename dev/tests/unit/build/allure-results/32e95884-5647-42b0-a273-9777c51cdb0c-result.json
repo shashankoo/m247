@@ -1,0 +1,43 @@
+{
+    "uuid": "32e95884-5647-42b0-a273-9777c51cdb0c",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testCancelOpenInvoice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038165,
+    "stop": 1711693038166,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "061e0acdd558037e29f7c913742c6360",
+    "testCaseId": "327c0e0412998a6763648cdbd111413a",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testCancelOpenInvoice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCancelOpenInvoice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

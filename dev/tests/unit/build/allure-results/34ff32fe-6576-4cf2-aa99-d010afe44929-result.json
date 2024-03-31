@@ -1,0 +1,43 @@
+{
+    "uuid": "34ff32fe-6576-4cf2-aa99-d010afe44929",
+    "name": "Magento\\Integration\\Test\\Unit\\Block\\Adminhtml\\Integration\\Edit\\Tab\\InfoTest::testGetTabLabelAndTitle",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029479,
+    "stop": 1711693029481,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7a26f8d5d995ff3938678f1843e48ade",
+    "testCaseId": "24374a75a9c38450ae1e196aeadc215d",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Block\\Adminhtml\\Integration\\Edit\\Tab\\InfoTest::testGetTabLabelAndTitle",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Block\\Adminhtml\\Integration\\Edit\\Tab\\InfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTabLabelAndTitle"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

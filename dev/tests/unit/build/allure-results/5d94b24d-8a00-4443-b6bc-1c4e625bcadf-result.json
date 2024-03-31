@@ -1,0 +1,43 @@
+{
+    "uuid": "5d94b24d-8a00-4443-b6bc-1c4e625bcadf",
+    "name": "Magento\\Framework\\Test\\Unit\\App\\ResourceConnectionTest::testGetExistingConnectionByName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056426,
+    "stop": 1711693056426,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "93dde2a08f56dc66f428811ea5e56b61",
+    "testCaseId": "de7bb18017a3640b0d501b470ecaaf8e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\App\\ResourceConnectionTest::testGetExistingConnectionByName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\App\\ResourceConnectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetExistingConnectionByName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

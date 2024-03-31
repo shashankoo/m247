@@ -1,0 +1,43 @@
+{
+    "uuid": "a43d73c2-2b7e-42e4-83fb-a057c1318966",
+    "name": "Magento\\Cookie\\Test\\Unit\\Model\\Config\\Backend\\LifetimeTest::testBeforeSaveException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018841,
+    "stop": 1711693018844,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "717e5ef22e9bc58b6458da41a8400618",
+    "testCaseId": "ea0606947bc207e3f22b66c1ee9c5676",
+    "rerunOf": null,
+    "fullName": "Magento\\Cookie\\Test\\Unit\\Model\\Config\\Backend\\LifetimeTest::testBeforeSaveException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cookie\\Test\\Unit\\Model\\Config\\Backend\\LifetimeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSaveException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

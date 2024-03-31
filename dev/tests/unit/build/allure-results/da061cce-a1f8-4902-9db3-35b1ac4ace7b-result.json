@@ -1,0 +1,50 @@
+{
+    "uuid": "da061cce-a1f8-4902-9db3-35b1ac4ace7b",
+    "name": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\DefaultProcessorTest::testProcess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017757,
+    "stop": 1711693017758,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "26098630cb4a53cb9589a4374ba00f04",
+    "testCaseId": "8f5e68e0a1787d9e34fea07a1b93b894",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\DefaultProcessorTest::testProcess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\DefaultProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

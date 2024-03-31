@@ -1,0 +1,43 @@
+{
+    "uuid": "d29720e5-3218-47f9-9f90-a9662c1215aa",
+    "name": "Magento\\Backend\\Test\\Unit\\App\\Area\\FrontNameResolverTest::testIsHostBackendWithEmptyHost",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009458,
+    "stop": 1711693009458,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f61dc0aef230f4a5520726e06fb3f328",
+    "testCaseId": "ee17962fb2a75553a1b791216ca7e75f",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\App\\Area\\FrontNameResolverTest::testIsHostBackendWithEmptyHost",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\App\\Area\\FrontNameResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsHostBackendWithEmptyHost"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

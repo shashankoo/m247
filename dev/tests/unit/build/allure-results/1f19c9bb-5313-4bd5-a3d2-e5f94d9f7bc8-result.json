@@ -1,0 +1,50 @@
+{
+    "uuid": "1f19c9bb-5313-4bd5-a3d2-e5f94d9f7bc8",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\DeltaPriceRoundTest::testRound",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036035,
+    "stop": 1711693036035,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9fdf035830ebd32722b1f4b32bc3f0fa",
+    "testCaseId": "8fab168ed97a42ace4ed6bc074a35a23",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\DeltaPriceRoundTest::testRound",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\DeltaPriceRoundTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRound"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "3acbb4dd-e1bd-4ee8-a009-ac7a78a97ccb",
+    "name": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\EditTest::testEditActionNonExistentIntegration",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029815,
+    "stop": 1711693029816,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9febcac9781d230f69dd4daf6786f438",
+    "testCaseId": "d6e377bc2c20212c01acc2e42fa41029",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\EditTest::testEditActionNonExistentIntegration",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\EditTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEditActionNonExistentIntegration"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

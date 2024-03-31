@@ -1,0 +1,43 @@
+{
+    "uuid": "37a78c68-89d9-4632-963e-074b01f88286",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\OptionRepositoryTest::testDeleteCantDeleteOption",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018530,
+    "stop": 1711693018532,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "26553396e9cba7e53291f6d68492b3b8",
+    "testCaseId": "a4d2d6bbb27ecc673ff6f6c4699cbdbf",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\OptionRepositoryTest::testDeleteCantDeleteOption",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\OptionRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteCantDeleteOption"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

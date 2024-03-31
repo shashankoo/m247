@@ -1,0 +1,50 @@
+{
+    "uuid": "cd823450-349a-46bb-97b3-3f4d0d8b0b19",
+    "name": "Magento\\Payment\\Test\\Unit\\Model\\ConfigTest::testGetActiveMethods",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031633,
+    "stop": 1711693031633,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "18a5ddf50653b55a0116c04b004209ff",
+    "testCaseId": "acf9b2d6615f7ad83ec40c3c8f52879a",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Model\\ConfigTest::testGetActiveMethods",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Model\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetActiveMethods"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

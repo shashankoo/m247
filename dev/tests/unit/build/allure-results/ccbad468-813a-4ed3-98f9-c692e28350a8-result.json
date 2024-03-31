@@ -1,0 +1,50 @@
+{
+    "uuid": "ccbad468-813a-4ed3-98f9-c692e28350a8",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Backend\\WeightTest::testValidateForFailure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014930,
+    "stop": 1711693014930,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"negative Lebanon\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "06adb7dbc56de60170b00c2d1147e724",
+    "testCaseId": "380a96c623ce00b40e79b54985ddb3d5",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Backend\\WeightTest::testValidateForFailure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Backend\\WeightTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateForFailure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "12d5fa5c-8bf1-4231-9ea4-5924ab036c44",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\ResourceModel\\AddressRepositoryTest::testSaveWithInvalidRegionId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020991,
+    "stop": 1711693020991,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "356e8ee4830f4dad31e3c5d798af33aa",
+    "testCaseId": "4bb7ea34de1d723da4aa3b3b0c951747",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\ResourceModel\\AddressRepositoryTest::testSaveWithInvalidRegionId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\ResourceModel\\AddressRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveWithInvalidRegionId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

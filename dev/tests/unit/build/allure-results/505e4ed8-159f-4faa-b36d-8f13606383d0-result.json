@@ -1,0 +1,50 @@
+{
+    "uuid": "505e4ed8-159f-4faa-b36d-8f13606383d0",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Block\\Adminhtml\\Export\\FilterTest::testSelectFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024564,
+    "stop": 1711693024565,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1c8dd82dbd516e175ec511219c5a67c5",
+    "testCaseId": "179711e672a1f046ed561ecbb9c76ce3",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Block\\Adminhtml\\Export\\FilterTest::testSelectFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Block\\Adminhtml\\Export\\FilterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSelectFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

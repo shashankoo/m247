@@ -1,0 +1,50 @@
+{
+    "uuid": "f20528fb-0eab-4111-bff3-113850bc8de6",
+    "name": "Magento\\Integration\\Test\\Unit\\Block\\Adminhtml\\Integration\\Edit\\Tab\\WebapiTest::testIsEverythingAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029705,
+    "stop": 1711693029705,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"no integration data\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2692396c520a7b974f67b056df7df939",
+    "testCaseId": "717ec3addf170784dd53598a34ab9d5e",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Block\\Adminhtml\\Integration\\Edit\\Tab\\WebapiTest::testIsEverythingAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Block\\Adminhtml\\Integration\\Edit\\Tab\\WebapiTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsEverythingAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

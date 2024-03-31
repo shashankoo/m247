@@ -1,0 +1,50 @@
+{
+    "uuid": "f3ac9344-eacb-4187-ad7f-86f43deabee1",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlTest::testCheckNotDdlTransaction",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070620,
+    "stop": 1711693070621,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ae0abb8fa48da07133bde394e2134de7",
+    "testCaseId": "af3d823c7d02998ada2a71536cdc3a19",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlTest::testCheckNotDdlTransaction",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckNotDdlTransaction"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

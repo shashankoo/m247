@@ -1,0 +1,50 @@
+{
+    "uuid": "6c1abf3a-24a8-4b90-8afd-a79f7b9aa2af",
+    "name": "Magento\\UrlRewrite\\Test\\Unit\\Helper\\UrlRewriteTest::testValidateRequestPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052860,
+    "stop": 1711693052860,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"leading slash\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "420f64f5a48996199c6be8b7ba96c929",
+    "testCaseId": "2e494700822762f8a4e45c3a386e9237",
+    "rerunOf": null,
+    "fullName": "Magento\\UrlRewrite\\Test\\Unit\\Helper\\UrlRewriteTest::testValidateRequestPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\UrlRewrite\\Test\\Unit\\Helper\\UrlRewriteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateRequestPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

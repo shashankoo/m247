@@ -1,0 +1,50 @@
+{
+    "uuid": "5ff73697-b57b-4d23-9154-202935124be7",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\ConfigTest::testSetDataByPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018138,
+    "stop": 1711693018139,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"depth 5\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "08af30d1266d3f8ee0775d201021f9f9",
+    "testCaseId": "717bfaf0f77c264734b923b6e18fc2da",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\ConfigTest::testSetDataByPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetDataByPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

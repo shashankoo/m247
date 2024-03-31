@@ -1,0 +1,50 @@
+{
+    "uuid": "70b2c8c3-b81e-418e-8c9b-ef56fd5692d9",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Model\\Cart\\MultishippingClearItemAddressTest::testClearAddressItem",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030734,
+    "stop": 1711693030734,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"test with `add` action and multi shipping address disabled\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b684d62c3281272fd9f59f28628793e1",
+    "testCaseId": "5e586401bf3d5d47a42426dc87f8b123",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Model\\Cart\\MultishippingClearItemAddressTest::testClearAddressItem",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Model\\Cart\\MultishippingClearItemAddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testClearAddressItem"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

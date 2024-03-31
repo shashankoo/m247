@@ -1,0 +1,43 @@
+{
+    "uuid": "c7dea419-e7ec-4d40-8590-3b3689112304",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\BooleanTest::testFromDefinitionTinyInt",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076147,
+    "stop": 1711693076147,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "22b96dc3e12e4bb6ab3d13b20f94c874",
+    "testCaseId": "0f3fa9f134ea3c55870f196412e8ed88",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\BooleanTest::testFromDefinitionTinyInt",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\BooleanTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFromDefinitionTinyInt"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

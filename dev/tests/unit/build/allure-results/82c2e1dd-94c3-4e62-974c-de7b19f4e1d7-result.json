@@ -1,0 +1,50 @@
+{
+    "uuid": "82c2e1dd-94c3-4e62-974c-de7b19f4e1d7",
+    "name": "Magento\\CatalogRuleConfigurable\\Test\\Unit\\Plugin\\CatalogRule\\Model\\Rule\\ConfigurableProductHandlerTest::testAroundGetMatchingProductIdsWithProductsFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012227,
+    "stop": 1711693012228,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6e55475b77415d296fc9cbcca097187f",
+    "testCaseId": "77b344d94378088f64e00afc5929fa38",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogRuleConfigurable\\Test\\Unit\\Plugin\\CatalogRule\\Model\\Rule\\ConfigurableProductHandlerTest::testAroundGetMatchingProductIdsWithProductsFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogRuleConfigurable\\Test\\Unit\\Plugin\\CatalogRule\\Model\\Rule\\ConfigurableProductHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundGetMatchingProductIdsWithProductsFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

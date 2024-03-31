@@ -1,0 +1,50 @@
+{
+    "uuid": "4147087a-8f80-4260-9153-42b13b691dd9",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\OptionRepositoryTest::testValidateNewOptionData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018543,
+    "stop": 1711693018543,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9f14ce31aace9f4238098c0a2bfe0e41",
+    "testCaseId": "25bbca59abbda4e2f59130b5bb7774e0",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\OptionRepositoryTest::testValidateNewOptionData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\OptionRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateNewOptionData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

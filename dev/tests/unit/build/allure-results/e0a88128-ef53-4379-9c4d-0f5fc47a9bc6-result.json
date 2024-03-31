@@ -1,0 +1,43 @@
+{
+    "uuid": "e0a88128-ef53-4379-9c4d-0f5fc47a9bc6",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Layout\\DepersonalizePluginTest::testAfterGenerateElementsNoDepersonalize",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014867,
+    "stop": 1711693014867,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b39e7fa3c7bfb243a33e9fa26cd655dd",
+    "testCaseId": "c8fb0d5a54849efc8c15ef0cb500c304",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Layout\\DepersonalizePluginTest::testAfterGenerateElementsNoDepersonalize",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Layout\\DepersonalizePluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGenerateElementsNoDepersonalize"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

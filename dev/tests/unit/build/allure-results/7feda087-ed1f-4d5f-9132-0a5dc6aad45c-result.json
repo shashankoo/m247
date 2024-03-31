@@ -1,0 +1,50 @@
+{
+    "uuid": "7feda087-ed1f-4d5f-9132-0a5dc6aad45c",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Store\\SwitcherTest::testAfterGetCurrentStoreName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009533,
+    "stop": 1711693009534,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"test storeName with valid requested store\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "66dd22bb0f8d6fcc6b7eef96ebddd855",
+    "testCaseId": "799beb3eaf01976318aaac623288710b",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Store\\SwitcherTest::testAfterGetCurrentStoreName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Store\\SwitcherTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetCurrentStoreName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "184631d9-0275-415b-b50c-117afa1cbf93",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\AclResourceTest::testGetTableName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057657,
+    "stop": 1711693057657,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e228753b78b6db855dfa67363545af33",
+    "testCaseId": "ea4e23e2340582f807d060ebcd61e951",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\AclResourceTest::testGetTableName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\AclResourceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTableName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

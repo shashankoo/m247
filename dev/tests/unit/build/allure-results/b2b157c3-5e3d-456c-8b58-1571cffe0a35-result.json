@@ -1,0 +1,43 @@
+{
+    "uuid": "b2b157c3-5e3d-456c-8b58-1571cffe0a35",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnSetTest::testShouldRenderSubtotalWithFlagFalse",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009616,
+    "stop": 1711693009617,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ed43b981efb94d25447536d8e0c5940e",
+    "testCaseId": "84e5626ba4dce34f05d4c2938720eae9",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnSetTest::testShouldRenderSubtotalWithFlagFalse",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnSetTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testShouldRenderSubtotalWithFlagFalse"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

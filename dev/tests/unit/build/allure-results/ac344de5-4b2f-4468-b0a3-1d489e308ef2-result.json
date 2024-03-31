@@ -1,0 +1,50 @@
+{
+    "uuid": "ac344de5-4b2f-4468-b0a3-1d489e308ef2",
+    "name": "Magento\\Theme\\Test\\Unit\\Helper\\StorageTest::testGetStorageTypeName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043245,
+    "stop": 1711693043246,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"font\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fade7e9f0a7132d9207d49480ce69dd3",
+    "testCaseId": "6df0cc44acb89509bf7743f3a84a3559",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Helper\\StorageTest::testGetStorageTypeName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Helper\\StorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStorageTypeName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

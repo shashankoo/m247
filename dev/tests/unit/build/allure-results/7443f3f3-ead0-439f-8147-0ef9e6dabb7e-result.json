@@ -1,0 +1,50 @@
+{
+    "uuid": "7443f3f3-ead0-439f-8147-0ef9e6dabb7e",
+    "name": "Magento\\Framework\\Encryption\\Test\\Unit\\Adapter\\McryptTest::testConstructorException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071595,
+    "stop": 1711693071595,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"tooLongKey-blowfish-ecb-false\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "84efbd45b7102d37aa9ef5efc3732364",
+    "testCaseId": "c79b386e100de420ab6748745ec04836",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Encryption\\Test\\Unit\\Adapter\\McryptTest::testConstructorException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Encryption\\Test\\Unit\\Adapter\\McryptTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructorException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

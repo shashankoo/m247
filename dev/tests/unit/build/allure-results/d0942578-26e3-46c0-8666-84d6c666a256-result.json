@@ -1,0 +1,43 @@
+{
+    "uuid": "d0942578-26e3-46c0-8666-84d6c666a256",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\UtilityTest::testCanProcessRuleCouponUsagePerCustomerFail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036207,
+    "stop": 1711693036209,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "13b0739e57c48f094bc9b5b719cd8311",
+    "testCaseId": "c91c7dceaee147028d8d1d4e5a9d68c4",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\UtilityTest::testCanProcessRuleCouponUsagePerCustomerFail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\UtilityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanProcessRuleCouponUsagePerCustomerFail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

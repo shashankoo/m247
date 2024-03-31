@@ -1,0 +1,50 @@
+{
+    "uuid": "641ff08c-5d5b-4882-9986-b13e2199ee5d",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\Service\\Response\\TransactionTest::testGetResponseObject",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032295,
+    "stop": 1711693032295,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Input data is an array\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7b7d7ce32267b5eec0630d5f49d92b2b",
+    "testCaseId": "e3e8cd2b2e178ec79a1eab5c139d312b",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\Service\\Response\\TransactionTest::testGetResponseObject",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\Service\\Response\\TransactionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetResponseObject"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

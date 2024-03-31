@@ -1,0 +1,43 @@
+{
+    "uuid": "ac60337b-c45f-47fc-95c3-fc380a8cd0fd",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Webapi\\ParamOverriderCartIdTest::testGetOverriddenValueIsCustomerAndCartIsNull",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033261,
+    "stop": 1711693033261,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "de8368e3fb8f8a64a8c1902148325e82",
+    "testCaseId": "1c98b7afab42cbece3497a2b0239128e",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Webapi\\ParamOverriderCartIdTest::testGetOverriddenValueIsCustomerAndCartIsNull",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Webapi\\ParamOverriderCartIdTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOverriddenValueIsCustomerAndCartIsNull"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "130633c0-befa-4b38-b34a-f4089b0c1e17",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\ApplyPersistentDataObserverTest::testExecuteWhenCanNotApplyPersistentData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032534,
+    "stop": 1711693032534,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "201b82736840801c90ac4ea6fcfe3dec",
+    "testCaseId": "bc5c237965fa65470db2245818d25114",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\ApplyPersistentDataObserverTest::testExecuteWhenCanNotApplyPersistentData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\ApplyPersistentDataObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenCanNotApplyPersistentData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

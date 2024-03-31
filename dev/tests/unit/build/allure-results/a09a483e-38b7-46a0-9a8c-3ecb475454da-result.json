@@ -1,0 +1,50 @@
+{
+    "uuid": "a09a483e-38b7-46a0-9a8c-3ecb475454da",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\OptionTest::testValidateRow",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011515,
+    "stop": 1711693011515,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"main_max_characters_less_zero\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5d2d1504f6f7dcf0977febc92e31a181",
+    "testCaseId": "67dc20f50e487fbb12a2c44dbbf6c612",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\OptionTest::testValidateRow",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\OptionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateRow"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

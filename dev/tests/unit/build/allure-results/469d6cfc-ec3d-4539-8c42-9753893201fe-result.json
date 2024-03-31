@@ -1,0 +1,43 @@
+{
+    "uuid": "469d6cfc-ec3d-4539-8c42-9753893201fe",
+    "name": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleUninstallCommandTest::testExecuteNonComposerModules",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054917,
+    "stop": 1711693054917,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "724d2c243398df62c35c862195bfe8f5",
+    "testCaseId": "b55d47ecb1ba5ef7831d4248afcb7086",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleUninstallCommandTest::testExecuteNonComposerModules",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleUninstallCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteNonComposerModules"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

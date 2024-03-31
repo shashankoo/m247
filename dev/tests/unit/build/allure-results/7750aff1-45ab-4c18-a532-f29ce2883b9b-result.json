@@ -1,0 +1,50 @@
+{
+    "uuid": "7750aff1-45ab-4c18-a532-f29ce2883b9b",
+    "name": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\StatTest::testTimersSorting",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075395,
+    "stop": 1711693075396,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Without sorting\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b695da5f19882513e0f5c46050670ea1",
+    "testCaseId": "97ee3466e41ce02cf537a08576c47582",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\StatTest::testTimersSorting",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\StatTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testTimersSorting"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

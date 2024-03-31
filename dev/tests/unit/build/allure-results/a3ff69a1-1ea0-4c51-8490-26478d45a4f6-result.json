@@ -1,0 +1,50 @@
+{
+    "uuid": "a3ff69a1-1ea0-4c51-8490-26478d45a4f6",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\Argument\\Interpreter\\ConstantTest::testEvaluateBadValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070870,
+    "stop": 1711693070870,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3e54bede4295ff308c655991b950bdb1",
+    "testCaseId": "d33b031b6f5bbba88fa88232296990a7",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\Argument\\Interpreter\\ConstantTest::testEvaluateBadValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\Argument\\Interpreter\\ConstantTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEvaluateBadValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

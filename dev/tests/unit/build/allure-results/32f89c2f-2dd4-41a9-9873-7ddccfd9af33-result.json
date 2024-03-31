@@ -1,0 +1,50 @@
+{
+    "uuid": "32f89c2f-2dd4-41a9-9873-7ddccfd9af33",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\DataConverter\\SerializedToJsonTest::testConvert",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070665,
+    "stop": 1711693070665,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "aeb2bcfdb233afd84bab721a95398ad2",
+    "testCaseId": "2f7ceb34909d2114404dda525a8b89e6",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\DataConverter\\SerializedToJsonTest::testConvert",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\DataConverter\\SerializedToJsonTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvert"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "0a77e26b-ac89-4ef6-b9f2-aacf076de23d",
+    "name": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\SensitiveConfigSetCommandTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021236,
+    "stop": 1711693021237,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "14060caa0ed998f4482eb8d2b7a596fa",
+    "testCaseId": "2678e8e01fd483521c9b69ef30107481",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\SensitiveConfigSetCommandTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\SensitiveConfigSetCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

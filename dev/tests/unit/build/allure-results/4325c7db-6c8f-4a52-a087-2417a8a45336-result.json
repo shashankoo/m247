@@ -1,0 +1,50 @@
+{
+    "uuid": "4325c7db-6c8f-4a52-a087-2417a8a45336",
+    "name": "Magento\\GoogleOptimizer\\Test\\Unit\\Observer\\Product\\SaveGoogleExperimentScriptObserverTest::testCreatingCodeIfRequestIsNotValid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024202,
+    "stop": 1711693024203,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "344abfcc393ebb963143a7e26c4dd4d9",
+    "testCaseId": "e80ed454b58fce3424cf4d7a5afad928",
+    "rerunOf": null,
+    "fullName": "Magento\\GoogleOptimizer\\Test\\Unit\\Observer\\Product\\SaveGoogleExperimentScriptObserverTest::testCreatingCodeIfRequestIsNotValid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GoogleOptimizer\\Test\\Unit\\Observer\\Product\\SaveGoogleExperimentScriptObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreatingCodeIfRequestIsNotValid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

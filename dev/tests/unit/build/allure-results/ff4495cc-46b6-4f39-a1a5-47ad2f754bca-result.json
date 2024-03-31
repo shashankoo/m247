@@ -1,0 +1,50 @@
+{
+    "uuid": "ff4495cc-46b6-4f39-a1a5-47ad2f754bca",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\ElementVisibilityCompositeTest::testHidden",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018060,
+    "stop": 1711693018060,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "227d015b66a60c64b2e0d6c66bee07bb",
+    "testCaseId": "9c891fa0c9c92ab5265dfd2c58d2da58",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\ElementVisibilityCompositeTest::testHidden",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\ElementVisibilityCompositeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testHidden"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

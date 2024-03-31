@@ -1,0 +1,43 @@
+{
+    "uuid": "1f29ddfb-1ff8-478f-86b0-81528fcd4738",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\ProfilerTest::testQueryStart",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070774,
+    "stop": 1711693070774,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "31225cda457b541f8d7ae2f19c795bde",
+    "testCaseId": "ec26f9c526576c606b027fb73c2d99ce",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\ProfilerTest::testQueryStart",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\ProfilerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testQueryStart"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

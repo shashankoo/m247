@@ -1,0 +1,50 @@
+{
+    "uuid": "fc532e70-4e6d-4d04-9719-4c596735eec4",
+    "name": "Magento\\Framework\\Url\\Test\\Unit\\EncoderTest::testEncodeNotContainingRfc3986ReservedCharacters",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076878,
+    "stop": 1711693076878,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "45f6d5b2a56fcb034f26b04ac4e50b91",
+    "testCaseId": "bb8c32fc463361d3ddfaa8fa174810e0",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Url\\Test\\Unit\\EncoderTest::testEncodeNotContainingRfc3986ReservedCharacters",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Url\\Test\\Unit\\EncoderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEncodeNotContainingRfc3986ReservedCharacters"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

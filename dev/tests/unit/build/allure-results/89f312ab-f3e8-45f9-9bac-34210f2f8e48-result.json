@@ -1,0 +1,43 @@
+{
+    "uuid": "89f312ab-f3e8-45f9-9bac-34210f2f8e48",
+    "name": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\StatTest::testFetchInvalidTimer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075401,
+    "stop": 1711693075401,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "91c1d3d9bacbae16ba4193a9cd04f1cc",
+    "testCaseId": "c8b581478464cc669314217d2a6ca434",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\StatTest::testFetchInvalidTimer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\StatTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFetchInvalidTimer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

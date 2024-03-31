@@ -1,0 +1,50 @@
+{
+    "uuid": "9f4d05e9-7eec-4885-aa55-ead85eb1bb39",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\PreparedValueFactoryTest::testCreateNotInstanceOfValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018166,
+    "stop": 1711693018166,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"stores scope flow\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "db3181442baf2706a403b1a8bfaa164a",
+    "testCaseId": "8ad07897575cd6f62109dd224b3f623e",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\PreparedValueFactoryTest::testCreateNotInstanceOfValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\PreparedValueFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateNotInstanceOfValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "90378641-f434-4f4c-b058-fac46a08b2e0",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\BackupRollbackTest::testCodeBackupWithInvalidType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076112,
+    "stop": 1711693076113,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2e08ad2f4d987964c32028ca430b8a2f",
+    "testCaseId": "960b7182ef17258b74bdc9a7694baed2",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\BackupRollbackTest::testCodeBackupWithInvalidType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\BackupRollbackTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCodeBackupWithInvalidType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "35566e67-cf8e-46dd-87a0-271cdeed0843",
+    "name": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\SetModeCommandTest::testSetDeveloperMode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021245,
+    "stop": 1711693021246,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b0f8f932e6281132e20d93d63e197e42",
+    "testCaseId": "ad4cd8fabb919382eaf63a935b1ea797",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\SetModeCommandTest::testSetDeveloperMode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\SetModeCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetDeveloperMode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

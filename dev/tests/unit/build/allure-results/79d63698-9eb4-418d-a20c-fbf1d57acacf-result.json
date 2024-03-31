@@ -1,0 +1,50 @@
+{
+    "uuid": "79d63698-9eb4-418d-a20c-fbf1d57acacf",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Layer\\Filter\\PriceTest::testApplyWithEmptyRequest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014716,
+    "stop": 1711693014716,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "eaa7657aad736b36c3f7f930054cface",
+    "testCaseId": "c73d75e2a4160952a92c73e973d10895",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Layer\\Filter\\PriceTest::testApplyWithEmptyRequest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Layer\\Filter\\PriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testApplyWithEmptyRequest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

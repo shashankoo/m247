@@ -1,0 +1,50 @@
+{
+    "uuid": "d4ab291a-dba6-42df-b6e7-8b79cc719b27",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Placeholder\\EnvironmentTest::testRestore",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018147,
+    "stop": 1711693018147,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ef19922cba7704e007c652cd85b4808b",
+    "testCaseId": "be176fd642a1746994845d6f8fe9d804",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Placeholder\\EnvironmentTest::testRestore",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Placeholder\\EnvironmentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRestore"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

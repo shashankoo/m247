@@ -1,0 +1,43 @@
+{
+    "uuid": "4efb3f3b-07ac-461a-9638-b32a40a1c40c",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Cache\\PermissionsTest::testHasAccessToFlushCatalogImages",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009511,
+    "stop": 1711693009512,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8eb82d7e5768528df68729b6fcabce91",
+    "testCaseId": "179c55294d1066d78331c7ce78b6037c",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Cache\\PermissionsTest::testHasAccessToFlushCatalogImages",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Cache\\PermissionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testHasAccessToFlushCatalogImages"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "0e02282b-c1ea-4da1-bd73-3f5d9b1f8fda",
+    "name": "Magento\\Catalog\\Test\\Unit\\Plugin\\Model\\Product\\Action\\UpdateAttributesFlushCacheTest::testAroundUpdateWebsites",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016070,
+    "stop": 1711693016070,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ae0249ccf00550d9afb3c3a036dea610",
+    "testCaseId": "b9439dfb92c0e25451e962dc4c36b149",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Plugin\\Model\\Product\\Action\\UpdateAttributesFlushCacheTest::testAroundUpdateWebsites",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Plugin\\Model\\Product\\Action\\UpdateAttributesFlushCacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundUpdateWebsites"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

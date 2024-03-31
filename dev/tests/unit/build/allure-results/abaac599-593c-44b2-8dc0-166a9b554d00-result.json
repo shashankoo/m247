@@ -1,0 +1,50 @@
+{
+    "uuid": "abaac599-593c-44b2-8dc0-166a9b554d00",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testCreateAccountWithPasswordInputException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019911,
+    "stop": 1711693019914,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "738da067b1196b9587e9f2f9d1af86bf",
+    "testCaseId": "830bd40b63c723fabf94efa16f849bac",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testCreateAccountWithPasswordInputException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateAccountWithPasswordInputException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

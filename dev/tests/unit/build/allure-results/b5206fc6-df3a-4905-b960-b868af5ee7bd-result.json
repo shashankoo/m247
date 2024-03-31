@@ -1,0 +1,50 @@
+{
+    "uuid": "b5206fc6-df3a-4905-b960-b868af5ee7bd",
+    "name": "Magento\\Catalog\\Test\\Unit\\Block\\Category\\Rss\\LinkTest::testIsRssAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013533,
+    "stop": 1711693013533,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5026db5ce4fa57d6945a73ee139eeb44",
+    "testCaseId": "407f0e6bea116a6bba79e39f9555085d",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Block\\Category\\Rss\\LinkTest::testIsRssAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Block\\Category\\Rss\\LinkTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsRssAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

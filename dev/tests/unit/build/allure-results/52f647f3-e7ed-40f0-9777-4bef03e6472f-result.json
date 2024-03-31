@@ -1,0 +1,50 @@
+{
+    "uuid": "52f647f3-e7ed-40f0-9777-4bef03e6472f",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Rss\\OrderStatusTest::testGetCacheKey",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041006,
+    "stop": 1711693041006,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6ded646f3be6f81fa71988ec3537d395",
+    "testCaseId": "3002fcca7ece0b2777d1e4387c105177",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Rss\\OrderStatusTest::testGetCacheKey",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Rss\\OrderStatusTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCacheKey"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

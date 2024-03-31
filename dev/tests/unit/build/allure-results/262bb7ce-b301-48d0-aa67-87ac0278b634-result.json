@@ -1,0 +1,43 @@
+{
+    "uuid": "262bb7ce-b301-48d0-aa67-87ac0278b634",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\CheckExpirePersistentQuoteObserverTest::testExecuteWhenPersistentIsNotEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032538,
+    "stop": 1711693032539,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "535e23290c4b81d229317d166151e5cd",
+    "testCaseId": "978d5f6758d4b93508f2acc8461d1d84",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\CheckExpirePersistentQuoteObserverTest::testExecuteWhenPersistentIsNotEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\CheckExpirePersistentQuoteObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenPersistentIsNotEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "d8535509-9350-4245-a008-7ea33bdfcb93",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\Items\\GridTest::testGetItemRowTotalWithDiscountHtml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036547,
+    "stop": 1711693036547,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9e5ff04e1851106a08309373b7839214",
+    "testCaseId": "f86e6a3f209de674698b85e56db82bc5",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\Items\\GridTest::testGetItemRowTotalWithDiscountHtml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\Items\\GridTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItemRowTotalWithDiscountHtml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

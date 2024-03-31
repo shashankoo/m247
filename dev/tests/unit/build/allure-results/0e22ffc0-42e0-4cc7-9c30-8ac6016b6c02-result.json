@@ -1,0 +1,43 @@
+{
+    "uuid": "0e22ffc0-42e0-4cc7-9c30-8ac6016b6c02",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Indexer\\IndexerHandlerTest::testDeleteIndex",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023346,
+    "stop": 1711693023346,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a0f96b9d5968351de6e1c3538a04f3f1",
+    "testCaseId": "cb0f7e90de36d2e84e6544302b7ab4ea",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Indexer\\IndexerHandlerTest::testDeleteIndex",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Indexer\\IndexerHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteIndex"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

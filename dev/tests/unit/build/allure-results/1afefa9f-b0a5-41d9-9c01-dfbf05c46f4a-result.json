@@ -1,0 +1,43 @@
+{
+    "uuid": "1afefa9f-b0a5-41d9-9c01-dfbf05c46f4a",
+    "name": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\ProductList\\UpsellTest::testGetIdentitiesWhenItemGetIdentitiesReturnEmptyArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013632,
+    "stop": 1711693013632,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e20444fc47c6c0ee84babc3da04e6088",
+    "testCaseId": "121d098b6605e183852218e4c275433d",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\ProductList\\UpsellTest::testGetIdentitiesWhenItemGetIdentitiesReturnEmptyArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\ProductList\\UpsellTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIdentitiesWhenItemGetIdentitiesReturnEmptyArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

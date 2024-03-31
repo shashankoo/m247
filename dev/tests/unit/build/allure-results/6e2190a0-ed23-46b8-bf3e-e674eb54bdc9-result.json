@@ -1,0 +1,50 @@
+{
+    "uuid": "6e2190a0-ed23-46b8-bf3e-e674eb54bdc9",
+    "name": "Magento\\Theme\\Test\\Unit\\Model\\Config\\ImporterTest::testGetWarningMessages",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043301,
+    "stop": 1711693043301,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "988bf9a06b80c3d4d908c69a8266f9ea",
+    "testCaseId": "76f93ce0643cd3b9f702e1a209c7f92c",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Model\\Config\\ImporterTest::testGetWarningMessages",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Model\\Config\\ImporterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetWarningMessages"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

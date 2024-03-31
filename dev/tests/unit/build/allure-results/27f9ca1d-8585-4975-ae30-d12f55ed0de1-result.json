@@ -1,0 +1,50 @@
+{
+    "uuid": "27f9ca1d-8585-4975-ae30-d12f55ed0de1",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Config\\ConfigPathResolverTest::testResolve",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057772,
+    "stop": 1711693057772,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "94d81316a1e2de45d690206c6b9fa1e2",
+    "testCaseId": "19f119bf6b7e75bce3dbd8d37f4f0514",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Config\\ConfigPathResolverTest::testResolve",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Config\\ConfigPathResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testResolve"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

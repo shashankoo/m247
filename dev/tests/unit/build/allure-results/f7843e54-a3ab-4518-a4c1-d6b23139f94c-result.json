@@ -1,0 +1,43 @@
+{
+    "uuid": "f7843e54-a3ab-4518-a4c1-d6b23139f94c",
+    "name": "Magento\\Webapi\\Test\\Unit\\Model\\Soap\\Wsdl\\GeneratorTest::testGetInputMessageName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053657,
+    "stop": 1711693053658,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b7913bffc4dc2d7034b4d687ad18eb7e",
+    "testCaseId": "7c1080ba6d6a28e42f44017cc22a5885",
+    "rerunOf": null,
+    "fullName": "Magento\\Webapi\\Test\\Unit\\Model\\Soap\\Wsdl\\GeneratorTest::testGetInputMessageName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Webapi\\Test\\Unit\\Model\\Soap\\Wsdl\\GeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetInputMessageName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

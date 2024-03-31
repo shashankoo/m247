@@ -1,0 +1,43 @@
+{
+    "uuid": "11e14e40-c82a-4e1b-a17d-20c83053e951",
+    "name": "Magento\\Framework\\Session\\Test\\Unit\\ConfigTest::testUseOnlyCookiesDefaultsToIniSettings",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076048,
+    "stop": 1711693076049,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bb28943dab5daf083444fdd55b845627",
+    "testCaseId": "1555116c1f32388d5e796b779e1ee0ca",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Session\\Test\\Unit\\ConfigTest::testUseOnlyCookiesDefaultsToIniSettings",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Session\\Test\\Unit\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUseOnlyCookiesDefaultsToIniSettings"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

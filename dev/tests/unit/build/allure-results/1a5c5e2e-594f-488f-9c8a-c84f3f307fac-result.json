@@ -1,0 +1,43 @@
+{
+    "uuid": "1a5c5e2e-594f-488f-9c8a-c84f3f307fac",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\Plugin\\StoreCookieTest::testBeforeDispatchInvalidArgument",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041885,
+    "stop": 1711693041885,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bb4ca877325d94361869b38faf69e069",
+    "testCaseId": "91434e1241fa8c0e350f1d09bd102cfc",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\Plugin\\StoreCookieTest::testBeforeDispatchInvalidArgument",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\Plugin\\StoreCookieTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeDispatchInvalidArgument"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

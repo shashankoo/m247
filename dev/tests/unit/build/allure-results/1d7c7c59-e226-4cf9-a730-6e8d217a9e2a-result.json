@@ -1,0 +1,43 @@
+{
+    "uuid": "1d7c7c59-e226-4cf9-a730-6e8d217a9e2a",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Condition\\Product\\CombineTest::testGetNewChildSelectOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036126,
+    "stop": 1711693036128,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a14a112c937e5bc1b67c4edd3142a0ec",
+    "testCaseId": "16ec680ae4e38476ce67c91e857182f9",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Condition\\Product\\CombineTest::testGetNewChildSelectOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Condition\\Product\\CombineTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetNewChildSelectOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "9a612482-6818-4b5d-9b12-140bbdef6077",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\ProcessorTest::testPrepareChildProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032868,
+    "stop": 1711693032868,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f98332728b6bf189d5d8c9c14b1de95b",
+    "testCaseId": "f981b1214757d4fed2673ac42c716cc0",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\ProcessorTest::testPrepareChildProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\ProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareChildProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

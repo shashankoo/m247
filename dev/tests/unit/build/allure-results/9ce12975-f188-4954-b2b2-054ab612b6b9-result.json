@@ -1,0 +1,50 @@
+{
+    "uuid": "9ce12975-f188-4954-b2b2-054ab612b6b9",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\ErrorProcessing\\ProcessingErrorAggregatorTest::testGetRowsGroupedByErrorCodeWithErrors",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024725,
+    "stop": 1711693024725,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "62405f8ad3d24e7fe664b157d8381ea9",
+    "testCaseId": "50e2511acdab7a18d77a8e1b81981c97",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\ErrorProcessing\\ProcessingErrorAggregatorTest::testGetRowsGroupedByErrorCodeWithErrors",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\ErrorProcessing\\ProcessingErrorAggregatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRowsGroupedByErrorCodeWithErrors"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "14ccf5ce-1c98-4f62-93e9-9dbd46fc73b0",
+    "name": "Magento\\Theme\\Test\\Unit\\Model\\Theme\\StoreUserAgentThemeResolverTest::testGetThemes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043580,
+    "stop": 1711693043581,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "160133abbe5e15a8a48ae34eb95195ed",
+    "testCaseId": "827aecc14f4143d2a1720d72a6faf284",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Model\\Theme\\StoreUserAgentThemeResolverTest::testGetThemes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Model\\Theme\\StoreUserAgentThemeResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetThemes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

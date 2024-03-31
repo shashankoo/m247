@@ -1,0 +1,43 @@
+{
+    "uuid": "fc0a1023-804a-4c86-969b-559f72fcb7f9",
+    "name": "Magento\\Tax\\Test\\Unit\\Block\\Checkout\\Shipping\\PriceTest::testDisplayShippingPriceInclTax",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042368,
+    "stop": 1711693042369,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "347a7407662a5595c91d5b364146a9b4",
+    "testCaseId": "1d3e9f4731dc624ee866cd970ea5cbe8",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Block\\Checkout\\Shipping\\PriceTest::testDisplayShippingPriceInclTax",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Block\\Checkout\\Shipping\\PriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDisplayShippingPriceInclTax"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

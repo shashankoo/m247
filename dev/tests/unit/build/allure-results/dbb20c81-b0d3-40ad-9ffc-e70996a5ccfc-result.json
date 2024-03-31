@@ -1,0 +1,50 @@
+{
+    "uuid": "dbb20c81-b0d3-40ad-9ffc-e70996a5ccfc",
+    "name": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Factory\\FactoryTest::testCreateUsingSemiVariadic",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074825,
+    "stop": 1711693074825,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"only_with_oneScalars_full_value\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "97e6490074b64ebf62e3fea64646b385",
+    "testCaseId": "c9a63ac7221dd45b75e990bf14d6a2a5",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Factory\\FactoryTest::testCreateUsingSemiVariadic",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Factory\\FactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateUsingSemiVariadic"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

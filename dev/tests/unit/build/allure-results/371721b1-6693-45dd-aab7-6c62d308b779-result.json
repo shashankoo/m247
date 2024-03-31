@@ -1,0 +1,50 @@
+{
+    "uuid": "371721b1-6693-45dd-aab7-6c62d308b779",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\SensitiveCookieMetadataTest::testConstructorAndGetHttpOnly",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076677,
+    "stop": 1711693076678,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"without httpOnly\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c6d2d4732213b0dfc83e3369d8251398",
+    "testCaseId": "9cd9aabb7278d2c1c06b3c9c15c4b558",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\SensitiveCookieMetadataTest::testConstructorAndGetHttpOnly",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\SensitiveCookieMetadataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructorAndGetHttpOnly"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

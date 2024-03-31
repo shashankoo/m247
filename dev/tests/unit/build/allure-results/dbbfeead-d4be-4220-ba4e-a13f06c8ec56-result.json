@@ -1,0 +1,50 @@
+{
+    "uuid": "dbbfeead-d4be-4220-ba4e-a13f06c8ec56",
+    "name": "Magento\\Framework\\Code\\Test\\Unit\\Generator\\IoTest::testFileExists",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069383,
+    "stop": 1711693069383,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "31608c16ffd3bd95e494c9b66c839252",
+    "testCaseId": "91fce42c0e7ce678bcc0ddf6cf71924f",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Code\\Test\\Unit\\Generator\\IoTest::testFileExists",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Code\\Test\\Unit\\Generator\\IoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFileExists"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

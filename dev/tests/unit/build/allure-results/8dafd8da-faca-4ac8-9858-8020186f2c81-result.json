@@ -1,0 +1,50 @@
+{
+    "uuid": "8dafd8da-faca-4ac8-9858-8020186f2c81",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\ShippingTest::testCollectUsingShippingInclTaxAndDiscountBeforeTax",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037647,
+    "stop": 1711693037649,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"exclTax\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7b9375e9d04664c469675a8863c51baa",
+    "testCaseId": "40bae096069079e8c0f2dee6a69c8400",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\ShippingTest::testCollectUsingShippingInclTaxAndDiscountBeforeTax",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\ShippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectUsingShippingInclTaxAndDiscountBeforeTax"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

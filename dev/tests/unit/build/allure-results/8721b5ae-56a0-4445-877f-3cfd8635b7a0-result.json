@@ -1,0 +1,50 @@
+{
+    "uuid": "8721b5ae-56a0-4445-877f-3cfd8635b7a0",
+    "name": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Initialization\\StockDataFilterTest::testFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013919,
+    "stop": 1711693013919,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"case2\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bd07fefbcb08975e20503d26e09fbcaf",
+    "testCaseId": "b78231e5ca7fe527b9e877baa15d428b",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Initialization\\StockDataFilterTest::testFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Initialization\\StockDataFilterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

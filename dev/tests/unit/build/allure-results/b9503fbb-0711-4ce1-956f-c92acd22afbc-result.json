@@ -1,0 +1,43 @@
+{
+    "uuid": "b9503fbb-0711-4ce1-956f-c92acd22afbc",
+    "name": "Magento\\Indexer\\Test\\Unit\\Console\\Command\\IndexerSetDimensionsModeCommandTest::testExecuteWithModeException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024817,
+    "stop": 1711693024818,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "26bf73b2ad362d7ea9abc54eeff8ed25",
+    "testCaseId": "200fe4d46a9de640a6112a3ea573a933",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Console\\Command\\IndexerSetDimensionsModeCommandTest::testExecuteWithModeException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Console\\Command\\IndexerSetDimensionsModeCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithModeException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

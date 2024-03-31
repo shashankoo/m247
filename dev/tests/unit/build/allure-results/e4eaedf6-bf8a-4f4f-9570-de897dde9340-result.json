@@ -1,0 +1,43 @@
+{
+    "uuid": "e4eaedf6-bf8a-4f4f-9570-de897dde9340",
+    "name": "Magento\\QuoteGraphQl\\Test\\Unit\\Model\\Resolver\\MaskedCartIdTest::testResolveWithoutModelInValueParameter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032685,
+    "stop": 1711693032687,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "512295190506b415f65b6652f22cbaf4",
+    "testCaseId": "ccb87cd05691a8f8314a3800e40c5e2d",
+    "rerunOf": null,
+    "fullName": "Magento\\QuoteGraphQl\\Test\\Unit\\Model\\Resolver\\MaskedCartIdTest::testResolveWithoutModelInValueParameter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\QuoteGraphQl\\Test\\Unit\\Model\\Resolver\\MaskedCartIdTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testResolveWithoutModelInValueParameter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

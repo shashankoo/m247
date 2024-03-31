@@ -1,0 +1,50 @@
+{
+    "uuid": "d8758083-6c04-4118-baa3-9c1f128d3d8a",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TierPriceManagementTest::testAddWithInvalidData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015344,
+    "stop": 1711693015344,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6c96493d28820fc3d8cf7ce575968021",
+    "testCaseId": "44c6dca8cc201732c89bb2e8b8cd63fd",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TierPriceManagementTest::testAddWithInvalidData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TierPriceManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddWithInvalidData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "9ef244ff-2f07-48d9-a1bd-266ab81986bb",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\UpdaterTest::testUpdateNotQtyDecimal",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032882,
+    "stop": 1711693032882,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "60d27e05c1eb9dd0701a90cab2afddad",
+    "testCaseId": "3f0b4f91cbeddc813eb7536ca1b0602c",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\UpdaterTest::testUpdateNotQtyDecimal",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\UpdaterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdateNotQtyDecimal"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

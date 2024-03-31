@@ -1,0 +1,43 @@
+{
+    "uuid": "6c6bb1fc-6b35-457e-8312-dd9db162a355",
+    "name": "Magento\\MediaGallery\\Test\\Unit\\Model\\Asset\\Command\\GetByIdExceptionOnGetDataTest::testExceptionDuringGetMediaAssetData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030389,
+    "stop": 1711693030389,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8ea8a477f00b5ac9e58346aa409a6b16",
+    "testCaseId": "4235d599cf476b0fb41d69d5859eb769",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaGallery\\Test\\Unit\\Model\\Asset\\Command\\GetByIdExceptionOnGetDataTest::testExceptionDuringGetMediaAssetData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaGallery\\Test\\Unit\\Model\\Asset\\Command\\GetByIdExceptionOnGetDataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExceptionDuringGetMediaAssetData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

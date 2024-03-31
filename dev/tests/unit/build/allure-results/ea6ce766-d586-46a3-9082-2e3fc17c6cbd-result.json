@@ -1,0 +1,50 @@
+{
+    "uuid": "ea6ce766-d586-46a3-9082-2e3fc17c6cbd",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\TotalsTest::testGetNoteNotify",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036566,
+    "stop": 1711693036566,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e2e0d4d7c0495d18cb16cbec0d88a194",
+    "testCaseId": "8117a079a42dc0b59557a437aab28738",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\TotalsTest::testGetNoteNotify",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\TotalsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetNoteNotify"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "eda2a3cb-f2fb-4494-b247-8215ab5f520b",
+    "name": "Magento\\Ups\\Test\\Unit\\Model\\Config\\Backend\\UpsUrlTest::testBeforeSaveErrors",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052584,
+    "stop": 1711693052585,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f205a9f7d3925e4437a8ceaf65076469",
+    "testCaseId": "a51fa7ebfabdf0b4e20f2cf5eb487705",
+    "rerunOf": null,
+    "fullName": "Magento\\Ups\\Test\\Unit\\Model\\Config\\Backend\\UpsUrlTest::testBeforeSaveErrors",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ups\\Test\\Unit\\Model\\Config\\Backend\\UpsUrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSaveErrors"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

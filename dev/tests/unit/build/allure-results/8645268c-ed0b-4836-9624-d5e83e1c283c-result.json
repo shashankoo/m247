@@ -1,0 +1,43 @@
+{
+    "uuid": "8645268c-ed0b-4836-9624-d5e83e1c283c",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowConfigTest::testGetTransactionUrlWithTestModeEmptyAndSandboxOff",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032337,
+    "stop": 1711693032337,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "43ff0a4bc26dcca000c4f9ba1a769200",
+    "testCaseId": "b317e3294a2b065e082793f279b2ffa7",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowConfigTest::testGetTransactionUrlWithTestModeEmptyAndSandboxOff",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTransactionUrlWithTestModeEmptyAndSandboxOff"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "eda80b79-d738-40a8-ace7-d9a109bcb85d",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\QuoteManagementTest::testAssignCustomerToNonanonymousCart",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032965,
+    "stop": 1711693032965,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "53ef2db6556b6d49962dc306060eb888",
+    "testCaseId": "27f42e628746fc8717fc882a21ed9dc2",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\QuoteManagementTest::testAssignCustomerToNonanonymousCart",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\QuoteManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAssignCustomerToNonanonymousCart"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

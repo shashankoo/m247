@@ -1,0 +1,50 @@
+{
+    "uuid": "20fb81df-9c44-41b6-9e02-e3954534f6bf",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Design\\FileResolution\\Fallback\\Resolver\\AlternativeTest::testConstructorException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077270,
+    "stop": 1711693077272,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"numerical keys\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2650424770fae936a19a22fcbd1d9f9c",
+    "testCaseId": "7603ea2748adc01fe64b6bc43752063b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Design\\FileResolution\\Fallback\\Resolver\\AlternativeTest::testConstructorException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Design\\FileResolution\\Fallback\\Resolver\\AlternativeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructorException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

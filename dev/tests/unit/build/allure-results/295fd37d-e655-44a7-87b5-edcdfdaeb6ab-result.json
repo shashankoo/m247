@@ -1,0 +1,50 @@
+{
+    "uuid": "295fd37d-e655-44a7-87b5-edcdfdaeb6ab",
+    "name": "Magento\\CatalogRule\\Test\\Unit\\Helper\\DataTest::testCalcPriceRule",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012259,
+    "stop": 1711693012260,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#9",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f23cbade53f1399932df204b08553d9d",
+    "testCaseId": "2124aa31028faa860ca748e648a9df91",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogRule\\Test\\Unit\\Helper\\DataTest::testCalcPriceRule",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogRule\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCalcPriceRule"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

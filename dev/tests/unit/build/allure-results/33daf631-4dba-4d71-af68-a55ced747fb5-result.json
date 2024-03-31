@@ -1,0 +1,43 @@
+{
+    "uuid": "33daf631-4dba-4d71-af68-a55ced747fb5",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\MenuTest::testGetFirstAvailableReturnsLeafNode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010173,
+    "stop": 1711693010173,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d53339860c58fe6a781a3b58be7fddc5",
+    "testCaseId": "2ee1735eb7880765bbaa43c84fbd737a",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\MenuTest::testGetFirstAvailableReturnsLeafNode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\MenuTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFirstAvailableReturnsLeafNode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

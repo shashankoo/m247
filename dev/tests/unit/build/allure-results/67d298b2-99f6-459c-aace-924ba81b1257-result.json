@@ -1,0 +1,43 @@
+{
+    "uuid": "67d298b2-99f6-459c-aace-924ba81b1257",
+    "name": "Magento\\Checkout\\Test\\Unit\\Block\\Checkout\\LayoutProcessorTest::testProcessWithBillingAddressOnPaymentPage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016681,
+    "stop": 1711693016681,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "830818467da9a3101404c59444d2fa2d",
+    "testCaseId": "7aff032705a1209de95f6b7351a7f53d",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Block\\Checkout\\LayoutProcessorTest::testProcessWithBillingAddressOnPaymentPage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Block\\Checkout\\LayoutProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessWithBillingAddressOnPaymentPage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

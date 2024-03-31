@@ -1,0 +1,43 @@
+{
+    "uuid": "cc1e973b-1602-4f32-9287-1b0c501068df",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\ResourceModel\\IndexTest::testGetPriceIndexDataEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023387,
+    "stop": 1711693023388,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1dfd91abc94cf870b591fbee281f19a8",
+    "testCaseId": "e623d39fd071fe830e5802630144bf1a",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\ResourceModel\\IndexTest::testGetPriceIndexDataEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\ResourceModel\\IndexTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPriceIndexDataEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

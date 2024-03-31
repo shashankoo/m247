@@ -1,0 +1,50 @@
+{
+    "uuid": "9b855195-21bf-4230-a1af-a6e93d0b1d00",
+    "name": "Magento\\Ups\\Test\\Unit\\Plugin\\Block\\DataProviders\\Tracking\\ChangeTitleTest::testAfterGetTitle",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052586,
+    "stop": 1711693052588,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e145b14198b17162c2d580ab2dfac902",
+    "testCaseId": "9131ab2b6267430692f92c140039f829",
+    "rerunOf": null,
+    "fullName": "Magento\\Ups\\Test\\Unit\\Plugin\\Block\\DataProviders\\Tracking\\ChangeTitleTest::testAfterGetTitle",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ups\\Test\\Unit\\Plugin\\Block\\DataProviders\\Tracking\\ChangeTitleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetTitle"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

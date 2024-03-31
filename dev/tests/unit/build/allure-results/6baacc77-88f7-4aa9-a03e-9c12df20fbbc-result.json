@@ -1,0 +1,43 @@
+{
+    "uuid": "6baacc77-88f7-4aa9-a03e-9c12df20fbbc",
+    "name": "Magento\\Framework\\Module\\Test\\Unit\\SetupTest::testGetConnection",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074461,
+    "stop": 1711693074462,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7406038ee19790883006973c98843570",
+    "testCaseId": "4927297e39c087630a5725afce329840",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Module\\Test\\Unit\\SetupTest::testGetConnection",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Module\\Test\\Unit\\SetupTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConnection"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "963e2d9b-637b-45f0-a136-2ce4fe34e54d",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\FieldProvider\\FieldName\\Resolver\\PriceTest::testGetFieldName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023266,
+    "stop": 1711693023267,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e91a51c09fd0940d0b3dc96c917b0f6c",
+    "testCaseId": "f83f28cf4a9ef5d1a5c71740dfea4fe4",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\FieldProvider\\FieldName\\Resolver\\PriceTest::testGetFieldName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\FieldProvider\\FieldName\\Resolver\\PriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFieldName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

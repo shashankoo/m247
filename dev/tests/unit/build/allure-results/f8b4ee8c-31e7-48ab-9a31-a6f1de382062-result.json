@@ -1,0 +1,50 @@
+{
+    "uuid": "f8b4ee8c-31e7-48ab-9a31-a6f1de382062",
+    "name": "Magento\\Framework\\Lock\\Test\\Unit\\LockBackendFactoryTest::testCreate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074032,
+    "stop": 1711693074032,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"cache\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6a33ed789b719382a1a82685afd92494",
+    "testCaseId": "4bd44cca1c9ac7fad08e450a2c899a2d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Lock\\Test\\Unit\\LockBackendFactoryTest::testCreate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Lock\\Test\\Unit\\LockBackendFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "75c0d2e8-50e6-468b-8ade-180a532af0fa",
+    "name": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\Redis\\ConfigTest::testGetPort",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076069,
+    "stop": 1711693076069,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ebe34fa927c6d2d4ec8642bb5bc0cde9",
+    "testCaseId": "849d0f17aa756b4e6f4907862cf65926",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\Redis\\ConfigTest::testGetPort",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\Redis\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPort"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "fbad726c-4b8d-443f-a601-0e3833ce9f72",
+    "name": "Magento\\NewRelicReporting\\Test\\Unit\\Plugin\\StatPluginTest::testNewRelicTransactionNameIsSetForCronjobNamePattern",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030915,
+    "stop": 1711693030915,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ec2c8eaca52f52682cf15299494a198f",
+    "testCaseId": "90f03d7ff81362b345549c452d485919",
+    "rerunOf": null,
+    "fullName": "Magento\\NewRelicReporting\\Test\\Unit\\Plugin\\StatPluginTest::testNewRelicTransactionNameIsSetForCronjobNamePattern",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\NewRelicReporting\\Test\\Unit\\Plugin\\StatPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testNewRelicTransactionNameIsSetForCronjobNamePattern"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "68028e05-b6b0-4b50-84cb-8f77a672eefd",
+    "name": "Magento\\Framework\\Module\\Test\\Unit\\ConflictCheckerTest::testCheckConflictsWhenEnableModules",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074371,
+    "stop": 1711693074371,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b184eef4e83ca2766504704258f4690e",
+    "testCaseId": "dd47502f39a448af33c89a6b1d91b68c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Module\\Test\\Unit\\ConflictCheckerTest::testCheckConflictsWhenEnableModules",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Module\\Test\\Unit\\ConflictCheckerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckConflictsWhenEnableModules"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

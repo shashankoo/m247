@@ -1,0 +1,43 @@
+{
+    "uuid": "d7addccc-d9df-4e8e-bc3c-0917573a696b",
+    "name": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest::testGetCacheKeyInfoContainsIsProductListFlagByDefault",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016168,
+    "stop": 1711693016168,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6f4959072bb1c9d4103e2c12e754cce1",
+    "testCaseId": "a8161cedf4ea274a567068b5771e7a32",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest::testGetCacheKeyInfoContainsIsProductListFlagByDefault",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCacheKeyInfoContainsIsProductListFlagByDefault"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

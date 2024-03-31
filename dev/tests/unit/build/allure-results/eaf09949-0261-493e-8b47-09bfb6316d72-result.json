@@ -1,0 +1,50 @@
+{
+    "uuid": "eaf09949-0261-493e-8b47-09bfb6316d72",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\SmartButtonConfigTest::testGetConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032445,
+    "stop": 1711693032446,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"mini_cart\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "009fd496f662018b867f4c673adade93",
+    "testCaseId": "45b1ce90d0acdce1f9a96e78dacdad9c",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\SmartButtonConfigTest::testGetConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\SmartButtonConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "09072867-5734-4ae5-b069-7eb5668b5b4f",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Design\\Theme\\FlyweightFactoryTest::testCreateById",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077519,
+    "stop": 1711693077520,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "edf0f703204b80c56db91f3e8f2e8da6",
+    "testCaseId": "04a164ea0664836eecc6c96204a7d486",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Design\\Theme\\FlyweightFactoryTest::testCreateById",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Design\\Theme\\FlyweightFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateById"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

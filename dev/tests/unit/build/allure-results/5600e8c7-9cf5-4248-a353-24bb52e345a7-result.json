@@ -1,0 +1,50 @@
+{
+    "uuid": "5600e8c7-9cf5-4248-a353-24bb52e345a7",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfigTest::testKeyCollision",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057898,
+    "stop": 1711693057898,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e6935eba9792fca81f33f6986a1a7e72",
+    "testCaseId": "28f3a02341e140adfaa45716b1e9c9e8",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfigTest::testKeyCollision",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testKeyCollision"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

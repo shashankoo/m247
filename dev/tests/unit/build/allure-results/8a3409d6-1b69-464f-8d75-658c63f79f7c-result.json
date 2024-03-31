@@ -1,0 +1,50 @@
+{
+    "uuid": "8a3409d6-1b69-464f-8d75-658c63f79f7c",
+    "name": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\AbstractResourceTest::testSerializeFields",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074256,
+    "stop": 1711693074256,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1393f81da3ff32e47bf2ebda0d541f01",
+    "testCaseId": "1a61dde903dd572647f83154af37bd4c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\AbstractResourceTest::testSerializeFields",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\AbstractResourceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSerializeFields"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

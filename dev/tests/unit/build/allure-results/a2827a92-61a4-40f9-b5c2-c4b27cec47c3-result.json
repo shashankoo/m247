@@ -1,0 +1,43 @@
+{
+    "uuid": "a2827a92-61a4-40f9-b5c2-c4b27cec47c3",
+    "name": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest::testGetCacheKeyInfoContainsDisplayMinimalPrice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016167,
+    "stop": 1711693016168,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7f7ba617796f94527067d5faa1b783f5",
+    "testCaseId": "b0ff1a702320615912f5db39b4379939",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest::testGetCacheKeyInfoContainsDisplayMinimalPrice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCacheKeyInfoContainsDisplayMinimalPrice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "b15e0d11-1415-4757-8504-16d16b98fa60",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\TransparentTest::testValidAuthorizeRequest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032330,
+    "stop": 1711693032331,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "eeec5ad4ac1cb2dae5c6b6d3c6e95b77",
+    "testCaseId": "4d63823071fcd29a45ee948a3d9fa28e",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\TransparentTest::testValidAuthorizeRequest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\TransparentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidAuthorizeRequest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

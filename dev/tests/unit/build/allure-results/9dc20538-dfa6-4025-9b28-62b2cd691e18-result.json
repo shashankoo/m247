@@ -1,0 +1,50 @@
+{
+    "uuid": "9dc20538-dfa6-4025-9b28-62b2cd691e18",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\MongoDbTest::testClean",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059242,
+    "stop": 1711693059242,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"clean cache matching any tags (one tag)\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0a6495939ac36c2a2ec5419d505eee89",
+    "testCaseId": "c182521b34da1f171f2c66f0ff03b263",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\MongoDbTest::testClean",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\MongoDbTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testClean"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

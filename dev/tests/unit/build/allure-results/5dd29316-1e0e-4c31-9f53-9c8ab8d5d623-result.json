@@ -1,0 +1,43 @@
+{
+    "uuid": "5dd29316-1e0e-4c31-9f53-9c8ab8d5d623",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\RepositoryTest::testSaveSavesDefaultFrontendLabelIfItIsPresentInPayload",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014965,
+    "stop": 1711693014966,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b577684c72b55a2e1cee01cebdf3e8b0",
+    "testCaseId": "7fa798a3c6b8f2bbf3896e6a88559f16",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\RepositoryTest::testSaveSavesDefaultFrontendLabelIfItIsPresentInPayload",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\RepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveSavesDefaultFrontendLabelIfItIsPresentInPayload"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

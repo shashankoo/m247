@@ -1,0 +1,50 @@
+{
+    "uuid": "a4719238-681f-49c1-838d-07e11d7d80c0",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\Description\\Mixin\\BrakeMixinTest::testApply",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055159,
+    "stop": 1711693055159,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "51fc7e273a31760fc88b70862301dd05",
+    "testCaseId": "ddc0cb94f489d3959299beff7d46e57e",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\Description\\Mixin\\BrakeMixinTest::testApply",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\Description\\Mixin\\BrakeMixinTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testApply"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

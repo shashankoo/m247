@@ -1,0 +1,50 @@
+{
+    "uuid": "2c0a9a3d-9981-411a-ba24-515f94896fd1",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\ImageTest::testGetUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014204,
+    "stop": 1711693014204,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#7",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "028f994e4a89714285fa96f1ded321b9",
+    "testCaseId": "544ee969dbc3e2c6b0a4c761b864ed6b",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\ImageTest::testGetUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\ImageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

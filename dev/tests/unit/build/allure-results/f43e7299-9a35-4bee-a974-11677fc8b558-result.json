@@ -1,0 +1,50 @@
+{
+    "uuid": "f43e7299-9a35-4bee-a974-11677fc8b558",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Asset\\NotationResolver\\ModuleTest::testConvertModuleNotationToPathModularSeparator",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077162,
+    "stop": 1711693077162,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"non-modular refers to modular\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5a55455c7c6dd3f91317243fe4a30ff1",
+    "testCaseId": "53e70ca744c286c3a7b54d35ada2bee3",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Asset\\NotationResolver\\ModuleTest::testConvertModuleNotationToPathModularSeparator",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Asset\\NotationResolver\\ModuleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvertModuleNotationToPathModularSeparator"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "5b8e2397-0f4a-496a-ac08-97b175f4d347",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\OptionTest::testValidateRowDataForStoreViewCodeField",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011548,
+    "stop": 1711693011550,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"with_store_view_code\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5e46d7b7a68aea00748d9c9f8554aa60",
+    "testCaseId": "ad001f2663862f872f837e5928317adb",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\OptionTest::testValidateRowDataForStoreViewCodeField",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\OptionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateRowDataForStoreViewCodeField"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

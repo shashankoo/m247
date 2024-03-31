@@ -1,0 +1,43 @@
+{
+    "uuid": "3e8a2812-1e20-4a5b-b78f-a6b243886f16",
+    "name": "Magento\\WebapiAsync\\Test\\Unit\\Model\\ConfigTest::testGetServicesSetsTopicFromServiceContractName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053415,
+    "stop": 1711693053420,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d730855875245f009e38d941d2cf5a73",
+    "testCaseId": "4ef19840e78f4506c9fa1c0d96e23790",
+    "rerunOf": null,
+    "fullName": "Magento\\WebapiAsync\\Test\\Unit\\Model\\ConfigTest::testGetServicesSetsTopicFromServiceContractName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\WebapiAsync\\Test\\Unit\\Model\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetServicesSetsTopicFromServiceContractName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

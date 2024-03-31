@@ -1,0 +1,43 @@
+{
+    "uuid": "c85d0e3c-7789-4b28-8581-4444f32f7677",
+    "name": "Magento\\Vault\\Test\\Unit\\Model\\PaymentMethodListTest::testGetActivePaymentList",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053310,
+    "stop": 1711693053312,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8a1691b10f0e8c84a72d815c80a7d017",
+    "testCaseId": "802429b83bfd30e671efe4608464228d",
+    "rerunOf": null,
+    "fullName": "Magento\\Vault\\Test\\Unit\\Model\\PaymentMethodListTest::testGetActivePaymentList",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Vault\\Test\\Unit\\Model\\PaymentMethodListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetActivePaymentList"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

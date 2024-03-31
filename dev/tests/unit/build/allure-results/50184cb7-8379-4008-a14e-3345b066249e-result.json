@@ -1,0 +1,50 @@
+{
+    "uuid": "50184cb7-8379-4008-a14e-3345b066249e",
+    "name": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\Redis\\LoggerTest::testLog",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076086,
+    "stop": 1711693076086,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#7",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a4f9de1505c4544c7ea10377063db2a5",
+    "testCaseId": "9b403de97bfaffd07114d05c01935bc9",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\Redis\\LoggerTest::testLog",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\Redis\\LoggerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLog"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

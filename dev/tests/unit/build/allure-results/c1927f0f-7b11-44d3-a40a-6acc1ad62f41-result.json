@@ -1,0 +1,50 @@
+{
+    "uuid": "c1927f0f-7b11-44d3-a40a-6acc1ad62f41",
+    "name": "Magento\\Framework\\Test\\Unit\\ShellTest::testExecuteFailureDetails",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057099,
+    "stop": 1711693057133,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"STDERR\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "76cdce46eaf4216c61eb8137cbd9ac69",
+    "testCaseId": "aa0daa1adcbe627ce9e0e284931652e0",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\ShellTest::testExecuteFailureDetails",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\ShellTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteFailureDetails"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

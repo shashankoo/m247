@@ -1,0 +1,50 @@
+{
+    "uuid": "d2fa9459-7757-460b-8bb1-4a9b726a4959",
+    "name": "Magento\\Framework\\Test\\Unit\\UrlTest::testGetConfigData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057429,
+    "stop": 1711693057430,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"secure url\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e13371cd04d48027f91beeeb8a1f5dd7",
+    "testCaseId": "a30318c27318eb9f00be0195b3ca9930",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\UrlTest::testGetConfigData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\UrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfigData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

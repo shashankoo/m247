@@ -1,0 +1,43 @@
+{
+    "uuid": "28543e04-e9dc-45ca-bb85-b7b3320c7589",
+    "name": "Magento\\Framework\\Backup\\Test\\Unit\\FilesystemTest::testRollback",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059116,
+    "stop": 1711693059119,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "63c0a8125d60f15fa6b869eb072b9bff",
+    "testCaseId": "3b8ed53342f0b1a6bd1001db99fd5c81",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Backup\\Test\\Unit\\FilesystemTest::testRollback",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Backup\\Test\\Unit\\FilesystemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRollback"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

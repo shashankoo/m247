@@ -1,0 +1,43 @@
+{
+    "uuid": "72b0b6fe-c142-45dd-9c5a-dd678accaad3",
+    "name": "Magento\\CatalogSearch\\Test\\Unit\\Model\\Layer\\Filter\\AttributeTest::testGetItemsIfFacetedDataIsEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012767,
+    "stop": 1711693012767,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a61c8ac1ea0ba273ea9f2d230187b39c",
+    "testCaseId": "cb2b703cad2e538ab9ac861e1b0b8b3b",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogSearch\\Test\\Unit\\Model\\Layer\\Filter\\AttributeTest::testGetItemsIfFacetedDataIsEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogSearch\\Test\\Unit\\Model\\Layer\\Filter\\AttributeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItemsIfFacetedDataIsEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

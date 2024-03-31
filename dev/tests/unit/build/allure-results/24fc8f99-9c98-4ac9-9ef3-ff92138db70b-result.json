@@ -1,0 +1,50 @@
+{
+    "uuid": "24fc8f99-9c98-4ac9-9ef3-ff92138db70b",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\AbstractDataTest::testGetIsAjaxRequest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020681,
+    "stop": 1711693020681,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f7e1e104e44c242eee851d21fd469476",
+    "testCaseId": "2ce62b5044a21a347cba526f68783a2d",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\AbstractDataTest::testGetIsAjaxRequest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\AbstractDataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIsAjaxRequest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

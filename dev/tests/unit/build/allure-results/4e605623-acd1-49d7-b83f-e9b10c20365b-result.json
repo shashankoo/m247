@@ -1,0 +1,50 @@
+{
+    "uuid": "4e605623-acd1-49d7-b83f-e9b10c20365b",
+    "name": "Magento\\Cron\\Test\\Unit\\Model\\ScheduleTest::testSetCronExprException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018964,
+    "stop": 1711693018964,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9357b8ed2d4188cba95265a440bdf819",
+    "testCaseId": "5eaa66fd4ea399262257b48f90a11cc5",
+    "rerunOf": null,
+    "fullName": "Magento\\Cron\\Test\\Unit\\Model\\ScheduleTest::testSetCronExprException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cron\\Test\\Unit\\Model\\ScheduleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetCronExprException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "341bddd0-dd48-4634-9afa-49060377a9a8",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Account\\Dashboard\\InfoTest::testGetIsSubscribed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019266,
+    "stop": 1711693019267,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4da09a81ebe6ba846ab4b50ffe6e1cf9",
+    "testCaseId": "ebdc081c4466983e137d0065eeba7aca",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Account\\Dashboard\\InfoTest::testGetIsSubscribed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Account\\Dashboard\\InfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIsSubscribed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "4798edeb-0b9d-483f-9c50-42d0a81e97b0",
+    "name": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\CurrencySymbolProviderTest::testGetCurrenciesPerWebsite",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016276,
+    "stop": 1711693016278,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"verify website currency with default website and global price scope\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "86b6a0c42f3f4b62611f4bf971f63ab7",
+    "testCaseId": "12b5bfad01c6fe6bf2f0d38036173770",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\CurrencySymbolProviderTest::testGetCurrenciesPerWebsite",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\CurrencySymbolProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCurrenciesPerWebsite"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

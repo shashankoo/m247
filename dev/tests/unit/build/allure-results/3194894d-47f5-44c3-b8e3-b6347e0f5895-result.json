@@ -1,0 +1,50 @@
+{
+    "uuid": "3194894d-47f5-44c3-b8e3-b6347e0f5895",
+    "name": "Magento\\Indexer\\Test\\Unit\\Controller\\Adminhtml\\Indexer\\MassOnTheFlyTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024939,
+    "stop": 1711693024940,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"set1\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "44e504c9005be00d89739df72d220d47",
+    "testCaseId": "0764f0fb9c36030240fd692ece11f3fd",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Controller\\Adminhtml\\Indexer\\MassOnTheFlyTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Controller\\Adminhtml\\Indexer\\MassOnTheFlyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "59790c8c-21a1-450e-b661-d0f3e2f3d6d2",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Controller\\Adminhtml\\Downloadable\\Product\\Edit\\LinkTest::testExecuteFile",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021885,
+    "stop": 1711693021886,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "efb1a9a175478b05a42e02b7535bce12",
+    "testCaseId": "2e3a1a4594ae2a48ef20308cebb2db37",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Controller\\Adminhtml\\Downloadable\\Product\\Edit\\LinkTest::testExecuteFile",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Controller\\Adminhtml\\Downloadable\\Product\\Edit\\LinkTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteFile"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "e9547479-34de-454e-949f-3704a33dfd60",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\AdminPathConfigTest::testShouldBeSecure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009818,
+    "stop": 1711693009818,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "eda52bfaad8d8feb4fbe29a1fb67f24a",
+    "testCaseId": "500584691bfca34d542d7f957e8cee48",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\AdminPathConfigTest::testShouldBeSecure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\AdminPathConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testShouldBeSecure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

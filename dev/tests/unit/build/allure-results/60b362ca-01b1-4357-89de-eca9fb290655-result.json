@@ -1,0 +1,43 @@
+{
+    "uuid": "60b362ca-01b1-4357-89de-eca9fb290655",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\PriceModifierTest::testRemoveWhenTierPricesNotExists",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015293,
+    "stop": 1711693015294,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c57e3510c1265da6bc6da7f6913a1a71",
+    "testCaseId": "d41bcc81dd6d10f11d2388928001cdcd",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\PriceModifierTest::testRemoveWhenTierPricesNotExists",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\PriceModifierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRemoveWhenTierPricesNotExists"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

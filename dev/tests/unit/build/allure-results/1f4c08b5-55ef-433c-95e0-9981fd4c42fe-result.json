@@ -1,0 +1,43 @@
+{
+    "uuid": "1f4c08b5-55ef-433c-95e0-9981fd4c42fe",
+    "name": "Magento\\Bundle\\Test\\Unit\\Pricing\\Adjustment\\CalculatorTest::testGetAmountWithoutOption",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011077,
+    "stop": 1711693011078,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c8a2d9c859b3ea3039f485d41e59bfbd",
+    "testCaseId": "ee051ad9696ac6169d8980fb6abfdf4f",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Pricing\\Adjustment\\CalculatorTest::testGetAmountWithoutOption",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Pricing\\Adjustment\\CalculatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAmountWithoutOption"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

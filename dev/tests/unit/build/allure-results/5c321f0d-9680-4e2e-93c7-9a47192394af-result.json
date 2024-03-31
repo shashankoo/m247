@@ -1,0 +1,50 @@
+{
+    "uuid": "5c321f0d-9680-4e2e-93c7-9a47192394af",
+    "name": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Initialization\\Helper\\ProductLinks\\Plugin\\GroupedTest::testBeforeInitializeLinksRequestHasGrouped",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024345,
+    "stop": 1711693024347,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c3468800e3483a7909225ee184d137b7",
+    "testCaseId": "74fb3ea7db7c9a3a6c786f708b8b16af",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Initialization\\Helper\\ProductLinks\\Plugin\\GroupedTest::testBeforeInitializeLinksRequestHasGrouped",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Initialization\\Helper\\ProductLinks\\Plugin\\GroupedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeInitializeLinksRequestHasGrouped"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

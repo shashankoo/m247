@@ -1,0 +1,50 @@
+{
+    "uuid": "a4fad760-20fc-4dd8-a5ea-3bc8f9baa76d",
+    "name": "Magento\\Swatches\\Test\\Unit\\Model\\Plugin\\EavAttributeTest::testAfterAfterSaveVisualSwatch",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042256,
+    "stop": 1711693042257,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "14cc6fd3d956678e3cc52b15a3b59e4b",
+    "testCaseId": "d8ee930f57f0173ee9be836e85e589fe",
+    "rerunOf": null,
+    "fullName": "Magento\\Swatches\\Test\\Unit\\Model\\Plugin\\EavAttributeTest::testAfterAfterSaveVisualSwatch",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Swatches\\Test\\Unit\\Model\\Plugin\\EavAttributeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterAfterSaveVisualSwatch"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

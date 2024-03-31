@@ -1,0 +1,43 @@
+{
+    "uuid": "2953b4c1-b057-401c-a4c5-71e50887ff63",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\IpnTest::testLegacyRegisterPaymentAuthorization",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032191,
+    "stop": 1711693032204,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "475ce2f8bf2222782428cf8113ae88ec",
+    "testCaseId": "8fcf1cf1b899837863b58e796f7af33a",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\IpnTest::testLegacyRegisterPaymentAuthorization",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\IpnTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLegacyRegisterPaymentAuthorization"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

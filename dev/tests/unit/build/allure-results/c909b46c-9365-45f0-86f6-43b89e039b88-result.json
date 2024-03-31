@@ -1,0 +1,50 @@
+{
+    "uuid": "c909b46c-9365-45f0-86f6-43b89e039b88",
+    "name": "Magento\\Indexer\\Test\\Unit\\Model\\Indexer\\DependencyDecoratorTest::testTransitMethods",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024993,
+    "stop": 1711693024994,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#13",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "af33ee6b8ba4165446bcf5201106dcb3",
+    "testCaseId": "7511eef64474c3743386e58039386b0c",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Model\\Indexer\\DependencyDecoratorTest::testTransitMethods",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Model\\Indexer\\DependencyDecoratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testTransitMethods"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

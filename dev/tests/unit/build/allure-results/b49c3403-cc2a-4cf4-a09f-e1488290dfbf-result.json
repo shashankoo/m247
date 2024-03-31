@@ -1,0 +1,43 @@
+{
+    "uuid": "b49c3403-cc2a-4cf4-a09f-e1488290dfbf",
+    "name": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\StatTest::testStopWithInvalidTimer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075394,
+    "stop": 1711693075394,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "389b846179f1e7f043cfdf1a6c8f6eac",
+    "testCaseId": "7a43ca0cf848619fd7b743c51c2706a7",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\StatTest::testStopWithInvalidTimer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\StatTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testStopWithInvalidTimer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

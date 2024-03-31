@@ -1,0 +1,50 @@
+{
+    "uuid": "3b793004-e78c-4766-ad83-0f3c8c10b5c4",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Indexer\\Stock\\CacheCleanerTest::testClean",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011980,
+    "stop": 1711693011981,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dbe7308b72e064f3c9b44c06d0b0b40a",
+    "testCaseId": "81a6634e1b84966e3240a1ef26aace3a",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Indexer\\Stock\\CacheCleanerTest::testClean",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Indexer\\Stock\\CacheCleanerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testClean"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

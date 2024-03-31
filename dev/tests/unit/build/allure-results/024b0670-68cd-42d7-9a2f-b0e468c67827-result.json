@@ -1,0 +1,43 @@
+{
+    "uuid": "024b0670-68cd-42d7-9a2f-b0e468c67827",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\ResourceModel\\IndexTest::testGetMovedCategoryProductIds",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023390,
+    "stop": 1711693023391,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1c3b10700285373a72adc3e84a2a9e0b",
+    "testCaseId": "1ea6061ea67bd9c7b3929c4180b4e4b7",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\ResourceModel\\IndexTest::testGetMovedCategoryProductIds",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\ResourceModel\\IndexTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMovedCategoryProductIds"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "00a8f47a-68ff-4351-af77-097e09dd6e94",
+    "name": "Magento\\Framework\\Reflection\\Test\\Unit\\NameFinderTest::testGetSetterMethodNameWrongCamelCasedAttribute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075458,
+    "stop": 1711693075458,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a27a28d46b551e23b8fcace93a377737",
+    "testCaseId": "42b02475785896e89a0f4f75c1d95eec",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Reflection\\Test\\Unit\\NameFinderTest::testGetSetterMethodNameWrongCamelCasedAttribute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Reflection\\Test\\Unit\\NameFinderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSetterMethodNameWrongCamelCasedAttribute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

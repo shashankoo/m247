@@ -1,0 +1,43 @@
+{
+    "uuid": "cbaf6639-b4fe-4586-bc40-6486e036c92c",
+    "name": "Magento\\Framework\\GraphQl\\Test\\Unit\\Query\\EnumLookupTest::testGetEnumValueFromField",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073584,
+    "stop": 1711693073588,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "629763a4b8a3d2535659dc27c8638d14",
+    "testCaseId": "aeb30f0715dc6f8d933fbd25bafaee2f",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\GraphQl\\Test\\Unit\\Query\\EnumLookupTest::testGetEnumValueFromField",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\GraphQl\\Test\\Unit\\Query\\EnumLookupTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetEnumValueFromField"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "9b1d02aa-3f66-4e02-a739-ed480d8961bc",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlTest::testConfigValidation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070645,
+    "stop": 1711693070645,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8133ca2f58b93aedff164ae023e49a04",
+    "testCaseId": "3e07c92a47b3184e85d746a364091e0b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlTest::testConfigValidation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConfigValidation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

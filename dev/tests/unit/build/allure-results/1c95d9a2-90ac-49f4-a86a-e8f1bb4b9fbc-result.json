@@ -1,0 +1,50 @@
+{
+    "uuid": "1c95d9a2-90ac-49f4-a86a-e8f1bb4b9fbc",
+    "name": "Magento\\Cms\\Test\\Unit\\Model\\Wysiwyg\\ConfigTest::testIsHidden",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017496,
+    "stop": 1711693017496,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bd249d279c6a0128fee037efc9a5958f",
+    "testCaseId": "a259a8c4b490370429ce97dffe09c412",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Model\\Wysiwyg\\ConfigTest::testIsHidden",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Model\\Wysiwyg\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsHidden"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

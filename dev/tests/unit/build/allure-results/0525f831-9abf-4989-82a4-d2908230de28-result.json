@@ -1,0 +1,43 @@
+{
+    "uuid": "0525f831-9abf-4989-82a4-d2908230de28",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceQuantityValidatorTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038110,
+    "stop": 1711693038119,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a75b7700ec18980adc686b8fd2f3f87d",
+    "testCaseId": "330066e2f6a7a69509b2af5de98ff65b",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceQuantityValidatorTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceQuantityValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

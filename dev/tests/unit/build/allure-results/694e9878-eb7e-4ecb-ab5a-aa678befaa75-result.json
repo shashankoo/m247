@@ -1,0 +1,43 @@
+{
+    "uuid": "694e9878-eb7e-4ecb-ab5a-aa678befaa75",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Price\\System\\Config\\PriceScopeTest::testProcessValueNotChanged",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014641,
+    "stop": 1711693014642,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "401c4e824ff2262fe0c57ae10be1dbc7",
+    "testCaseId": "2bdcf868ae790458b491b89cb037233c",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Price\\System\\Config\\PriceScopeTest::testProcessValueNotChanged",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Price\\System\\Config\\PriceScopeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessValueNotChanged"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

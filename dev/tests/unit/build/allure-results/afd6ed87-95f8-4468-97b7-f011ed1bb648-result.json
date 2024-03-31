@@ -1,0 +1,43 @@
+{
+    "uuid": "afd6ed87-95f8-4468-97b7-f011ed1bb648",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\RemoteSynchronizedCacheTest::testLoadWithNoLocalAndWithRemoteData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059249,
+    "stop": 1711693059250,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "969997f9f401f328b7199594c676235a",
+    "testCaseId": "8e3ce2eac3b2230f8a310a23872b42f5",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\RemoteSynchronizedCacheTest::testLoadWithNoLocalAndWithRemoteData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\RemoteSynchronizedCacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLoadWithNoLocalAndWithRemoteData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

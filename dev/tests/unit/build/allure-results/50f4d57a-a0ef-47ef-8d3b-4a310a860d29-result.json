@@ -1,0 +1,43 @@
+{
+    "uuid": "50f4d57a-a0ef-47ef-8d3b-4a310a860d29",
+    "name": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\BulkStatusTest::testGetBulksStatus",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009273,
+    "stop": 1711693009274,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2c0aacad7baec425656bffb80ea38f20",
+    "testCaseId": "811e28d2ee1aa590b85052911f3a1119",
+    "rerunOf": null,
+    "fullName": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\BulkStatusTest::testGetBulksStatus",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\BulkStatusTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBulksStatus"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

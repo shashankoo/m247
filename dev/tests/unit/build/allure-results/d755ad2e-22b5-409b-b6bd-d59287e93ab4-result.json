@@ -1,0 +1,43 @@
+{
+    "uuid": "d755ad2e-22b5-409b-b6bd-d59287e93ab4",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Adminhtml\\System\\Config\\Source\\Inputtype\\ValidatorTest::testAddInputType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022334,
+    "stop": 1711693022335,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dafbeb20ed0b72aa1479b70d2a74a7ed",
+    "testCaseId": "d7a10240a1ea510a6d09f71354eeaf27",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Adminhtml\\System\\Config\\Source\\Inputtype\\ValidatorTest::testAddInputType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Adminhtml\\System\\Config\\Source\\Inputtype\\ValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddInputType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

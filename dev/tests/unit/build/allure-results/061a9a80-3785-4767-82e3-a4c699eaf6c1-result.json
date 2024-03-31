@@ -1,0 +1,43 @@
+{
+    "uuid": "061a9a80-3785-4767-82e3-a4c699eaf6c1",
+    "name": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Type\\Grouped\\PriceTest::testGetFinalPriceIfQtyIsNullAndFinalPriceExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024350,
+    "stop": 1711693024351,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "81cb0610ffe78b2cc05f358123bd2c6b",
+    "testCaseId": "3171562baf5867604d36a1f80e3a57d6",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Type\\Grouped\\PriceTest::testGetFinalPriceIfQtyIsNullAndFinalPriceExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Type\\Grouped\\PriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFinalPriceIfQtyIsNullAndFinalPriceExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

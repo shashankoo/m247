@@ -1,0 +1,43 @@
+{
+    "uuid": "92add01a-b0c1-4435-a564-da6ecb1d451f",
+    "name": "Magento\\Quote\\Test\\Unit\\Observer\\Frontend\\Quote\\Address\\VatValidatorTest::testValidateWithDifferentCountryIdAndValidatedCountryCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033277,
+    "stop": 1711693033277,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c6c331ab3f0ea3b0cc4fd6d60a8773de",
+    "testCaseId": "789b4010302da3ec9d90bcee5de3b69f",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Observer\\Frontend\\Quote\\Address\\VatValidatorTest::testValidateWithDifferentCountryIdAndValidatedCountryCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Observer\\Frontend\\Quote\\Address\\VatValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateWithDifferentCountryIdAndValidatedCountryCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

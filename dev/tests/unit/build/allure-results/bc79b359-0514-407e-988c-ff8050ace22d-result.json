@@ -1,0 +1,50 @@
+{
+    "uuid": "bc79b359-0514-407e-988c-ff8050ace22d",
+    "name": "Magento\\Weee\\Test\\Unit\\Pricing\\Render\\AdjustmentTest::testShowInclDescr",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054116,
+    "stop": 1711693054117,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#6",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8f679431b76f6e90243f106cb36460e9",
+    "testCaseId": "a8b91c1ae6df6236d46a15532eae2543",
+    "rerunOf": null,
+    "fullName": "Magento\\Weee\\Test\\Unit\\Pricing\\Render\\AdjustmentTest::testShowInclDescr",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Weee\\Test\\Unit\\Pricing\\Render\\AdjustmentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testShowInclDescr"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

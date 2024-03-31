@@ -1,0 +1,50 @@
+{
+    "uuid": "cddf6b89-6623-477f-beb5-dfc1bd6578c1",
+    "name": "Magento\\Newsletter\\Test\\Unit\\Model\\SubscriptionManagerTest::testSubscribeCustomer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031002,
+    "stop": 1711693031003,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Subscribe new\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "07854fd03fd3f8e7ae2d3f2c8981be7a",
+    "testCaseId": "93e90392ad5987cb639a079eda7dd9e6",
+    "rerunOf": null,
+    "fullName": "Magento\\Newsletter\\Test\\Unit\\Model\\SubscriptionManagerTest::testSubscribeCustomer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Newsletter\\Test\\Unit\\Model\\SubscriptionManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSubscribeCustomer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

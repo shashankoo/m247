@@ -1,0 +1,50 @@
+{
+    "uuid": "92cd0cd3-4090-47a9-9605-030a45f2b079",
+    "name": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\UserConfig\\HtmlAreaTokenVerifierTest::testReadConfigToken",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693044291,
+    "stop": 1711693044291,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"token in both\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "87a817267e9f6b7da60e3beb92c0e6f6",
+    "testCaseId": "9cc06da2a594fd11e145fc5cc3f5f1ae",
+    "rerunOf": null,
+    "fullName": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\UserConfig\\HtmlAreaTokenVerifierTest::testReadConfigToken",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\UserConfig\\HtmlAreaTokenVerifierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReadConfigToken"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

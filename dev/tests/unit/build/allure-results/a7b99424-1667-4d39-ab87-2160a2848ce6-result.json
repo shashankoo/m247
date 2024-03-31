@@ -1,0 +1,50 @@
+{
+    "uuid": "a7b99424-1667-4d39-ab87-2160a2848ce6",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\Sidebar\\AbstractSidebarTest::testGetItemQty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036560,
+    "stop": 1711693036561,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"whenQtyNotIsset\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cc9dfd8e736eb5e44f149f9f1b4ce0f2",
+    "testCaseId": "01faf06d70cae5184a085a4ff3b502ce",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\Sidebar\\AbstractSidebarTest::testGetItemQty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\Sidebar\\AbstractSidebarTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItemQty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

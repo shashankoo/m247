@@ -1,0 +1,43 @@
+{
+    "uuid": "67ae59e2-ddbe-40c8-b39c-2c26e99fd29a",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\RepositoryTest::testDeleteByIdentifierNonExistingOption",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015127,
+    "stop": 1711693015127,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "352fc2c127cff1603fbae8f0830fc2bc",
+    "testCaseId": "6788d3d935e08b0c55a160ba5517affa",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\RepositoryTest::testDeleteByIdentifierNonExistingOption",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\RepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteByIdentifierNonExistingOption"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

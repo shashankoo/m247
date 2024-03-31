@@ -1,0 +1,43 @@
+{
+    "uuid": "e09dcf47-4fe6-4660-88df-b420b4e22f1e",
+    "name": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\CreatePostTest::testCreatePostActionRegistrationDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019614,
+    "stop": 1711693019614,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Cannot be unit tested with the auto generated builder dependencies",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c76c6caeab0e02171dac13b8eed72f3a",
+    "testCaseId": "f41433e6c0fee8f29c18c7c6703c854d",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\CreatePostTest::testCreatePostActionRegistrationDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\CreatePostTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreatePostActionRegistrationDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

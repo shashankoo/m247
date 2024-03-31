@@ -1,0 +1,50 @@
+{
+    "uuid": "c1700cbf-53d9-4bef-9cda-eb31124282fd",
+    "name": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\ProductProcessUrlRewriteSavingObserverTest::testExecuteUrlKey",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013180,
+    "stop": 1711693013182,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"visibility changed\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c7ee70e509019475727ab03b6b14e897",
+    "testCaseId": "8eef05470cd3b8c5251fde4e72f22ed5",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\ProductProcessUrlRewriteSavingObserverTest::testExecuteUrlKey",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\ProductProcessUrlRewriteSavingObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteUrlKey"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "ac4f6a61-1731-4e41-97f9-6e883f6d7a9e",
+    "name": "Magento\\Framework\\Validator\\Test\\Unit\\BuilderTest::testAddConfigurations",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076932,
+    "stop": 1711693076932,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skipped in #27500 due to testing protected\/private methods and properties",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"constraint options initialized with arguments\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "05b714e343b85edfae2b50ec0ce31af9",
+    "testCaseId": "929a800fb34046dfc4fdbb3db8e0ad83",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Validator\\Test\\Unit\\BuilderTest::testAddConfigurations",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Validator\\Test\\Unit\\BuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddConfigurations"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "9b97de75-8261-4171-a3e8-c222117d27bc",
+    "name": "Magento\\Theme\\Test\\Unit\\Controller\\Result\\JsFooterPluginTest::testAfterRenderResult",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043023,
+    "stop": 1711693043023,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"content_with_script_tag\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "50bf98bad59c25a9a9b98aab2bd80521",
+    "testCaseId": "918734078c5ab2af16fd731e1d0b32f9",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Controller\\Result\\JsFooterPluginTest::testAfterRenderResult",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Controller\\Result\\JsFooterPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterRenderResult"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

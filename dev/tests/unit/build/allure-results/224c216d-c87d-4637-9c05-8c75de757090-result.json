@@ -1,0 +1,43 @@
+{
+    "uuid": "224c216d-c87d-4637-9c05-8c75de757090",
+    "name": "Magento\\Framework\\Search\\Test\\Unit\\Adapter\\Mysql\\TemporaryStorageTest::testStoreApiDocuments",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075585,
+    "stop": 1711693075586,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "fdc7d24d717c87d778768dfe9e4e9d51",
+    "testCaseId": "85efe743362aeefe5b564128e13dfaec",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Search\\Test\\Unit\\Adapter\\Mysql\\TemporaryStorageTest::testStoreApiDocuments",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Search\\Test\\Unit\\Adapter\\Mysql\\TemporaryStorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testStoreApiDocuments"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

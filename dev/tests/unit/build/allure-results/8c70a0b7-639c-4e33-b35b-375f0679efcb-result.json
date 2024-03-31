@@ -1,0 +1,50 @@
+{
+    "uuid": "8c70a0b7-639c-4e33-b35b-375f0679efcb",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\Argument\\Interpreter\\NumberTest::testEvaluate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070874,
+    "stop": 1711693070874,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"string numeric (integer)\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a152ddb676dc9196faaaa1cc1bbd1e39",
+    "testCaseId": "1a6e31bde1ac72125179cccf483fd9ad",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\Argument\\Interpreter\\NumberTest::testEvaluate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\Argument\\Interpreter\\NumberTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEvaluate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

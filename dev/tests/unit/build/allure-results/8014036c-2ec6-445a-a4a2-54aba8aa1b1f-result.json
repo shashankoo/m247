@@ -1,0 +1,43 @@
+{
+    "uuid": "8014036c-2ec6-445a-a4a2-54aba8aa1b1f",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\ModuleRegistryUninstallerTest::testRemoveModulesFromDeploymentConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055360,
+    "stop": 1711693055360,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a57fd07e08eabc3c2b8940e904a0cf94",
+    "testCaseId": "296ed388299fc361ea3d5e316dae079b",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\ModuleRegistryUninstallerTest::testRemoveModulesFromDeploymentConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\ModuleRegistryUninstallerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRemoveModulesFromDeploymentConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

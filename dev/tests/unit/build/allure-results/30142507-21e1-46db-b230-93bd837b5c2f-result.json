@@ -1,0 +1,43 @@
+{
+    "uuid": "30142507-21e1-46db-b230-93bd837b5c2f",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\MongoDbTest::testCleanInvalidMode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059243,
+    "stop": 1711693059243,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8eba9f79e7dc4c94431c11bcfef60e13",
+    "testCaseId": "a598cecda7420ffcb0f8ce6b394a715d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\MongoDbTest::testCleanInvalidMode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\MongoDbTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCleanInvalidMode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "fa7d1031-8bc3-4498-8a90-40d3eb1c54ea",
+    "name": "Magento\\Analytics\\Test\\Unit\\Model\\SubscriptionStatusProviderTest::testGetStatusShouldBePending",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009166,
+    "stop": 1711693009166,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Subscription update is active and token exist\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3ed2bb0bd6d6ff2fdae62d645739d2ec",
+    "testCaseId": "18b2c833b2bbbce9ae7f6980ca26cace",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Model\\SubscriptionStatusProviderTest::testGetStatusShouldBePending",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Model\\SubscriptionStatusProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStatusShouldBePending"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

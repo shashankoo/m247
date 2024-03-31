@@ -1,0 +1,43 @@
+{
+    "uuid": "a60ce4ec-83f4-4caa-b515-33a622090d1f",
+    "name": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSetCommandTest::testExecuteNeedsRegeneration",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017797,
+    "stop": 1711693017797,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b6ee30686a8992bc27750c3f4dc12e38",
+    "testCaseId": "812289711ee3b015305ca044ae47946c",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSetCommandTest::testExecuteNeedsRegeneration",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSetCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteNeedsRegeneration"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

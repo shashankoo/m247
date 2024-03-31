@@ -1,0 +1,50 @@
+{
+    "uuid": "1ff82889-e31d-4626-b53a-6808943f953b",
+    "name": "Magento\\Tax\\Test\\Unit\\Observer\\AfterAddressSaveObserverTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042821,
+    "stop": 1711693042821,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#6",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1a4a14eda2ada071d0458d5389ea0d8d",
+    "testCaseId": "0c78f46c04aee58095846dd9e4f023e6",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Observer\\AfterAddressSaveObserverTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Observer\\AfterAddressSaveObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

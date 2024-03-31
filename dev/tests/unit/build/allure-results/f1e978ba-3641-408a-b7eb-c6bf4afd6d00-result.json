@@ -1,0 +1,43 @@
+{
+    "uuid": "f1e978ba-3641-408a-b7eb-c6bf4afd6d00",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\ConfigGeneratorTest::testCreateSessionConfigWithoutInput",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055541,
+    "stop": 1711693055542,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3e668044af77f57a4674022b7ba02656",
+    "testCaseId": "3cfd26bc757cd6607dc23f7abbce9284",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\ConfigGeneratorTest::testCreateSessionConfigWithoutInput",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\ConfigGeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateSessionConfigWithoutInput"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

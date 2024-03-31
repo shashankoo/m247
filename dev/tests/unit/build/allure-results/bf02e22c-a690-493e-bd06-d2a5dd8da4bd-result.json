@@ -1,0 +1,43 @@
+{
+    "uuid": "bf02e22c-a690-493e-bd06-d2a5dd8da4bd",
+    "name": "Magento\\Framework\\Webapi\\Test\\Unit\\Validator\\SearchCriteriaValidatorTest::testAllowsPageSizeWhenAboveMinLimitAndBelowMaxLimitUsingConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078877,
+    "stop": 1711693078877,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "73d92593fb262818e043f89b3c90cbe8",
+    "testCaseId": "5596f571cd96c646b9ee99c4f39c5441",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Webapi\\Test\\Unit\\Validator\\SearchCriteriaValidatorTest::testAllowsPageSizeWhenAboveMinLimitAndBelowMaxLimitUsingConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Webapi\\Test\\Unit\\Validator\\SearchCriteriaValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAllowsPageSizeWhenAboveMinLimitAndBelowMaxLimitUsingConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

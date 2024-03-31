@@ -1,0 +1,50 @@
+{
+    "uuid": "d1b0a585-4c90-455c-a0ef-ac863bb6ffc5",
+    "name": "Magento\\Cms\\Test\\Unit\\Model\\PageRepository\\ValidationCompositeTest::testConstructorValidation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017381,
+    "stop": 1711693017382,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b4baf7f23c6f36dbb02fe96bd1f537a4",
+    "testCaseId": "a251e798b185ee86b12c53d57036bad6",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Model\\PageRepository\\ValidationCompositeTest::testConstructorValidation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Model\\PageRepository\\ValidationCompositeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructorValidation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

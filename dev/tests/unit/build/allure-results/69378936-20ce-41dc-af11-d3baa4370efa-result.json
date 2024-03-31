@@ -1,0 +1,50 @@
+{
+    "uuid": "69378936-20ce-41dc-af11-d3baa4370efa",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Query\\Builder\\MatchQueryTest::testBuild",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023541,
+    "stop": 1711693023542,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"match_phrase_prefix query with minimum_should_match\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0a11fcf4bf149cbf7380188ba7b0c630",
+    "testCaseId": "bdf856762c496e10a6268b262ef969e8",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Query\\Builder\\MatchQueryTest::testBuild",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Query\\Builder\\MatchQueryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuild"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

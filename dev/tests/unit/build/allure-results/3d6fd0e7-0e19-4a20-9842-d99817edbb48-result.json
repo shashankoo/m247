@@ -1,0 +1,43 @@
+{
+    "uuid": "3d6fd0e7-0e19-4a20-9842-d99817edbb48",
+    "name": "Magento\\Swatches\\Test\\Unit\\Model\\Plugin\\EavAttributeTest::testValidationIsSkippedForDeletedOption",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042252,
+    "stop": 1711693042253,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1e37617576d20c6217a36add01b0000f",
+    "testCaseId": "e1d471f247bba05cfff089a37054f7d1",
+    "rerunOf": null,
+    "fullName": "Magento\\Swatches\\Test\\Unit\\Model\\Plugin\\EavAttributeTest::testValidationIsSkippedForDeletedOption",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Swatches\\Test\\Unit\\Model\\Plugin\\EavAttributeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidationIsSkippedForDeletedOption"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

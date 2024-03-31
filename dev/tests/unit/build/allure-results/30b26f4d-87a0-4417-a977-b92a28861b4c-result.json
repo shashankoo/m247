@@ -1,0 +1,43 @@
+{
+    "uuid": "30b26f4d-87a0-4417-a977-b92a28861b4c",
+    "name": "Magento\\Captcha\\Test\\Unit\\Observer\\ResetAttemptForBackendObserverTest::testExecuteExpectsDeleteUserAttemptsCalled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011354,
+    "stop": 1711693011356,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bdfe33649b44d2489a5958113f2e81dd",
+    "testCaseId": "b50a2170f41bcb65025105fbd9e2a7b9",
+    "rerunOf": null,
+    "fullName": "Magento\\Captcha\\Test\\Unit\\Observer\\ResetAttemptForBackendObserverTest::testExecuteExpectsDeleteUserAttemptsCalled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Captcha\\Test\\Unit\\Observer\\ResetAttemptForBackendObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteExpectsDeleteUserAttemptsCalled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

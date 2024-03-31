@@ -1,0 +1,50 @@
+{
+    "uuid": "5d147f53-6ab8-440d-bd78-b146efb33304",
+    "name": "Magento\\Wishlist\\Test\\Unit\\Block\\Customer\\Wishlist\\Item\\OptionsTest::testGetConfiguredOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054259,
+    "stop": 1711693054263,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0691d82dfa1b146b00e211daeda602d7",
+    "testCaseId": "800aa9968014b4ef3d9c69dc56885fa2",
+    "rerunOf": null,
+    "fullName": "Magento\\Wishlist\\Test\\Unit\\Block\\Customer\\Wishlist\\Item\\OptionsTest::testGetConfiguredOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Wishlist\\Test\\Unit\\Block\\Customer\\Wishlist\\Item\\OptionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfiguredOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

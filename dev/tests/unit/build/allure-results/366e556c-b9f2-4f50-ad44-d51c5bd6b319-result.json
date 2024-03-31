@@ -1,0 +1,43 @@
+{
+    "uuid": "366e556c-b9f2-4f50-ad44-d51c5bd6b319",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\ContextTest::testGetAppState",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077232,
+    "stop": 1711693077232,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Testcase needs to be refactored.",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "891d358a418af292cfa47cabe3b1cb9b",
+    "testCaseId": "a993c382a2734a3de93427eefd9b2214",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\ContextTest::testGetAppState",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\ContextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAppState"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

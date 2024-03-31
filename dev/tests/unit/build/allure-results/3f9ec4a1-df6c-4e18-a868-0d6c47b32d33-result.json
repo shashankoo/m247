@@ -1,0 +1,50 @@
+{
+    "uuid": "3f9ec4a1-df6c-4e18-a868-0d6c47b32d33",
+    "name": "Magento\\Sitemap\\Test\\Unit\\Model\\SitemapTest::testAddSitemapToRobotsTxt",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041723,
+    "stop": 1711693041724,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e5f4e7791c2fe0536049e62a5c2adb88",
+    "testCaseId": "95c15855bee397f27f1e7486fe957859",
+    "rerunOf": null,
+    "fullName": "Magento\\Sitemap\\Test\\Unit\\Model\\SitemapTest::testAddSitemapToRobotsTxt",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sitemap\\Test\\Unit\\Model\\SitemapTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddSitemapToRobotsTxt"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

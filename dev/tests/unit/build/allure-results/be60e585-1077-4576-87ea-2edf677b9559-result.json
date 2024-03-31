@@ -1,0 +1,43 @@
+{
+    "uuid": "be60e585-1077-4576-87ea-2edf677b9559",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Source\\StatusTest::testAddValueSortToCollectionGlobal",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014982,
+    "stop": 1711693014983,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e5c902426acad04eca9d8a7eaf05c9be",
+    "testCaseId": "a4f3192b54b2153adada37b0337fb836",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Source\\StatusTest::testAddValueSortToCollectionGlobal",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Source\\StatusTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddValueSortToCollectionGlobal"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

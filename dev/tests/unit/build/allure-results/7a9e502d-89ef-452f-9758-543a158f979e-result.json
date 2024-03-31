@@ -1,0 +1,50 @@
+{
+    "uuid": "7a9e502d-89ef-452f-9758-543a158f979e",
+    "name": "Magento\\Theme\\Test\\Unit\\Block\\Html\\TitleTest::testGetPageHeadingWithSetPageTitle",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042903,
+    "stop": 1711693042904,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c954e4a3d64a237073790cc4ee370369",
+    "testCaseId": "455185b60ddb9e048941915f5a5ad434",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Block\\Html\\TitleTest::testGetPageHeadingWithSetPageTitle",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Block\\Html\\TitleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPageHeadingWithSetPageTitle"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

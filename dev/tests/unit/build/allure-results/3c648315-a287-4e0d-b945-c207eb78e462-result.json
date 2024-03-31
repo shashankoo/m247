@@ -1,0 +1,43 @@
+{
+    "uuid": "3c648315-a287-4e0d-b945-c207eb78e462",
+    "name": "Magento\\Setup\\Test\\Unit\\Fixtures\\Quote\\QuoteGeneratorTest::testGenerateQuotes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055047,
+    "stop": 1711693055051,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "30937e056af55736372719814cf78450",
+    "testCaseId": "bd1dc1fc124df12e93905d31f5c97c2c",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Fixtures\\Quote\\QuoteGeneratorTest::testGenerateQuotes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Fixtures\\Quote\\QuoteGeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerateQuotes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

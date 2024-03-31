@@ -1,0 +1,43 @@
+{
+    "uuid": "b2186c30-d835-43d0-8451-4058a03e87dd",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\RefundOrderTest::testCouldNotCreditmemoException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693040170,
+    "stop": 1711693040172,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bf87bbfeae0337a04cf5def94a4bbb6b",
+    "testCaseId": "976c2ca91133679140a9c63fa04344a0",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\RefundOrderTest::testCouldNotCreditmemoException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\RefundOrderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCouldNotCreditmemoException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

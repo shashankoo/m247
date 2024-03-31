@@ -1,0 +1,50 @@
+{
+    "uuid": "13b83087-b6fc-429c-99a9-032ce26ee5c3",
+    "name": "Magento\\Indexer\\Test\\Unit\\Model\\ProcessManagerTest::testFailureInChildProcessHandleMultiThread",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693025799,
+    "stop": 1711693026484,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"less_threads_than_functions\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9fc6e3c940a2822084006fcb98eaaae9",
+    "testCaseId": "83c82b5d1e0ba62e019c87d99339627d",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Model\\ProcessManagerTest::testFailureInChildProcessHandleMultiThread",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Model\\ProcessManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFailureInChildProcessHandleMultiThread"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

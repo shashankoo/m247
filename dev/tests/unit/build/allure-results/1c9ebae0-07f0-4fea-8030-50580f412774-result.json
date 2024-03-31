@@ -1,0 +1,50 @@
+{
+    "uuid": "1c9ebae0-07f0-4fea-8030-50580f412774",
+    "name": "Magento\\AdobeStockClient\\Test\\Unit\\Model\\ConnectionWrapperTest::testGetNextResponseWithExceptionThatNeedMoreAttention",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008722,
+    "stop": 1711693008722,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bfe37f52e833149befd97814b4c718c1",
+    "testCaseId": "ef4cc999d41fe64b879820316eb92f03",
+    "rerunOf": null,
+    "fullName": "Magento\\AdobeStockClient\\Test\\Unit\\Model\\ConnectionWrapperTest::testGetNextResponseWithExceptionThatNeedMoreAttention",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdobeStockClient\\Test\\Unit\\Model\\ConnectionWrapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetNextResponseWithExceptionThatNeedMoreAttention"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

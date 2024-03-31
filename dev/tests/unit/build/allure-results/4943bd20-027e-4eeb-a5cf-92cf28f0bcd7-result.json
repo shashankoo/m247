@@ -1,0 +1,50 @@
+{
+    "uuid": "4943bd20-027e-4eeb-a5cf-92cf28f0bcd7",
+    "name": "Magento\\Framework\\Interception\\Test\\Unit\\PluginList\\PluginListTest::testGetPlugins",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073841,
+    "stop": 1711693073842,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2939d873fe5abfa42a7114495aa8d8c3",
+    "testCaseId": "c98a6568c28a4e4ed9a55f23d89b2e94",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Interception\\Test\\Unit\\PluginList\\PluginListTest::testGetPlugins",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Interception\\Test\\Unit\\PluginList\\PluginListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPlugins"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

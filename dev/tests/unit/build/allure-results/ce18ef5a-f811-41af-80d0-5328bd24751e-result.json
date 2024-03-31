@@ -1,0 +1,50 @@
+{
+    "uuid": "ce18ef5a-f811-41af-80d0-5328bd24751e",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\FactoryTest::testCreateDictionaryWriter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055935,
+    "stop": 1711693055935,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6321cf70f473935bee52d2910a82acb2",
+    "testCaseId": "6377bbaaaea22bc51153eb6c9cd99b65",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\FactoryTest::testCreateDictionaryWriter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\FactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateDictionaryWriter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

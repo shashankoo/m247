@@ -1,0 +1,50 @@
+{
+    "uuid": "02526f7c-04b9-4621-9995-538b4b283187",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\StoreManagerTest::testGetStores",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041931,
+    "stop": 1711693041931,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"withoutDefaultAndId\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fdc742a0d579a42c63f50453a3cfc7b2",
+    "testCaseId": "c3c987fda25c61712d34be3976651e3b",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\StoreManagerTest::testGetStores",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\StoreManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStores"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

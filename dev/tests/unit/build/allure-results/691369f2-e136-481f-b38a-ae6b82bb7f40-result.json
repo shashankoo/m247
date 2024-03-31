@@ -1,0 +1,50 @@
+{
+    "uuid": "691369f2-e136-481f-b38a-ae6b82bb7f40",
+    "name": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Category\\SaveTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013779,
+    "stop": 1711693013779,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Due to MAGETWO-48956",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b1c1dcebbe3203267eb7f45ea6d867f3",
+    "testCaseId": "6d03e8983c1c13ee6a6dafd9ec1d5ccc",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Category\\SaveTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Category\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

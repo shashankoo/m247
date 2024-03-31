@@ -1,0 +1,50 @@
+{
+    "uuid": "fc7e4ac4-21a1-4a84-bf1b-d409c77310e1",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\FactoryTest::testCreateExceptionReflectionException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071190,
+    "stop": 1711693071191,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"collection\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "13ae98b809b7b4d729b6430643f874c4",
+    "testCaseId": "0b1ec8d72cea6c848909abf1a95934bb",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\FactoryTest::testCreateExceptionReflectionException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\FactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateExceptionReflectionException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

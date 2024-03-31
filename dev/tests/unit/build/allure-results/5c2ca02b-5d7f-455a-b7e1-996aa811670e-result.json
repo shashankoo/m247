@@ -1,0 +1,50 @@
+{
+    "uuid": "5c2ca02b-5d7f-455a-b7e1-996aa811670e",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\System\\StoreTest::testGetStoreValuesForForm",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041992,
+    "stop": 1711693041993,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"showNothing2\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "77655ea6d333dd1f07186c9c247efb68",
+    "testCaseId": "b45c3bc3f2e860449c0ed7596c8bb970",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\System\\StoreTest::testGetStoreValuesForForm",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\System\\StoreTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStoreValuesForForm"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

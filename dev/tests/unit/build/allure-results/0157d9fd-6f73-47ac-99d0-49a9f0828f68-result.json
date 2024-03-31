@@ -1,0 +1,50 @@
+{
+    "uuid": "0157d9fd-6f73-47ac-99d0-49a9f0828f68",
+    "name": "Magento\\SampleData\\Test\\Unit\\Console\\Command\\SampleDataDeployCommandTest::testExecuteWithNoUpdate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041135,
+    "stop": 1711693041135,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Successful sample data installation\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fdc98977549ad6932e587601528f6127",
+    "testCaseId": "07a61c8227cfe451a264b9bd53cfe107",
+    "rerunOf": null,
+    "fullName": "Magento\\SampleData\\Test\\Unit\\Console\\Command\\SampleDataDeployCommandTest::testExecuteWithNoUpdate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SampleData\\Test\\Unit\\Console\\Command\\SampleDataDeployCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithNoUpdate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "6fa65142-5832-40ba-9def-41caffb78b78",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\CancelTest::testExecuteModelException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037081,
+    "stop": 1711693037081,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a74156f0ff4b0e47aeb2bbeafd8ebc4d",
+    "testCaseId": "6061e123f26054879dcd995700656b3e",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\CancelTest::testExecuteModelException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\CancelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteModelException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

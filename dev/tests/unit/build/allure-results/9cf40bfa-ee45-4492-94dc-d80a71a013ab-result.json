@@ -1,0 +1,50 @@
+{
+    "uuid": "9cf40bfa-ee45-4492-94dc-d80a71a013ab",
+    "name": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\Output\\CsvfileTest::testConstructor",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075359,
+    "stop": 1711693075359,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skipped in #27500 due to testing protected\/private methods and properties",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Custom config\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d35d925a4296bd0b1dadb664f8838826",
+    "testCaseId": "1ae1df6a88a6773a643d52a5c8bb44bb",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\Output\\CsvfileTest::testConstructor",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\Output\\CsvfileTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructor"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

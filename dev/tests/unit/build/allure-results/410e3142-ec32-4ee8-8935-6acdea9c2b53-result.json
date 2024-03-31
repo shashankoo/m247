@@ -1,0 +1,50 @@
+{
+    "uuid": "410e3142-ec32-4ee8-8935-6acdea9c2b53",
+    "name": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\TfaTest::testGetForcedProviders",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043945,
+    "stop": 1711693043945,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"not defined\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "70e8d6a7510eb6feab421c6df3bee8bc",
+    "testCaseId": "2c646de482562a28c6f278e91a322e80",
+    "rerunOf": null,
+    "fullName": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\TfaTest::testGetForcedProviders",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\TfaTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetForcedProviders"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

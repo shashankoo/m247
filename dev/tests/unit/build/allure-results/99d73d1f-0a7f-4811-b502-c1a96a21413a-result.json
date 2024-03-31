@@ -1,0 +1,50 @@
+{
+    "uuid": "99d73d1f-0a7f-4811-b502-c1a96a21413a",
+    "name": "Magento\\Directory\\Test\\Unit\\Model\\ResourceModel\\Country\\CollectionTest::testToOptionArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021800,
+    "stop": 1711693021803,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d5daaa42d5b07f5c1a4d2d15f107c698",
+    "testCaseId": "dd632eb4206a4bbe8a15084b032795b1",
+    "rerunOf": null,
+    "fullName": "Magento\\Directory\\Test\\Unit\\Model\\ResourceModel\\Country\\CollectionTest::testToOptionArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Directory\\Test\\Unit\\Model\\ResourceModel\\Country\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToOptionArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

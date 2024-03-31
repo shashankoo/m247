@@ -1,0 +1,43 @@
+{
+    "uuid": "c90968bf-afb0-46e4-b551-a8da94b425fa",
+    "name": "Magento\\Elasticsearch7\\Test\\Unit\\Model\\DataProvider\\Base\\SuggestionsTest::testGetItemsWithEnabledSearchSuggestion",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023031,
+    "stop": 1711693023033,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6ec4d870e53a5af8be9ddaf1ea6138e2",
+    "testCaseId": "f6bd54dfadbbf6a3e95ff52843065bd8",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch7\\Test\\Unit\\Model\\DataProvider\\Base\\SuggestionsTest::testGetItemsWithEnabledSearchSuggestion",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch7\\Test\\Unit\\Model\\DataProvider\\Base\\SuggestionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItemsWithEnabledSearchSuggestion"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

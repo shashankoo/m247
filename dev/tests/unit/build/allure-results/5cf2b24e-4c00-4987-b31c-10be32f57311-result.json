@@ -1,0 +1,43 @@
+{
+    "uuid": "5cf2b24e-4c00-4987-b31c-10be32f57311",
+    "name": "Magento\\Store\\Test\\Unit\\App\\Config\\Type\\ScopesTest::testGetConfigWhenDataIsNotPresentInInternalCacheAndNotFound",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041759,
+    "stop": 1711693041759,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7b7aed3976c73a5d7ab7747e6f71da0d",
+    "testCaseId": "4615b5f443b6fac9f845d244eea6a657",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\App\\Config\\Type\\ScopesTest::testGetConfigWhenDataIsNotPresentInInternalCacheAndNotFound",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\App\\Config\\Type\\ScopesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfigWhenDataIsNotPresentInInternalCacheAndNotFound"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

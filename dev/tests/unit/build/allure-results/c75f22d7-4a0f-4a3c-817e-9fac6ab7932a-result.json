@@ -1,0 +1,50 @@
+{
+    "uuid": "c75f22d7-4a0f-4a3c-817e-9fac6ab7932a",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\Platform\\QuoteTest::testQuoteTableAs",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070772,
+    "stop": 1711693070772,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#8",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fabedbf80d5b9400cea160ae330fbd0e",
+    "testCaseId": "46c14e92195012db57802c1870012998",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\Platform\\QuoteTest::testQuoteTableAs",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\Platform\\QuoteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testQuoteTableAs"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

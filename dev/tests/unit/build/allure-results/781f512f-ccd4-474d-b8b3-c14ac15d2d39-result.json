@@ -1,0 +1,43 @@
+{
+    "uuid": "781f512f-ccd4-474d-b8b3-c14ac15d2d39",
+    "name": "Magento\\Developer\\Console\\Command\\DevTestsRunCommandTest::testExecuteBadType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021374,
+    "stop": 1711693021374,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cc711c46114f76caf7c19d426ab0b6ce",
+    "testCaseId": "953853801f5881a6719a519ff77e4d1a",
+    "rerunOf": null,
+    "fullName": "Magento\\Developer\\Console\\Command\\DevTestsRunCommandTest::testExecuteBadType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Developer\\Console\\Command\\DevTestsRunCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteBadType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

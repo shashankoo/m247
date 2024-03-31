@@ -1,0 +1,43 @@
+{
+    "uuid": "4c39b3ba-8929-44d8-a37c-d8eb78d3a707",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\IntegrationTest::testLoadActiveIntegrationByConsumerId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030088,
+    "stop": 1711693030088,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "fa17e36e720826099acccccbc89d769a",
+    "testCaseId": "37c66ed49aa9613b42b11a95d3285bd1",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\IntegrationTest::testLoadActiveIntegrationByConsumerId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\IntegrationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLoadActiveIntegrationByConsumerId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

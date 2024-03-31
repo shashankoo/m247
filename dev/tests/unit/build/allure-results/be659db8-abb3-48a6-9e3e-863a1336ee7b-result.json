@@ -1,0 +1,43 @@
+{
+    "uuid": "be659db8-abb3-48a6-9e3e-863a1336ee7b",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\VoidActionTest::testExecuteModelException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037125,
+    "stop": 1711693037126,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8e085126a48f71648355973e876db6a7",
+    "testCaseId": "cce60c64f410238a42d92f74db763864",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\VoidActionTest::testExecuteModelException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\VoidActionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteModelException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "047feb01-c6cd-4464-8893-f16163952f0d",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\InfoTest::testGetMethodInstanceWithRealMethod",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038207,
+    "stop": 1711693038208,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6c0b4023db0a029bb0dbb7a61ceef6f9",
+    "testCaseId": "30a7db79065d159c7db004fbbfd16f43",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\InfoTest::testGetMethodInstanceWithRealMethod",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\InfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMethodInstanceWithRealMethod"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

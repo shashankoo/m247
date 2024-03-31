@@ -1,0 +1,43 @@
+{
+    "uuid": "a4a74f3e-f7e8-405f-a94f-dbf791cf1c92",
+    "name": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Quote\\AddressAdapterTest::testGetTelephone",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031444,
+    "stop": 1711693031445,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2701acc8014801632b8f4bc8bf3ce57f",
+    "testCaseId": "5c64fd7cf72afe67484edf2bbd775791",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Quote\\AddressAdapterTest::testGetTelephone",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Quote\\AddressAdapterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTelephone"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

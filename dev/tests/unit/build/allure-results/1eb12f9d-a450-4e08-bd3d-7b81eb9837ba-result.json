@@ -1,0 +1,50 @@
+{
+    "uuid": "1eb12f9d-a450-4e08-bd3d-7b81eb9837ba",
+    "name": "Magento\\Customer\\Test\\Unit\\Helper\\AddressTest::testHasValidateOnEachTransaction",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019839,
+    "stop": 1711693019839,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d10b478e44109097146948ab34cd3fcf",
+    "testCaseId": "dce063afebca8acfbf36edd1b2f79534",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Helper\\AddressTest::testHasValidateOnEachTransaction",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Helper\\AddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testHasValidateOnEachTransaction"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

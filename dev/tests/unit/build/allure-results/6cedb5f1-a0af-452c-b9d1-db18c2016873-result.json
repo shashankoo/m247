@@ -1,0 +1,50 @@
+{
+    "uuid": "6cedb5f1-a0af-452c-b9d1-db18c2016873",
+    "name": "Magento\\Theme\\Test\\Unit\\Block\\Html\\PagerTest::testGetLimitUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042896,
+    "stop": 1711693042896,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b8c108a44a05acd3321bbd6c23d4ede9",
+    "testCaseId": "2f184633f79124bf42c983206aec468c",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Block\\Html\\PagerTest::testGetLimitUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Block\\Html\\PagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLimitUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

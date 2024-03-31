@@ -1,0 +1,50 @@
+{
+    "uuid": "7af48b3d-8b1e-41d9-95de-a96d5ef87a69",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\CopySearchableFieldsToSearchFieldTest::testProcess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023217,
+    "stop": 1711693023217,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"index keyword field should be copied\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "254f740a7397c460345eeb4c7b07343b",
+    "testCaseId": "a95556fae02890a345912206c5e56af3",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\CopySearchableFieldsToSearchFieldTest::testProcess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\CopySearchableFieldsToSearchFieldTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

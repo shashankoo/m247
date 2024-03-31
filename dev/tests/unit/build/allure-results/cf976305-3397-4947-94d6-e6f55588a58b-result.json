@@ -1,0 +1,50 @@
+{
+    "uuid": "cf976305-3397-4947-94d6-e6f55588a58b",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\Quote\\ToOrderConverterTest::testAfterConvertNullExtensionAttribute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042708,
+    "stop": 1711693042709,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"afterConvert\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3f27ea61535fd7b986e10508f5dd26a3",
+    "testCaseId": "4a5d86e1ca068bb6cd18187e3c717707",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\Quote\\ToOrderConverterTest::testAfterConvertNullExtensionAttribute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\Quote\\ToOrderConverterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterConvertNullExtensionAttribute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

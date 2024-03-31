@@ -1,0 +1,50 @@
+{
+    "uuid": "a605f9a7-d1c3-4dae-97b6-d17afce1f71e",
+    "name": "Magento\\Framework\\Event\\Test\\Unit\\Observer\\CollectionTest::testGetObserverByName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073033,
+    "stop": 1711693073033,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a53dbd102bd3ffb2ed11d5f6ff6f4599",
+    "testCaseId": "8e9959f3dc2a1f353393e84cae518a2d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Event\\Test\\Unit\\Observer\\CollectionTest::testGetObserverByName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Event\\Test\\Unit\\Observer\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetObserverByName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

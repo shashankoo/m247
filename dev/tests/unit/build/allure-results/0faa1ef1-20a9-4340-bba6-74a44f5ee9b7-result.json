@@ -1,0 +1,50 @@
+{
+    "uuid": "0faa1ef1-20a9-4340-bba6-74a44f5ee9b7",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Generator\\InterceptionConfigurationBuilderTest::testGetInterceptionConfiguration",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055653,
+    "stop": 1711693055653,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f72411506af0090abdec082d5a27def1",
+    "testCaseId": "7c371f789848882e27ee9dc38a250b63",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Generator\\InterceptionConfigurationBuilderTest::testGetInterceptionConfiguration",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Generator\\InterceptionConfigurationBuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetInterceptionConfiguration"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

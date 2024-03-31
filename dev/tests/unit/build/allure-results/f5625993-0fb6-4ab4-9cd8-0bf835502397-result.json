@@ -1,0 +1,43 @@
+{
+    "uuid": "f5625993-0fb6-4ab4-9cd8-0bf835502397",
+    "name": "Magento\\Payment\\Test\\Unit\\Gateway\\Http\\TransferTest::testIO",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031461,
+    "stop": 1711693031461,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9b1cb9ff2c89ccafb0397c2b8671cf44",
+    "testCaseId": "4bf57cde523dafd9b10db8e3cbf26ce8",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Gateway\\Http\\TransferTest::testIO",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Gateway\\Http\\TransferTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIO"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

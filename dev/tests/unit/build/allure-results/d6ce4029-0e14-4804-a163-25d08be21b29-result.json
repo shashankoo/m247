@@ -1,0 +1,50 @@
+{
+    "uuid": "d6ce4029-0e14-4804-a163-25d08be21b29",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Config\\ConfigTest::testGetCcTypesMapper",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056174,
+    "stop": 1711693056175,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6b9e0c0522b69b649e268d783b0c264c",
+    "testCaseId": "cad4b64666d4f1db7cdf1e7c41a7cc9f",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Config\\ConfigTest::testGetCcTypesMapper",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Config\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCcTypesMapper"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

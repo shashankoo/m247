@@ -1,0 +1,43 @@
+{
+    "uuid": "09933d74-ce14-449a-a447-98cce57c9770",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\CreditmemoLoaderTest::testLoadByOrder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037056,
+    "stop": 1711693037061,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "225b9483d66b287e402579c64df065f6",
+    "testCaseId": "67231ddfaf94ed70b31edde2ace847f1",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\CreditmemoLoaderTest::testLoadByOrder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\CreditmemoLoaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLoadByOrder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

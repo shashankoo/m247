@@ -1,0 +1,50 @@
+{
+    "uuid": "57e8bd2c-c23e-470f-9327-b5ee9107a1af",
+    "name": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\DbTableTest::testRead",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076061,
+    "stop": 1711693076061,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"session_encoded\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8c2d04f152e5ab885731d75044833aed",
+    "testCaseId": "f447a920bd0c667d986fa5dab6616ec4",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\DbTableTest::testRead",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\DbTableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRead"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "9915b248-9f88-4d78-a019-2b0c456f83ff",
+    "name": "Magento\\Captcha\\Test\\Unit\\Observer\\CheckUserCreateObserverTest::testCheckUserCreateRedirectsError",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011335,
+    "stop": 1711693011337,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "adcf177fed22188d1e5311905440cd98",
+    "testCaseId": "01e902a195a84ee21aaff1e84aa68c2c",
+    "rerunOf": null,
+    "fullName": "Magento\\Captcha\\Test\\Unit\\Observer\\CheckUserCreateObserverTest::testCheckUserCreateRedirectsError",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Captcha\\Test\\Unit\\Observer\\CheckUserCreateObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckUserCreateRedirectsError"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "06026047-f29e-498e-bf0a-a3901a5cec74",
+    "name": "Magento\\Wishlist\\Test\\Unit\\Model\\ItemTest::testAddGetOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054467,
+    "stop": 1711693054468,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2bcf11ae6637b329b2be58700de9a913",
+    "testCaseId": "8f2cc9914c17c848c1d8ef9bd102cb9c",
+    "rerunOf": null,
+    "fullName": "Magento\\Wishlist\\Test\\Unit\\Model\\ItemTest::testAddGetOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Wishlist\\Test\\Unit\\Model\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddGetOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

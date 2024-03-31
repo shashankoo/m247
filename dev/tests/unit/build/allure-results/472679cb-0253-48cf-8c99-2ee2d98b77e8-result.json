@@ -1,0 +1,50 @@
+{
+    "uuid": "472679cb-0253-48cf-8c99-2ee2d98b77e8",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\Transaction\\BuilderTest::testCreate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038397,
+    "stop": 1711693038398,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"transactionExists\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5fee0203df0ca5d87a057cc1d22b81c4",
+    "testCaseId": "a5dd747d4cc0f9241bf54ef97f7d6041",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\Transaction\\BuilderTest::testCreate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\Transaction\\BuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

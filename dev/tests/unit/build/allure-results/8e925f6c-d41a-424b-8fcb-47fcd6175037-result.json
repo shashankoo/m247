@@ -1,0 +1,50 @@
+{
+    "uuid": "8e925f6c-d41a-424b-8fcb-47fcd6175037",
+    "name": "Magento\\Ui\\Test\\Unit\\Component\\Control\\ButtonTest::testGetOnClick",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693045890,
+    "stop": 1711693045890,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "57f1fe884ded44273bf694104d890a74",
+    "testCaseId": "a7a6da1e085f5530d2511cbcaca84577",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Component\\Control\\ButtonTest::testGetOnClick",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Component\\Control\\ButtonTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOnClick"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

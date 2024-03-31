@@ -1,0 +1,43 @@
+{
+    "uuid": "c6e55973-2f4f-4141-adff-f6e135350a6a",
+    "name": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\DatabaseTest::testLockWithUnavailableDeploymentConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074027,
+    "stop": 1711693074027,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a33f4e35a00b057522865f964e1f1b59",
+    "testCaseId": "fe87b1c802b19a3a393801fa0558a540",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\DatabaseTest::testLockWithUnavailableDeploymentConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\DatabaseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLockWithUnavailableDeploymentConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

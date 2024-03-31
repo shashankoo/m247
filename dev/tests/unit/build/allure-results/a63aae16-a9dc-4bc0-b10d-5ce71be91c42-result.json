@@ -1,0 +1,50 @@
+{
+    "uuid": "a63aae16-a9dc-4bc0-b10d-5ce71be91c42",
+    "name": "Magento\\GiftMessage\\Test\\Unit\\Block\\Cart\\Item\\Renderer\\Actions\\ItemIdProcessorTest::testProcess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023976,
+    "stop": 1711693023977,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b13a2563e4bf5ef5f10011b5cf5fa679",
+    "testCaseId": "7d9de7601c394c727341348807a627ab",
+    "rerunOf": null,
+    "fullName": "Magento\\GiftMessage\\Test\\Unit\\Block\\Cart\\Item\\Renderer\\Actions\\ItemIdProcessorTest::testProcess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GiftMessage\\Test\\Unit\\Block\\Cart\\Item\\Renderer\\Actions\\ItemIdProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

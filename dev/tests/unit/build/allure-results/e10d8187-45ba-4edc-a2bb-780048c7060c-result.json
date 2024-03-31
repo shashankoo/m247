@@ -1,0 +1,43 @@
+{
+    "uuid": "e10d8187-45ba-4edc-a2bb-780048c7060c",
+    "name": "Magento\\Shipping\\Test\\Unit\\Model\\ShipmentNotifierTest::testNotifyFail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041615,
+    "stop": 1711693041616,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f5277906cea9789401da72698ab716ed",
+    "testCaseId": "9f231210033c03dcf3a9542df1a0ccd1",
+    "rerunOf": null,
+    "fullName": "Magento\\Shipping\\Test\\Unit\\Model\\ShipmentNotifierTest::testNotifyFail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Shipping\\Test\\Unit\\Model\\ShipmentNotifierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testNotifyFail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

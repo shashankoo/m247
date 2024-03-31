@@ -1,0 +1,43 @@
+{
+    "uuid": "2d909db1-1d92-4942-b351-67cb7582fb0f",
+    "name": "Magento\\Payment\\Test\\Unit\\Observer\\SalesOrderBeforeSaveObserverTest::testSalesOrderBeforeSaveCantUnhold",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031687,
+    "stop": 1711693031688,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4f10de79c53c0f73628163cfea07e40d",
+    "testCaseId": "43ffb4ed056629fcea908c268e20d278",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Observer\\SalesOrderBeforeSaveObserverTest::testSalesOrderBeforeSaveCantUnhold",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Observer\\SalesOrderBeforeSaveObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSalesOrderBeforeSaveCantUnhold"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

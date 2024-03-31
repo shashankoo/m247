@@ -1,0 +1,43 @@
+{
+    "uuid": "7927a600-1bb4-41f5-a184-0b5453e1d72f",
+    "name": "Magento\\Translation\\Test\\Unit\\Console\\Command\\UninstallLanguageCommandTest::testExecutePackageHasDependency",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043845,
+    "stop": 1711693043845,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8ab22836ae329ee754ea2f14b247b30f",
+    "testCaseId": "6dad191f0c46194917864b8e42ea35a7",
+    "rerunOf": null,
+    "fullName": "Magento\\Translation\\Test\\Unit\\Console\\Command\\UninstallLanguageCommandTest::testExecutePackageHasDependency",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Translation\\Test\\Unit\\Console\\Command\\UninstallLanguageCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecutePackageHasDependency"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

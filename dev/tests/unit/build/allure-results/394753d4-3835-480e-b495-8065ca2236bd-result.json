@@ -1,0 +1,50 @@
+{
+    "uuid": "394753d4-3835-480e-b495-8065ca2236bd",
+    "name": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest::testCanSendNewOrderEmail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037335,
+    "stop": 1711693037336,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5086dcbcfcd551b4007823ed5a4fa092",
+    "testCaseId": "8542cae0e1961bb9511f314a84e12514",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest::testCanSendNewOrderEmail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanSendNewOrderEmail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "cc11402a-d971-4fe2-a720-aa8f659e0e28",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\ContextTest::testGetAcceptType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077237,
+    "stop": 1711693077237,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Testcase needs to be refactored.",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cf953eca87b3399901d2b1b0a17ca5fe",
+    "testCaseId": "31e28a49966b5128c58f72aca44ad42c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\ContextTest::testGetAcceptType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\ContextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAcceptType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

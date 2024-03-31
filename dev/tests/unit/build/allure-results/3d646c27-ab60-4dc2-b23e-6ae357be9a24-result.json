@@ -1,0 +1,50 @@
+{
+    "uuid": "3d646c27-ab60-4dc2-b23e-6ae357be9a24",
+    "name": "Magento\\Cms\\Test\\Unit\\Model\\Page\\Source\\IsActiveFilterTest::testToOptionArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017366,
+    "stop": 1711693017367,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cdd4e78940325fbe0282e6ea606cafc6",
+    "testCaseId": "c4f9f0000717b77c63ace3fae7b349df",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Model\\Page\\Source\\IsActiveFilterTest::testToOptionArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Model\\Page\\Source\\IsActiveFilterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToOptionArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

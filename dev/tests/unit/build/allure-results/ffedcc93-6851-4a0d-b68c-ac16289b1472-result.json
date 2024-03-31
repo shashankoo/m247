@@ -1,0 +1,50 @@
+{
+    "uuid": "ffedcc93-6851-4a0d-b68c-ac16289b1472",
+    "name": "Magento\\AdminAnalytics\\Test\\Unit\\Condition\\CanViewNotificationTest::testIsVisibleLoadDataFromLog",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008479,
+    "stop": 1711693008480,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4e7570ef67be42ac6a1702f5acbfb474",
+    "testCaseId": "73cfd6f1fc2c612bb5f16a39b7126034",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminAnalytics\\Test\\Unit\\Condition\\CanViewNotificationTest::testIsVisibleLoadDataFromLog",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminAnalytics\\Test\\Unit\\Condition\\CanViewNotificationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsVisibleLoadDataFromLog"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

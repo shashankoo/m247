@@ -1,0 +1,50 @@
+{
+    "uuid": "a33be316-0852-466f-b5ed-f225cfd0e8cc",
+    "name": "Magento\\AdvancedPricingImportExport\\Test\\Unit\\Model\\Import\\AdvancedPricingTest::testSaveAndReplaceAdvancedPricesAppendBehaviourDataAndCalls",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008894,
+    "stop": 1711693008895,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e30a3de08339d90ec47030ebc12309bf",
+    "testCaseId": "e0e459381ad4eb3c5f9a2013c7d2cf03",
+    "rerunOf": null,
+    "fullName": "Magento\\AdvancedPricingImportExport\\Test\\Unit\\Model\\Import\\AdvancedPricingTest::testSaveAndReplaceAdvancedPricesAppendBehaviourDataAndCalls",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdvancedPricingImportExport\\Test\\Unit\\Model\\Import\\AdvancedPricingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveAndReplaceAdvancedPricesAppendBehaviourDataAndCalls"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

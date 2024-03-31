@@ -1,0 +1,50 @@
+{
+    "uuid": "5ae479f7-2e02-4d18-bcdd-bebd3ff01ad5",
+    "name": "Magento\\Framework\\Url\\Test\\Unit\\ScopeResolverTest::testGetScope",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076899,
+    "stop": 1711693076899,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fdaa27f4921ad0da9dbee76ed2a44892",
+    "testCaseId": "b8012269b9623aa57e7c30ba977a5ea1",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Url\\Test\\Unit\\ScopeResolverTest::testGetScope",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Url\\Test\\Unit\\ScopeResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetScope"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

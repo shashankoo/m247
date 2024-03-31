@@ -1,0 +1,50 @@
+{
+    "uuid": "67c1db66-4a34-45f7-8e40-622e1dec40ad",
+    "name": "Magento\\Payment\\Test\\Unit\\Model\\InfoTest::testGetDataCcNumber",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031636,
+    "stop": 1711693031636,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5910a66c7d6af82fd20593cb4427b41d",
+    "testCaseId": "2044d93d313d459d321ee51a054e07e7",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Model\\InfoTest::testGetDataCcNumber",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Model\\InfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDataCcNumber"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

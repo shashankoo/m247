@@ -1,0 +1,50 @@
+{
+    "uuid": "6fe48d94-5486-41c7-b847-b7c18e8147db",
+    "name": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\Response\\FieldsFilterTest::testInvalidFilters",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078584,
+    "stop": 1711693078585,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a515d23fd2a516e746940f9e5de7d163",
+    "testCaseId": "8da4516add240638215922665e671989",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\Response\\FieldsFilterTest::testInvalidFilters",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\Response\\FieldsFilterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInvalidFilters"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

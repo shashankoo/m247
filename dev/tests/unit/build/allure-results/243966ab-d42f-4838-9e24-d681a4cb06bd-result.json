@@ -1,0 +1,43 @@
+{
+    "uuid": "243966ab-d42f-4838-9e24-d681a4cb06bd",
+    "name": "Magento\\Checkout\\Test\\Unit\\Model\\GuestPaymentInformationManagementTest::testSavePaymentInformationAndPlaceOrder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016864,
+    "stop": 1711693016870,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b76bbcb407bb45d7b746c71f41714602",
+    "testCaseId": "416f698e4714dd7d38393526238e61d9",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Model\\GuestPaymentInformationManagementTest::testSavePaymentInformationAndPlaceOrder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Model\\GuestPaymentInformationManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSavePaymentInformationAndPlaceOrder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "8f2d4c9d-da46-411a-91c9-20c2aaa42264",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\UrlTest::testGetUrlWithUrlInRoutePath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010242,
+    "stop": 1711693010243,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cd601affed1e68b1b8a7158bd4106c62",
+    "testCaseId": "2915ff34889a1c4def864c670cbaeeb0",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\UrlTest::testGetUrlWithUrlInRoutePath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\UrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUrlWithUrlInRoutePath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

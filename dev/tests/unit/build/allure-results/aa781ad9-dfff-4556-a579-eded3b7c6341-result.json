@@ -1,0 +1,50 @@
+{
+    "uuid": "aa781ad9-dfff-4556-a579-eded3b7c6341",
+    "name": "Magento\\Theme\\Test\\Unit\\Block\\Adminhtml\\System\\Design\\Theme\\TabAbstractTest::testCanShowTab",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042882,
+    "stop": 1711693042882,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3c8b4a3b3cc3635fc8780b327df40236",
+    "testCaseId": "72654a28a2add194b9df8cdd467a4ec1",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Block\\Adminhtml\\System\\Design\\Theme\\TabAbstractTest::testCanShowTab",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Block\\Adminhtml\\System\\Design\\Theme\\TabAbstractTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanShowTab"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

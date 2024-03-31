@@ -1,0 +1,50 @@
+{
+    "uuid": "dc6f4c09-d325-458d-a4ae-05f8978f74b4",
+    "name": "Magento\\ReleaseNotification\\Test\\Unit\\Model\\ContentProvider\\Http\\HttpContentProviderTest::testGetContentSuccessOnDefaultOrEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033354,
+    "stop": 1711693033354,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"empty-fr_FR\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0c8498bc23eb1c3208a5c91167d2c844",
+    "testCaseId": "ea82ee5a97533124f84f67eb7b9e241e",
+    "rerunOf": null,
+    "fullName": "Magento\\ReleaseNotification\\Test\\Unit\\Model\\ContentProvider\\Http\\HttpContentProviderTest::testGetContentSuccessOnDefaultOrEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ReleaseNotification\\Test\\Unit\\Model\\ContentProvider\\Http\\HttpContentProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetContentSuccessOnDefaultOrEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

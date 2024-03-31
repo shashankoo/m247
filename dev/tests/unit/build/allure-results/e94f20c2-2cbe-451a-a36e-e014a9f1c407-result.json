@@ -1,0 +1,50 @@
+{
+    "uuid": "e94f20c2-2cbe-451a-a36e-e014a9f1c407",
+    "name": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\Widget\\NewWidgetTest::testGetProductAllCollection",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013690,
+    "stop": 1711693013691,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#7",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7d30f9fb4e14cdff2f29916522fd5718",
+    "testCaseId": "d03c721ec245ee2b7d6110b4a0b704fc",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\Widget\\NewWidgetTest::testGetProductAllCollection",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\Widget\\NewWidgetTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetProductAllCollection"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

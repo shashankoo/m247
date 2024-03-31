@@ -1,0 +1,43 @@
+{
+    "uuid": "68cfc345-6069-4617-8a42-5cdb7f17e285",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Quote\\Item\\CartItemProcessorTest::testProcessProductOptionsIfOptionsExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018663,
+    "stop": 1711693018664,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f6a136bcca5be1ae9da12a38d86a6167",
+    "testCaseId": "8ff4e5468b29b3d02a30a74a18bc4703",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Quote\\Item\\CartItemProcessorTest::testProcessProductOptionsIfOptionsExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Quote\\Item\\CartItemProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessProductOptionsIfOptionsExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

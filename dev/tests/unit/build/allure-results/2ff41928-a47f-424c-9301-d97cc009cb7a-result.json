@@ -1,0 +1,50 @@
+{
+    "uuid": "2ff41928-a47f-424c-9301-d97cc009cb7a",
+    "name": "Magento\\Reports\\Test\\Unit\\Block\\Adminhtml\\Sales\\Coupons\\GridTest::testGetCountTotals",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033411,
+    "stop": 1711693033411,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d1c199d1c4da0af4823c49843427d93b",
+    "testCaseId": "61c12d9162c9e094c236b57d21e0a43e",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Block\\Adminhtml\\Sales\\Coupons\\GridTest::testGetCountTotals",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Block\\Adminhtml\\Sales\\Coupons\\GridTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCountTotals"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

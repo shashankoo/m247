@@ -1,0 +1,50 @@
+{
+    "uuid": "1b78eaae-f102-463d-8943-53abb2526320",
+    "name": "Magento\\Cms\\Test\\Unit\\Model\\Wysiwyg\\Images\\StorageTest::testGetDirsCollection",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017528,
+    "stop": 1711693017529,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#6",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3404989357923b2d55f6e9953030bd6d",
+    "testCaseId": "ec245403fe85765ae3ebe27dad3d4cf7",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Model\\Wysiwyg\\Images\\StorageTest::testGetDirsCollection",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Model\\Wysiwyg\\Images\\StorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDirsCollection"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

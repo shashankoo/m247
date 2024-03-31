@@ -1,0 +1,50 @@
+{
+    "uuid": "04374b67-65ee-4023-9080-80b6e13f915c",
+    "name": "Magento\\AdobeIms\\Test\\Unit\\Model\\LoginTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008605,
+    "stop": 1711693008607,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "da82fb3916c85ac733af4a0eabf0a420",
+    "testCaseId": "b88dbf6b8abd26385c96befc249bf8bc",
+    "rerunOf": null,
+    "fullName": "Magento\\AdobeIms\\Test\\Unit\\Model\\LoginTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdobeIms\\Test\\Unit\\Model\\LoginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

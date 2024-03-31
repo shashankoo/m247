@@ -1,0 +1,43 @@
+{
+    "uuid": "880fe95e-3208-4589-afb4-9b76b64bf7df",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Plugin\\CustomerRepository\\TransactionWrapperTest::testAroundSaveRollBack",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020947,
+    "stop": 1711693020947,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a8c353a530c4948b807805e5bc8c0c15",
+    "testCaseId": "deea76a878a4e4104e216f1b1677ce7f",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Plugin\\CustomerRepository\\TransactionWrapperTest::testAroundSaveRollBack",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Plugin\\CustomerRepository\\TransactionWrapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundSaveRollBack"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

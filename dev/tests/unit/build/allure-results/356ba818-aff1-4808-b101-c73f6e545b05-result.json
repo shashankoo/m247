@@ -1,0 +1,43 @@
+{
+    "uuid": "356ba818-aff1-4808-b101-c73f6e545b05",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Controller\\Download\\LinkTest::testGetLinkForWrongCustomer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021911,
+    "stop": 1711693021912,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a0fd0b040d057e559dabeaea014464ba",
+    "testCaseId": "01e82d2f2775dce03af91ee822904b60",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Controller\\Download\\LinkTest::testGetLinkForWrongCustomer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Controller\\Download\\LinkTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLinkForWrongCustomer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

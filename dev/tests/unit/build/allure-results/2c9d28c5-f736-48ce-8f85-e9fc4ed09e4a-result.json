@@ -1,0 +1,50 @@
+{
+    "uuid": "2c9d28c5-f736-48ce-8f85-e9fc4ed09e4a",
+    "name": "Magento\\Customer\\Test\\Unit\\Observer\\BeforeAddressSaveObserverTest::testBeforeAddressSaveWithoutCustomerAddressId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021113,
+    "stop": 1711693021114,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ab9fc90108fd55319f2d73c639911d9d",
+    "testCaseId": "a52e716e300ec1bacfd34367c874899e",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Observer\\BeforeAddressSaveObserverTest::testBeforeAddressSaveWithoutCustomerAddressId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Observer\\BeforeAddressSaveObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeAddressSaveWithoutCustomerAddressId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "b7226b5b-9bc0-43de-b8f2-673034dc5552",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Order\\Create\\TotalsTest::testGetTotals",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036722,
+    "stop": 1711693036723,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "73aa889b07ee6b7cd0cdb50cd1a0197a",
+    "testCaseId": "ffc7d8cb9c0ccddf65d420eae98f4e30",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Order\\Create\\TotalsTest::testGetTotals",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Order\\Create\\TotalsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTotals"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

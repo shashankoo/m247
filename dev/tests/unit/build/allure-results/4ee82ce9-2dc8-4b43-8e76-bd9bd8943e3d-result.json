@@ -1,0 +1,50 @@
+{
+    "uuid": "4ee82ce9-2dc8-4b43-8e76-bd9bd8943e3d",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Model\\Link\\ContentValidatorTest::testIsValidThrowsExceptionIfNumberOfDownloadsIsInvalid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021989,
+    "stop": 1711693021989,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6ce14229cad16831cffb5f7c7d343284",
+    "testCaseId": "57b205e44a18ff51076e33dd0ff7d02f",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Model\\Link\\ContentValidatorTest::testIsValidThrowsExceptionIfNumberOfDownloadsIsInvalid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Model\\Link\\ContentValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValidThrowsExceptionIfNumberOfDownloadsIsInvalid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

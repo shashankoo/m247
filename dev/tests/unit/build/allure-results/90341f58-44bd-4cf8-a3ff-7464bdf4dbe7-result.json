@@ -1,0 +1,43 @@
+{
+    "uuid": "90341f58-44bd-4cf8-a3ff-7464bdf4dbe7",
+    "name": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\PrintLabelTest::testExecuteFromImageString",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041512,
+    "stop": 1711693041514,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ee5d9dbfb73b569a478cb7f33e548a62",
+    "testCaseId": "72ccef52f74a218c8825e18bd0949fd8",
+    "rerunOf": null,
+    "fullName": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\PrintLabelTest::testExecuteFromImageString",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\PrintLabelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteFromImageString"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

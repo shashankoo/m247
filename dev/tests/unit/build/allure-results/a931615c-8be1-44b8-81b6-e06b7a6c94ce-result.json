@@ -1,0 +1,43 @@
+{
+    "uuid": "a931615c-8be1-44b8-81b6-e06b7a6c94ce",
+    "name": "Magento\\User\\Test\\Unit\\Model\\Backend\\Config\\ObserverConfigTest::testGetAdminPasswordLifetime",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052965,
+    "stop": 1711693052965,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b0514a196ac4958b2de373f77671678d",
+    "testCaseId": "16d7109271973c7b2c3757917af0145f",
+    "rerunOf": null,
+    "fullName": "Magento\\User\\Test\\Unit\\Model\\Backend\\Config\\ObserverConfigTest::testGetAdminPasswordLifetime",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\User\\Test\\Unit\\Model\\Backend\\Config\\ObserverConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAdminPasswordLifetime"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

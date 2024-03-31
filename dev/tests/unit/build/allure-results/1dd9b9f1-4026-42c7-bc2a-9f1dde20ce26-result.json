@@ -1,0 +1,50 @@
+{
+    "uuid": "1dd9b9f1-4026-42c7-bc2a-9f1dde20ce26",
+    "name": "Magento\\Checkout\\Test\\Unit\\Model\\Cart\\RequestQuantityProcessorTest::testProcess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016828,
+    "stop": 1711693016830,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"strings_array_spain_locale\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b7a2430e41366999dfd3cf79d4fbf201",
+    "testCaseId": "2e4b2448746c1146e4174167942e9e99",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Model\\Cart\\RequestQuantityProcessorTest::testProcess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Model\\Cart\\RequestQuantityProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

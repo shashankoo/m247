@@ -1,0 +1,43 @@
+{
+    "uuid": "d2b66333-a576-4037-a705-94e03da95fa0",
+    "name": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\LockEnvProcessorTest::testProcessNotReadableFs",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017778,
+    "stop": 1711693017778,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8d88de89d0b561d3c4b8a31a2029afa7",
+    "testCaseId": "9066e905029445a000d455ba38e1851a",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\LockEnvProcessorTest::testProcessNotReadableFs",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\LockEnvProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessNotReadableFs"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

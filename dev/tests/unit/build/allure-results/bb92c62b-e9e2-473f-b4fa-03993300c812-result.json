@@ -1,0 +1,50 @@
+{
+    "uuid": "bb92c62b-e9e2-473f-b4fa-03993300c812",
+    "name": "Magento\\Framework\\Test\\Unit\\UrlTest::testGetCurrentUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057256,
+    "stop": 1711693057257,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"default_port\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c7a61ce431fe1d232e2ceb66f9b0da84",
+    "testCaseId": "df48b0bfc14dabe78f9701504f02ffeb",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\UrlTest::testGetCurrentUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\UrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCurrentUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

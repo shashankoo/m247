@@ -1,0 +1,50 @@
+{
+    "uuid": "b3cafc01-f146-4409-94b3-5c0db22eab04",
+    "name": "Magento\\Paypal\\Test\\Unit\\Helper\\Shortcut\\CheckoutValidatorTest::testIsMethodQuoteAvailableWithQuoteMethodNotAvailable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031905,
+    "stop": 1711693031905,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7bb1cdbe51ea5430db8b90ac734ed035",
+    "testCaseId": "510966faa607f920a8cf9c480a95b5af",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Helper\\Shortcut\\CheckoutValidatorTest::testIsMethodQuoteAvailableWithQuoteMethodNotAvailable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Helper\\Shortcut\\CheckoutValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsMethodQuoteAvailableWithQuoteMethodNotAvailable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

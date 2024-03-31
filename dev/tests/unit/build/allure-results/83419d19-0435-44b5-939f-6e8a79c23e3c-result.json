@@ -1,0 +1,43 @@
+{
+    "uuid": "83419d19-0435-44b5-939f-6e8a79c23e3c",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\ProfilerTest::testSetType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070773,
+    "stop": 1711693070773,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skipped in #27500 due to testing protected\/private methods and properties",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "17a79d53605ae873de30b9d6b8b5782d",
+    "testCaseId": "8c3a2ae17a29233d2889e121010a18bd",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\ProfilerTest::testSetType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\ProfilerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

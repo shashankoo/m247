@@ -1,0 +1,50 @@
+{
+    "uuid": "c01b2c0b-eb4c-462a-932f-6cae1e2f0b9d",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest::testInstallWithOrderIncrementPrefix",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055307,
+    "stop": 1711693055312,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "14ee62146a4652be8d1e602239459d96",
+    "testCaseId": "6553131462fb3e3deb6db2e05895e56c",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest::testInstallWithOrderIncrementPrefix",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInstallWithOrderIncrementPrefix"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

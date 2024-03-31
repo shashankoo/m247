@@ -1,0 +1,50 @@
+{
+    "uuid": "228d1919-f011-4c48-8534-e4dd22b1b699",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testGetIdentities",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015667,
+    "stop": 1711693015668,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getStockItem\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"category change for disabled product\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1a8f478b68f16a9c251643153f6088a2",
+    "testCaseId": "59015e18cf7a901f42252be95f3abe57",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testGetIdentities",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIdentities"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

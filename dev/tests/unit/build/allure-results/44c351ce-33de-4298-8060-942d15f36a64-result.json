@@ -1,0 +1,43 @@
+{
+    "uuid": "44c351ce-33de-4298-8060-942d15f36a64",
+    "name": "Magento\\Framework\\Mail\\Test\\Unit\\TransportTest::testSendMessageBrokenMessage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074094,
+    "stop": 1711693074095,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d867d79e51f9fdaca647c232bc8604e6",
+    "testCaseId": "7e7d457a78dd530cf1c4dc7191b05c87",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Mail\\Test\\Unit\\TransportTest::testSendMessageBrokenMessage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Mail\\Test\\Unit\\TransportTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSendMessageBrokenMessage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

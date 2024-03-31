@@ -1,0 +1,43 @@
+{
+    "uuid": "36280987-9945-4468-898e-cabfd7929af0",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\Service\\Response\\TransactionTest::testSavePaymentInQuote",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032296,
+    "stop": 1711693032298,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "19cfc87cf17256a3f55b2a334ee7ebee",
+    "testCaseId": "79cdf881e439dfa99b961962a0b90747",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\Service\\Response\\TransactionTest::testSavePaymentInQuote",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\Service\\Response\\TransactionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSavePaymentInQuote"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

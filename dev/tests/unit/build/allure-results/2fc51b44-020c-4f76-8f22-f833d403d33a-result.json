@@ -1,0 +1,43 @@
+{
+    "uuid": "2fc51b44-020c-4f76-8f22-f833d403d33a",
+    "name": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\ConfirmTest::testIsLoggedIn",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019594,
+    "stop": 1711693019596,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "89e93c7f6afabd0d6c40d89a3e1aebd6",
+    "testCaseId": "d5abab6db2a2efb3ae9c9a607a63d5c0",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\ConfirmTest::testIsLoggedIn",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\ConfirmTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsLoggedIn"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

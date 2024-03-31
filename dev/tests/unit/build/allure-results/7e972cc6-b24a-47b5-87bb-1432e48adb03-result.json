@@ -1,0 +1,43 @@
+{
+    "uuid": "7e972cc6-b24a-47b5-87bb-1432e48adb03",
+    "name": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\StatusMapperTest::testBulkSummaryStatusToOperationStatus",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009320,
+    "stop": 1711693009320,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7293c95f554aa95eaf35db6816d46884",
+    "testCaseId": "388137e067350fba21d767ff4d411782",
+    "rerunOf": null,
+    "fullName": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\StatusMapperTest::testBulkSummaryStatusToOperationStatus",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\StatusMapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBulkSummaryStatusToOperationStatus"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

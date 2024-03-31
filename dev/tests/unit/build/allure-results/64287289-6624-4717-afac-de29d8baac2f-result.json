@@ -1,0 +1,43 @@
+{
+    "uuid": "64287289-6624-4717-afac-de29d8baac2f",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Quote\\Item\\QuantityValidator\\Initializer\\QuantityValidatorTest::testValidateOutOfStock",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012017,
+    "stop": 1711693012026,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dbc710e5af81d10875005f2a7eed954b",
+    "testCaseId": "81b32be86462ebfe415dac36a6f42956",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Quote\\Item\\QuantityValidator\\Initializer\\QuantityValidatorTest::testValidateOutOfStock",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Quote\\Item\\QuantityValidator\\Initializer\\QuantityValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateOutOfStock"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

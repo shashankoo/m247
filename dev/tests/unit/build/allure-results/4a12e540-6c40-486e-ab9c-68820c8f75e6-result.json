@@ -1,0 +1,43 @@
+{
+    "uuid": "4a12e540-6c40-486e-ab9c-68820c8f75e6",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testGetCreatedAtFormattedUsesCorrectLocale",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039922,
+    "stop": 1711693039922,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c35177eef3609bec285fc17ff171df9a",
+    "testCaseId": "7393836e396c4ad31dfa0ae278fcf9cf",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testGetCreatedAtFormattedUsesCorrectLocale",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCreatedAtFormattedUsesCorrectLocale"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "e64df386-f47a-41cf-8fa7-05ff53c21d21",
+    "name": "Magento\\Backend\\Test\\Unit\\App\\Area\\Request\\PathInfoProcessorTest::testProcessIfStoreCodeNotEqualToAreaFrontName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009463,
+    "stop": 1711693009463,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cc02be1bb6748ab5c79a40e94ae887ca",
+    "testCaseId": "3b79c426fd3f87b565c336123607c68a",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\App\\Area\\Request\\PathInfoProcessorTest::testProcessIfStoreCodeNotEqualToAreaFrontName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\App\\Area\\Request\\PathInfoProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessIfStoreCodeNotEqualToAreaFrontName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

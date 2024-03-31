@@ -1,0 +1,43 @@
+{
+    "uuid": "8806cacc-ec53-4774-b252-17ca35ba5664",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\ExportTest::testExportDoesntTrimResult",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024640,
+    "stop": 1711693024642,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3c1e347106861eeaa52ea3d64df89ee6",
+    "testCaseId": "0e875d07e2c359d3bef90504faee329c",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\ExportTest::testExportDoesntTrimResult",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\ExportTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExportDoesntTrimResult"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

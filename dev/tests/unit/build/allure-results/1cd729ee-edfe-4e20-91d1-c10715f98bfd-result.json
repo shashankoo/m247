@@ -1,0 +1,50 @@
+{
+    "uuid": "1cd729ee-edfe-4e20-91d1-c10715f98bfd",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\ResourceModel\\Fulltext\\Collection\\SearchCriteriaResolverTest::testResolve",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023375,
+    "stop": 1711693023376,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4507b3de6314270d43e5149f790a78a9",
+    "testCaseId": "0a240a6f9d792e70ec2eef3a0b10bd93",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\ResourceModel\\Fulltext\\Collection\\SearchCriteriaResolverTest::testResolve",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\ResourceModel\\Fulltext\\Collection\\SearchCriteriaResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testResolve"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

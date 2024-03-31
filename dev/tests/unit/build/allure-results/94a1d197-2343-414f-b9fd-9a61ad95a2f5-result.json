@@ -1,0 +1,43 @@
+{
+    "uuid": "94a1d197-2343-414f-b9fd-9a61ad95a2f5",
+    "name": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Review\\Product\\CollectionTest::testGetSelectCountSqlWithHavingClauses",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033582,
+    "stop": 1711693033582,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d4507d745d14b277a8241aef75b881d6",
+    "testCaseId": "d2f529c79bdea3caaa499959f9daacf8",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Review\\Product\\CollectionTest::testGetSelectCountSqlWithHavingClauses",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Review\\Product\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSelectCountSqlWithHavingClauses"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

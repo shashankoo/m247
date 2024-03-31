@@ -1,0 +1,50 @@
+{
+    "uuid": "fa5a6f3c-18b0-412c-bbb6-7ce8b40041ef",
+    "name": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\ProductList\\RelatedTest::testCanItemsAddToCart",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013613,
+    "stop": 1711693013614,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "acc70dfd0550cb33c91eaf348487ce01",
+    "testCaseId": "d26dc5336e0134bb82bc70e8a7e86899",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\ProductList\\RelatedTest::testCanItemsAddToCart",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\ProductList\\RelatedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanItemsAddToCart"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

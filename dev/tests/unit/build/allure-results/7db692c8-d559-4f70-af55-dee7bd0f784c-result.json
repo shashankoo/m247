@@ -1,0 +1,50 @@
+{
+    "uuid": "7db692c8-d559-4f70-af55-dee7bd0f784c",
+    "name": "Magento\\Email\\Test\\Unit\\Model\\Template\\ConfigTest::testGetterMethodUnknownTemplate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023699,
+    "stop": 1711693023699,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"type getter\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "11200f5093b3891c592eb10e0f2c1e1f",
+    "testCaseId": "0ab1e04fc3abee1ec0803ee30a33b248",
+    "rerunOf": null,
+    "fullName": "Magento\\Email\\Test\\Unit\\Model\\Template\\ConfigTest::testGetterMethodUnknownTemplate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Email\\Test\\Unit\\Model\\Template\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetterMethodUnknownTemplate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

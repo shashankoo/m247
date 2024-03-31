@@ -1,0 +1,50 @@
+{
+    "uuid": "ab6d9442-edc4-4582-8afb-ceac2dfc9fbe",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\TaxRuleRepositoryTest::testSaveWithExceptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042813,
+    "stop": 1711693042813,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d6588706195f47ffc57912f86e1f71c9",
+    "testCaseId": "4be8f8c63476905c9fd6e01d2a48ed00",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\TaxRuleRepositoryTest::testSaveWithExceptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\TaxRuleRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveWithExceptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

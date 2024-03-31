@@ -1,0 +1,43 @@
+{
+    "uuid": "a404812b-3d28-4323-85a7-786ad6b15bbf",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Address\\AbstractAddressTest::testGetRegionCodeWithRegionId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020016,
+    "stop": 1711693020018,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "627e940098f107be621efb2c86f16c1a",
+    "testCaseId": "d0623a5fa6cc86c5af33268f186e609b",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Address\\AbstractAddressTest::testGetRegionCodeWithRegionId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Address\\AbstractAddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRegionCodeWithRegionId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

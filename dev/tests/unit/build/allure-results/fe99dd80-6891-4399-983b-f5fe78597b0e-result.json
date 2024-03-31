@@ -1,0 +1,50 @@
+{
+    "uuid": "fe99dd80-6891-4399-983b-f5fe78597b0e",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testGetAllVisibleItems",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039750,
+    "stop": 1711693039750,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9ac2990be703698837fa64e52d167a23",
+    "testCaseId": "be75ccb16804a066b66667cb6bd8f1dd",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testGetAllVisibleItems",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAllVisibleItems"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

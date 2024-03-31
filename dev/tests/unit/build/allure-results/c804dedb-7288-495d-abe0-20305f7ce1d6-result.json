@@ -1,0 +1,43 @@
+{
+    "uuid": "c804dedb-7288-495d-abe0-20305f7ce1d6",
+    "name": "Magento\\Catalog\\Test\\Unit\\Cron\\FrontendActionsFlushTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014002,
+    "stop": 1711693014004,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c6a756164e11dd0ffb5867e531a00c1b",
+    "testCaseId": "2ac54247071bb0d9d5c6ef7293fa5c48",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Cron\\FrontendActionsFlushTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Cron\\FrontendActionsFlushTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

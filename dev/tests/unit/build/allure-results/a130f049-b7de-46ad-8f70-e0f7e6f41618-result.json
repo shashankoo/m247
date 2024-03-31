@@ -1,0 +1,43 @@
+{
+    "uuid": "a130f049-b7de-46ad-8f70-e0f7e6f41618",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Container\\ShipmentCommentIdentityTest::testIsEnabledTrue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037773,
+    "stop": 1711693037773,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9469ed2a5d813f9a4e21aa739101e782",
+    "testCaseId": "0d522929f58b9751d8a5a2c5b8be9d54",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Container\\ShipmentCommentIdentityTest::testIsEnabledTrue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Container\\ShipmentCommentIdentityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsEnabledTrue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

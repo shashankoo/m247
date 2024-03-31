@@ -1,0 +1,43 @@
+{
+    "uuid": "4f78f49f-a58a-4112-84cd-b26b9e96dc8d",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\ShippingTest::testGetAddressShippingMethod",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030685,
+    "stop": 1711693030686,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "51dc2ae9c4f755d8f4903e5cc53d2507",
+    "testCaseId": "dcb4cfdc5716f39d9a8d2ee9210ca9a9",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\ShippingTest::testGetAddressShippingMethod",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\ShippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAddressShippingMethod"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

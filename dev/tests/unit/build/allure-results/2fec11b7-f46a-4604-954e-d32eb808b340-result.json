@@ -1,0 +1,50 @@
+{
+    "uuid": "2fec11b7-f46a-4604-954e-d32eb808b340",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Element\\AbstractBlockTest::testGetCacheLifetimeViaToHtml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077613,
+    "stop": 1711693077614,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b8190b29d12eab4c1222bc0df40536ad",
+    "testCaseId": "7b9855e4975939a4cef8ee746723cfba",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Element\\AbstractBlockTest::testGetCacheLifetimeViaToHtml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Element\\AbstractBlockTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCacheLifetimeViaToHtml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

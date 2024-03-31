@@ -1,0 +1,50 @@
+{
+    "uuid": "e950c41f-0957-4a7f-8915-81edcf58a3fc",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Category\\Product\\Plugin\\MviewStateTest::testAfterSetStatusResume",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014433,
+    "stop": 1711693014433,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d52806e42016a1a8687de68da6de663f",
+    "testCaseId": "45380938968421fb1036d2a7141add5f",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Category\\Product\\Plugin\\MviewStateTest::testAfterSetStatusResume",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Category\\Product\\Plugin\\MviewStateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSetStatusResume"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

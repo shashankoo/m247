@@ -1,0 +1,50 @@
+{
+    "uuid": "29b6b097-aceb-4c5b-b580-dbac377b983d",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\SessionTest::testValidationWithInvalidOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055127,
+    "stop": 1711693055127,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "84b748a1343847eceaf21790776e1978",
+    "testCaseId": "e85f95db13cdd053cc50775f4cef02f4",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\SessionTest::testValidationWithInvalidOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\SessionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidationWithInvalidOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "83b3c8ab-7674-4676-a501-30c49c4c08ba",
+    "name": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeCasterTest::testCastValues",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075468,
+    "stop": 1711693075468,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"string\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d76237cd48988181e26a9379a11cc502",
+    "testCaseId": "69c7397386e0826189b08172540fd698",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeCasterTest::testCastValues",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeCasterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCastValues"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

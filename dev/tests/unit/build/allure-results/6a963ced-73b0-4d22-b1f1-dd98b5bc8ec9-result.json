@@ -1,0 +1,43 @@
+{
+    "uuid": "6a963ced-73b0-4d22-b1f1-dd98b5bc8ec9",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Compiler\\ArgumentsResolverTest::testGetResolvedArgumentsConstructorConfiguredFormat",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055718,
+    "stop": 1711693055719,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2814a3b711d9a8671410ac11a4c9de0c",
+    "testCaseId": "758116ea272e890116c3cad5570c3134",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Compiler\\ArgumentsResolverTest::testGetResolvedArgumentsConstructorConfiguredFormat",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Compiler\\ArgumentsResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetResolvedArgumentsConstructorConfiguredFormat"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

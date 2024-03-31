@@ -1,0 +1,50 @@
+{
+    "uuid": "3b5345d3-96e4-4791-aa2b-ef5dc1927618",
+    "name": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\CategoryUrlPathAutogeneratorObserverTest::testShouldThrowExceptionIfUrlKeyIsEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013163,
+    "stop": 1711693013163,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1aff7427a4bfdaf597ce3f94b981c7cf",
+    "testCaseId": "e08dd8ca957d1dbec888fc4c5a1fb01a",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\CategoryUrlPathAutogeneratorObserverTest::testShouldThrowExceptionIfUrlKeyIsEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\CategoryUrlPathAutogeneratorObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testShouldThrowExceptionIfUrlKeyIsEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

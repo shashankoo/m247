@@ -1,0 +1,50 @@
+{
+    "uuid": "376d5692-2566-4aa1-9edf-468870e67dee",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\FieldDataConverterTest::testConvert",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070698,
+    "stop": 1711693070698,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bf9e43891b2ca1738ddefa6dabd7177f",
+    "testCaseId": "aec0848756f3a733e6cf88c25ea042ed",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\FieldDataConverterTest::testConvert",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\FieldDataConverterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvert"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

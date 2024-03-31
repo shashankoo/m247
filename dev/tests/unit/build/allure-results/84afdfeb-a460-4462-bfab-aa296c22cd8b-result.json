@@ -1,0 +1,50 @@
+{
+    "uuid": "84afdfeb-a460-4462-bfab-aa296c22cd8b",
+    "name": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\CustomerCompositeTest::testValidateRow",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019208,
+    "stop": 1711693019209,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"customer and two addresses row, append behavior\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9e431042170b1b851b457e083579ddf0",
+    "testCaseId": "0d1cddd0113f532a13a6cad5001e83b2",
+    "rerunOf": null,
+    "fullName": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\CustomerCompositeTest::testValidateRow",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\CustomerCompositeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateRow"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

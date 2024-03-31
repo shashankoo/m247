@@ -1,0 +1,43 @@
+{
+    "uuid": "9d41b95b-fce9-4f84-95ab-7f9e00c8ba10",
+    "name": "Magento\\Bundle\\Test\\Unit\\Model\\CartItemProcessorTest::testConvertToBuyRequest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010684,
+    "stop": 1711693010698,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6c0683552c4c1de4672633e234f9c22c",
+    "testCaseId": "c88254d60351e484a4c698f076066040",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Model\\CartItemProcessorTest::testConvertToBuyRequest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Model\\CartItemProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvertToBuyRequest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

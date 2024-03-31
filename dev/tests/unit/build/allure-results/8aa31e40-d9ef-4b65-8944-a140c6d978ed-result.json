@@ -1,0 +1,43 @@
+{
+    "uuid": "8aa31e40-d9ef-4b65-8944-a140c6d978ed",
+    "name": "Magento\\ReCaptchaCustomer\\Test\\Unit\\Plugin\\Customer\\DisableForgotPasswordButtonTest::testAfterEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033304,
+    "stop": 1711693033305,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1d417f3463911e557b077ec0c5be5522",
+    "testCaseId": "e047a122a407fff1a8894ecce2610624",
+    "rerunOf": null,
+    "fullName": "Magento\\ReCaptchaCustomer\\Test\\Unit\\Plugin\\Customer\\DisableForgotPasswordButtonTest::testAfterEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ReCaptchaCustomer\\Test\\Unit\\Plugin\\Customer\\DisableForgotPasswordButtonTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

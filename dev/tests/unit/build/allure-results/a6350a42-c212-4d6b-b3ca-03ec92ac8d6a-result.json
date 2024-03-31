@@ -1,0 +1,50 @@
+{
+    "uuid": "a6350a42-c212-4d6b-b3ca-03ec92ac8d6a",
+    "name": "Magento\\Catalog\\Test\\Unit\\Block\\Category\\Rss\\LinkTest::testIsTopCategory",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013536,
+    "stop": 1711693013537,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "687c9b9da4cddd2c7023dafc08a658b7",
+    "testCaseId": "c4d2e6d94df9f7972b70a31885b1d78f",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Block\\Category\\Rss\\LinkTest::testIsTopCategory",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Block\\Category\\Rss\\LinkTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsTopCategory"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

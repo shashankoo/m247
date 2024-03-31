@@ -1,0 +1,50 @@
+{
+    "uuid": "50678762-7b70-4cc4-86e9-0c96871c19b1",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\PostcodeTest::testValidateValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020854,
+    "stop": 1711693020856,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cd2eeb79b04482286d89ac9794e72364",
+    "testCaseId": "d0682d56bac10da42d0fcaec8aa398bb",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\PostcodeTest::testValidateValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\PostcodeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

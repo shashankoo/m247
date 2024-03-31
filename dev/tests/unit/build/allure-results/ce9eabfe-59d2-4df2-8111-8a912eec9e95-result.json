@@ -1,0 +1,43 @@
+{
+    "uuid": "ce9eabfe-59d2-4df2-8111-8a912eec9e95",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\RemovePersistentCookieOnRegisterObserverTest::testExecuteWithNotLoggedInCustomer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032580,
+    "stop": 1711693032581,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b6c50dbecefe0c5def88dffd9541d66b",
+    "testCaseId": "e3a48ea32ddbd2d59157629049d4c625",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\RemovePersistentCookieOnRegisterObserverTest::testExecuteWithNotLoggedInCustomer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\RemovePersistentCookieOnRegisterObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithNotLoggedInCustomer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

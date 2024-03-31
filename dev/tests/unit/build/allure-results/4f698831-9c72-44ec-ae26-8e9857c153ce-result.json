@@ -1,0 +1,50 @@
+{
+    "uuid": "4f698831-9c72-44ec-ae26-8e9857c153ce",
+    "name": "Magento\\Framework\\Math\\Test\\Unit\\RandomTest::testGetRandomNumber",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074130,
+    "stop": 1711693074131,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f305f7310383d76e849ff69265eebe60",
+    "testCaseId": "9915c6fa998b73d86c77ddc4cb0febc6",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Math\\Test\\Unit\\RandomTest::testGetRandomNumber",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Math\\Test\\Unit\\RandomTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRandomNumber"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

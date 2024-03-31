@@ -1,0 +1,50 @@
+{
+    "uuid": "e707a2ae-7d43-4d42-b73e-d75d828be7bc",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Validation\\CanInvoiceTest::testCanInvoiceWrongState",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039471,
+    "stop": 1711693039509,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7d07aec7d6c7dba7a4c799dbc301c9fa",
+    "testCaseId": "8874c9a46adf018b2e838299fd0c3298",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Validation\\CanInvoiceTest::testCanInvoiceWrongState",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Validation\\CanInvoiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanInvoiceWrongState"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

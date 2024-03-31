@@ -1,0 +1,50 @@
+{
+    "uuid": "d609d0d2-c043-48fa-bab3-f2430677adc4",
+    "name": "Magento\\Framework\\File\\Test\\Unit\\UploaderTest::testCheckAllowedExtension",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073167,
+    "stop": 1711693073168,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "90efd00c7c1839bcdd2e692282b5ecfb",
+    "testCaseId": "71a1e7514078bb61a45f65c348981e97",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\File\\Test\\Unit\\UploaderTest::testCheckAllowedExtension",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\File\\Test\\Unit\\UploaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckAllowedExtension"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

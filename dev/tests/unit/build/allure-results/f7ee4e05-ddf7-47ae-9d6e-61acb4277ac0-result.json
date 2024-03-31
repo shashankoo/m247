@@ -1,0 +1,43 @@
+{
+    "uuid": "f7ee4e05-ddf7-47ae-9d6e-61acb4277ac0",
+    "name": "Magento\\User\\Test\\Unit\\Observer\\Backend\\TrackAdminNewPasswordObserverTest::testTrackAdminPassword",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053016,
+    "stop": 1711693053017,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a283cce2473c1fa237546dab5cacc2f4",
+    "testCaseId": "7aed2622ffd1469ebfc265dc84228bfe",
+    "rerunOf": null,
+    "fullName": "Magento\\User\\Test\\Unit\\Observer\\Backend\\TrackAdminNewPasswordObserverTest::testTrackAdminPassword",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\User\\Test\\Unit\\Observer\\Backend\\TrackAdminNewPasswordObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testTrackAdminPassword"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

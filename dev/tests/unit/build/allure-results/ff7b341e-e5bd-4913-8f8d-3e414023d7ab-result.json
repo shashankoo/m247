@@ -1,0 +1,50 @@
+{
+    "uuid": "ff7b341e-e5bd-4913-8f8d-3e414023d7ab",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\MediaImageDeleteProcessorTest::testExecuteCategoryProductMediaDelete",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015858,
+    "stop": 1711693015859,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"test image can be deleted with existing product and product images\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "194e247e246ce84c9faa136d0565e2fd",
+    "testCaseId": "b43ec64836a71faf224171c1b7fac1ca",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\MediaImageDeleteProcessorTest::testExecuteCategoryProductMediaDelete",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\MediaImageDeleteProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteCategoryProductMediaDelete"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

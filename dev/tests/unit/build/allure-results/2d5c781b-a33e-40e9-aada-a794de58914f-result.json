@@ -1,0 +1,50 @@
+{
+    "uuid": "2d5c781b-a33e-40e9-aada-a794de58914f",
+    "name": "Magento\\InventoryImportExport\\Test\\Unit\\Plugin\\Import\\SourceItemImporterTest::testAfterImportForMultipleSource",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030236,
+    "stop": 1711693030236,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"default existing source code with 0 quantity for existing product\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "92a62c162450e9bde906198981b31a76",
+    "testCaseId": "a394133e22953f932532e0ec807131b1",
+    "rerunOf": null,
+    "fullName": "Magento\\InventoryImportExport\\Test\\Unit\\Plugin\\Import\\SourceItemImporterTest::testAfterImportForMultipleSource",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\InventoryImportExport\\Test\\Unit\\Plugin\\Import\\SourceItemImporterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterImportForMultipleSource"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

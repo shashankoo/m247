@@ -1,0 +1,50 @@
+{
+    "uuid": "2cc41a34-7993-49f6-90ed-cdba2d22868b",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Ui\\Component\\Product\\Form\\Element\\UseConfigSettingsTest::testPrepareSource",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012200,
+    "stop": 1711693012201,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"valid\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6aabf7bd37b541e10e7df42359aed5ca",
+    "testCaseId": "e7cdc89122c2ab6fc33734ee566a1107",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Ui\\Component\\Product\\Form\\Element\\UseConfigSettingsTest::testPrepareSource",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Ui\\Component\\Product\\Form\\Element\\UseConfigSettingsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareSource"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "0c36e9de-b258-470e-900d-8d4cc59e436d",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\StoreTest::testIsCurrentlySecure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041973,
+    "stop": 1711693041974,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"secure request, no server setting\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8d158a533a1afd822a20c900a0fd5724",
+    "testCaseId": "d4d8ccd9e37c0046fe5d754458474f44",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\StoreTest::testIsCurrentlySecure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\StoreTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsCurrentlySecure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

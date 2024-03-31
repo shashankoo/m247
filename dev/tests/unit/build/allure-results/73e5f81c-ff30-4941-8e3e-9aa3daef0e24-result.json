@@ -1,0 +1,43 @@
+{
+    "uuid": "73e5f81c-ff30-4941-8e3e-9aa3daef0e24",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testCaptureNotPaid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038159,
+    "stop": 1711693038160,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4d60f8276e1ce439da67011eec2b1d79",
+    "testCaseId": "9a94d06996e78396c56ff03680303750",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testCaptureNotPaid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCaptureNotPaid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

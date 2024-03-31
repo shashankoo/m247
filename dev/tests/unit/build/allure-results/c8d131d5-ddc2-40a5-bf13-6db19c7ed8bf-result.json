@@ -1,0 +1,50 @@
+{
+    "uuid": "c8d131d5-ddc2-40a5-bf13-6db19c7ed8bf",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Attribute\\ConditionBuilderTest::testBuildNewAttributeWebsiteScopeUnappropriateAttribute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015801,
+    "stop": 1711693015801,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0c5bc59f6ef91dd35145eb2cff2e70a5",
+    "testCaseId": "15cf5b668b81681d393905562487de66",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Attribute\\ConditionBuilderTest::testBuildNewAttributeWebsiteScopeUnappropriateAttribute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Attribute\\ConditionBuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildNewAttributeWebsiteScopeUnappropriateAttribute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

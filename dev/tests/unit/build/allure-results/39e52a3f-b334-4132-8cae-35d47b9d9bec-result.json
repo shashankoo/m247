@@ -1,0 +1,50 @@
+{
+    "uuid": "39e52a3f-b334-4132-8cae-35d47b9d9bec",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\Config\\Consolidated\\XsdTest::testExemplarXml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030020,
+    "stop": 1711693030020,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"irrelevant node in resources\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cd5f6666e76980c7984d18cd9bb3d143",
+    "testCaseId": "b5383e7044362dbdfd9f525e8ddd28e3",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\Config\\Consolidated\\XsdTest::testExemplarXml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\Config\\Consolidated\\XsdTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExemplarXml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

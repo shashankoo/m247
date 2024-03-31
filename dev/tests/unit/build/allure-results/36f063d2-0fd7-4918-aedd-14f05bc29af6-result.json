@@ -1,0 +1,50 @@
+{
+    "uuid": "36f063d2-0fd7-4918-aedd-14f05bc29af6",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Router\\BaseTest::testMatchEmptyAction",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058858,
+    "stop": 1711693058858,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "27c6004bced444f69321a24bfe43c50e",
+    "testCaseId": "11f8002613f40cf213252bc78396acbe",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Router\\BaseTest::testMatchEmptyAction",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Router\\BaseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMatchEmptyAction"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

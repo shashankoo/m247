@@ -1,0 +1,50 @@
+{
+    "uuid": "998f844c-d1ae-419b-9eed-929ef009946b",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Helper\\MinsaleqtyTest::testMakeArrayFieldValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011902,
+    "stop": 1711693011903,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"valid with getAllCustomersGroupId lookup\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6ee8fef07f8bc2545783220481a4b9bd",
+    "testCaseId": "fed7664018dbb185d48b17e59148f4a9",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Helper\\MinsaleqtyTest::testMakeArrayFieldValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Helper\\MinsaleqtyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMakeArrayFieldValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

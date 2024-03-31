@@ -1,0 +1,50 @@
+{
+    "uuid": "02999f1f-5b68-4690-a37e-d542d8bca3ec",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\FileTest::testValidateValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022403,
+    "stop": 1711693022403,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "MAGETWO-34751: Test fails after being moved.  Might have hidden dependency.",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e0094c8a9768c4566ac7e550542a0414",
+    "testCaseId": "d720f365808801ce565b90f3b6405758",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\FileTest::testValidateValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\FileTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

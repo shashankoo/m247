@@ -1,0 +1,50 @@
+{
+    "uuid": "d06c224b-de08-4ebd-a5ed-5ad8a6ad8bcf",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\AddCommentTest::testExecuteWillNotifyCustomer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036779,
+    "stop": 1711693036779,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"User Has Access - Notify Unset\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e122408092f4897ab0e0c327cb3d9516",
+    "testCaseId": "44b51e94069c844e0ff57761ac9152ef",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\AddCommentTest::testExecuteWillNotifyCustomer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\AddCommentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWillNotifyCustomer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

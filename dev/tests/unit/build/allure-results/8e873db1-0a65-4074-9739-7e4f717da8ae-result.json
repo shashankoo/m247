@@ -1,0 +1,50 @@
+{
+    "uuid": "8e873db1-0a65-4074-9739-7e4f717da8ae",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Design\\FileResolution\\Fallback\\Resolver\\SimpleTest::testResolve",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077282,
+    "stop": 1711693077282,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"all params\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0178e2e6fa921de4fe86c5d6cf442b0a",
+    "testCaseId": "cfe4377b87cde54d892057e7c72ab992",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Design\\FileResolution\\Fallback\\Resolver\\SimpleTest::testResolve",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Design\\FileResolution\\Fallback\\Resolver\\SimpleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testResolve"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "82115204-5c4e-4d62-b278-fa70f569b89e",
+    "name": "Magento\\Bundle\\Test\\Unit\\Block\\Sales\\Order\\Items\\RendererTest::testIsShipmentSeparatelyWithItem",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010605,
+    "stop": 1711693010605,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "62c450edfbfb773d73568b5b9d5eaaf6",
+    "testCaseId": "188e6f2f14721fa355edf8b855823ac6",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Block\\Sales\\Order\\Items\\RendererTest::testIsShipmentSeparatelyWithItem",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Block\\Sales\\Order\\Items\\RendererTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsShipmentSeparatelyWithItem"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

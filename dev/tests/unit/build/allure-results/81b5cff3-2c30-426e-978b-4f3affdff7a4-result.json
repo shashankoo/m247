@@ -1,0 +1,50 @@
+{
+    "uuid": "81b5cff3-2c30-426e-978b-4f3affdff7a4",
+    "name": "Magento\\MediaGallery\\Test\\Unit\\Model\\Asset\\Command\\DeleteByDirectoryPathTest::testDeleteByDirectoryPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030381,
+    "stop": 1711693030383,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Existing path\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "af27da1c586916dd33ee1e6647793485",
+    "testCaseId": "f887bbb6c87a4f8bc9313a4af28a9946",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaGallery\\Test\\Unit\\Model\\Asset\\Command\\DeleteByDirectoryPathTest::testDeleteByDirectoryPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaGallery\\Test\\Unit\\Model\\Asset\\Command\\DeleteByDirectoryPathTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteByDirectoryPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

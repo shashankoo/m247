@@ -1,0 +1,43 @@
+{
+    "uuid": "a182d8d2-6a91-4a0c-bb8e-229bb041cf7e",
+    "name": "Magento\\Catalog\\Test\\Unit\\Cron\\DeleteOutdatedPriceValuesTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013997,
+    "stop": 1711693014001,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e61455d1b319e925f755ccd0731021ae",
+    "testCaseId": "61b4207695eddb26e8c26a123f806f21",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Cron\\DeleteOutdatedPriceValuesTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Cron\\DeleteOutdatedPriceValuesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

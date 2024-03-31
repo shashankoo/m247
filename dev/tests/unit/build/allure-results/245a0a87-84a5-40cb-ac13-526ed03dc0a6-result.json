@@ -1,0 +1,43 @@
+{
+    "uuid": "245a0a87-84a5-40cb-ac13-526ed03dc0a6",
+    "name": "Magento\\CatalogSearch\\Test\\Unit\\Model\\Indexer\\Plugin\\StockedProductsFilterPluginTest::testBeforePrepareProductIndex",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012739,
+    "stop": 1711693012743,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c9c91759d484a497e709aa636abddbb0",
+    "testCaseId": "aa2de6c0e98b49ec30b3a6ff14b1d3c2",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogSearch\\Test\\Unit\\Model\\Indexer\\Plugin\\StockedProductsFilterPluginTest::testBeforePrepareProductIndex",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogSearch\\Test\\Unit\\Model\\Indexer\\Plugin\\StockedProductsFilterPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforePrepareProductIndex"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

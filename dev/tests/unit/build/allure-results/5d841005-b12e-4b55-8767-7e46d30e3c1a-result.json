@@ -1,0 +1,50 @@
+{
+    "uuid": "5d841005-b12e-4b55-8767-7e46d30e3c1a",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Widget\\Grid\\ParserTest::testParseExpression",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010275,
+    "stop": 1711693010275,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "554868528b46e0d3ee3c01abdfcea9da",
+    "testCaseId": "41505ab412816861de76d1eaed1d3607",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Widget\\Grid\\ParserTest::testParseExpression",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Widget\\Grid\\ParserTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testParseExpression"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

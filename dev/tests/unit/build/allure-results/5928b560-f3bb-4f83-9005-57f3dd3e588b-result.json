@@ -1,0 +1,50 @@
+{
+    "uuid": "5928b560-f3bb-4f83-9005-57f3dd3e588b",
+    "name": "Magento\\Framework\\Event\\Test\\Unit\\Invoker\\InvokerDefaultTest::testWrongInterfaceCallWithEnabledDeveloperMode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073021,
+    "stop": 1711693073021,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"non shared\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a87b1a88d203b8bfa1991ee10ffb72ac",
+    "testCaseId": "033bb86da85dd63a05a528dbd773cc78",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Event\\Test\\Unit\\Invoker\\InvokerDefaultTest::testWrongInterfaceCallWithEnabledDeveloperMode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Event\\Test\\Unit\\Invoker\\InvokerDefaultTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWrongInterfaceCallWithEnabledDeveloperMode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

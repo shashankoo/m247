@@ -1,0 +1,43 @@
+{
+    "uuid": "3a93dcbd-3189-4bfe-9dad-bf889fb8e9c9",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Address\\Validator\\CustomerTest::testValidateNewCustomerWithExistingCustomerAddress",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020237,
+    "stop": 1711693020238,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ff33e1bf148b35fa0eecb6fc9cf6c660",
+    "testCaseId": "3f390e0da68db7cafed920292b653207",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Address\\Validator\\CustomerTest::testValidateNewCustomerWithExistingCustomerAddress",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Address\\Validator\\CustomerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateNewCustomerWithExistingCustomerAddress"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

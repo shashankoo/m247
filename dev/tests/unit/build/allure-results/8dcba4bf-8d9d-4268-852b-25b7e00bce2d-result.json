@@ -1,0 +1,50 @@
+{
+    "uuid": "8dcba4bf-8d9d-4268-852b-25b7e00bce2d",
+    "name": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Order\\AddressAdapterTest::testStreetLine1",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031414,
+    "stop": 1711693031414,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "52acfbf1de740fb4c127cbf865cf33af",
+    "testCaseId": "87710ccc8d5c250bf4b5ac2d5091080a",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Order\\AddressAdapterTest::testStreetLine1",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Order\\AddressAdapterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testStreetLine1"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

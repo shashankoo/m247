@@ -1,0 +1,43 @@
+{
+    "uuid": "4cb5fe92-846b-49b3-a3bc-d773e8da44ba",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Session\\AdminConfigTest::testSetCookiePathNonDefault",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010197,
+    "stop": 1711693010199,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "12b378271ee3f967578a0bcf33333630",
+    "testCaseId": "e54d79133e9dd75cb35ee3ca7e750aa0",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Session\\AdminConfigTest::testSetCookiePathNonDefault",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Session\\AdminConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetCookiePathNonDefault"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "207e07e3-72e9-41e7-a79d-9e4e9bb47cbf",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\Argument\\Interpreter\\ArrayTypeTest::testEvaluate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070858,
+    "stop": 1711693070858,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"empty array items\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c4a34b09781725218649f3b478c42976",
+    "testCaseId": "effdb8e5f5d3efb09e18346af54df5dd",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\Argument\\Interpreter\\ArrayTypeTest::testEvaluate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\Argument\\Interpreter\\ArrayTypeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEvaluate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

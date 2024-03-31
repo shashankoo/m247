@@ -1,0 +1,50 @@
+{
+    "uuid": "01ecc20a-42d0-4e13-8511-3bd333e6a829",
+    "name": "Magento\\Persistent\\Test\\Unit\\Model\\Customer\\AuthorizationTest::testIsAuthorized",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032502,
+    "stop": 1711693032502,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Logged-in Customer ID#1 without persistency should be authorized\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a9269ca7d821cccb673794d25d9ecc3a",
+    "testCaseId": "8234b30744b071e0064885d6f6facc85",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Model\\Customer\\AuthorizationTest::testIsAuthorized",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Model\\Customer\\AuthorizationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAuthorized"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

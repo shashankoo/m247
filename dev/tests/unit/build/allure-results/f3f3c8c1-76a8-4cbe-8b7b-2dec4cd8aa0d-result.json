@@ -1,0 +1,50 @@
+{
+    "uuid": "f3f3c8c1-76a8-4cbe-8b7b-2dec4cd8aa0d",
+    "name": "Magento\\Dhl\\Test\\Unit\\Model\\CarrierTest::testBuildMessageReference",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021621,
+    "stop": 1711693021622,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"shipval_prefix\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7f8f366393b9187c2b3be0061a3fff48",
+    "testCaseId": "79379f6a66add29828a2e3f23effe5fa",
+    "rerunOf": null,
+    "fullName": "Magento\\Dhl\\Test\\Unit\\Model\\CarrierTest::testBuildMessageReference",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Dhl\\Test\\Unit\\Model\\CarrierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildMessageReference"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

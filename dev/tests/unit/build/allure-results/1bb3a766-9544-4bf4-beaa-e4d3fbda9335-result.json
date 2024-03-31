@@ -1,0 +1,50 @@
+{
+    "uuid": "1bb3a766-9544-4bf4-beaa-e4d3fbda9335",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\Plugin\\StoreTest::testAfterSaveSwitchStoreGroup",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014545,
+    "stop": 1711693014545,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9baa923efcd67dffb1767528cc51d30e",
+    "testCaseId": "2cc80a89c750500e6e89829fa8e7c52f",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\Plugin\\StoreTest::testAfterSaveSwitchStoreGroup",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\Plugin\\StoreTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSaveSwitchStoreGroup"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

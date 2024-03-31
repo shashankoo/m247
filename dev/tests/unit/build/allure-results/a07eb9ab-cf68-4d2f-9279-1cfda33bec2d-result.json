@@ -1,0 +1,50 @@
+{
+    "uuid": "a07eb9ab-cf68-4d2f-9279-1cfda33bec2d",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Report\\Settlement\\RowTest::testGetCastedAmount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032426,
+    "stop": 1711693032426,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fe373651aa4dad9e880b7390d435945c",
+    "testCaseId": "49e781ce1fa395a877b6d997d8da5688",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Report\\Settlement\\RowTest::testGetCastedAmount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Report\\Settlement\\RowTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCastedAmount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

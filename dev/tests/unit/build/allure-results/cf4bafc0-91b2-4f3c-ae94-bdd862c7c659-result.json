@@ -1,0 +1,43 @@
+{
+    "uuid": "cf4bafc0-91b2-4f3c-ae94-bdd862c7c659",
+    "name": "Magento\\AsynchronousOperations\\Test\\Unit\\Controller\\Adminhtml\\Bulk\\RetryTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009230,
+    "stop": 1711693009233,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a995f8862d478b6f5abefbf4248d223d",
+    "testCaseId": "c2602d27f00f6032b02449fac9f11bbb",
+    "rerunOf": null,
+    "fullName": "Magento\\AsynchronousOperations\\Test\\Unit\\Controller\\Adminhtml\\Bulk\\RetryTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AsynchronousOperations\\Test\\Unit\\Controller\\Adminhtml\\Bulk\\RetryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

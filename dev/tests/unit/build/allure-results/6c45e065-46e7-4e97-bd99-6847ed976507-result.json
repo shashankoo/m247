@@ -1,0 +1,50 @@
+{
+    "uuid": "6c45e065-46e7-4e97-bd99-6847ed976507",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Config\\ValueTest::testIsValueChanged",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057823,
+    "stop": 1711693057824,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3c45d4873130a44b31479186214c3c6d",
+    "testCaseId": "2727e9caef5327dbadea480ded4afc55",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Config\\ValueTest::testIsValueChanged",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Config\\ValueTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValueChanged"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

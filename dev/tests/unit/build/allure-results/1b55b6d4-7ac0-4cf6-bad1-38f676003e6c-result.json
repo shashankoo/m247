@@ -1,0 +1,50 @@
+{
+    "uuid": "1b55b6d4-7ac0-4cf6-bad1-38f676003e6c",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Form\\RegisterTest::testIsNewsletterEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019482,
+    "stop": 1711693019482,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2372a108295060c8e402ba6b58ddd4d1",
+    "testCaseId": "c6d32c661f0a4912a9a6ac6c7e7bccdb",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Form\\RegisterTest::testIsNewsletterEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Form\\RegisterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsNewsletterEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

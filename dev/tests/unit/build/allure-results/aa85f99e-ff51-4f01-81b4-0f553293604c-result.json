@@ -1,0 +1,50 @@
+{
+    "uuid": "aa85f99e-ff51-4f01-81b4-0f553293604c",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\Edit\\UnlockButtonTest::testGetButtonData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019450,
+    "stop": 1711693019450,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e1597e82ac5f127a04f8d1cd4c5b56ef",
+    "testCaseId": "3a495957746b7069c1670cd9b8b28cda",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\Edit\\UnlockButtonTest::testGetButtonData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\Edit\\UnlockButtonTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetButtonData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

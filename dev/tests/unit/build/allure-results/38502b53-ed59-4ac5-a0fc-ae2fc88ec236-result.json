@@ -1,0 +1,50 @@
+{
+    "uuid": "38502b53-ed59-4ac5-a0fc-ae2fc88ec236",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\PreparedValueFactoryTest::testCreate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018160,
+    "stop": 1711693018160,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"stores scope flow\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8e756d63e15cdc04f67498740e8bd72d",
+    "testCaseId": "16bb46635f7f1cd3fe19c179706deac8",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\PreparedValueFactoryTest::testCreate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\PreparedValueFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

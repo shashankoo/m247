@@ -1,0 +1,43 @@
+{
+    "uuid": "edbb0daf-927f-423b-8490-94388540c897",
+    "name": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Attribute\\SaveTest::testExecuteWithOptionsDataError",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013828,
+    "stop": 1711693013830,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5265d2bfd69ea016709d2c9d9a3b1ea1",
+    "testCaseId": "1bed867ee9ea25d78baa9f44ae0a94c4",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Attribute\\SaveTest::testExecuteWithOptionsDataError",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Attribute\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithOptionsDataError"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

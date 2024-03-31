@@ -1,0 +1,43 @@
+{
+    "uuid": "649f95f0-b3c8-48f8-9d0e-e37eadcaefbf",
+    "name": "Magento\\Quote\\Test\\Unit\\Observer\\SendInvoiceEmailObserverTest::testFailToSendEmail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033289,
+    "stop": 1711693033289,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1a12f40f70a6ecbdf8776eec0ac24769",
+    "testCaseId": "157686f378f36bb017956a2f48caefe4",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Observer\\SendInvoiceEmailObserverTest::testFailToSendEmail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Observer\\SendInvoiceEmailObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFailToSendEmail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

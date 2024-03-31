@@ -1,0 +1,50 @@
+{
+    "uuid": "09d46d55-a149-4cd8-a2d3-19e368a6791c",
+    "name": "Magento\\Cms\\Test\\Unit\\Model\\Page\\Source\\PageLayoutTest::testToOptionArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017376,
+    "stop": 1711693017376,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d1d9e0b04f69d6ddb51cbb446ed5d4bb",
+    "testCaseId": "c76f370cbbdaefd34a8f680be81f8495",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Model\\Page\\Source\\PageLayoutTest::testToOptionArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Model\\Page\\Source\\PageLayoutTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToOptionArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

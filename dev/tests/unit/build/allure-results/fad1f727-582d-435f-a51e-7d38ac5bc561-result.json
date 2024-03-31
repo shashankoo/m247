@@ -1,0 +1,43 @@
+{
+    "uuid": "fad1f727-582d-435f-a51e-7d38ac5bc561",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Controller\\Paypal\\SaveShippingMethodTest::testExecuteAjax",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056133,
+    "stop": 1711693056139,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d064263f2a0955b47786de59d84622e4",
+    "testCaseId": "1d627ce41928da44fc3b507fae3d2e72",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Controller\\Paypal\\SaveShippingMethodTest::testExecuteAjax",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Controller\\Paypal\\SaveShippingMethodTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteAjax"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

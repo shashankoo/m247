@@ -1,0 +1,50 @@
+{
+    "uuid": "d2cb6851-78f4-4a6c-86b4-7153c4f05c08",
+    "name": "Magento\\Rule\\Test\\Unit\\Model\\Condition\\CombineTest::testGetValueName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693035698,
+    "stop": 1711693035698,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "187f362ada0aef9676133fb3cca9826b",
+    "testCaseId": "6a7243972bf8917c8c2653f875fd47b2",
+    "rerunOf": null,
+    "fullName": "Magento\\Rule\\Test\\Unit\\Model\\Condition\\CombineTest::testGetValueName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Rule\\Test\\Unit\\Model\\Condition\\CombineTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValueName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

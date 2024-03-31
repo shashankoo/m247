@@ -1,0 +1,50 @@
+{
+    "uuid": "78198be2-2bd7-44c4-b001-2b185c9fa2ab",
+    "name": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\Collection\\AbstractCollectionTest::testGetSelect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074309,
+    "stop": 1711693074310,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b0bdd42c512c468bdd10be7f3774c4c1",
+    "testCaseId": "01e7ff73e92cef781053c9818b1df294",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\Collection\\AbstractCollectionTest::testGetSelect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\Collection\\AbstractCollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSelect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

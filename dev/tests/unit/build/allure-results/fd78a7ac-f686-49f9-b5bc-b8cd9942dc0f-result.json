@@ -1,0 +1,50 @@
+{
+    "uuid": "fd78a7ac-f686-49f9-b5bc-b8cd9942dc0f",
+    "name": "Magento\\Developer\\Test\\Unit\\Console\\Command\\TablesWhitelistGenerateCommandTest::testCommandFailure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021410,
+    "stop": 1711693021411,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "99abf3f28454ec5e0c5f02c689202703",
+    "testCaseId": "fc25b56f48912e2eb7b70d52c409569e",
+    "rerunOf": null,
+    "fullName": "Magento\\Developer\\Test\\Unit\\Console\\Command\\TablesWhitelistGenerateCommandTest::testCommandFailure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Developer\\Test\\Unit\\Console\\Command\\TablesWhitelistGenerateCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCommandFailure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

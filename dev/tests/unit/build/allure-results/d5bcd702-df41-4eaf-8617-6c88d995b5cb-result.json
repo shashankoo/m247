@@ -1,0 +1,43 @@
+{
+    "uuid": "d5bcd702-df41-4eaf-8617-6c88d995b5cb",
+    "name": "Magento\\CustomerGraphQl\\Test\\Unit\\Model\\Resolver\\RevokeCustomerTokenTest::testCustomerNotAuthorized",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019145,
+    "stop": 1711693019146,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8d233a34787d02560e01f1bf35fff7d6",
+    "testCaseId": "2b2e31cdd3769e301f5c734832efbc1f",
+    "rerunOf": null,
+    "fullName": "Magento\\CustomerGraphQl\\Test\\Unit\\Model\\Resolver\\RevokeCustomerTokenTest::testCustomerNotAuthorized",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CustomerGraphQl\\Test\\Unit\\Model\\Resolver\\RevokeCustomerTokenTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCustomerNotAuthorized"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

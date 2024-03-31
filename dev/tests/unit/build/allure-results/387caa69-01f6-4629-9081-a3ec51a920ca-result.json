@@ -1,0 +1,50 @@
+{
+    "uuid": "387caa69-01f6-4629-9081-a3ec51a920ca",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest::testReorderChild",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071503,
+    "stop": 1711693071503,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#13",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "42498f6ad809a60f5ffa6d50575fda37",
+    "testCaseId": "4f9d4958636a7e34e2c5f46cf646b4ce",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest::testReorderChild",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReorderChild"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

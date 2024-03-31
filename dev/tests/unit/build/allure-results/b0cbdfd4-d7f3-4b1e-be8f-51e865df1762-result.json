@@ -1,0 +1,50 @@
+{
+    "uuid": "b0cbdfd4-d7f3-4b1e-be8f-51e865df1762",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\Index\\BuilderTest::testBuildWithoutSynonymsProvided",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023297,
+    "stop": 1711693023301,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2cdd633d433ef0444deeecf7fd7baa58",
+    "testCaseId": "7db05aea842b331b19dea126cb31374f",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\Index\\BuilderTest::testBuildWithoutSynonymsProvided",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\Index\\BuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildWithoutSynonymsProvided"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

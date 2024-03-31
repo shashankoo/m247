@@ -1,0 +1,50 @@
+{
+    "uuid": "1e0bd731-58c5-49ae-b29a-3d34ebd4349a",
+    "name": "Magento\\Framework\\Filter\\Test\\Unit\\RemoveAccentsTest::testRemoveAccents",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073344,
+    "stop": 1711693073345,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"conversion with german specifics\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ab12159df8e54b98a8aee18aecc18173",
+    "testCaseId": "e3cb4e6e8d1b322205e51aca1e45e849",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filter\\Test\\Unit\\RemoveAccentsTest::testRemoveAccents",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filter\\Test\\Unit\\RemoveAccentsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRemoveAccents"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

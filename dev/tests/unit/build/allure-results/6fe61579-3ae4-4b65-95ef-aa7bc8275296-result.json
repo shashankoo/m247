@@ -1,0 +1,50 @@
+{
+    "uuid": "6fe61579-3ae4-4b65-95ef-aa7bc8275296",
+    "name": "Magento\\Bundle\\Test\\Unit\\Model\\Sales\\Order\\Pdf\\Items\\InvoiceTest::testDrawPrice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011013,
+    "stop": 1711693011023,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"display_both\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dbf0fde748f55a5dc679e2213d398b3c",
+    "testCaseId": "1317fcbd1fb2cd5be2d56e7e01d90e9a",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Model\\Sales\\Order\\Pdf\\Items\\InvoiceTest::testDrawPrice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Model\\Sales\\Order\\Pdf\\Items\\InvoiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDrawPrice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

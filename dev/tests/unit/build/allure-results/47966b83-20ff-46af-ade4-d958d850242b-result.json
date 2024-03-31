@@ -1,0 +1,50 @@
+{
+    "uuid": "47966b83-20ff-46af-ade4-d958d850242b",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\HiddenTest::testValidateValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020741,
+    "stop": 1711693020742,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"empty\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fff23b305f799ee5991591baf3d44ad3",
+    "testCaseId": "49b6ef9c5f96acf2329dd6259b8e0a99",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\HiddenTest::testValidateValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\HiddenTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

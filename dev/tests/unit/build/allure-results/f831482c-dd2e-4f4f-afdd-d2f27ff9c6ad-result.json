@@ -1,0 +1,43 @@
+{
+    "uuid": "f831482c-dd2e-4f4f-afdd-d2f27ff9c6ad",
+    "name": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\RequestTest::testGetCookieDefault",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073665,
+    "stop": 1711693073665,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bd7cd6f1f728767319d2587a8bc4f53c",
+    "testCaseId": "4fb5c8b74a92961f55ad0394c0ee5fff",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\RequestTest::testGetCookieDefault",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\RequestTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCookieDefault"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

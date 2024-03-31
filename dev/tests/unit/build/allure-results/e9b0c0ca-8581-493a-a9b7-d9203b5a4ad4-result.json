@@ -1,0 +1,43 @@
+{
+    "uuid": "e9b0c0ca-8581-493a-a9b7-d9203b5a4ad4",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\DataProviderTest::testGetMetaWithoutParentInheritanceResolving",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014187,
+    "stop": 1711693014187,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2c209fb659234a2317f439c8f721a938",
+    "testCaseId": "39bcc1b700651464da8f535a9da41c58",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\DataProviderTest::testGetMetaWithoutParentInheritanceResolving",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\DataProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMetaWithoutParentInheritanceResolving"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

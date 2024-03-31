@@ -1,0 +1,50 @@
+{
+    "uuid": "6f8a7242-689a-4f32-8608-ec6d19720367",
+    "name": "Magento\\Payment\\Test\\Unit\\Model\\CartTest::testGetAmounts",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031497,
+    "stop": 1711693031497,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "51894d63b603ee64907616c2e37a957b",
+    "testCaseId": "d5a8f44b91fa6f723b031912057e616c",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Model\\CartTest::testGetAmounts",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Model\\CartTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAmounts"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

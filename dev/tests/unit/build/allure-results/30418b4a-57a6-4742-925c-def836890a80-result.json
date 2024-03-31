@@ -1,0 +1,50 @@
+{
+    "uuid": "30418b4a-57a6-4742-925c-def836890a80",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\Multishipping\\PluginTest::testAfterSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030745,
+    "stop": 1711693030745,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"test with multi shipping addresses\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5ddc4c5a3ae792daee998e5bd496f9bd",
+    "testCaseId": "9423d525b63fee02bf773beda5465556",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\Multishipping\\PluginTest::testAfterSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\Multishipping\\PluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

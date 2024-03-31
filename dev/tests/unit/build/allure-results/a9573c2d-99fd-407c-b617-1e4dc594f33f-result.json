@@ -1,0 +1,50 @@
+{
+    "uuid": "a9573c2d-99fd-407c-b617-1e4dc594f33f",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Export\\Config\\XsdTest::testSchemaCorrectlyIdentifiesInvalidProductOptionsXml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024613,
+    "stop": 1711693024613,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"attributes_with_type_modelName_and_invalid_value\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "28b6993ff63768d269df7e57050ab980",
+    "testCaseId": "1937c73f1fd18b10c33574727abd39f9",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Export\\Config\\XsdTest::testSchemaCorrectlyIdentifiesInvalidProductOptionsXml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Export\\Config\\XsdTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSchemaCorrectlyIdentifiesInvalidProductOptionsXml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

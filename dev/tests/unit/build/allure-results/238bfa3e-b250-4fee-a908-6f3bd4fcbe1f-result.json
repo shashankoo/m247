@@ -1,0 +1,50 @@
+{
+    "uuid": "238bfa3e-b250-4fee-a908-6f3bd4fcbe1f",
+    "name": "Magento\\Framework\\Validator\\Test\\Unit\\Constraint\\PropertyTest::testIsValid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077044,
+    "stop": 1711693077044,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8b7e8d4360c675cc2ce16c4543c069fd",
+    "testCaseId": "60532993de93090ea5960d3ee1bd4c0e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Validator\\Test\\Unit\\Constraint\\PropertyTest::testIsValid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Validator\\Test\\Unit\\Constraint\\PropertyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

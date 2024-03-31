@@ -1,0 +1,50 @@
+{
+    "uuid": "311c8c56-83ca-4d95-9da4-6d7f80421796",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Condition\\Product\\SubselectTest::testValidateForFixedBundleProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036134,
+    "stop": 1711693036135,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"validate true for simple product data with conditions\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a96d6a796fc23c53525dea6511571899",
+    "testCaseId": "a39d469fcb2ab396ca89b6f85e5f526e",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Condition\\Product\\SubselectTest::testValidateForFixedBundleProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Condition\\Product\\SubselectTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateForFixedBundleProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

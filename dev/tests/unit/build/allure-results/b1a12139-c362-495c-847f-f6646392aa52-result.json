@@ -1,0 +1,50 @@
+{
+    "uuid": "b1a12139-c362-495c-847f-f6646392aa52",
+    "name": "Magento\\Framework\\Webapi\\Test\\Unit\\ServiceInputProcessorTest::testCustomAttributesExceptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078684,
+    "stop": 1711693078685,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5cb6e4136a8f3eb8318a05d8c52c6678",
+    "testCaseId": "b5610b7cddc54804236ea19789e9599e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Webapi\\Test\\Unit\\ServiceInputProcessorTest::testCustomAttributesExceptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Webapi\\Test\\Unit\\ServiceInputProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCustomAttributesExceptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

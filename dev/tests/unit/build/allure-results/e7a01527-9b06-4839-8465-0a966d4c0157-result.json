@@ -1,0 +1,50 @@
+{
+    "uuid": "e7a01527-9b06-4839-8465-0a966d4c0157",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Totals\\TaxTest::testGetFullTaxInfoWithCreditAndInvoice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036603,
+    "stop": 1711693036604,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"invoice\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9d210745a84952ac54e8efdc2fc30a9a",
+    "testCaseId": "b20016389b0a82cb0eb90c9a4f5e3ee2",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Totals\\TaxTest::testGetFullTaxInfoWithCreditAndInvoice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Totals\\TaxTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFullTaxInfoWithCreditAndInvoice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

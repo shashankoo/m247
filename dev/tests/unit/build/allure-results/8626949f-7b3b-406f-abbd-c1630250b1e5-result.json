@@ -1,0 +1,50 @@
+{
+    "uuid": "8626949f-7b3b-406f-abbd-c1630250b1e5",
+    "name": "Magento\\Analytics\\Test\\Unit\\Controller\\Adminhtml\\Subscription\\RetryTest::testExecuteWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009012,
+    "stop": 1711693009013,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "79e22ec6a4514c6aed8b4244b3afdb96",
+    "testCaseId": "23ed621d5f01013172efa6f2a0cfb035",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Controller\\Adminhtml\\Subscription\\RetryTest::testExecuteWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Controller\\Adminhtml\\Subscription\\RetryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

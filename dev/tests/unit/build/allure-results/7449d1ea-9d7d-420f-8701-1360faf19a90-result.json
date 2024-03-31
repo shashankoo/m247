@@ -1,0 +1,50 @@
+{
+    "uuid": "7449d1ea-9d7d-420f-8701-1360faf19a90",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\InfoTest::testGetDataCcNumber",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038203,
+    "stop": 1711693038204,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c0341bac7117c187794168ca60480e04",
+    "testCaseId": "23109535451eb3638ace33428599d1fb",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\InfoTest::testGetDataCcNumber",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\InfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDataCcNumber"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

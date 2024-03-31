@@ -1,0 +1,43 @@
+{
+    "uuid": "3d9f9c82-4bcc-48ad-936e-f12d0a428884",
+    "name": "Magento\\Checkout\\Test\\Unit\\CustomerData\\CartTest::testGetSectionDataWithCompositeProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016768,
+    "stop": 1711693016770,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3ebd9a8076678484b42839445e7ade70",
+    "testCaseId": "1fd7855562a6df0e3a16aa1f6590d209",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\CustomerData\\CartTest::testGetSectionDataWithCompositeProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\CustomerData\\CartTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSectionDataWithCompositeProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

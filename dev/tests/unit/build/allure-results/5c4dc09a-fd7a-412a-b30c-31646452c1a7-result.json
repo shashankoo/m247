@@ -1,0 +1,43 @@
+{
+    "uuid": "5c4dc09a-fd7a-412a-b30c-31646452c1a7",
+    "name": "Magento\\Framework\\Webapi\\Test\\Unit\\InputLimit\\DefaultPageSizeSetterTest::testPageSizeIsNotSetWhenLimitingIsDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078525,
+    "stop": 1711693078527,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "11607e3b1881d26107c9d8bf7f20e89e",
+    "testCaseId": "a8ab26afff58b2ab36dfba118fb23ff1",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Webapi\\Test\\Unit\\InputLimit\\DefaultPageSizeSetterTest::testPageSizeIsNotSetWhenLimitingIsDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Webapi\\Test\\Unit\\InputLimit\\DefaultPageSizeSetterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPageSizeIsNotSetWhenLimitingIsDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

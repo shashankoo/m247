@@ -1,0 +1,43 @@
+{
+    "uuid": "a26ca340-5651-47de-87d5-6aed3f74b3e6",
+    "name": "Magento\\Framework\\Code\\Test\\Unit\\Reader\\ArgumentsReaderTest::testGetConstructorArgumentsClassWithoutOwnConstructorInheritedFalse",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069437,
+    "stop": 1711693069438,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dc177b4a4a2c312592167e8573f5d560",
+    "testCaseId": "3377f5c5e96d3d51cec4e8cfe2fa3327",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Code\\Test\\Unit\\Reader\\ArgumentsReaderTest::testGetConstructorArgumentsClassWithoutOwnConstructorInheritedFalse",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Code\\Test\\Unit\\Reader\\ArgumentsReaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConstructorArgumentsClassWithoutOwnConstructorInheritedFalse"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

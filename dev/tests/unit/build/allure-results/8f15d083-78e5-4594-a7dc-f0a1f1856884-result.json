@@ -1,0 +1,50 @@
+{
+    "uuid": "8f15d083-78e5-4594-a7dc-f0a1f1856884",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Helper\\DataTest::testGetIsShareable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021931,
+    "stop": 1711693021931,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"link shareable no\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "690bfa48353203651a0667d105c8afdd",
+    "testCaseId": "231302499ab4ca68acee6678c0e67256",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Helper\\DataTest::testGetIsShareable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIsShareable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "3130cd92-7293-4f5c-84b1-4676cde6a83a",
+    "name": "Magento\\Email\\Test\\Unit\\Model\\TemplateTest::testGetVariablesOptionArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023757,
+    "stop": 1711693023757,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"customer account new variables\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "901ff4e1da17c0f5046c9164666dd6ba",
+    "testCaseId": "9a47b6a8873f815ab80adc92a6fa21db",
+    "rerunOf": null,
+    "fullName": "Magento\\Email\\Test\\Unit\\Model\\TemplateTest::testGetVariablesOptionArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Email\\Test\\Unit\\Model\\TemplateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetVariablesOptionArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

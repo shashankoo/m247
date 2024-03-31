@@ -1,0 +1,50 @@
+{
+    "uuid": "a14089b5-9581-4793-aac1-eadbe9bd2238",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\Data\\LinksTest::testGetLinksTitle",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022191,
+    "stop": 1711693022191,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "32a233ef575d9cf0ee00bcd5739d606a",
+    "testCaseId": "c53a67f118a1fce7d673110ecf3c44a9",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\Data\\LinksTest::testGetLinksTitle",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\Data\\LinksTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLinksTitle"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

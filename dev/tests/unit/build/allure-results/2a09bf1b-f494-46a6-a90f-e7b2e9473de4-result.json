@@ -1,0 +1,43 @@
+{
+    "uuid": "2a09bf1b-f494-46a6-a90f-e7b2e9473de4",
+    "name": "Magento\\Integration\\Test\\Unit\\Oauth\\OauthTest::testGetAccessTokenParameterAbsent",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030169,
+    "stop": 1711693030169,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3ff4937930a0bb23e754ced74f0431c8",
+    "testCaseId": "8bedce998e0712843bed3045ed5287ff",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Oauth\\OauthTest::testGetAccessTokenParameterAbsent",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Oauth\\OauthTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAccessTokenParameterAbsent"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

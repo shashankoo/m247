@@ -1,0 +1,43 @@
+{
+    "uuid": "93c3087c-ea8d-4c4d-a387-6990793aa12c",
+    "name": "Magento\\Framework\\Filesystem\\Test\\Unit\\File\\ReadTest::testReadCsv",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073286,
+    "stop": 1711693073286,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1da077d9e75034b81df14eff4e9eae81",
+    "testCaseId": "0856e8019d9f5fc50f57736961bd153f",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filesystem\\Test\\Unit\\File\\ReadTest::testReadCsv",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filesystem\\Test\\Unit\\File\\ReadTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReadCsv"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "4db265d5-d4ec-4529-8702-802fd52b5ab0",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\LockGuardedCacheLoaderTest::testDataCollectedWithParallelGeneration",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069322,
+    "stop": 1711693069322,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "79799596d076b76a34c0b58537d7ac28",
+    "testCaseId": "65115cb56e067bd1c673992abec39b98",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\LockGuardedCacheLoaderTest::testDataCollectedWithParallelGeneration",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\LockGuardedCacheLoaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDataCollectedWithParallelGeneration"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

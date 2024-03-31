@@ -1,0 +1,50 @@
+{
+    "uuid": "7e266a65-6f8b-4522-b051-26e0942674f2",
+    "name": "Magento\\InventoryImportExport\\Test\\Unit\\Model\\Import\\SourceItemConvertTest::testConvert",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030225,
+    "stop": 1711693030227,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "229d802c0f59164e196189acc7763758",
+    "testCaseId": "f633346450a8332e593a46d5e7dd6b0f",
+    "rerunOf": null,
+    "fullName": "Magento\\InventoryImportExport\\Test\\Unit\\Model\\Import\\SourceItemConvertTest::testConvert",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\InventoryImportExport\\Test\\Unit\\Model\\Import\\SourceItemConvertTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvert"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

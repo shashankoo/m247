@@ -1,0 +1,43 @@
+{
+    "uuid": "8cff2840-b71e-44c9-9f55-35aaf45978ad",
+    "name": "Magento\\Customer\\Test\\Unit\\Observer\\UpgradeOrderCustomerEmailObserverTest::testUpgradeOrderCustomerEmail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021128,
+    "stop": 1711693021130,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1ac6a3a66b888b06a41835205b96d6aa",
+    "testCaseId": "27c9409f0cefe35273c451a811496225",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Observer\\UpgradeOrderCustomerEmailObserverTest::testUpgradeOrderCustomerEmail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Observer\\UpgradeOrderCustomerEmailObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpgradeOrderCustomerEmail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "5758d79b-2f21-4bc4-877d-f890dd00df8e",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Export\\ProductTest::testExportCountZeroBreakInternalCalls",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011435,
+    "stop": 1711693011436,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0641715a67896b71f27575067d5adf71",
+    "testCaseId": "2ca95bd49f9a6311d98595e3cbe43187",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Export\\ProductTest::testExportCountZeroBreakInternalCalls",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Export\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExportCountZeroBreakInternalCalls"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

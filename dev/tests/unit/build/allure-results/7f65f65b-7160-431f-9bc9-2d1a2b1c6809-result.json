@@ -1,0 +1,50 @@
+{
+    "uuid": "7f65f65b-7160-431f-9bc9-2d1a2b1c6809",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\InfoTest::testGetPublicPaymentInfo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032068,
+    "stop": 1711693032068,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "54171c9b313d84b755c7b96600d4c15c",
+    "testCaseId": "5f3c93fe792f0a1ea92bb035947dc64a",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\InfoTest::testGetPublicPaymentInfo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\InfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPublicPaymentInfo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

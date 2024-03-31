@@ -1,0 +1,50 @@
+{
+    "uuid": "dc8616f4-e97f-48ee-95d8-ac1f6f0a26a4",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Frontend\\InputType\\PresentationTest::testGetPresentationInputType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014933,
+    "stop": 1711693014933,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"attribute_is_input_and_wysiwyg_enabled\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "507a63c4790aad8e408b08be8c1e6a84",
+    "testCaseId": "161444b8409bff574858e8ca128ae042",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Frontend\\InputType\\PresentationTest::testGetPresentationInputType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Frontend\\InputType\\PresentationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPresentationInputType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

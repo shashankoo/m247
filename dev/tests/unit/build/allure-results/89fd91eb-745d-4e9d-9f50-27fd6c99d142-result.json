@@ -1,0 +1,43 @@
+{
+    "uuid": "89fd91eb-745d-4e9d-9f50-27fd6c99d142",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductLink\\RepositoryTest::testDeleteWithNoSuchEntityException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015461,
+    "stop": 1711693015462,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "072814e815e15904a1dacfe1691b1b5f",
+    "testCaseId": "53135a8a5fc5b9712dfd8763acb06503",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductLink\\RepositoryTest::testDeleteWithNoSuchEntityException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductLink\\RepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteWithNoSuchEntityException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

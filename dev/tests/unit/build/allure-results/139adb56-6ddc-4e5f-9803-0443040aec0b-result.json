@@ -1,0 +1,43 @@
+{
+    "uuid": "139adb56-6ddc-4e5f-9803-0443040aec0b",
+    "name": "Magento\\Webapi\\Test\\Unit\\Model\\Soap\\FaultTest::testToXmlDeveloperModeOff",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053617,
+    "stop": 1711693053618,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dc38ebbf95d68c2a2021e3c645187f07",
+    "testCaseId": "5dd8b8179f38447a2fecdf2be3508b88",
+    "rerunOf": null,
+    "fullName": "Magento\\Webapi\\Test\\Unit\\Model\\Soap\\FaultTest::testToXmlDeveloperModeOff",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Webapi\\Test\\Unit\\Model\\Soap\\FaultTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToXmlDeveloperModeOff"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

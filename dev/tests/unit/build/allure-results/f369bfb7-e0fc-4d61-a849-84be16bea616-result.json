@@ -1,0 +1,43 @@
+{
+    "uuid": "f369bfb7-e0fc-4d61-a849-84be16bea616",
+    "name": "Magento\\ProductVideo\\Test\\Unit\\Controller\\Adminhtml\\Product\\Gallery\\RetrieveImageTest::testExecuteInvalidFileImage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032653,
+    "stop": 1711693032653,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d0f2a1fa7d053654cfd3428df80d1195",
+    "testCaseId": "677c42a4cfb9b4e16a7716d720774eeb",
+    "rerunOf": null,
+    "fullName": "Magento\\ProductVideo\\Test\\Unit\\Controller\\Adminhtml\\Product\\Gallery\\RetrieveImageTest::testExecuteInvalidFileImage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ProductVideo\\Test\\Unit\\Controller\\Adminhtml\\Product\\Gallery\\RetrieveImageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteInvalidFileImage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

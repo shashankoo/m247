@@ -1,0 +1,50 @@
+{
+    "uuid": "d9c20cad-dbcb-4694-a758-a9bff5df821a",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ConfigTest::testGetMenuExceptionLogged",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010017,
+    "stop": 1711693010017,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"OutOfRangeException\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "217314069d12f633bfdceadb3b3926ba",
+    "testCaseId": "3c039c6aac8966ae07517782395f7430",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ConfigTest::testGetMenuExceptionLogged",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMenuExceptionLogged"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "14e8c2fd-c8e2-4964-8066-a1ee9ba5060b",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Validator\\TierPriceTest::testIsValid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011620,
+    "stop": 1711693011620,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"invalidQty\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "51343daca1d1cc84a9ae412d02f8f63a",
+    "testCaseId": "9994af500c02bce2b9bc9491288ba9ef",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Validator\\TierPriceTest::testIsValid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Validator\\TierPriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

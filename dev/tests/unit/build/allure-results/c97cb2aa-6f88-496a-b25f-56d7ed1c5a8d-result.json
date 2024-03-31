@@ -1,0 +1,43 @@
+{
+    "uuid": "c97cb2aa-6f88-496a-b25f-56d7ed1c5a8d",
+    "name": "Magento\\InventoryReservationCli\\Test\\Unit\\Model\\ResourceModel\\GetOrderItemsDataForOrdersInNotFinalStateTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030267,
+    "stop": 1711693030270,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cde1d0d76edd6faf2c1f33604c72e980",
+    "testCaseId": "98e0104b4cc9cbdb36292791d2d1b98c",
+    "rerunOf": null,
+    "fullName": "Magento\\InventoryReservationCli\\Test\\Unit\\Model\\ResourceModel\\GetOrderItemsDataForOrdersInNotFinalStateTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\InventoryReservationCli\\Test\\Unit\\Model\\ResourceModel\\GetOrderItemsDataForOrdersInNotFinalStateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

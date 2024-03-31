@@ -1,0 +1,50 @@
+{
+    "uuid": "c706e4bb-a18d-4e7d-9047-ba47988f441c",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\Installer\\ProgressTest::testRatio",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055211,
+    "stop": 1711693055211,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#18",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "61b319776124a64297d6edd1ba440a6e",
+    "testCaseId": "6b7ca98cb4c91fa9bcd794630e06c1b2",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\Installer\\ProgressTest::testRatio",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\Installer\\ProgressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRatio"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

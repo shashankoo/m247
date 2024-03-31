@@ -1,0 +1,43 @@
+{
+    "uuid": "a313bbc4-e8e7-45c9-bd5a-c5bad088719c",
+    "name": "Magento\\Deploy\\Test\\Unit\\Package\\LocaleResolverTest::testGetUsedPackageLocalesIllegalLocale",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021325,
+    "stop": 1711693021326,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "320de189e96fe3cee315576093c61767",
+    "testCaseId": "66c1842d18e5a535776ccb5df56a0126",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Package\\LocaleResolverTest::testGetUsedPackageLocalesIllegalLocale",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Package\\LocaleResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUsedPackageLocalesIllegalLocale"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

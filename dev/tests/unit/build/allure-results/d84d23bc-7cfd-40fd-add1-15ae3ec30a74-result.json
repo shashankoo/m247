@@ -1,0 +1,43 @@
+{
+    "uuid": "d84d23bc-7cfd-40fd-add1-15ae3ec30a74",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\DobTest::testGetHtmlExtraParamsWithoutRequiredOption",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019551,
+    "stop": 1711693019553,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a24ad690323f44a5d4074bfcdfc13250",
+    "testCaseId": "4f9923af656fd8976a1f857223b089db",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\DobTest::testGetHtmlExtraParamsWithoutRequiredOption",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\DobTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetHtmlExtraParamsWithoutRequiredOption"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

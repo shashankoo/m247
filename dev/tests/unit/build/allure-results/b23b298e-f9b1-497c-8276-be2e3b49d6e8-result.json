@@ -1,0 +1,50 @@
+{
+    "uuid": "b23b298e-f9b1-497c-8276-be2e3b49d6e8",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\RemoteSynchronizedCacheTest::testInitializeWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059247,
+    "stop": 1711693059248,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"empty_local_backend_option\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6e0fd4c550120b3691c8aad9b23b5840",
+    "testCaseId": "a8ca30d3f0dc417194032ccfffa1cc06",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\RemoteSynchronizedCacheTest::testInitializeWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\RemoteSynchronizedCacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInitializeWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

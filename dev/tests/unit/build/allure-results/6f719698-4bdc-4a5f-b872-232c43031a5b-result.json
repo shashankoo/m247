@@ -1,0 +1,50 @@
+{
+    "uuid": "6f719698-4bdc-4a5f-b872-232c43031a5b",
+    "name": "Magento\\Analytics\\Test\\Unit\\Cron\\UpdateTest::testExecuteWithEmptyReverseCounter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009023,
+    "stop": 1711693009023,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bf4dc337cbed1a2bdd0b135b62cd9028",
+    "testCaseId": "7d5d08e7d144e554a1a9504967c4bcae",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Cron\\UpdateTest::testExecuteWithEmptyReverseCounter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Cron\\UpdateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithEmptyReverseCounter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

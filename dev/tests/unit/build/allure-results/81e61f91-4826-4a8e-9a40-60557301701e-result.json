@@ -1,0 +1,50 @@
+{
+    "uuid": "81e61f91-4826-4a8e-9a40-60557301701e",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\PageCache\\IdentifierTest::testVaryStringSource",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058534,
+    "stop": 1711693058535,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f156b2e49139ad67cf14feeffb99b2c0",
+    "testCaseId": "9841c5c1ab94c58acb9d2b235bb662bf",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\PageCache\\IdentifierTest::testVaryStringSource",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\PageCache\\IdentifierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testVaryStringSource"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "b1867e7c-7a55-4917-b83c-4f068d365305",
+    "name": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\Output\\FactoryTest::testCreateUndefinedClass",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075367,
+    "stop": 1711693075367,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ad5d6cc801e23fd350929c4422604e8a",
+    "testCaseId": "58d0483571a87c3433c28c98618e84f2",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\Output\\FactoryTest::testCreateUndefinedClass",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\Output\\FactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateUndefinedClass"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

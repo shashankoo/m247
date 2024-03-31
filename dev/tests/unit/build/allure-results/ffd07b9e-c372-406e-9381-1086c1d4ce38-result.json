@@ -1,0 +1,50 @@
+{
+    "uuid": "ffd07b9e-c372-406e-9381-1086c1d4ce38",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlTest::testPrepareColumnValueForBigint",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070604,
+    "stop": 1711693070604,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "60eca9f8cd5e3c1ffd2908b801080824",
+    "testCaseId": "00dfc2efe479a29ca9d0fd656dd9da23",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlTest::testPrepareColumnValueForBigint",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareColumnValueForBigint"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "56e308d7-8a78-440b-b806-62a7414e7c74",
+    "name": "Magento\\Developer\\Test\\Unit\\Model\\XmlCatalog\\Format\\VsCodeTest::testGenerateNewValidCatalog",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021587,
+    "stop": 1711693021589,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8c48c476015c8c413ae600e0d4300a1a",
+    "testCaseId": "eba66b1022e9366a6b662e92b9bdd383",
+    "rerunOf": null,
+    "fullName": "Magento\\Developer\\Test\\Unit\\Model\\XmlCatalog\\Format\\VsCodeTest::testGenerateNewValidCatalog",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Developer\\Test\\Unit\\Model\\XmlCatalog\\Format\\VsCodeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerateNewValidCatalog"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

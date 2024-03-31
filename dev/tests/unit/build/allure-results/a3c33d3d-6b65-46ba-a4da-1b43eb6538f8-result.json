@@ -1,0 +1,50 @@
+{
+    "uuid": "a3c33d3d-6b65-46ba-a4da-1b43eb6538f8",
+    "name": "Magento\\Indexer\\Test\\Unit\\Model\\CacheContextTest::testGetIdentities",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024943,
+    "stop": 1711693024944,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"should return entities and tags\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0e1e99fbf07e06dd16c358f10deb6924",
+    "testCaseId": "1f48eab0756680903d577729e75a169b",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Model\\CacheContextTest::testGetIdentities",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Model\\CacheContextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIdentities"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

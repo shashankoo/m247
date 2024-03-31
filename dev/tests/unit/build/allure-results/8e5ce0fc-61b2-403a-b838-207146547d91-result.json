@@ -1,0 +1,50 @@
+{
+    "uuid": "8e5ce0fc-61b2-403a-b838-207146547d91",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest::testImportException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071479,
+    "stop": 1711693071479,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"group invalid data type\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1fb7cbb35d607087d4a8406de5391335",
+    "testCaseId": "33457f9c8ae8b0ae759c9ae4359b8bd3",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest::testImportException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testImportException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

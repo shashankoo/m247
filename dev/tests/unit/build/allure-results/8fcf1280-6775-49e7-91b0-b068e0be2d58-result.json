@@ -1,0 +1,43 @@
+{
+    "uuid": "8fcf1280-6775-49e7-91b0-b068e0be2d58",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ItemTest::testGetClickCallbackReturnsStoppingJsIfItemDoesntHaveAction",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010055,
+    "stop": 1711693010055,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c0ef0de287006c3d9aa938605d89cb87",
+    "testCaseId": "41a87779b9bc9994a791aad798ea5cf8",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ItemTest::testGetClickCallbackReturnsStoppingJsIfItemDoesntHaveAction",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetClickCallbackReturnsStoppingJsIfItemDoesntHaveAction"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

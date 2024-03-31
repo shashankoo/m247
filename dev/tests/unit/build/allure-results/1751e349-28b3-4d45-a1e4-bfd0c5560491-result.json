@@ -1,0 +1,50 @@
+{
+    "uuid": "1751e349-28b3-4d45-a1e4-bfd0c5560491",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Layout\\Argument\\Interpreter\\ObjectTest::testEvaluateWrongClass",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077830,
+    "stop": 1711693077830,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"unexpected class\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "261097449ad035727496da502cb28e09",
+    "testCaseId": "3509c29647d41061ef4779287d3f7f80",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Layout\\Argument\\Interpreter\\ObjectTest::testEvaluateWrongClass",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Layout\\Argument\\Interpreter\\ObjectTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEvaluateWrongClass"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

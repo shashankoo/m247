@@ -1,0 +1,43 @@
+{
+    "uuid": "f95804f9-f0a7-4f01-80dc-97006a971d65",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowExpressTest::testCanRefundCaptureExistNoAdditionalInfo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032344,
+    "stop": 1711693032347,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "90427ed6dd413b59bc3d39acddae764e",
+    "testCaseId": "e9be4aab9ce462ad55f259c57f760746",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowExpressTest::testCanRefundCaptureExistNoAdditionalInfo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowExpressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanRefundCaptureExistNoAdditionalInfo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

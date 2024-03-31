@@ -1,0 +1,50 @@
+{
+    "uuid": "d11516af-e506-401c-baef-ce43ee012ffa",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\ArrayManagerTest::testFindPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076623,
+    "stop": 1711693076623,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2a0548b740e9b3bafc2d3d52202636ae",
+    "testCaseId": "6613743b35df4ff2e06e77a914f7bb4a",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\ArrayManagerTest::testFindPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\ArrayManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFindPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

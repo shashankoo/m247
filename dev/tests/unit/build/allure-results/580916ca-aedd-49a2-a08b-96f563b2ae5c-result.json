@@ -1,0 +1,43 @@
+{
+    "uuid": "580916ca-aedd-49a2-a08b-96f563b2ae5c",
+    "name": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\RequestTest::testGetFiles",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073662,
+    "stop": 1711693073662,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "00f459ca23456b3377c4e7bed944a052",
+    "testCaseId": "a7594d583bcab34c593422bec82843e6",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\RequestTest::testGetFiles",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\RequestTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFiles"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "c0b1f63a-09e4-4f7d-a5af-6bf8cf13c9a4",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Console\\MaintenanceModeEnablerTest::testSuccessfulTask",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057860,
+    "stop": 1711693057861,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Maintenance mode enabled initially\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c46519fe3be476242e66e2143ac92281",
+    "testCaseId": "d361f9487adbf526f2734259a3fb4100",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Console\\MaintenanceModeEnablerTest::testSuccessfulTask",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Console\\MaintenanceModeEnablerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSuccessfulTask"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

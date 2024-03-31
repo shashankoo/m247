@@ -1,0 +1,50 @@
+{
+    "uuid": "da3281f8-e03b-44df-bdd1-1ab37e19819d",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testCanRefund",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038151,
+    "stop": 1711693038152,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a25be966dd6142e0ed9622406b5c778c",
+    "testCaseId": "a769e15f39146baf4e1d5f9841afeda0",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testCanRefund",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanRefund"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

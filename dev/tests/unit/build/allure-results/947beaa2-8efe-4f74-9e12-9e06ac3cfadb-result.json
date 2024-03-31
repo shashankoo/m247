@@ -1,0 +1,43 @@
+{
+    "uuid": "947beaa2-8efe-4f74-9e12-9e06ac3cfadb",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\TierPriceStorageTest::testGetWithoutTierPrices",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015276,
+    "stop": 1711693015277,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "91f05bd6ed2b82aeecb82b41528c31e9",
+    "testCaseId": "94710706e6e9b8ddbba34c154cf4ea8d",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\TierPriceStorageTest::testGetWithoutTierPrices",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\TierPriceStorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetWithoutTierPrices"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

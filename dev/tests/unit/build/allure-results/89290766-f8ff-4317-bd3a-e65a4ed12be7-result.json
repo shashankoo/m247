@@ -1,0 +1,50 @@
+{
+    "uuid": "89290766-f8ff-4317-bd3a-e65a4ed12be7",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Asset\\MinificationTest::testAddMinifiedSign",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077151,
+    "stop": 1711693077151,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ebaf2c24c7b11ae3bf87726995f5119f",
+    "testCaseId": "248779a1018603a4348e19d18ad9d62d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Asset\\MinificationTest::testAddMinifiedSign",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Asset\\MinificationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddMinifiedSign"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

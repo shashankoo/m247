@@ -1,0 +1,50 @@
+{
+    "uuid": "9370f6aa-bd2c-405c-a9b6-4cb4f2964524",
+    "name": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\ProcessorFacadeTest::testProcessWithValidatorException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017784,
+    "stop": 1711693017784,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e454161bdf1922d172ba93067f017d82",
+    "testCaseId": "f1d49f5295be134ea323b68e0bf3ade4",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\ProcessorFacadeTest::testProcessWithValidatorException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\ProcessorFacadeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessWithValidatorException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

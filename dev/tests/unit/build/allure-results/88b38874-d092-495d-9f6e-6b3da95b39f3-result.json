@@ -1,0 +1,43 @@
+{
+    "uuid": "88b38874-d092-495d-9f6e-6b3da95b39f3",
+    "name": "Magento\\Config\\Test\\Unit\\App\\Config\\Source\\RuntimeConfigSourceTest::testGetWhenDbIsEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017586,
+    "stop": 1711693017589,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8323b45dfc88bb4a20112b8f861bbd02",
+    "testCaseId": "d898fff41c0f6f95acc4a50139ced682",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\App\\Config\\Source\\RuntimeConfigSourceTest::testGetWhenDbIsEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\App\\Config\\Source\\RuntimeConfigSourceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetWhenDbIsEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

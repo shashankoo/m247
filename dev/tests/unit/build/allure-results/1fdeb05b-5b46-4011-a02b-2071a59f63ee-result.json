@@ -1,0 +1,50 @@
+{
+    "uuid": "1fdeb05b-5b46-4011-a02b-2071a59f63ee",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Declaration\\SchemaBuilderTest::testBuild",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076304,
+    "stop": 1711693076323,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6b19d660036165ae3d126fa0dc97b753",
+    "testCaseId": "186e50034230efe18eb57743a6298b52",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Declaration\\SchemaBuilderTest::testBuild",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Declaration\\SchemaBuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuild"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "edc2cdd5-6b8d-4984-8c81-58d5c2eaf3e0",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Config\\ConfigTest::testGetCountrySpecificCardTypeConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056167,
+    "stop": 1711693056168,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"valid data\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9ac943483e4d9af9dfdc172976a663e0",
+    "testCaseId": "498c50df69d7fe0e946f484c7947169e",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Config\\ConfigTest::testGetCountrySpecificCardTypeConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Config\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCountrySpecificCardTypeConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

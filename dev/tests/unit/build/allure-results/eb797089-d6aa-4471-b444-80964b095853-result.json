@@ -1,0 +1,50 @@
+{
+    "uuid": "eb797089-d6aa-4471-b444-80964b095853",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\SetTest::testValidateWithExistingName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022694,
+    "stop": 1711693022694,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1b8c07630ebbd60dc93228f05cb2f65c",
+    "testCaseId": "b22378f75727c36e95520aa1e5f47f2d",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\SetTest::testValidateWithExistingName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\SetTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateWithExistingName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "fba58997-bb3a-45fd-b6ba-31adf50c82c3",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\Plugin\\IndexerConfigDataTest::testAfterGet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014529,
+    "stop": 1711693014529,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b53382299fb144478f03796e2c2532d2",
+    "testCaseId": "e5032f69521df525e320d790ba3cd8c5",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\Plugin\\IndexerConfigDataTest::testAfterGet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\Plugin\\IndexerConfigDataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

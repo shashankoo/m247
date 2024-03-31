@@ -1,0 +1,50 @@
+{
+    "uuid": "e1d8f914-8cd7-411c-9cc8-7411181f0bdb",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\ProductTest::testGetProductCategoriesDataSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011818,
+    "stop": 1711693011819,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "737be0d4719be035fbbceba869739787",
+    "testCaseId": "59bccd06124728d9a370bd432ca28113",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\ProductTest::testGetProductCategoriesDataSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetProductCategoriesDataSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

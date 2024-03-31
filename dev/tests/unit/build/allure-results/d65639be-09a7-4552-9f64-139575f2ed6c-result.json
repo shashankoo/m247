@@ -1,0 +1,43 @@
+{
+    "uuid": "d65639be-09a7-4552-9f64-139575f2ed6c",
+    "name": "Magento\\AdobeStockClient\\Test\\Unit\\Model\\ClientTest::testGetLicenseConfirmation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008693,
+    "stop": 1711693008697,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "db8aea8818960b6d54423a83d241b1a0",
+    "testCaseId": "e64286dd4e50a27f0dac3c6282868e43",
+    "rerunOf": null,
+    "fullName": "Magento\\AdobeStockClient\\Test\\Unit\\Model\\ClientTest::testGetLicenseConfirmation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdobeStockClient\\Test\\Unit\\Model\\ClientTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLicenseConfirmation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

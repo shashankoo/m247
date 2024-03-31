@@ -1,0 +1,50 @@
+{
+    "uuid": "2a97432c-7ac4-48c9-aea1-a87045ab7552",
+    "name": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Config\\CompiledTest::testConstructorFieldsValidation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074712,
+    "stop": 1711693074712,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b9bc87bbfb4e86a5441e419d3de999f8",
+    "testCaseId": "08bc2463b37b57fdcc1d4aebb23cb8ff",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Config\\CompiledTest::testConstructorFieldsValidation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Config\\CompiledTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructorFieldsValidation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

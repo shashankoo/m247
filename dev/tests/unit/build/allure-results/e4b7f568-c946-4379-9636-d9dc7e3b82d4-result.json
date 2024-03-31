@@ -1,0 +1,50 @@
+{
+    "uuid": "e4b7f568-c946-4379-9636-d9dc7e3b82d4",
+    "name": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\DbTableTest::testWrite",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076065,
+    "stop": 1711693076066,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"session_not_exists\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4a7b688af1b142b855be3d65ea8a8f75",
+    "testCaseId": "086846333c81897ed0b5a1a1c115b91d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\DbTableTest::testWrite",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\DbTableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWrite"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

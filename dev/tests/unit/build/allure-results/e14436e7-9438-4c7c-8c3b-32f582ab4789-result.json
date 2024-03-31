@@ -1,0 +1,50 @@
+{
+    "uuid": "e14436e7-9438-4c7c-8c3b-32f582ab4789",
+    "name": "Magento\\Catalog\\Test\\Unit\\ViewModel\\Product\\Checker\\AddToCompareAvailabilityTest::testIsAvailableForCompare",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016418,
+    "stop": 1711693016418,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "91f2f6cf312addb110809937adb53f43",
+    "testCaseId": "c6232277c55f7475db2bbb31ddd6eb1f",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\ViewModel\\Product\\Checker\\AddToCompareAvailabilityTest::testIsAvailableForCompare",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\ViewModel\\Product\\Checker\\AddToCompareAvailabilityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAvailableForCompare"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

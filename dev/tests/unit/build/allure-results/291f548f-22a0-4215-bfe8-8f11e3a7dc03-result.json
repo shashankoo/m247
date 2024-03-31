@@ -1,0 +1,43 @@
+{
+    "uuid": "291f548f-22a0-4215-bfe8-8f11e3a7dc03",
+    "name": "Magento\\CustomerGraphQl\\Test\\Unit\\Model\\Resolver\\RevokeCustomerTokenTest::testRevokeCustomerToken",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019143,
+    "stop": 1711693019144,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "957f49f4f9d950bd97fb7d37bc2d3f19",
+    "testCaseId": "090ba0a0516946c755f195130a2e7dbc",
+    "rerunOf": null,
+    "fullName": "Magento\\CustomerGraphQl\\Test\\Unit\\Model\\Resolver\\RevokeCustomerTokenTest::testRevokeCustomerToken",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CustomerGraphQl\\Test\\Unit\\Model\\Resolver\\RevokeCustomerTokenTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRevokeCustomerToken"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

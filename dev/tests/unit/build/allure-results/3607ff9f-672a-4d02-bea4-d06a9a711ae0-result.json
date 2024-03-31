@@ -1,0 +1,50 @@
+{
+    "uuid": "3607ff9f-672a-4d02-bea4-d06a9a711ae0",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\AuthenticationTest::testProcessAuthenticationFailureFirstAttempt",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020374,
+    "stop": 1711693020374,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"max attempt\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "81b94afc65062d2ced12c49cfacbd3fa",
+    "testCaseId": "dfa346fea5e1f9c2b243e03870dd55de",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\AuthenticationTest::testProcessAuthenticationFailureFirstAttempt",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\AuthenticationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessAuthenticationFailureFirstAttempt"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

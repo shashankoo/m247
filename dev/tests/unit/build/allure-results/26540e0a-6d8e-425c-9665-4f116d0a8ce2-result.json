@@ -1,0 +1,50 @@
+{
+    "uuid": "26540e0a-6d8e-425c-9665-4f116d0a8ce2",
+    "name": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\Form\\Fieldset\\Modules\\DisableOutputTest::testRender",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017679,
+    "stop": 1711693017680,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"collapsedNotNestedExtra\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "80e6fe0fee1f01fe5e96b8226df29335",
+    "testCaseId": "f2f0a78e39d943becbaebef39cb60716",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\Form\\Fieldset\\Modules\\DisableOutputTest::testRender",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\Form\\Fieldset\\Modules\\DisableOutputTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRender"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

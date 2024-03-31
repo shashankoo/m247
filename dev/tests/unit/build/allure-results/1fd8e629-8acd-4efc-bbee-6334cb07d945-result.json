@@ -1,0 +1,43 @@
+{
+    "uuid": "1fd8e629-8acd-4efc-bbee-6334cb07d945",
+    "name": "Magento\\Theme\\Test\\Unit\\Model\\Theme\\ResolverTest::testGetByAreaWithOtherAreaAndNumericThemeId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043566,
+    "stop": 1711693043567,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "66b144b2c5f5c9dfd419406d0a6b8ac4",
+    "testCaseId": "99662862f9d8f63010995f5ddf20c1ce",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Model\\Theme\\ResolverTest::testGetByAreaWithOtherAreaAndNumericThemeId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Model\\Theme\\ResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetByAreaWithOtherAreaAndNumericThemeId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

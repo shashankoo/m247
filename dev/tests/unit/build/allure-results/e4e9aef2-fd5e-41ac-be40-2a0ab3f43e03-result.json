@@ -1,0 +1,50 @@
+{
+    "uuid": "e4e9aef2-fd5e-41ac-be40-2a0ab3f43e03",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Request\\PayPal\\VaultDataBuilderTest::testBuild",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056260,
+    "stop": 1711693056261,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1dd187774686fece2cd14c3cbc558c8b",
+    "testCaseId": "6b8e091b11e60f7aae39752b4ba798ba",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Request\\PayPal\\VaultDataBuilderTest::testBuild",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Request\\PayPal\\VaultDataBuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuild"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

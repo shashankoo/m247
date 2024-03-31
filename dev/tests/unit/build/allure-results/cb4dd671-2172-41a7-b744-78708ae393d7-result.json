@@ -1,0 +1,50 @@
+{
+    "uuid": "cb4dd671-2172-41a7-b744-78708ae393d7",
+    "name": "Magento\\Catalog\\Test\\Unit\\Helper\\ImageTest::testInitKeepFrame",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014035,
+    "stop": 1711693014036,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "592a50e3b9601907693e1117746d2c2d",
+    "testCaseId": "81b60bf002f68fe9ba17de5fa1b1a67a",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Helper\\ImageTest::testInitKeepFrame",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Helper\\ImageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInitKeepFrame"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

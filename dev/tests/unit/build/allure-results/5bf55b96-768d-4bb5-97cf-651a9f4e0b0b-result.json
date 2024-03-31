@@ -1,0 +1,43 @@
+{
+    "uuid": "5bf55b96-768d-4bb5-97cf-651a9f4e0b0b",
+    "name": "Magento\\Framework\\Code\\Test\\Unit\\Validator\\ConstructorIntegrityTest::testValidateIfClassHasArgumentsQtyEqualToParentClass",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069477,
+    "stop": 1711693069478,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "42b922a03f6ae6874c3239560952ba3a",
+    "testCaseId": "7396c3fdebd7c9955ccf70c1c8787be6",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Code\\Test\\Unit\\Validator\\ConstructorIntegrityTest::testValidateIfClassHasArgumentsQtyEqualToParentClass",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Code\\Test\\Unit\\Validator\\ConstructorIntegrityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateIfClassHasArgumentsQtyEqualToParentClass"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

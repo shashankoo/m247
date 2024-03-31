@@ -1,0 +1,43 @@
+{
+    "uuid": "d2bf139b-cce5-4a9b-8756-9f506b38a7b7",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\SaveTest::testExecuteNotValidPost",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037098,
+    "stop": 1711693037101,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "30e4521e34d9e74b3c35119c404097cf",
+    "testCaseId": "4c66b5697d8e9800345631999d57fc51",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\SaveTest::testExecuteNotValidPost",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteNotValidPost"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

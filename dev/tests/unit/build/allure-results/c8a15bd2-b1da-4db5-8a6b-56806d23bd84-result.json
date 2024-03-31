@@ -1,0 +1,50 @@
+{
+    "uuid": "c8a15bd2-b1da-4db5-8a6b-56806d23bd84",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Account\\CustomerTest::testCustomerLoggedIn",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019250,
+    "stop": 1711693019252,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c5e13ee12d83610d02564bdf8ccc331c",
+    "testCaseId": "07cb4a6f4f61b334f8c808c826fd4b97",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Account\\CustomerTest::testCustomerLoggedIn",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Account\\CustomerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCustomerLoggedIn"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

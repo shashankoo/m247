@@ -1,0 +1,50 @@
+{
+    "uuid": "bbe5b1b8-8aa7-470f-af9e-920affb04243",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Plugin\\Catalog\\Model\\Product\\Pricing\\Renderer\\SalableResolverTest::testAfterIsSalable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018692,
+    "stop": 1711693018693,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f5fcf1dfedd80f8c47dade2ed4201e86",
+    "testCaseId": "bf407a382a2d4a4afc6ec15a5a87aeec",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Plugin\\Catalog\\Model\\Product\\Pricing\\Renderer\\SalableResolverTest::testAfterIsSalable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Plugin\\Catalog\\Model\\Product\\Pricing\\Renderer\\SalableResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterIsSalable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

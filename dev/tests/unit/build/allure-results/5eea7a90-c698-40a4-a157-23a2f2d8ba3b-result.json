@@ -1,0 +1,50 @@
+{
+    "uuid": "5eea7a90-c698-40a4-a157-23a2f2d8ba3b",
+    "name": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\AbstractCustomerTest::testCheckUniqueKey",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019165,
+    "stop": 1711693019166,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"valid\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4f2fc0b7da1c8473fb58d5d6f94b3a69",
+    "testCaseId": "2aa92ecff35cd850a4d108cf43d69abf",
+    "rerunOf": null,
+    "fullName": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\AbstractCustomerTest::testCheckUniqueKey",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\AbstractCustomerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckUniqueKey"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

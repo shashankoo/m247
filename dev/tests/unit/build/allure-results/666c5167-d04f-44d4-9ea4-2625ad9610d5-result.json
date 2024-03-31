@@ -1,0 +1,50 @@
+{
+    "uuid": "666c5167-d04f-44d4-9ea4-2625ad9610d5",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\AbstractTypeTest::testAddAttributeOption",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011478,
+    "stop": 1711693011479,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9f31b5a679be2b4c770a01fb2e896c46",
+    "testCaseId": "35effd04a1a5a8c43cd9bd438aca6e79",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\AbstractTypeTest::testAddAttributeOption",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\AbstractTypeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddAttributeOption"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

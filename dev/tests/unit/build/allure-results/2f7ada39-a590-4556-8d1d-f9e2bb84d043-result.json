@@ -1,0 +1,50 @@
+{
+    "uuid": "2f7ada39-a590-4556-8d1d-f9e2bb84d043",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\Form\\AbstractFormTest::testSerialize",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070954,
+    "stop": 1711693070954,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a4657088c24732b57e80ab986dbc18b5",
+    "testCaseId": "2012c41fceebd8eb56ebac2d6574f687",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\Form\\AbstractFormTest::testSerialize",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\Form\\AbstractFormTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSerialize"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

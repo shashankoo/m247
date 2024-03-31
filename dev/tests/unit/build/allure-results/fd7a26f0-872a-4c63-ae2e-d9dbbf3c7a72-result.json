@@ -1,0 +1,50 @@
+{
+    "uuid": "fd7a26f0-872a-4c63-ae2e-d9dbbf3c7a72",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Validation\\CanShipTest::testCanShipWrongState",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039555,
+    "stop": 1711693039571,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3d57f337143cef26b128349d1a1af630",
+    "testCaseId": "e88728ff36a2b393e6064a93c2a19c2f",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Validation\\CanShipTest::testCanShipWrongState",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Validation\\CanShipTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanShipWrongState"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

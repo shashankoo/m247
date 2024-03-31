@@ -1,0 +1,50 @@
+{
+    "uuid": "cb01e225-33d5-480f-afe9-d5c0eec7c991",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Collection\\AbstractCollectionTest::testRemoveAllItems",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022760,
+    "stop": 1711693022760,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b5ee2a7e8960f7c355a690bee3030f1c",
+    "testCaseId": "dd1e56ed1aa8289812e5c3820b7078ad",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Collection\\AbstractCollectionTest::testRemoveAllItems",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Collection\\AbstractCollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRemoveAllItems"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

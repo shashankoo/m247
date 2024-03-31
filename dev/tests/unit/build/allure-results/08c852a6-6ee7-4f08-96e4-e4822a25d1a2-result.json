@@ -1,0 +1,50 @@
+{
+    "uuid": "08c852a6-6ee7-4f08-96e4-e4822a25d1a2",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\SaveTest::testExecuteEmails",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037110,
+    "stop": 1711693037111,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "def755030b9e7173c54ca46a87ae964f",
+    "testCaseId": "9d9b4de36598482e74e327bc72f3e0d1",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\SaveTest::testExecuteEmails",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteEmails"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

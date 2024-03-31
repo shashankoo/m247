@@ -1,0 +1,43 @@
+{
+    "uuid": "b7b1d182-ab3e-4128-b6a1-d0afe67e5325",
+    "name": "Magento\\Security\\Test\\Unit\\Model\\AdminSessionInfoTest::testSessionExpiredWhenUpdatedAtIsNull",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041253,
+    "stop": 1711693041253,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b9e4b0a80f5af18324842c54928a2fd7",
+    "testCaseId": "b8faf719d125a117c331b1c588539225",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Model\\AdminSessionInfoTest::testSessionExpiredWhenUpdatedAtIsNull",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Model\\AdminSessionInfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSessionExpiredWhenUpdatedAtIsNull"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

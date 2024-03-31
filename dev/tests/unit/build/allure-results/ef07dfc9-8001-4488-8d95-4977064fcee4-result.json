@@ -1,0 +1,50 @@
+{
+    "uuid": "ef07dfc9-8001-4488-8d95-4977064fcee4",
+    "name": "Magento\\Framework\\Test\\Unit\\ProfilerTest::testTagFilterPass",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056690,
+    "stop": 1711693056691,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"more than one tag with expected\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "df53e3b50a60948227950becf2dbf130",
+    "testCaseId": "2941da354aad7ba1dc8ff84b3706cd71",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\ProfilerTest::testTagFilterPass",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\ProfilerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testTagFilterPass"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

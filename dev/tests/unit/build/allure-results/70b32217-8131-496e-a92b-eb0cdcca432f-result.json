@@ -1,0 +1,43 @@
+{
+    "uuid": "70b32217-8131-496e-a92b-eb0cdcca432f",
+    "name": "Magento\\CheckoutAgreements\\Test\\Unit\\Model\\AgreementsProviderTest::testGetRequiredAgreementIdsIfAgreementsEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016444,
+    "stop": 1711693016445,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "16391d2408893eff8956512068012722",
+    "testCaseId": "1caba576e02589531f466ab0db9c4b4d",
+    "rerunOf": null,
+    "fullName": "Magento\\CheckoutAgreements\\Test\\Unit\\Model\\AgreementsProviderTest::testGetRequiredAgreementIdsIfAgreementsEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CheckoutAgreements\\Test\\Unit\\Model\\AgreementsProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRequiredAgreementIdsIfAgreementsEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

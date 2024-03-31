@@ -1,0 +1,50 @@
+{
+    "uuid": "ef36b21e-52a4-4da7-bc1a-3b7112f472e3",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Block\\FormTest::testGetCcAvailableTypes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056101,
+    "stop": 1711693056102,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7c49856f0e4c6a210c54810e8bbaac6c",
+    "testCaseId": "5b60cbe117c60ddb6fff5a459b8f7bff",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Block\\FormTest::testGetCcAvailableTypes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Block\\FormTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCcAvailableTypes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

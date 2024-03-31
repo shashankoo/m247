@@ -1,0 +1,43 @@
+{
+    "uuid": "ac4b78ff-f548-43a8-b90f-dc8a8db069cb",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\Timezone\\ValidatorTest::testValidateWithTimestampOutOfSpecifiedRangeThrowsException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076750,
+    "stop": 1711693076750,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "da0c7b5d0b684de94c969641a799b811",
+    "testCaseId": "22a22f3cb07e8f4a2b743e0eeb0d6df5",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\Timezone\\ValidatorTest::testValidateWithTimestampOutOfSpecifiedRangeThrowsException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\Timezone\\ValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateWithTimestampOutOfSpecifiedRangeThrowsException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

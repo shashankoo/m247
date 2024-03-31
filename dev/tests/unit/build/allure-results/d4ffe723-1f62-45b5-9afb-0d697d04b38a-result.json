@@ -1,0 +1,43 @@
+{
+    "uuid": "d4ffe723-1f62-45b5-9afb-0d697d04b38a",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\Validation\\TierPriceValidatorTest::testRetrieveValidationResultWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015288,
+    "stop": 1711693015289,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3fe964856814b648ceb55f3d30d0c959",
+    "testCaseId": "77b913dfbd0e6d08edb30e96670f920f",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\Validation\\TierPriceValidatorTest::testRetrieveValidationResultWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\Validation\\TierPriceValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRetrieveValidationResultWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

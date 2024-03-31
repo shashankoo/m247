@@ -1,0 +1,50 @@
+{
+    "uuid": "a5898af9-8ba5-400e-84f0-13879df06daf",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\TimezoneTest::testGetDatetimeFormat",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076767,
+    "stop": 1711693076767,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "54309eaa4f17dd29e09fed2464805d18",
+    "testCaseId": "8b3dd733493d69086b44900e92cf1964",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\TimezoneTest::testGetDatetimeFormat",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\TimezoneTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDatetimeFormat"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

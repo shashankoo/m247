@@ -1,0 +1,43 @@
+{
+    "uuid": "756204a6-0909-4aa1-9a8b-a2f3a0753e2f",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\CollectionProviderTest::testGetCollectionWithMissingProviders",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014311,
+    "stop": 1711693014312,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3aa0d2007213e9739354a5ce0e6cb398",
+    "testCaseId": "e9901097598f77e08ce73604dee30d59",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\CollectionProviderTest::testGetCollectionWithMissingProviders",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\CollectionProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCollectionWithMissingProviders"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

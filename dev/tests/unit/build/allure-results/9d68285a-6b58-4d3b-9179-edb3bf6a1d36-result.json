@@ -1,0 +1,43 @@
+{
+    "uuid": "9d68285a-6b58-4d3b-9179-edb3bf6a1d36",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Rss\\OrderStatusTest::testGetCacheLifetime",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041007,
+    "stop": 1711693041007,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "49c2cbdb65521d38b83284c86f68275d",
+    "testCaseId": "520ae551377491de7c70b0a82c1f0da8",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Rss\\OrderStatusTest::testGetCacheLifetime",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Rss\\OrderStatusTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCacheLifetime"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

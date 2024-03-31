@@ -1,0 +1,50 @@
+{
+    "uuid": "721dd883-f0cc-4775-aceb-c66080e870ec",
+    "name": "Magento\\Indexer\\Test\\Unit\\Model\\Mview\\View\\StateTest::testSetterAndGetterWithApplicationLock",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693025056,
+    "stop": 1711693025056,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fe191805e65b561939e5214bc7e25f46",
+    "testCaseId": "68eaac715156f261c894f4b8cb7bf017",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Model\\Mview\\View\\StateTest::testSetterAndGetterWithApplicationLock",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Model\\Mview\\View\\StateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetterAndGetterWithApplicationLock"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "532d55a2-116b-4cb0-9c4f-d9a77f9a9d7a",
+    "name": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\ResponseTest::testHasExceptionOfTypeIfExceptionsIsEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078633,
+    "stop": 1711693078633,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "921a58078674de6990b7b29c77f8e672",
+    "testCaseId": "f867142595b6a7d1fad71eef30fc2e7d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\ResponseTest::testHasExceptionOfTypeIfExceptionsIsEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\ResponseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testHasExceptionOfTypeIfExceptionsIsEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

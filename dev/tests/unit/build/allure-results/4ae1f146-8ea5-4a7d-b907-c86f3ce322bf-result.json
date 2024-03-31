@@ -1,0 +1,50 @@
+{
+    "uuid": "4ae1f146-8ea5-4a7d-b907-c86f3ce322bf",
+    "name": "Magento\\Tax\\Test\\Unit\\Block\\Item\\Price\\RendererTest::testDisplayPriceExclTax",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042390,
+    "stop": 1711693042391,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"anythingelse\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5c11e2c76a715a5868570bbc4a83c2d1",
+    "testCaseId": "edde8cef075ab6b7a8f5c6f793fdaea2",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Block\\Item\\Price\\RendererTest::testDisplayPriceExclTax",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Block\\Item\\Price\\RendererTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDisplayPriceExclTax"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "5fe00acc-f40a-4cac-8186-9da00c2e77ce",
+    "name": "Magento\\Integration\\Test\\Unit\\Helper\\Oauth\\DataTest::testGetConsumerPostTimeoutZero",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029988,
+    "stop": 1711693029988,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4f87d173dd723d35b8d223d000eb88d8",
+    "testCaseId": "38e48198461d577db6a6a270e864ff3d",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Helper\\Oauth\\DataTest::testGetConsumerPostTimeoutZero",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Helper\\Oauth\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConsumerPostTimeoutZero"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

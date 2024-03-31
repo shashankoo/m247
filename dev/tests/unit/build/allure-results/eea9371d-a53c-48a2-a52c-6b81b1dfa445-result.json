@@ -1,0 +1,50 @@
+{
+    "uuid": "eea9371d-a53c-48a2-a52c-6b81b1dfa445",
+    "name": "Magento\\Ui\\Test\\Unit\\Controller\\Adminhtml\\Index\\RenderTest::testExecuteAjaxRequestWithoutPermissions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052421,
+    "stop": 1711693052422,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e2207a56625d03d5fa0146c3656d4313",
+    "testCaseId": "98fdf469df53a672bdbfed5e56629d1b",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Controller\\Adminhtml\\Index\\RenderTest::testExecuteAjaxRequestWithoutPermissions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Controller\\Adminhtml\\Index\\RenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteAjaxRequestWithoutPermissions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

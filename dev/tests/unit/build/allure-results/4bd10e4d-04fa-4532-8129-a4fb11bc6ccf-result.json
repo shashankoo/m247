@@ -1,0 +1,43 @@
+{
+    "uuid": "4bd10e4d-04fa-4532-8129-a4fb11bc6ccf",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest::testSaveException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015564,
+    "stop": 1711693015566,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b941c2dd837ec889c249c1c9141c559d",
+    "testCaseId": "e226b383365ae014ff58dd0e351b118f",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest::testSaveException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

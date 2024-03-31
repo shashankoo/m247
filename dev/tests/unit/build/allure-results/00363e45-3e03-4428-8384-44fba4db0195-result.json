@@ -1,0 +1,50 @@
+{
+    "uuid": "00363e45-3e03-4428-8384-44fba4db0195",
+    "name": "Magento\\AdminNotification\\Test\\Unit\\Model\\FeedTest::testCheckUpdate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008514,
+    "stop": 1711693008519,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "982a589cdedcbb7669926d6ed4ca98e0",
+    "testCaseId": "ea6c09535af2e600abaaf309e7f437c4",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminNotification\\Test\\Unit\\Model\\FeedTest::testCheckUpdate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminNotification\\Test\\Unit\\Model\\FeedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckUpdate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

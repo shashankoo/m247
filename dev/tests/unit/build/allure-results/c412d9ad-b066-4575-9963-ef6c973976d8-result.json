@@ -1,0 +1,50 @@
+{
+    "uuid": "c412d9ad-b066-4575-9963-ef6c973976d8",
+    "name": "Magento\\CatalogRule\\Test\\Unit\\Model\\RuleTest::testCallbackValidateProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012386,
+    "stop": 1711693012387,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b93143909536e764f6edeb6e754a9a67",
+    "testCaseId": "1ba72594e9fab1dc950631d14682f0c3",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogRule\\Test\\Unit\\Model\\RuleTest::testCallbackValidateProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogRule\\Test\\Unit\\Model\\RuleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCallbackValidateProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

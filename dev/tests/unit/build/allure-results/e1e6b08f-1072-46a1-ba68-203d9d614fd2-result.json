@@ -1,0 +1,50 @@
+{
+    "uuid": "e1e6b08f-1072-46a1-ba68-203d9d614fd2",
+    "name": "Magento\\Framework\\Code\\Test\\Unit\\Generator\\IoTest::testWriteResultFileAlreadyExists",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069374,
+    "stop": 1711693069374,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Writing file fails because class already exists on disc: writeResultFile succeeds\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "38189a06f2eae8983e7617522143ce05",
+    "testCaseId": "a4c09bb9b119fa017724efbb96d655f4",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Code\\Test\\Unit\\Generator\\IoTest::testWriteResultFileAlreadyExists",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Code\\Test\\Unit\\Generator\\IoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWriteResultFileAlreadyExists"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

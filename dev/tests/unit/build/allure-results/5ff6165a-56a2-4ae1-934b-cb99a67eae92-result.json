@@ -1,0 +1,50 @@
+{
+    "uuid": "5ff6165a-56a2-4ae1-934b-cb99a67eae92",
+    "name": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Type\\Db\\Pdo\\MysqlTest::testConstructor",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074363,
+    "stop": 1711693074363,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skipped in #27500 due to testing protected\/private methods and properties",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"active string true\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e0bd91c88de0a81dbf3f5a1f02fd54c8",
+    "testCaseId": "af861a1ba8e903cf1937cd1178058253",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Type\\Db\\Pdo\\MysqlTest::testConstructor",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Type\\Db\\Pdo\\MysqlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructor"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

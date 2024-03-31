@@ -1,0 +1,43 @@
+{
+    "uuid": "bd44f496-7dd5-4d33-b035-715e082ebeb1",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Customer\\Attribute\\Backend\\PasswordTest::testValidatePositive",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020397,
+    "stop": 1711693020398,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8bf2d4c162db660015415648df96ab63",
+    "testCaseId": "e94909eb43c5effeca79f16f739fdf2d",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Customer\\Attribute\\Backend\\PasswordTest::testValidatePositive",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Customer\\Attribute\\Backend\\PasswordTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidatePositive"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

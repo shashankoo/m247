@@ -1,0 +1,50 @@
+{
+    "uuid": "09d878b7-be34-4027-a978-23c39aeb679d",
+    "name": "Magento\\AsynchronousOperations\\Test\\Unit\\Block\\Adminhtml\\Bulk\\Details\\RetryButtonTest::testGetButtonData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009219,
+    "stop": 1711693009221,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5ee3348086bdd299cc1cdbc84a63419d",
+    "testCaseId": "293a031c96c9f2d3be6ef37732b3f9b4",
+    "rerunOf": null,
+    "fullName": "Magento\\AsynchronousOperations\\Test\\Unit\\Block\\Adminhtml\\Bulk\\Details\\RetryButtonTest::testGetButtonData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AsynchronousOperations\\Test\\Unit\\Block\\Adminhtml\\Bulk\\Details\\RetryButtonTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetButtonData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

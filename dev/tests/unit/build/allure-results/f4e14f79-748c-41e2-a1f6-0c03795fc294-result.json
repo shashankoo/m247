@@ -1,0 +1,50 @@
+{
+    "uuid": "f4e14f79-748c-41e2-a1f6-0c03795fc294",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\AbstractConfigTest::testIsMethodActiveBml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031924,
+    "stop": 1711693031925,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f2efaeeaf5f06826d5f39f0cf85f6c63",
+    "testCaseId": "63803665c49313180444a12171e2efd9",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\AbstractConfigTest::testIsMethodActiveBml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\AbstractConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsMethodActiveBml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

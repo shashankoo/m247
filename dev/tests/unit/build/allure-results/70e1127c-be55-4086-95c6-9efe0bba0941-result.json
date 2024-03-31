@@ -1,0 +1,50 @@
+{
+    "uuid": "70e1127c-be55-4086-95c6-9efe0bba0941",
+    "name": "Magento\\Ui\\Test\\Unit\\Model\\Export\\MetadataProviderTest::testGetRowData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052462,
+    "stop": 1711693052462,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "577bbaaf5ac5a0f34a6921cd3d26a099",
+    "testCaseId": "0b83394d6e7e707a0d25a380c414d4bf",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Model\\Export\\MetadataProviderTest::testGetRowData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Model\\Export\\MetadataProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRowData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

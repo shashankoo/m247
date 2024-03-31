@@ -1,0 +1,43 @@
+{
+    "uuid": "507b80ca-5386-45e5-9ac5-0e0e7046e6a1",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Observer\\DataAssignObserverTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056408,
+    "stop": 1711693056408,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skip this test",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9abf8bdc6d753f4e8e8fbea237f5c581",
+    "testCaseId": "7ba8d28d0018d1b479839800b61922ae",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Observer\\DataAssignObserverTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Observer\\DataAssignObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

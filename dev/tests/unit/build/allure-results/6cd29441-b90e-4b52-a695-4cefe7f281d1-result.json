@@ -1,0 +1,43 @@
+{
+    "uuid": "6cd29441-b90e-4b52-a695-4cefe7f281d1",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\IpnTest::testRegisterPaymentDenial",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032209,
+    "stop": 1711693032211,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "06691e0977621f05883b978f46453747",
+    "testCaseId": "cb92a063eeb76eaa9743e7288cf373e9",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\IpnTest::testRegisterPaymentDenial",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\IpnTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRegisterPaymentDenial"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

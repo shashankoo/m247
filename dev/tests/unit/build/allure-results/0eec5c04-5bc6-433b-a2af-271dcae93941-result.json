@@ -1,0 +1,43 @@
+{
+    "uuid": "0eec5c04-5bc6-433b-a2af-271dcae93941",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\CreditmemoCommentSenderTest::testSendVirtualOrder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037788,
+    "stop": 1711693037789,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8aee7038c0ecc4c44443a343f7730af7",
+    "testCaseId": "d62d109b582fa41063ed4e7c476bfe2e",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\CreditmemoCommentSenderTest::testSendVirtualOrder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\CreditmemoCommentSenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSendVirtualOrder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

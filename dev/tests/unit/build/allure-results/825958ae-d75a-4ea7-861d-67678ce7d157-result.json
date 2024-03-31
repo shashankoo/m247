@@ -1,0 +1,50 @@
+{
+    "uuid": "825958ae-d75a-4ea7-861d-67678ce7d157",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Asset\\PreProcessor\\MinificationFilenameResolverTest::testResolve",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077183,
+    "stop": 1711693077183,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "44020c14a536ab524340cf9623ab5d02",
+    "testCaseId": "865d000c2929b31301c3fb7065c8c6ec",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Asset\\PreProcessor\\MinificationFilenameResolverTest::testResolve",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Asset\\PreProcessor\\MinificationFilenameResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testResolve"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

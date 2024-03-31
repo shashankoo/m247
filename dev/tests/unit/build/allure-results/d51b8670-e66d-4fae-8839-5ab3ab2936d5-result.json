@@ -1,0 +1,50 @@
+{
+    "uuid": "d51b8670-e66d-4fae-8839-5ab3ab2936d5",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Asset\\MergeServiceTest::testGetMergedAssets",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077130,
+    "stop": 1711693077130,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"css default mode\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5c2cd97bfc64ea2ed16e3825df327418",
+    "testCaseId": "231c27e6bc80a983a22afa0b71757e95",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Asset\\MergeServiceTest::testGetMergedAssets",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Asset\\MergeServiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMergedAssets"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "3961dbfe-6ecc-4623-b2f7-1dde5e94fb9d",
+    "name": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\Product\\Listing\\Collector\\ImageTest::testEmulateImageCreating",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016372,
+    "stop": 1711693016373,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "04e8eca197412b6f7d3c4415f9be9f05",
+    "testCaseId": "3ba96185d4b1927136c65269b9a5894d",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\Product\\Listing\\Collector\\ImageTest::testEmulateImageCreating",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\Product\\Listing\\Collector\\ImageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEmulateImageCreating"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

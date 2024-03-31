@@ -1,0 +1,50 @@
+{
+    "uuid": "45e4599e-0924-4355-8db5-936c1591974b",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Cache\\Frontend\\PoolTest::testInitializationParams",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057711,
+    "stop": 1711693057712,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"custom deployent config, default settings, overridden settings\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "54194717828081e98a5b0f3f1f4de8ca",
+    "testCaseId": "f919508e71a74326078e80e596419dda",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Cache\\Frontend\\PoolTest::testInitializationParams",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Cache\\Frontend\\PoolTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInitializationParams"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

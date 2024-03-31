@@ -1,0 +1,50 @@
+{
+    "uuid": "132e88f9-e947-44ee-953c-ca3433cf58b5",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Block\\QtyincrementsTest::testGetProductQtyIncrements",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011886,
+    "stop": 1711693011886,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a3655f4955c776b98181369601fbb8bd",
+    "testCaseId": "f6a78cdedfc13648a0d7958d95798570",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Block\\QtyincrementsTest::testGetProductQtyIncrements",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Block\\QtyincrementsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetProductQtyIncrements"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

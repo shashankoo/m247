@@ -1,0 +1,43 @@
+{
+    "uuid": "c94ce17c-383b-4fb1-8a8b-71e743e5678a",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\Ddl\\TriggerTest::testWrongTimeTypeException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070685,
+    "stop": 1711693070685,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d5b1dc78aeff66c45c284f76f6c2830f",
+    "testCaseId": "07b78a2da90f541bd1ca631f01ec4241",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\Ddl\\TriggerTest::testWrongTimeTypeException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\Ddl\\TriggerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWrongTimeTypeException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

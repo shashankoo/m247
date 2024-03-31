@@ -1,0 +1,43 @@
+{
+    "uuid": "bd4c1572-bf67-4f3d-8567-9b61cf45dcbd",
+    "name": "Magento\\Framework\\Acl\\Test\\Unit\\AclResource\\ProviderTest::testGetIfAclResourcesExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057545,
+    "stop": 1711693057546,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "46530ea37f60110ec90b5262535fab31",
+    "testCaseId": "d8ad231b85ee8f16504cb86eb00c7d56",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Acl\\Test\\Unit\\AclResource\\ProviderTest::testGetIfAclResourcesExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Acl\\Test\\Unit\\AclResource\\ProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIfAclResourcesExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

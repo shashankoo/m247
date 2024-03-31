@@ -1,0 +1,43 @@
+{
+    "uuid": "8b4c1b60-6d6f-499b-a46e-2c3b33e27778",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest::testGetByIdWithSetStoreId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015551,
+    "stop": 1711693015551,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "796280fd0137a9e86e2e5511210a845a",
+    "testCaseId": "0be613f8f7c4ed30c3ae5af1f64a5060",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest::testGetByIdWithSetStoreId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetByIdWithSetStoreId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

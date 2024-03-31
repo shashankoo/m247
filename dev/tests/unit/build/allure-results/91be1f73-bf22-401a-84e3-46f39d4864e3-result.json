@@ -1,0 +1,50 @@
+{
+    "uuid": "91be1f73-bf22-401a-84e3-46f39d4864e3",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\ShipmentFactoryTest::testCreateWithFloatQtyShipment",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039141,
+    "stop": 1711693039143,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "260e2c3b37866936b4b9a97d5ab3e884",
+    "testCaseId": "3524af524e8b59a7e996e983e7d17b0e",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\ShipmentFactoryTest::testCreateWithFloatQtyShipment",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\ShipmentFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateWithFloatQtyShipment"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

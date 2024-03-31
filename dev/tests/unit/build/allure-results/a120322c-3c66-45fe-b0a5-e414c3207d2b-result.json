@@ -1,0 +1,43 @@
+{
+    "uuid": "a120322c-3c66-45fe-b0a5-e414c3207d2b",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\StatementAggregatorTest::testAddStatementsWithTriggers",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076289,
+    "stop": 1711693076289,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a7d3e5efb8b363d9376a1cefe43dcbdb",
+    "testCaseId": "788b71ec43c9119bb16265b374bb5e8e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\StatementAggregatorTest::testAddStatementsWithTriggers",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\StatementAggregatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddStatementsWithTriggers"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

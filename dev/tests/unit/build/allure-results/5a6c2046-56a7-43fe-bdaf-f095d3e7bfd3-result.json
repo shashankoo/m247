@@ -1,0 +1,50 @@
+{
+    "uuid": "5a6c2046-56a7-43fe-bdaf-f095d3e7bfd3",
+    "name": "Magento\\AdminNotification\\Test\\Unit\\Model\\System\\Message\\Media\\Synchronization\\ErrorTest::testIsDisplayed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008539,
+    "stop": 1711693008539,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "33f3685b49311af83f89d5547729ae92",
+    "testCaseId": "9599ada8f1c9b5122497278e4a28be10",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminNotification\\Test\\Unit\\Model\\System\\Message\\Media\\Synchronization\\ErrorTest::testIsDisplayed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminNotification\\Test\\Unit\\Model\\System\\Message\\Media\\Synchronization\\ErrorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsDisplayed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "9d221878-ff6a-4714-9013-66ef11bd6773",
+    "name": "Magento\\Framework\\Module\\Test\\Unit\\StatusTest::testCheckConstraintsDisableNotAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074469,
+    "stop": 1711693074469,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d921e091b4ed77fa45af37188fde9196",
+    "testCaseId": "8dbac2c1ff511df40dbb48fe6b4a27fb",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Module\\Test\\Unit\\StatusTest::testCheckConstraintsDisableNotAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Module\\Test\\Unit\\StatusTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckConstraintsDisableNotAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

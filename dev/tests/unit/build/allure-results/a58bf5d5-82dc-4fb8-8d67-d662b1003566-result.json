@@ -1,0 +1,50 @@
+{
+    "uuid": "a58bf5d5-82dc-4fb8-8d67-d662b1003566",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\System\\Message\\Notification\\ApplyDiscountOnPricesTest::testIsDisplayed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042746,
+    "stop": 1711693042746,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3bdbe7fd689a53f55fae1e1ed26fd7d6",
+    "testCaseId": "b631cddc54e0ef775576ff8a7ccc37a7",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\System\\Message\\Notification\\ApplyDiscountOnPricesTest::testIsDisplayed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\System\\Message\\Notification\\ApplyDiscountOnPricesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsDisplayed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

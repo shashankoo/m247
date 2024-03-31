@@ -1,0 +1,43 @@
+{
+    "uuid": "eff10f98-6726-4777-a0eb-eb0d2f28bad0",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\MultishippingTest::testCreateOrders",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030764,
+    "stop": 1711693030775,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3f0d55bd576af50a8fa294ce40bf89c0",
+    "testCaseId": "9563ef7f9d4cf92f51f9b41230752ad1",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\MultishippingTest::testCreateOrders",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\MultishippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateOrders"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

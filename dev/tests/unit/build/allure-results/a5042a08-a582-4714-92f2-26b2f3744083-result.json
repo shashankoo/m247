@@ -1,0 +1,43 @@
+{
+    "uuid": "a5042a08-a582-4714-92f2-26b2f3744083",
+    "name": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\View\\GalleryTest::testGetGalleryImagesJsonWithLabel",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013651,
+    "stop": 1711693013653,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "70b3ca7a2084540621a03ca6b1614a37",
+    "testCaseId": "bfd1001794f033e4a3b678aebdc94cc9",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\View\\GalleryTest::testGetGalleryImagesJsonWithLabel",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\View\\GalleryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetGalleryImagesJsonWithLabel"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

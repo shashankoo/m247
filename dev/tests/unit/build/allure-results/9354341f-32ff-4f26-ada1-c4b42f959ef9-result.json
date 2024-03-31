@@ -1,0 +1,43 @@
+{
+    "uuid": "9354341f-32ff-4f26-ada1-c4b42f959ef9",
+    "name": "Magento\\Catalog\\Test\\Unit\\Setup\\CategorySetupTest::testGetDefaultEntitiesContainAllAttributes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016185,
+    "stop": 1711693016193,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "52fbf33dd11ea38252a6e1042c02862b",
+    "testCaseId": "522a130bf9a2a3f9ac8f557da8785bbd",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Setup\\CategorySetupTest::testGetDefaultEntitiesContainAllAttributes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Setup\\CategorySetupTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDefaultEntitiesContainAllAttributes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

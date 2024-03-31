@@ -1,0 +1,50 @@
+{
+    "uuid": "f8028f06-1bd0-4f78-a2f6-a7e5c6fbc65c",
+    "name": "Magento\\Framework\\Filesystem\\Test\\Unit\\DirectoryListTest::testAssertUrlPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073203,
+    "stop": 1711693073203,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1ca4fd31ac0e4fea1780ebe3ddcfa359",
+    "testCaseId": "28d7026a5cc8453af2c27553039887f0",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filesystem\\Test\\Unit\\DirectoryListTest::testAssertUrlPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filesystem\\Test\\Unit\\DirectoryListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAssertUrlPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

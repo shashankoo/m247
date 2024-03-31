@@ -1,0 +1,50 @@
+{
+    "uuid": "c05c4f48-d4d7-4fa8-a01d-8a3e667d2f53",
+    "name": "Magento\\MediaGalleryUi\\Test\\Unit\\Model\\UploadImageTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030377,
+    "stop": 1711693030378,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d52bad18a238ed90cb2b3e0524652c46",
+    "testCaseId": "1c54b5433256f5ffe9212dbf18f89df1",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaGalleryUi\\Test\\Unit\\Model\\UploadImageTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaGalleryUi\\Test\\Unit\\Model\\UploadImageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

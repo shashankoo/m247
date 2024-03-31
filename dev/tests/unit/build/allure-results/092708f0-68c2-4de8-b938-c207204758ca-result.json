@@ -1,0 +1,43 @@
+{
+    "uuid": "092708f0-68c2-4de8-b938-c207204758ca",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\ShipmentCommentSenderTest::testSendTrueWithCustomerCopy",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037844,
+    "stop": 1711693037845,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "609365cbc6f6bc1c3cef002e8d2ba5a4",
+    "testCaseId": "792dc03fc9add23d3daed22ea042791c",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\ShipmentCommentSenderTest::testSendTrueWithCustomerCopy",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\ShipmentCommentSenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSendTrueWithCustomerCopy"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

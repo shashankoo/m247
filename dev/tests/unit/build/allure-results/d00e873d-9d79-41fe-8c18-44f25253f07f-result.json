@@ -1,0 +1,43 @@
+{
+    "uuid": "d00e873d-9d79-41fe-8c18-44f25253f07f",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\AttributeSetManagementTest::testCreateThrowsExceptionIfGivenAttributeSetAlreadyHasId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022516,
+    "stop": 1711693022517,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "933db1a8bb9fbf8863371d65610df909",
+    "testCaseId": "957b0ab903a4282a84d32480d5379117",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\AttributeSetManagementTest::testCreateThrowsExceptionIfGivenAttributeSetAlreadyHasId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\AttributeSetManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateThrowsExceptionIfGivenAttributeSetAlreadyHasId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "82ee7d6f-7367-4f88-950a-99662e2ed721",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Backend\\PriceTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014906,
+    "stop": 1711693014906,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"zero\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "146814b967f09c19d5203f224650e098",
+    "testCaseId": "8f2cc0243f1d5de88540b64e5389eb18",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Backend\\PriceTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Backend\\PriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

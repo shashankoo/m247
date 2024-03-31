@@ -1,0 +1,43 @@
+{
+    "uuid": "87f191a5-185b-4bdb-84dd-1bbe06042616",
+    "name": "Magento\\Captcha\\Test\\Unit\\Controller\\Refresh\\IndexTest::testCaptchaGeneratedWhenPostDataContainsFormId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011248,
+    "stop": 1711693011252,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1d920959d681ba4e2e7d8cf09261947c",
+    "testCaseId": "c938ea0066a6f3d103ad52a5cc0e031e",
+    "rerunOf": null,
+    "fullName": "Magento\\Captcha\\Test\\Unit\\Controller\\Refresh\\IndexTest::testCaptchaGeneratedWhenPostDataContainsFormId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Captcha\\Test\\Unit\\Controller\\Refresh\\IndexTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCaptchaGeneratedWhenPostDataContainsFormId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

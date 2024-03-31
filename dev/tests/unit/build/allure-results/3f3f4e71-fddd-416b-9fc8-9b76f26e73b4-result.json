@@ -1,0 +1,43 @@
+{
+    "uuid": "3f3f4e71-fddd-416b-9fc8-9b76f26e73b4",
+    "name": "Magento\\Email\\Test\\Unit\\Model\\TemplateTest::testProcessTemplateThrowsExceptionNonExistentTemplate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023760,
+    "stop": 1711693023760,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e2c49d65967ceed69ac76cdb7a00d867",
+    "testCaseId": "7004f9532e658b20667bb7d4750dee45",
+    "rerunOf": null,
+    "fullName": "Magento\\Email\\Test\\Unit\\Model\\TemplateTest::testProcessTemplateThrowsExceptionNonExistentTemplate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Email\\Test\\Unit\\Model\\TemplateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessTemplateThrowsExceptionNonExistentTemplate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

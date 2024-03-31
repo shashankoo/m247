@@ -1,0 +1,50 @@
+{
+    "uuid": "c0fcbbb6-a243-4127-a076-c6693224b203",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\DateTimeTest::testTimestamp",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076736,
+    "stop": 1711693076736,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"DateTimeInterface\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c01dcdce33585710b4340c0938ab9833",
+    "testCaseId": "cdd42a2c0832b95788df510d05dd102a",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\DateTimeTest::testTimestamp",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\DateTimeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testTimestamp"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

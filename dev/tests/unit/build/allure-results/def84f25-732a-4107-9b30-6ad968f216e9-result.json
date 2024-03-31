@@ -1,0 +1,50 @@
+{
+    "uuid": "def84f25-732a-4107-9b30-6ad968f216e9",
+    "name": "Magento\\Customer\\Test\\Unit\\Helper\\AddressTest::testIsVatValidationEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019833,
+    "stop": 1711693019834,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5b8969c8b94ac32302ac2765c6d82e98",
+    "testCaseId": "6cf545db4130400ee6b53d21eb3b75da",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Helper\\AddressTest::testIsVatValidationEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Helper\\AddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsVatValidationEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

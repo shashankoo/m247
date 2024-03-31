@@ -1,0 +1,50 @@
+{
+    "uuid": "75fdc404-69fe-46d4-b171-25a77e0e1bdf",
+    "name": "Magento\\Cron\\Test\\Unit\\Observer\\ProcessCronQueueObserverTest::testDispatchExceptionInCallback",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019062,
+    "stop": 1711693019063,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"throwable in execution\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a190c54396c81e6d8d44ed0af60e4880",
+    "testCaseId": "93d1d0c25dce27b30f5c4f7118d2bb0b",
+    "rerunOf": null,
+    "fullName": "Magento\\Cron\\Test\\Unit\\Observer\\ProcessCronQueueObserverTest::testDispatchExceptionInCallback",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cron\\Test\\Unit\\Observer\\ProcessCronQueueObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDispatchExceptionInCallback"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

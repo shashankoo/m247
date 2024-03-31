@@ -1,0 +1,50 @@
+{
+    "uuid": "b96c68a1-f30b-44cf-855e-470c9983155e",
+    "name": "Magento\\Framework\\Indexer\\Test\\Unit\\Config\\ConverterTest::testConvertWithDependencyOnNotExistingIndexer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073721,
+    "stop": 1711693073721,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e1faf1b5cf6986e6ae64ee98edfd26aa",
+    "testCaseId": "5484f396d1ae95d6788b5f9b8322a19e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Indexer\\Test\\Unit\\Config\\ConverterTest::testConvertWithDependencyOnNotExistingIndexer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Indexer\\Test\\Unit\\Config\\ConverterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvertWithDependencyOnNotExistingIndexer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

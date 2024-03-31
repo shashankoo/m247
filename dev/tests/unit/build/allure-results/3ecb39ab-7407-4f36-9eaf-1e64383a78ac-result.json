@@ -1,0 +1,50 @@
+{
+    "uuid": "3ecb39ab-7407-4f36-9eaf-1e64383a78ac",
+    "name": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\RemoteAddressTest::testGetRemoteAddress",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073636,
+    "stop": 1711693073636,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "852a532ebb5f89d115a8d8a03b3004e7",
+    "testCaseId": "553d7907e8f6be4471b542e5f4baba69",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\RemoteAddressTest::testGetRemoteAddress",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\RemoteAddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRemoteAddress"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

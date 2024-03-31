@@ -1,0 +1,50 @@
+{
+    "uuid": "a8af6d62-0e3b-489b-bbd5-315d922aeb33",
+    "name": "Magento\\CatalogRule\\Test\\Unit\\Model\\Rule\\Condition\\ProductTest::testValidateWithDatetimeValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012363,
+    "stop": 1711693012364,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ec55734f827c4c85fcd81690e5d23d73",
+    "testCaseId": "3a1c2c5b80a40bf8ce3f77fc04a4554c",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogRule\\Test\\Unit\\Model\\Rule\\Condition\\ProductTest::testValidateWithDatetimeValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogRule\\Test\\Unit\\Model\\Rule\\Condition\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateWithDatetimeValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

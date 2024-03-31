@@ -1,0 +1,50 @@
+{
+    "uuid": "85acc131-af2c-4d12-b8da-ddddbe5bd99d",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\ProductList\\ToolbarTest::testGetMode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015309,
+    "stop": 1711693015309,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c43102cda5df17afb70d96070f1ae092",
+    "testCaseId": "b24d84e90e070af3f664b644b1ebd2a5",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\ProductList\\ToolbarTest::testGetMode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\ProductList\\ToolbarTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

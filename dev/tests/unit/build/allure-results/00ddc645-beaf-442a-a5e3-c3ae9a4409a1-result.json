@@ -1,0 +1,43 @@
+{
+    "uuid": "00ddc645-beaf-442a-a5e3-c3ae9a4409a1",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\CartConfiguration\\Plugin\\ConfigurableTest::testAroundIsProductConfiguredWhenProductIsNotConfigurable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018569,
+    "stop": 1711693018570,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "07ab3443270342c2a54e067aa4313e79",
+    "testCaseId": "a4bf79030ff758a55bd3d51f1bb03743",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\CartConfiguration\\Plugin\\ConfigurableTest::testAroundIsProductConfiguredWhenProductIsNotConfigurable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\CartConfiguration\\Plugin\\ConfigurableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundIsProductConfiguredWhenProductIsNotConfigurable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

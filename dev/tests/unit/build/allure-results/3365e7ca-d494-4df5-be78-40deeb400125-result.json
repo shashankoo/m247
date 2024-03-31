@@ -1,0 +1,50 @@
+{
+    "uuid": "3365e7ca-d494-4df5-be78-40deeb400125",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\UploaderTest::testMoveFileUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011832,
+    "stop": 1711693011832,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"https_one_query_param\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3b829971efc23b09cad046c24e157e30",
+    "testCaseId": "0ad12074688c76016194c4b43e10da70",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\UploaderTest::testMoveFileUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\UploaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMoveFileUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "03f857a5-109a-402c-a6b8-90ed10faa9ae",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\IntegrationServiceTest::testFindByConsumerIdNotFound",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030087,
+    "stop": 1711693030087,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2f0e7945466aac10d461ef83cfcdf451",
+    "testCaseId": "a66324b224666bf6aacfa5ffca8b1b8a",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\IntegrationServiceTest::testFindByConsumerIdNotFound",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\IntegrationServiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFindByConsumerIdNotFound"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

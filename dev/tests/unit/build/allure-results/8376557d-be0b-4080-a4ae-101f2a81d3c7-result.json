@@ -1,0 +1,43 @@
+{
+    "uuid": "8376557d-be0b-4080-a4ae-101f2a81d3c7",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\CookieScopeTest::testGetSensitiveCookieMetadataDefaults",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076650,
+    "stop": 1711693076650,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "00f15e8b76451e4ef84faea3e1d7e9b6",
+    "testCaseId": "3eec18bd3e946ada67ada8f7d523de29",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\CookieScopeTest::testGetSensitiveCookieMetadataDefaults",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\CookieScopeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSensitiveCookieMetadataDefaults"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

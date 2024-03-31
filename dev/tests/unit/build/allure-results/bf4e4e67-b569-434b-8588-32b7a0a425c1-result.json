@@ -1,0 +1,43 @@
+{
+    "uuid": "bf4e4e67-b569-434b-8588-32b7a0a425c1",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testUpdateOnlineTransactionDenied",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038471,
+    "stop": 1711693038472,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1ee2ae8902c49524fb5cef51b66f8ebb",
+    "testCaseId": "ec56a0813e25a7e9c7a1dd6c40aab7cc",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testUpdateOnlineTransactionDenied",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdateOnlineTransactionDenied"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

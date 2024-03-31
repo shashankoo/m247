@@ -1,0 +1,50 @@
+{
+    "uuid": "2f52533c-4847-4c0c-b417-6f65c5dfc432",
+    "name": "Magento\\Indexer\\Test\\Unit\\Model\\Indexer\\DeferredCacheCleanerTest::testFlush",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024980,
+    "stop": 1711693024980,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c1ae47f94062138b99616768c785c9b2",
+    "testCaseId": "6243445db26c70acb5c5ee05ffa8664f",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Model\\Indexer\\DeferredCacheCleanerTest::testFlush",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Model\\Indexer\\DeferredCacheCleanerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFlush"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

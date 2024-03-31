@@ -1,0 +1,50 @@
+{
+    "uuid": "c6f265d2-6bf3-4180-948a-70f155ed44fe",
+    "name": "Magento\\InventorySales\\Test\\Unit\\Model\\IsProductSalableCondition\\BackOrderNotifyCustomerConditionTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030285,
+    "stop": 1711693030291,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"StockQty=1, ReqQty=2, SalableQty=1, Backorders=YesNotify, ManageStock=Yes\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a7166b0a027e04a9ae223a76c685f36d",
+    "testCaseId": "d563b388a13e41124204b9794b6d8959",
+    "rerunOf": null,
+    "fullName": "Magento\\InventorySales\\Test\\Unit\\Model\\IsProductSalableCondition\\BackOrderNotifyCustomerConditionTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\InventorySales\\Test\\Unit\\Model\\IsProductSalableCondition\\BackOrderNotifyCustomerConditionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "f4769107-6612-4de5-bec9-85355854e009",
+    "name": "Magento\\PageCache\\Test\\Unit\\Model\\App\\Response\\HttpPluginTest::testBeforeSendResponse",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031236,
+    "stop": 1711693031237,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"http_response_headers_sent\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b87fe9ddc3708490aee2a7e356ec8508",
+    "testCaseId": "657d768c074c111b383bea65bb4fb19f",
+    "rerunOf": null,
+    "fullName": "Magento\\PageCache\\Test\\Unit\\Model\\App\\Response\\HttpPluginTest::testBeforeSendResponse",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\PageCache\\Test\\Unit\\Model\\App\\Response\\HttpPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSendResponse"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

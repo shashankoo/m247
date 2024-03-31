@@ -1,0 +1,50 @@
+{
+    "uuid": "3b2e1de2-0f41-4855-84c7-1afb24f62381",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Block\\Adminhtml\\Product\\Steps\\SelectAttributesTest::testGetAddNewAttributeButton",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018326,
+    "stop": 1711693018327,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "42a162e9bb96b4601464530f612d7557",
+    "testCaseId": "0bd808d6fe5b1c6c5a2c0a60fb5858eb",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Block\\Adminhtml\\Product\\Steps\\SelectAttributesTest::testGetAddNewAttributeButton",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Block\\Adminhtml\\Product\\Steps\\SelectAttributesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAddNewAttributeButton"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

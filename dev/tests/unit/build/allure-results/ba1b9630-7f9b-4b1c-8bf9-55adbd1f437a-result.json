@@ -1,0 +1,43 @@
+{
+    "uuid": "ba1b9630-7f9b-4b1c-8bf9-55adbd1f437a",
+    "name": "Magento\\Checkout\\Test\\Unit\\Model\\Cart\\CollectQuoteTest::testCollectWhenCustomerIsNotLoggedIn",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016817,
+    "stop": 1711693016818,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "21182884882fb424cb1014cff631b714",
+    "testCaseId": "6145e53ee95d9c43bda217700c5d7399",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Model\\Cart\\CollectQuoteTest::testCollectWhenCustomerIsNotLoggedIn",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Model\\Cart\\CollectQuoteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectWhenCustomerIsNotLoggedIn"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

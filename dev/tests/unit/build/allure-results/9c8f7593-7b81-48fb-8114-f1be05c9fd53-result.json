@@ -1,0 +1,50 @@
+{
+    "uuid": "9c8f7593-7b81-48fb-8114-f1be05c9fd53",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Setup\\SetupCacheTest::testHas",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056050,
+    "stop": 1711693056050,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"nonexistent row\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ce664bf4935b83f3298d140273a72b65",
+    "testCaseId": "524d16059dcd5fbdc6de9b781e2c067b",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Setup\\SetupCacheTest::testHas",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Setup\\SetupCacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testHas"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

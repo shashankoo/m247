@@ -1,0 +1,43 @@
+{
+    "uuid": "e4d4e0de-a3fc-4b78-b025-cc7398f7ebe5",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\QuoteTest::testValidateMinimumAmountNegative",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033184,
+    "stop": 1711693033185,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d48df40de8094e3878619bda0951cae9",
+    "testCaseId": "4da437a518c0e05e8bdda53acadc391e",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\QuoteTest::testValidateMinimumAmountNegative",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\QuoteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateMinimumAmountNegative"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

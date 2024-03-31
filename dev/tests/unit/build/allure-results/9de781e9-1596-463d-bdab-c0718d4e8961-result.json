@@ -1,0 +1,50 @@
+{
+    "uuid": "9de781e9-1596-463d-bdab-c0718d4e8961",
+    "name": "Magento\\Ui\\Test\\Unit\\Component\\Filters\\Type\\InputTest::testPrepare",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693046448,
+    "stop": 1711693046448,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "599fac925ef3c0e830e66303624c2d0e",
+    "testCaseId": "0e6e84b33f97daf6939838fd45eebc77",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Component\\Filters\\Type\\InputTest::testPrepare",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Component\\Filters\\Type\\InputTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepare"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "c8b2a89e-d508-46e3-83bd-acead9c0ad78",
+    "name": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\DeleteTest::testDeleteActionWithConsumer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029805,
+    "stop": 1711693029807,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e12592258f3d5501d0f858712c065070",
+    "testCaseId": "8fee2774de3e72547ecd5672b42607d9",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\DeleteTest::testDeleteActionWithConsumer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\DeleteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteActionWithConsumer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

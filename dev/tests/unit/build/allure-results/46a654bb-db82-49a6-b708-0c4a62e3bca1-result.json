@@ -1,0 +1,43 @@
+{
+    "uuid": "46a654bb-db82-49a6-b708-0c4a62e3bca1",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\ElasticsearchTest::testUpdateAliasWithoutOldIndex",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023210,
+    "stop": 1711693023210,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a336b54b91cb2047430cbc06332f230a",
+    "testCaseId": "1a93d93c143f27b77251444aa30b8ca3",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\ElasticsearchTest::testUpdateAliasWithoutOldIndex",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\ElasticsearchTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdateAliasWithoutOldIndex"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

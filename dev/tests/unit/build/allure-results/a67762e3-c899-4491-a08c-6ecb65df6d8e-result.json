@@ -1,0 +1,50 @@
+{
+    "uuid": "a67762e3-c899-4491-a08c-6ecb65df6d8e",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\IteratorTest::testIsLast",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018038,
+    "stop": 1711693018038,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c896aa56b422c9e7d14fdc751d83e202",
+    "testCaseId": "904f29a057bcda5070245eadd142c490",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\IteratorTest::testIsLast",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\IteratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsLast"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

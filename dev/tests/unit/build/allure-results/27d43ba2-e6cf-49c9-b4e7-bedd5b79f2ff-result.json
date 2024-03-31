@@ -1,0 +1,43 @@
+{
+    "uuid": "27d43ba2-e6cf-49c9-b4e7-bedd5b79f2ff",
+    "name": "Magento\\GiftMessage\\Test\\Unit\\Model\\Plugin\\OrderSaveTest::testAfterSaveIfItemGiftMessagesNotExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024030,
+    "stop": 1711693024030,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getGiftMessage\" with addMethods(), but it exists in class \"Magento\\Sales\\Api\\Data\\OrderExtension\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5cd3fc4eb5be999488a78088c5db1f71",
+    "testCaseId": "152bbc3f64e4a917838e8651bc082d09",
+    "rerunOf": null,
+    "fullName": "Magento\\GiftMessage\\Test\\Unit\\Model\\Plugin\\OrderSaveTest::testAfterSaveIfItemGiftMessagesNotExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GiftMessage\\Test\\Unit\\Model\\Plugin\\OrderSaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSaveIfItemGiftMessagesNotExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "7bbc21b8-d8b9-47bb-89a3-c1575d371559",
+    "name": "Magento\\Security\\Test\\Unit\\Model\\Plugin\\AuthSessionTest::testAroundProlongSessionIsNotActiveAndIsNotAjaxRequest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041277,
+    "stop": 1711693041279,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ed128bb105940f47da5aa30c6e1f548f",
+    "testCaseId": "bdf163af589e2d9384a54e6e6509ea12",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Model\\Plugin\\AuthSessionTest::testAroundProlongSessionIsNotActiveAndIsNotAjaxRequest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Model\\Plugin\\AuthSessionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundProlongSessionIsNotActiveAndIsNotAjaxRequest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

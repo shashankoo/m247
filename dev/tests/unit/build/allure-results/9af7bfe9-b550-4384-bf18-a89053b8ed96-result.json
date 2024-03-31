@@ -1,0 +1,43 @@
+{
+    "uuid": "9af7bfe9-b550-4384-bf18-a89053b8ed96",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Order\\Admin\\Item\\Plugin\\ConfigurableTest::testAroundGetSkuIfProductIsConfigurable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018547,
+    "stop": 1711693018547,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "050591fea47618e7c9bd75f0cd773431",
+    "testCaseId": "dd62d17f2b6d17c099d04e2325c4f89e",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Order\\Admin\\Item\\Plugin\\ConfigurableTest::testAroundGetSkuIfProductIsConfigurable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Order\\Admin\\Item\\Plugin\\ConfigurableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundGetSkuIfProductIsConfigurable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

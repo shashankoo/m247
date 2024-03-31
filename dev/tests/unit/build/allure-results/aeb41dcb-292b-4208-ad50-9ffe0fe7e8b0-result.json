@@ -1,0 +1,50 @@
+{
+    "uuid": "aeb41dcb-292b-4208-ad50-9ffe0fe7e8b0",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Design\\Theme\\CustomizationTest::testGetThemeFilesPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077511,
+    "stop": 1711693077512,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"virtual\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c17d88c95acabfb42650108f14e3ec22",
+    "testCaseId": "9fe417b00de28bdefdbacb75ab5f78ce",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Design\\Theme\\CustomizationTest::testGetThemeFilesPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Design\\Theme\\CustomizationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetThemeFilesPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

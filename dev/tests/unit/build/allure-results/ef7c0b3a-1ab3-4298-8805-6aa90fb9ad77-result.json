@@ -1,0 +1,50 @@
+{
+    "uuid": "ef7c0b3a-1ab3-4298-8805-6aa90fb9ad77",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Config\\Backend\\MinimumShouldMatchTest::testValidateValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023315,
+    "stop": 1711693023315,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#10",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2f2a1c007dafa59fece965af40a3d1a6",
+    "testCaseId": "4393a8811bf092b0712b97f63f0e8c7b",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Config\\Backend\\MinimumShouldMatchTest::testValidateValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Config\\Backend\\MinimumShouldMatchTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

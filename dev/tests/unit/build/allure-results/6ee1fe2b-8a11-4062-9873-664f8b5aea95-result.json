@@ -1,0 +1,50 @@
+{
+    "uuid": "6ee1fe2b-8a11-4062-9873-664f8b5aea95",
+    "name": "Magento\\PageCache\\Test\\Unit\\Block\\JavascriptTest::testGetScriptOptionsPrivateContent",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031201,
+    "stop": 1711693031202,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"http\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6773ee0cd90f36367f19e4abafd03350",
+    "testCaseId": "a9d54dae909415240a9059870352b738",
+    "rerunOf": null,
+    "fullName": "Magento\\PageCache\\Test\\Unit\\Block\\JavascriptTest::testGetScriptOptionsPrivateContent",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\PageCache\\Test\\Unit\\Block\\JavascriptTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetScriptOptionsPrivateContent"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

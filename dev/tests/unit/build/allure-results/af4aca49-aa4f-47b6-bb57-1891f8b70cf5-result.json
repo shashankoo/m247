@@ -1,0 +1,50 @@
+{
+    "uuid": "af4aca49-aa4f-47b6-bb57-1891f8b70cf5",
+    "name": "Magento\\Wishlist\\Test\\Unit\\Model\\WishlistTest::testAddNewItem",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054672,
+    "stop": 1711693054673,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2c29bf7518d168bb1571750a3d99d891",
+    "testCaseId": "14f2f1bfdfc4ee5c27071f6721de1e00",
+    "rerunOf": null,
+    "fullName": "Magento\\Wishlist\\Test\\Unit\\Model\\WishlistTest::testAddNewItem",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Wishlist\\Test\\Unit\\Model\\WishlistTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddNewItem"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

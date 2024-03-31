@@ -1,0 +1,50 @@
+{
+    "uuid": "c850c550-0cf7-4a4d-8b2f-90287966a6f5",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\StringBinaryTest::testGetBinaryDefaultValueFromDefinition",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076183,
+    "stop": 1711693076184,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "108594aec8203ed1d9392ca11b114ea7",
+    "testCaseId": "02e5cdd9f261fb7fe557ef33227d62bb",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\StringBinaryTest::testGetBinaryDefaultValueFromDefinition",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\StringBinaryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBinaryDefaultValueFromDefinition"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

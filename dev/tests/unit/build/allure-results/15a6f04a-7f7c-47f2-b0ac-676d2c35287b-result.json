@@ -1,0 +1,50 @@
+{
+    "uuid": "15a6f04a-7f7c-47f2-b0ac-676d2c35287b",
+    "name": "Magento\\Variable\\Test\\Unit\\Model\\Config\\Structure\\AvailableVariablesTest::testGetConfigPaths",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053084,
+    "stop": 1711693053085,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c11cfc79c8f77bf510575d026db32215",
+    "testCaseId": "5b5f38db95102f8551390d57cd9b85af",
+    "rerunOf": null,
+    "fullName": "Magento\\Variable\\Test\\Unit\\Model\\Config\\Structure\\AvailableVariablesTest::testGetConfigPaths",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Variable\\Test\\Unit\\Model\\Config\\Structure\\AvailableVariablesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfigPaths"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

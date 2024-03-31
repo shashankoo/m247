@@ -1,0 +1,50 @@
+{
+    "uuid": "0b38c9e3-a663-448a-a323-80b0b68051cd",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\EmailNotificationTest::testPasswordResetConfirmation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020529,
+    "stop": 1711693020529,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9049a5666ca4de9e6d222fac5cfbe80b",
+    "testCaseId": "0d2c4be65a4d79bbb6df2a0e6d764e80",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\EmailNotificationTest::testPasswordResetConfirmation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\EmailNotificationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPasswordResetConfirmation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

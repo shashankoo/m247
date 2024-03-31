@@ -1,0 +1,43 @@
+{
+    "uuid": "fc3c03da-150d-47be-8ded-323ae3bb1336",
+    "name": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\CategoryProcessUrlRewriteSavingObserverTest::testExecuteForRootDirectory",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013142,
+    "stop": 1711693013146,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f4e79f8995243c713f9d1851df8f13c4",
+    "testCaseId": "31a816f1681965eae2552a7f3b2025e9",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\CategoryProcessUrlRewriteSavingObserverTest::testExecuteForRootDirectory",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\CategoryProcessUrlRewriteSavingObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteForRootDirectory"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

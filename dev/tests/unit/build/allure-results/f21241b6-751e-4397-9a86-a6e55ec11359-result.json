@@ -1,0 +1,43 @@
+{
+    "uuid": "f21241b6-751e-4397-9a86-a6e55ec11359",
+    "name": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\PrintLabelTest::testExecuteLoadShipmentFail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041515,
+    "stop": 1711693041516,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f7f8afca979d37ddb22cef1ea3017731",
+    "testCaseId": "c0bacaeff00a469f9eee5a7f1ca5a1df",
+    "rerunOf": null,
+    "fullName": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\PrintLabelTest::testExecuteLoadShipmentFail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\PrintLabelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteLoadShipmentFail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

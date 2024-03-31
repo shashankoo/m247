@@ -1,0 +1,43 @@
+{
+    "uuid": "9f813a8d-73af-46a2-8f68-a974209f7621",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\PhpCookieManagerTest::testSetCookieInvalidSameSiteValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076669,
+    "stop": 1711693076669,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5af3e80493a575b65412fdb796fd2dbc",
+    "testCaseId": "7dbf5015e0948f30b47f9124d1cae393",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\PhpCookieManagerTest::testSetCookieInvalidSameSiteValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\PhpCookieManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetCookieInvalidSameSiteValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "e99516b4-616c-4102-9ef1-cc86e518aba0",
+    "name": "Magento\\Customer\\Test\\Unit\\Ui\\Component\\Listing\\Column\\ValidationRulesTest::testGetValidationRules",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021177,
+    "stop": 1711693021177,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d734710f5be2409a2f0218707acd1384",
+    "testCaseId": "76f03af4ee125a348d766472056c387e",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Ui\\Component\\Listing\\Column\\ValidationRulesTest::testGetValidationRules",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Ui\\Component\\Listing\\Column\\ValidationRulesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValidationRules"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

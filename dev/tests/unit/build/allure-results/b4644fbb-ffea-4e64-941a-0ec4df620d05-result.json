@@ -1,0 +1,43 @@
+{
+    "uuid": "b4644fbb-ffea-4e64-941a-0ec4df620d05",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceNotifierTest::testNotifySuccess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038106,
+    "stop": 1711693038108,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8a9d61e4a043ab22ee7b567e7e943856",
+    "testCaseId": "63ce0db9e70c4f68f576b72fee4b6d0a",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceNotifierTest::testNotifySuccess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceNotifierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testNotifySuccess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

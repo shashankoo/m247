@@ -1,0 +1,50 @@
+{
+    "uuid": "48a775be-c08d-4cd3-8555-5cd78d61cc33",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Backend\\Email\\AddressTest::testBeforeSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017840,
+    "stop": 1711693017840,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8ba13b6c50df39fda77395376f44972e",
+    "testCaseId": "5963866a0729752c225121ba0108deb0",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Backend\\Email\\AddressTest::testBeforeSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Backend\\Email\\AddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

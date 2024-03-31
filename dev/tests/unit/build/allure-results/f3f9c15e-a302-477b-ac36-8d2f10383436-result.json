@@ -1,0 +1,43 @@
+{
+    "uuid": "f3f9c15e-a302-477b-ac36-8d2f10383436",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\RefundInvoiceTest::testDocumentValidationException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693040021,
+    "stop": 1711693040023,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6a5941111d960c550a8ad4f5373a1754",
+    "testCaseId": "3fdcafa48d4c607c29b5a727cc1868fb",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\RefundInvoiceTest::testDocumentValidationException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\RefundInvoiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDocumentValidationException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

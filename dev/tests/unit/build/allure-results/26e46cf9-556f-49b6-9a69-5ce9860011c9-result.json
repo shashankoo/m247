@@ -1,0 +1,43 @@
+{
+    "uuid": "26e46cf9-556f-49b6-9a69-5ce9860011c9",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Elasticsearch5\\Model\\Client\\ElasticsearchTest::testUpdateAliasRemoveOldIndex",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023105,
+    "stop": 1711693023105,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f291cd6804d88a76d3ba0a7fac15adf2",
+    "testCaseId": "d2f9d3ee206a3934ee488c71db33fdc7",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Elasticsearch5\\Model\\Client\\ElasticsearchTest::testUpdateAliasRemoveOldIndex",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Elasticsearch5\\Model\\Client\\ElasticsearchTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdateAliasRemoveOldIndex"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "13cd4183-58c0-42ca-966c-1a35dd6a31d4",
+    "name": "Magento\\MediaStorage\\Test\\Unit\\App\\MediaTest::testProcessRequestCreatesConfigFileMediaDirectoryIsNotProvided",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030409,
+    "stop": 1711693030416,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "992a46142f06fdc2a99f3247c711f946",
+    "testCaseId": "ace042bf390512c6afda32f9b8b20cd4",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaStorage\\Test\\Unit\\App\\MediaTest::testProcessRequestCreatesConfigFileMediaDirectoryIsNotProvided",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaStorage\\Test\\Unit\\App\\MediaTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessRequestCreatesConfigFileMediaDirectoryIsNotProvided"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "af3b3fc4-da7e-4827-a921-c78bd7b21d25",
+    "name": "Magento\\Payment\\Test\\Unit\\Model\\CcConfigProviderTest::testGetConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031500,
+    "stop": 1711693031503,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4ab5fdc377eaa6f8d13b0a0f9be4cdd1",
+    "testCaseId": "8d40ec66a70a0e3a4608feaa727e010f",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Model\\CcConfigProviderTest::testGetConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Model\\CcConfigProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

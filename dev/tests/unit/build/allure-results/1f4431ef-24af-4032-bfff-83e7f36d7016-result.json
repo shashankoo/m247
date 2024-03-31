@@ -1,0 +1,43 @@
+{
+    "uuid": "1f4431ef-24af-4032-bfff-83e7f36d7016",
+    "name": "Magento\\Framework\\Logger\\Test\\Unit\\Handler\\SystemTest::testWriteException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074044,
+    "stop": 1711693074044,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ea193b5c59c8b4af880227a97f2f4466",
+    "testCaseId": "db9fa85fe18a92f5d330f71be8f4610b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Logger\\Test\\Unit\\Handler\\SystemTest::testWriteException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Logger\\Test\\Unit\\Handler\\SystemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWriteException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

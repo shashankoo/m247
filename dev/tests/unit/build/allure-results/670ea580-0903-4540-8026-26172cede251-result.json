@@ -1,0 +1,50 @@
+{
+    "uuid": "670ea580-0903-4540-8026-26172cede251",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\EmailNotificationTest::testEmailNotifyWhenCredentialsChanged",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020516,
+    "stop": 1711693020517,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "43e6f915bffc332039fea360e059e007",
+    "testCaseId": "3c179a2dda510dce596e110dd5900257",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\EmailNotificationTest::testEmailNotifyWhenCredentialsChanged",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\EmailNotificationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEmailNotifyWhenCredentialsChanged"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

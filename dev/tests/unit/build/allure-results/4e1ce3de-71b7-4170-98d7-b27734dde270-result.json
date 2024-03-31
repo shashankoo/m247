@@ -1,0 +1,43 @@
+{
+    "uuid": "4e1ce3de-71b7-4170-98d7-b27734dde270",
+    "name": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\AttributeSetTest::testModifyMetaToBeEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016262,
+    "stop": 1711693016263,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3f82a502f8d3a1e0428cad3997771b23",
+    "testCaseId": "de74ad3a94927260ae8064f626d3a2fe",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\AttributeSetTest::testModifyMetaToBeEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\AttributeSetTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testModifyMetaToBeEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

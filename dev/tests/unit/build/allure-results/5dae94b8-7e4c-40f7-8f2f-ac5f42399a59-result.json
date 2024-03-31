@@ -1,0 +1,43 @@
+{
+    "uuid": "5dae94b8-7e4c-40f7-8f2f-ac5f42399a59",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Validation\\CanRefundTest::testValidateInvoiceSumWasRefunded",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038096,
+    "stop": 1711693038097,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "564fb3516648cc8bc32ec86322c39c23",
+    "testCaseId": "b6cc54d9aca8773bdab2b905b9ac611e",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Validation\\CanRefundTest::testValidateInvoiceSumWasRefunded",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Validation\\CanRefundTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateInvoiceSumWasRefunded"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

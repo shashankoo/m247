@@ -1,0 +1,50 @@
+{
+    "uuid": "14d5a449-4004-4de6-ad55-ccdc186d0d57",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Di\\App\\Task\\ApplicationCodeGeneratorTest::testDoOperationWrongData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055619,
+    "stop": 1711693055619,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ddb994c1c8549b2095478b562af4bc0e",
+    "testCaseId": "e0b33611c68cdb793b657652a226225a",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Di\\App\\Task\\ApplicationCodeGeneratorTest::testDoOperationWrongData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Di\\App\\Task\\ApplicationCodeGeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDoOperationWrongData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

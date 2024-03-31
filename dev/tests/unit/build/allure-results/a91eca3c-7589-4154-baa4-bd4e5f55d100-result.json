@@ -1,0 +1,50 @@
+{
+    "uuid": "a91eca3c-7589-4154-baa4-bd4e5f55d100",
+    "name": "Magento\\Setup\\Test\\Unit\\Console\\Command\\DeployStaticContentCommandTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054763,
+    "stop": 1711693054764,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"With static content version option\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bf1a3d0b2703683bda5d2ab70e45787e",
+    "testCaseId": "907164958055629d0a34984c796598c6",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Console\\Command\\DeployStaticContentCommandTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Console\\Command\\DeployStaticContentCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

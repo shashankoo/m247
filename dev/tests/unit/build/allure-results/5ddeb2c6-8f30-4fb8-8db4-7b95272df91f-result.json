@@ -1,0 +1,43 @@
+{
+    "uuid": "5ddeb2c6-8f30-4fb8-8db4-7b95272df91f",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Validation\\CanRefundTest::testValidateWrongInvoiceState",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038093,
+    "stop": 1711693038096,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "44655fd63ce59192e73f70c2dcd00831",
+    "testCaseId": "bcc3df1b54f5d499cc0574f4eb621b2a",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Validation\\CanRefundTest::testValidateWrongInvoiceState",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Validation\\CanRefundTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateWrongInvoiceState"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

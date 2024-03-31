@@ -1,0 +1,43 @@
+{
+    "uuid": "0ca35fe7-0e2e-43b5-8d74-38c40dec6e44",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\Sql\\LimitExpressionTest::testToStringExceptionCount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070826,
+    "stop": 1711693070826,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "be99bf70b5e1756e2ecfcf574c6985c2",
+    "testCaseId": "526c7c8e3b274129f78edc370f0b4442",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\Sql\\LimitExpressionTest::testToStringExceptionCount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\Sql\\LimitExpressionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToStringExceptionCount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

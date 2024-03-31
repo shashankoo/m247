@@ -1,0 +1,50 @@
+{
+    "uuid": "0fd434a2-376a-4ecf-b7b5-52adb06f1a54",
+    "name": "Magento\\Framework\\Image\\Test\\Unit\\AdapterFactoryTest::testCreate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073696,
+    "stop": 1711693073696,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "29af40d30a30e852818a776a7800774a",
+    "testCaseId": "c16300b0466c97533a2bd3a1a70a531d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Image\\Test\\Unit\\AdapterFactoryTest::testCreate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Image\\Test\\Unit\\AdapterFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "837bd561-3dc6-4cc2-bfd2-0692d723451f",
+    "name": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Attribute\\ValidateTest::testEmptyOption",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013847,
+    "stop": 1711693013848,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"empty admin scope options\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8c2291621fc645e4f90f6cd41be6b6da",
+    "testCaseId": "9483a9016ecbae31272898ca153e496f",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Attribute\\ValidateTest::testEmptyOption",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Attribute\\ValidateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEmptyOption"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

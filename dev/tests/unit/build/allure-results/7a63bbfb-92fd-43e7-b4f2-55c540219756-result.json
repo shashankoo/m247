@@ -1,0 +1,50 @@
+{
+    "uuid": "7a63bbfb-92fd-43e7-b4f2-55c540219756",
+    "name": "Magento\\AdminAdobeIms\\Test\\Unit\\Service\\ImsCommandOptionServiceTest::testValidInputWillBeReturned",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008461,
+    "stop": 1711693008461,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "33c0a4e543f3d8500243adf136afd0e0",
+    "testCaseId": "abcb14c1a4a12ca459ce2adbec9e3db6",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminAdobeIms\\Test\\Unit\\Service\\ImsCommandOptionServiceTest::testValidInputWillBeReturned",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminAdobeIms\\Test\\Unit\\Service\\ImsCommandOptionServiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidInputWillBeReturned"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

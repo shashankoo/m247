@@ -1,0 +1,43 @@
+{
+    "uuid": "19a2e7ca-a7fb-4415-ba5c-ce9c18bbcb73",
+    "name": "Magento\\CardinalCommerce\\Test\\Unit\\Model\\Response\\JwtPayloadValidatorTest::testValidationExpirationFails",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011385,
+    "stop": 1711693011385,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a2fa46d1b9179a3e54c9c9c3e682e6b1",
+    "testCaseId": "ec93525a243f93228263379479c0794d",
+    "rerunOf": null,
+    "fullName": "Magento\\CardinalCommerce\\Test\\Unit\\Model\\Response\\JwtPayloadValidatorTest::testValidationExpirationFails",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CardinalCommerce\\Test\\Unit\\Model\\Response\\JwtPayloadValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidationExpirationFails"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

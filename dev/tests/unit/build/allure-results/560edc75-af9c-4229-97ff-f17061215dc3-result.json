@@ -1,0 +1,50 @@
+{
+    "uuid": "560edc75-af9c-4229-97ff-f17061215dc3",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\ResourceModel\\Order\\Handler\\StateTest::testCheck",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693040857,
+    "stop": 1711693040857,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"complete - !canCreditmemo, !canShip - closed(virtual product)\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "163f63920e612c26c5b57f88e8ea202c",
+    "testCaseId": "2fd2bb6136a72ce1691b5b1f0348114c",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\ResourceModel\\Order\\Handler\\StateTest::testCheck",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\ResourceModel\\Order\\Handler\\StateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheck"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

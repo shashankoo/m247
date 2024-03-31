@@ -1,0 +1,50 @@
+{
+    "uuid": "ae1784bc-a159-4a69-b4c4-2dd4158489c8",
+    "name": "Magento\\Analytics\\Test\\Unit\\Model\\ExportDataHandlerTest::testPrepareExportData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009107,
+    "stop": 1711693009110,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Data source for archive is directory\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c9ac81f9fd0903e0d717261bc281c3ec",
+    "testCaseId": "b9bc5e17ab7a2d82430c61bbdf470435",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Model\\ExportDataHandlerTest::testPrepareExportData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Model\\ExportDataHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareExportData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "4a18e55a-6763-48db-bbaf-28f20e4fd9b9",
+    "name": "Magento\\Framework\\Composer\\Test\\Unit\\ComposerInformationTest::testIsMagentoRoot",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069680,
+    "stop": 1711693069681,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b26ee329132303846e58038c6503d6b7",
+    "testCaseId": "beb17053b47779d1b4c6270c61411e6e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Composer\\Test\\Unit\\ComposerInformationTest::testIsMagentoRoot",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Composer\\Test\\Unit\\ComposerInformationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsMagentoRoot"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

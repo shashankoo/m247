@@ -1,0 +1,50 @@
+{
+    "uuid": "45a0851a-62d2-4997-9b71-27ef23859a24",
+    "name": "Magento\\Payment\\Test\\Unit\\Gateway\\Validator\\CountryValidatorTest::testValidateAllowspecificTrue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031465,
+    "stop": 1711693031467,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9cd6e615e3487e8b30b9015ebc1835ab",
+    "testCaseId": "b1be35786da2d0f20b67d77218172a5f",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Gateway\\Validator\\CountryValidatorTest::testValidateAllowspecificTrue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Gateway\\Validator\\CountryValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateAllowspecificTrue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "e92df150-a1e9-499f-880e-4e2373defe20",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Model\\Adminhtml\\System\\Config\\CountryCreditCardTest::testAfterLoad",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056314,
+    "stop": 1711693056315,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skip this test",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"null\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "aa7022d8145d777df4a6923d86e1e573",
+    "testCaseId": "d386c02c682a5e9a6e3d9d215d2a8189",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Model\\Adminhtml\\System\\Config\\CountryCreditCardTest::testAfterLoad",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Model\\Adminhtml\\System\\Config\\CountryCreditCardTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterLoad"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

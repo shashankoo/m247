@@ -1,0 +1,50 @@
+{
+    "uuid": "758fe483-398a-4a76-8ba9-07ebbea3866b",
+    "name": "Magento\\Catalog\\Test\\Unit\\ViewModel\\Product\\BreadcrumbsTest::testGetJsonConfigurationHtmlEscaped",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016409,
+    "stop": 1711693016409,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a39bf1b844233b4ad13f26007c5ee6d4",
+    "testCaseId": "a36262e89247f6f93cbc1c3d9e78f324",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\ViewModel\\Product\\BreadcrumbsTest::testGetJsonConfigurationHtmlEscaped",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\ViewModel\\Product\\BreadcrumbsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetJsonConfigurationHtmlEscaped"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

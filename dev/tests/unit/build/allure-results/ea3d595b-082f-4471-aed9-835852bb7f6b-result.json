@@ -1,0 +1,50 @@
+{
+    "uuid": "ea3d595b-082f-4471-aed9-835852bb7f6b",
+    "name": "Magento\\Payment\\Test\\Unit\\Plugin\\PaymentMethodProcessTest::testAfterGetMethods",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031699,
+    "stop": 1711693031701,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "de1e5d6edd0993441fa35c045b85641c",
+    "testCaseId": "cd871b7dc92eb70cd80c04e9ca10b595",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Plugin\\PaymentMethodProcessTest::testAfterGetMethods",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Plugin\\PaymentMethodProcessTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetMethods"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

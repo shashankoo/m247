@@ -1,0 +1,50 @@
+{
+    "uuid": "1b92e462-0a43-4b7c-b1c7-752c177b1c50",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\BooleanUtilsTest::testToBoolean",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076639,
+    "stop": 1711693076639,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"boolean string \"false\"\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "90a0be0fa298d2170a00af904a3d4617",
+    "testCaseId": "60b91b3724926a6074bfc724f5b421b4",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\BooleanUtilsTest::testToBoolean",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\BooleanUtilsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToBoolean"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

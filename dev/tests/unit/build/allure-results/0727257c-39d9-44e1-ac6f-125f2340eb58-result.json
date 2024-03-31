@@ -1,0 +1,50 @@
+{
+    "uuid": "0727257c-39d9-44e1-ac6f-125f2340eb58",
+    "name": "Magento\\Framework\\Pricing\\Test\\Unit\\Render\\PriceBoxTest::testToHtml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075286,
+    "stop": 1711693075288,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "662d7686ddefdb47aaf3c41de4bf2d69",
+    "testCaseId": "4932ca0c669eba2df892db2f5a4ef02d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Pricing\\Test\\Unit\\Render\\PriceBoxTest::testToHtml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Pricing\\Test\\Unit\\Render\\PriceBoxTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToHtml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "e15d04e9-64dc-4f6d-aaa4-219fef1d6a26",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\Service\\Response\\Validator\\ResponseValidatorTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032320,
+    "stop": 1711693032320,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d0a3c530ecdb7d0cb4b30a1a42d31d4d",
+    "testCaseId": "2677b4bc1c223f2c05b961598a4701b1",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\Service\\Response\\Validator\\ResponseValidatorTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\Service\\Response\\Validator\\ResponseValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

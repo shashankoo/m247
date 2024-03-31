@@ -1,0 +1,50 @@
+{
+    "uuid": "3db1332f-f5f2-40a6-bf45-39ed37226b5f",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TierPriceManagementTest::testGetList",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015323,
+    "stop": 1711693015324,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c918ea15fbb04f7b1361b7bb5267e91c",
+    "testCaseId": "eaac7c3cf86b65cdaa30c4ad5dbdf7d3",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TierPriceManagementTest::testGetList",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TierPriceManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetList"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

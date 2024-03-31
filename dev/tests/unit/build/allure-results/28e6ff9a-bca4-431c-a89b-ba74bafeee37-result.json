@@ -1,0 +1,50 @@
+{
+    "uuid": "28e6ff9a-bca4-431c-a89b-ba74bafeee37",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Indexer\\Stock\\Plugin\\StoreGroupTest::testAfterSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011988,
+    "stop": 1711693011992,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "690aa45eb6249fcd5017807b08560451",
+    "testCaseId": "9df7c8030ecc71ebf29f7f22924d13de",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Indexer\\Stock\\Plugin\\StoreGroupTest::testAfterSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Indexer\\Stock\\Plugin\\StoreGroupTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

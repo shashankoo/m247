@@ -1,0 +1,43 @@
+{
+    "uuid": "7c46b92e-17ed-493e-914f-4aa92996c694",
+    "name": "Magento\\Customer\\Test\\Unit\\Helper\\Session\\CurrentCustomerTest::testGetCustomerDepersonalizeCustomerData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019849,
+    "stop": 1711693019850,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a0154e3079947992410bd0030dfac3ed",
+    "testCaseId": "6b8397e4f5782b3c8ca56f6e5e75dd7e",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Helper\\Session\\CurrentCustomerTest::testGetCustomerDepersonalizeCustomerData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Helper\\Session\\CurrentCustomerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCustomerDepersonalizeCustomerData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

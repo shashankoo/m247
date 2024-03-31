@@ -1,0 +1,43 @@
+{
+    "uuid": "8a4b5c23-b471-492b-b4c9-929af67568e7",
+    "name": "Magento\\Wishlist\\Test\\Unit\\Model\\Rss\\WishlistTest::testGetProductPriceHtmlBlockDoesntExists",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054511,
+    "stop": 1711693054512,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "38c143178aa918c225f8da1f3b1b6a71",
+    "testCaseId": "e9de1bc543013389c4331303bead126e",
+    "rerunOf": null,
+    "fullName": "Magento\\Wishlist\\Test\\Unit\\Model\\Rss\\WishlistTest::testGetProductPriceHtmlBlockDoesntExists",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Wishlist\\Test\\Unit\\Model\\Rss\\WishlistTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetProductPriceHtmlBlockDoesntExists"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

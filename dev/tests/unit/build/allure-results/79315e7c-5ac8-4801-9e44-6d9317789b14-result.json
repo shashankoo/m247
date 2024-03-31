@@ -1,0 +1,50 @@
+{
+    "uuid": "79315e7c-5ac8-4801-9e44-6d9317789b14",
+    "name": "Magento\\Customer\\Test\\Unit\\Helper\\AddressTest::testGetFormatTypeRenderer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019845,
+    "stop": 1711693019845,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8b0de6671bc5955a8af32756fd581d41",
+    "testCaseId": "32b2a41ac8dd3c337837ac8b96812c74",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Helper\\AddressTest::testGetFormatTypeRenderer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Helper\\AddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFormatTypeRenderer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

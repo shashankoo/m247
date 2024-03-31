@@ -1,0 +1,50 @@
+{
+    "uuid": "3483a78e-8695-495c-9bd8-f14e4b1bd07b",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\ShippingAddressManagementTest::testAssign",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033236,
+    "stop": 1711693033237,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c0560c95f3f3b73f83e08f6198b5cbf0",
+    "testCaseId": "9cd19e03c9c1a772ac56f72b5e2a8fd5",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\ShippingAddressManagementTest::testAssign",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\ShippingAddressManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAssign"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

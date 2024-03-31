@@ -1,0 +1,50 @@
+{
+    "uuid": "95333476-aee8-4484-a195-29e705816691",
+    "name": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\TierPriceTest::testGetSavePercent",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011182,
+    "stop": 1711693011183,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"no fraction\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2c24617607d75224171e31d88c5365b0",
+    "testCaseId": "031364ee60230f4d6a7bfd6b6c9524c1",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\TierPriceTest::testGetSavePercent",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\TierPriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSavePercent"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

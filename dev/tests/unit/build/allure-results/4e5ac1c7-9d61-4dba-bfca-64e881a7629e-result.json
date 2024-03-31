@@ -1,0 +1,50 @@
+{
+    "uuid": "4e5ac1c7-9d61-4dba-bfca-64e881a7629e",
+    "name": "Magento\\Theme\\Test\\Unit\\Controller\\Result\\AsyncCssPluginTest::testAfterRenderResultIfGetContentIsNotAString",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043022,
+    "stop": 1711693043022,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a04584cd379bce4936268178d759df83",
+    "testCaseId": "72bd2ffbab73b4b98e5e9210cacc07e5",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Controller\\Result\\AsyncCssPluginTest::testAfterRenderResultIfGetContentIsNotAString",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Controller\\Result\\AsyncCssPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterRenderResultIfGetContentIsNotAString"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

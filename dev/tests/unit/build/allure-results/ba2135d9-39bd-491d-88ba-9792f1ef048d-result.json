@@ -1,0 +1,50 @@
+{
+    "uuid": "ba2135d9-39bd-491d-88ba-9792f1ef048d",
+    "name": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\CategoryUrlPathGeneratorTest::testGetUrlPathWithSuffixAndStore",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013002,
+    "stop": 1711693013002,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b677e617fe15b2b4cdb3d1ddbb0a6326",
+    "testCaseId": "167a4b896482578821e007f584b2aa0a",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\CategoryUrlPathGeneratorTest::testGetUrlPathWithSuffixAndStore",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\CategoryUrlPathGeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUrlPathWithSuffixAndStore"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

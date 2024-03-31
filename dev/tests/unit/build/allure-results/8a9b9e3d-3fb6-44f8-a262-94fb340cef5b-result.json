@@ -1,0 +1,43 @@
+{
+    "uuid": "8a9b9e3d-3fb6-44f8-a262-94fb340cef5b",
+    "name": "Magento\\Framework\\Interception\\Test\\Unit\\ObjectManager\\Config\\DeveloperTest::testGetInstanceTypeReturnsSimpleClassIfNoPluginsAreDeclared",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073832,
+    "stop": 1711693073832,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8e4dde346ad37e1c37630152fdb3f92d",
+    "testCaseId": "7925347375895f61def39e3393506336",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Interception\\Test\\Unit\\ObjectManager\\Config\\DeveloperTest::testGetInstanceTypeReturnsSimpleClassIfNoPluginsAreDeclared",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Interception\\Test\\Unit\\ObjectManager\\Config\\DeveloperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetInstanceTypeReturnsSimpleClassIfNoPluginsAreDeclared"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

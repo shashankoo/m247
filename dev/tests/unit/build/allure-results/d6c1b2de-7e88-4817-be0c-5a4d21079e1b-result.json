@@ -1,0 +1,50 @@
+{
+    "uuid": "d6c1b2de-7e88-4817-be0c-5a4d21079e1b",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Plugin\\Model\\Order\\Invoice\\UpdateConfigurableProductTotalQtyTest::testBeforeSetTotalQty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018694,
+    "stop": 1711693018695,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"verify productQty for simple products\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d94a53996afdc8e5cfae47ae5e1a7639",
+    "testCaseId": "162e368bb10b397ac51d26f26593c291",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Plugin\\Model\\Order\\Invoice\\UpdateConfigurableProductTotalQtyTest::testBeforeSetTotalQty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Plugin\\Model\\Order\\Invoice\\UpdateConfigurableProductTotalQtyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSetTotalQty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

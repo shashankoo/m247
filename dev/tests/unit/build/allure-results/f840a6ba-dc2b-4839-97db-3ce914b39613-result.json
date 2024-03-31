@@ -1,0 +1,50 @@
+{
+    "uuid": "f840a6ba-dc2b-4839-97db-3ce914b39613",
+    "name": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\CategoryUrlPathGeneratorTest::testGetUrlPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012998,
+    "stop": 1711693012999,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d95a06bb53aeef469e6e02df9be143c6",
+    "testCaseId": "54a4048d839bbcaf0722d645097bcb85",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\CategoryUrlPathGeneratorTest::testGetUrlPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\CategoryUrlPathGeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUrlPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "b122c180-6009-408a-8890-8026123b0f73",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\StatusTest::testUnassignStateStatusUsed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039428,
+    "stop": 1711693039428,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d72e3af3fefedebeed6e3325c6aa1654",
+    "testCaseId": "65b0ef8501a15f3e4aaa4477c8337756",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\StatusTest::testUnassignStateStatusUsed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\StatusTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUnassignStateStatusUsed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

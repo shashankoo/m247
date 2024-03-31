@@ -1,0 +1,43 @@
+{
+    "uuid": "2a2a082c-1f43-43f7-a232-b017823a99b5",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\StockItemRepositoryTest::testDeleteByIdException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012123,
+    "stop": 1711693012125,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c5aa45a56bb30bd8fc9435b7891fa028",
+    "testCaseId": "58d6117479ec827c0d43f6cee714b2d4",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\StockItemRepositoryTest::testDeleteByIdException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\StockItemRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteByIdException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

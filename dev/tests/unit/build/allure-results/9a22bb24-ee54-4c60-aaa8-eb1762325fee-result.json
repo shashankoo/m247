@@ -1,0 +1,43 @@
+{
+    "uuid": "9a22bb24-ee54-4c60-aaa8-eb1762325fee",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ItemTest::testIsDisabledReturnsTrueIfModuleDependenciesFail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010057,
+    "stop": 1711693010057,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3e74c651883e011166bcc4553ba0808e",
+    "testCaseId": "3af53a69631b4a8f95ea59fb1e50f022",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ItemTest::testIsDisabledReturnsTrueIfModuleDependenciesFail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsDisabledReturnsTrueIfModuleDependenciesFail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

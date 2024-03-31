@@ -1,0 +1,43 @@
+{
+    "uuid": "815d8691-c3f6-488f-a0ef-5d1feddcd701",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\AuthenticationTest::testIsLocked",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020375,
+    "stop": 1711693020376,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6ecafad822af60c0443f8b606f12a4b1",
+    "testCaseId": "42b965def0ed58976786fefa363eb64f",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\AuthenticationTest::testIsLocked",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\AuthenticationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsLocked"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

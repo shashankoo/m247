@@ -1,0 +1,43 @@
+{
+    "uuid": "3c555299-fccb-4274-b611-6986a8ee9ee1",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Service\\CreditmemoServiceTest::testMultiCurrencyRefundExpectsMoneyAvailableToReturn",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041039,
+    "stop": 1711693041040,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "78c041a1cd082bf3a1938961f5b66e7f",
+    "testCaseId": "e912bf33ca2f183280f50fd0342d316b",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Service\\CreditmemoServiceTest::testMultiCurrencyRefundExpectsMoneyAvailableToReturn",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Service\\CreditmemoServiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMultiCurrencyRefundExpectsMoneyAvailableToReturn"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

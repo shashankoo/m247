@@ -1,0 +1,50 @@
+{
+    "uuid": "6c9001bf-b310-4317-b07a-217882dc9285",
+    "name": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\Storage\\DynamicStorageTest::testFindProductRewriteByRequestPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013115,
+    "stop": 1711693013116,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fd0d94f899c5e734ad558cbdc4914af6",
+    "testCaseId": "0119ea070720a27931f8eb2e1221542f",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\Storage\\DynamicStorageTest::testFindProductRewriteByRequestPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\Storage\\DynamicStorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFindProductRewriteByRequestPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

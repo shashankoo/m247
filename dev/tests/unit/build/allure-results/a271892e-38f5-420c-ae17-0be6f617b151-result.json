@@ -1,0 +1,50 @@
+{
+    "uuid": "a271892e-38f5-420c-ae17-0be6f617b151",
+    "name": "Magento\\Checkout\\Test\\Unit\\Plugin\\ResetQuoteAddressesTest::testClearingTheAddressesFromEmptyQuote",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016985,
+    "stop": 1711693016985,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Test case with a non virtual quote without extension attributes\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ef1e25360ac84b34f7c8ca2e561ad921",
+    "testCaseId": "a043cd9aef38f1d7cf197455c0ffb147",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Plugin\\ResetQuoteAddressesTest::testClearingTheAddressesFromEmptyQuote",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Plugin\\ResetQuoteAddressesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testClearingTheAddressesFromEmptyQuote"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

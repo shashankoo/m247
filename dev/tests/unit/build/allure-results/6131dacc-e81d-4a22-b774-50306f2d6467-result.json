@@ -1,0 +1,50 @@
+{
+    "uuid": "6131dacc-e81d-4a22-b774-50306f2d6467",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\Items\\GridTest::testTierPriceInfo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036527,
+    "stop": 1711693036532,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4f2bc2849bd4247c8eaff8b5a9426db6",
+    "testCaseId": "3eacc7a4cfb5b07910ee61662581de9a",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\Items\\GridTest::testTierPriceInfo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\Items\\GridTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testTierPriceInfo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

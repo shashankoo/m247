@@ -1,0 +1,43 @@
+{
+    "uuid": "7a5ee20e-7cfd-4e6f-840a-f5f060f7eac7",
+    "name": "Magento\\Bundle\\Test\\Unit\\Model\\Sales\\Order\\Plugin\\ItemTest::testAfterGetQtyToCancelIfParentProductIsBundle",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011032,
+    "stop": 1711693011033,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "24446d31341320f3e0827a5d10a9d705",
+    "testCaseId": "5c9f7bc941871177141aca37bf374634",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Model\\Sales\\Order\\Plugin\\ItemTest::testAfterGetQtyToCancelIfParentProductIsBundle",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Model\\Sales\\Order\\Plugin\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetQtyToCancelIfParentProductIsBundle"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

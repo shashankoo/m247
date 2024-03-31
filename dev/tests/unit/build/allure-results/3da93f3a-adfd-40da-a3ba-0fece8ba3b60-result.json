@@ -1,0 +1,43 @@
+{
+    "uuid": "3da93f3a-adfd-40da-a3ba-0fece8ba3b60",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\UrlTest::testGetSecretKeyGenerationWithRouteNameInForwardInfo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010241,
+    "stop": 1711693010241,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e06fe91a613afb52f1cf6b6eddf0dd32",
+    "testCaseId": "9aa326c86d7aa4eacac5eb6edcc5c600",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\UrlTest::testGetSecretKeyGenerationWithRouteNameInForwardInfo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\UrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSecretKeyGenerationWithRouteNameInForwardInfo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

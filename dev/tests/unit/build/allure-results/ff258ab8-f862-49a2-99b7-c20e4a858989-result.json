@@ -1,0 +1,43 @@
+{
+    "uuid": "ff258ab8-f862-49a2-99b7-c20e4a858989",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Website\\ReadHandlerTest::testExecuteWithNonCachedExtensionAttributes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015407,
+    "stop": 1711693015409,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cfbb664d3596467406634852b46641a8",
+    "testCaseId": "ed19bf2bb372b630365ab25f03449bd6",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Website\\ReadHandlerTest::testExecuteWithNonCachedExtensionAttributes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Website\\ReadHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithNonCachedExtensionAttributes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

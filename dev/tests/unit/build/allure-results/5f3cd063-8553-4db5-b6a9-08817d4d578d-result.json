@@ -1,0 +1,43 @@
+{
+    "uuid": "5f3cd063-8553-4db5-b6a9-08817d4d578d",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\ResourceConnection\\ConfigTest::testGetConnectionNameWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058777,
+    "stop": 1711693058778,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "da09fbe8065c79e9cf7f72d0f9d4699f",
+    "testCaseId": "35ba677df7fcf56a0c0c0fe6eaa21eb6",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\ResourceConnection\\ConfigTest::testGetConnectionNameWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\ResourceConnection\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConnectionNameWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

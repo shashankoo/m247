@@ -1,0 +1,50 @@
+{
+    "uuid": "61c92b53-789f-4ab1-8d10-6c791d89bd0e",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\ResourceModel\\ReadHandlerTest::testExecuteGlobalScope",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022900,
+    "stop": 1711693022901,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"static attribute\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "19f116dd601fd0abfc390f46fb1aa6c4",
+    "testCaseId": "2a0885dc0bab11148fd93bb711878d30",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\ResourceModel\\ReadHandlerTest::testExecuteGlobalScope",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\ResourceModel\\ReadHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteGlobalScope"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

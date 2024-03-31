@@ -1,0 +1,50 @@
+{
+    "uuid": "0e07a5db-e6d2-41fb-aa37-1579f607788e",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Layer\\Filter\\DataProvider\\PriceTest::testValidateFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014693,
+    "stop": 1711693014693,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6fdc6465445d127f5df0e612a0d6c840",
+    "testCaseId": "0081be10f6651319d525359b910bbdc2",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Layer\\Filter\\DataProvider\\PriceTest::testValidateFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Layer\\Filter\\DataProvider\\PriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

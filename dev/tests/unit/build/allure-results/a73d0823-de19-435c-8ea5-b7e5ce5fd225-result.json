@@ -1,0 +1,50 @@
+{
+    "uuid": "a73d0823-de19-435c-8ea5-b7e5ce5fd225",
+    "name": "Magento\\Tax\\Test\\Unit\\Pricing\\AdjustmentTest::testIsIncludedInDisplayPrice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042836,
+    "stop": 1711693042836,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fec008c1e6a4f6f549dbe5ff135c1b1e",
+    "testCaseId": "93820bc16b10f3685076ab69cdc2ff00",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Pricing\\AdjustmentTest::testIsIncludedInDisplayPrice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Pricing\\AdjustmentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsIncludedInDisplayPrice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

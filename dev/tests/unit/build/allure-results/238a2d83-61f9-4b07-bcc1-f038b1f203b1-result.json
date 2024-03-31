@@ -1,0 +1,43 @@
+{
+    "uuid": "238a2d83-61f9-4b07-bcc1-f038b1f203b1",
+    "name": "Magento\\Wishlist\\Test\\Unit\\Controller\\Index\\RemoveTest::testExecuteCanNotSaveWishlistAndWithRedirect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054331,
+    "stop": 1711693054331,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b127e75e7bba50d794ecead71f202e83",
+    "testCaseId": "b7ee7c9f4199ec963ca5000437b7c6f8",
+    "rerunOf": null,
+    "fullName": "Magento\\Wishlist\\Test\\Unit\\Controller\\Index\\RemoveTest::testExecuteCanNotSaveWishlistAndWithRedirect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Wishlist\\Test\\Unit\\Controller\\Index\\RemoveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteCanNotSaveWishlistAndWithRedirect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

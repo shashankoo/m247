@@ -1,0 +1,43 @@
+{
+    "uuid": "4299e36c-210e-4405-8b5c-b01e105aacac",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\AdminOrder\\CreateTest::testGetCustomerCart",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037409,
+    "stop": 1711693037410,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1c699e36c7b9a3459a2a3b899ccf56c1",
+    "testCaseId": "a856a9defa810597c4ae6d0c58907d73",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\AdminOrder\\CreateTest::testGetCustomerCart",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\AdminOrder\\CreateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCustomerCart"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

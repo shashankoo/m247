@@ -1,0 +1,43 @@
+{
+    "uuid": "4500acd7-b00d-4cbd-afa5-c37b0a408091",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest::testCleanupDb",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055352,
+    "stop": 1711693055353,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f8d6fa8656f8b1275eac634ce794ae91",
+    "testCaseId": "3a03cae4640a16ce873166f5cf43a6a6",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest::testCleanupDb",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCleanupDb"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

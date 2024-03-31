@@ -1,0 +1,50 @@
+{
+    "uuid": "ad9e452b-01cb-4e6e-95b6-f7f5de6e1ecb",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Source\\TableTest::testGetOptionText",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022713,
+    "stop": 1711693022713,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fc3c0ee89c932f0b8cef8f8c6549d803",
+    "testCaseId": "f332b03fa11c14886d6229717f7a932a",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Source\\TableTest::testGetOptionText",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Source\\TableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOptionText"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

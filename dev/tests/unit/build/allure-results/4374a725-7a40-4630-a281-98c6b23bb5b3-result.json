@@ -1,0 +1,43 @@
+{
+    "uuid": "4374a725-7a40-4630-a281-98c6b23bb5b3",
+    "name": "Magento\\Framework\\Authorization\\Test\\Unit\\Policy\\AclTest::testIsAllowedReturnsTrueIfResourceIsAllowedToRole",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059086,
+    "stop": 1711693059087,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1abacd7e65baa438e8357f29321ee7af",
+    "testCaseId": "364167cf143c8de1e7eef11d287276f8",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Authorization\\Test\\Unit\\Policy\\AclTest::testIsAllowedReturnsTrueIfResourceIsAllowedToRole",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Authorization\\Test\\Unit\\Policy\\AclTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAllowedReturnsTrueIfResourceIsAllowedToRole"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "b1a4360e-1ebe-4ca4-88a2-63e83a37d52c",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\MultishippingTest::testValidateMinimumAmountMultiAddressTrue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030786,
+    "stop": 1711693030786,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "83a7030ce33830b618c43ce1f2cb95c3",
+    "testCaseId": "5c4369f74ec290a9eccc53310e50cf40",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\MultishippingTest::testValidateMinimumAmountMultiAddressTrue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\MultishippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateMinimumAmountMultiAddressTrue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "6dd326c5-e614-4792-bb68-9a24f30fc6e6",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest::testGetByIdForCacheKeyGenerate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015531,
+    "stop": 1711693015532,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ca8a1ea70a90080e32939ddd426943f1",
+    "testCaseId": "4b5d443e5b55b5f01f6f625c076e1f9b",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest::testGetByIdForCacheKeyGenerate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetByIdForCacheKeyGenerate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

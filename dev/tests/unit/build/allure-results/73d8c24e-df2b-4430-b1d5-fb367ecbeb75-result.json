@@ -1,0 +1,43 @@
+{
+    "uuid": "73d8c24e-df2b-4430-b1d5-fb367ecbeb75",
+    "name": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\SaveTest::testSaveActionIntegrationException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029828,
+    "stop": 1711693029829,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f055959acf822dbd290fc03521399e50",
+    "testCaseId": "caf5198833f4c77cf8a218a08d561fee",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\SaveTest::testSaveActionIntegrationException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveActionIntegrationException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

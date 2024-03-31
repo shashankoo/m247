@@ -1,0 +1,43 @@
+{
+    "uuid": "345be172-f0ee-4400-8ef2-d2492417bef1",
+    "name": "Magento\\Security\\Test\\Unit\\Model\\ConfigTest::testGetCustomerServiceEmail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041266,
+    "stop": 1711693041266,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9a2b4f954f52236d78849410f301abc7",
+    "testCaseId": "532060c76a5efa227765fd6db20eccf8",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Model\\ConfigTest::testGetCustomerServiceEmail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Model\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCustomerServiceEmail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

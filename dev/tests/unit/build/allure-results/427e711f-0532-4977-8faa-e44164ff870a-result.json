@@ -1,0 +1,50 @@
+{
+    "uuid": "427e711f-0532-4977-8faa-e44164ff870a",
+    "name": "Magento\\Bundle\\Test\\Unit\\Model\\Product\\PriceTest::testGetTotalBundleItemsPriceWithEmptyOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010857,
+    "stop": 1711693010858,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e002f46122ed6d147cbbfa75e50505a7",
+    "testCaseId": "a6b39851a17115601638c3ee37ad73e0",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Model\\Product\\PriceTest::testGetTotalBundleItemsPriceWithEmptyOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Model\\Product\\PriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTotalBundleItemsPriceWithEmptyOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "daf0a1b1-888a-45d0-9821-1a0b0d257e1f",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Model\\Paypal\\Helper\\OrderPlaceTest::testExecuteGuest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056359,
+    "stop": 1711693056361,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skip this test",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d79cdfa41975cee9eee2ba979a126aee",
+    "testCaseId": "40aa04642496a382c8ab301d8b1aae1f",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Model\\Paypal\\Helper\\OrderPlaceTest::testExecuteGuest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Model\\Paypal\\Helper\\OrderPlaceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteGuest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

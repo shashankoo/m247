@@ -1,0 +1,50 @@
+{
+    "uuid": "523ab0e4-1877-4544-a87a-a0955cc60ef0",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Parser\\Adapter\\XmlTest::testParse",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056034,
+    "stop": 1711693056036,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "aeee9c01ce2e04315db7d21e0bd2332c",
+    "testCaseId": "6cd5444f7ea46be93019b2d8cc8cccfc",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Parser\\Adapter\\XmlTest::testParse",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Parser\\Adapter\\XmlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testParse"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

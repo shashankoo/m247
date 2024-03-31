@@ -1,0 +1,50 @@
+{
+    "uuid": "cadaec41-d8a4-41a5-a406-8a34fcbb1704",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\Structure\\PaymentSectionModifierTest::testGroupsNotRemovedAfterModification",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031997,
+    "stop": 1711693031997,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b6156bfc2bbb27b9bd128046ab6efe26",
+    "testCaseId": "6af3adabe512974c79d7144536b7c59d",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\Structure\\PaymentSectionModifierTest::testGroupsNotRemovedAfterModification",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\Structure\\PaymentSectionModifierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGroupsNotRemovedAfterModification"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

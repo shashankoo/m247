@@ -1,0 +1,43 @@
+{
+    "uuid": "a6018186-a871-4ef0-a9c8-81f6887626bf",
+    "name": "Magento\\Authorization\\Test\\Unit\\Model\\CompositeUserContextTest::testGetUserId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009363,
+    "stop": 1711693009364,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ca19def8cf6e3be7c5363a141fda4af5",
+    "testCaseId": "0532092217784032e9a7168b134463ba",
+    "rerunOf": null,
+    "fullName": "Magento\\Authorization\\Test\\Unit\\Model\\CompositeUserContextTest::testGetUserId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Authorization\\Test\\Unit\\Model\\CompositeUserContextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUserId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

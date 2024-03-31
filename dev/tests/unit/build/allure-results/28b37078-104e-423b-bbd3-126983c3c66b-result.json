@@ -1,0 +1,50 @@
+{
+    "uuid": "28b37078-104e-423b-bbd3-126983c3c66b",
+    "name": "Magento\\Framework\\Code\\Test\\Unit\\Validator\\TypeDuplicationTest::testValidClasses",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069487,
+    "stop": 1711693069488,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Duplicated interface injection\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "289e76e2e07d41e007f416e0ba197fa4",
+    "testCaseId": "f7d6caa063f5b107137c4dc83aee90e8",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Code\\Test\\Unit\\Validator\\TypeDuplicationTest::testValidClasses",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Code\\Test\\Unit\\Validator\\TypeDuplicationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidClasses"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

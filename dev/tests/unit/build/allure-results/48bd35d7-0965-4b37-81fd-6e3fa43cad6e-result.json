@@ -1,0 +1,43 @@
+{
+    "uuid": "48bd35d7-0965-4b37-81fd-6e3fa43cad6e",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Attribute\\Backend\\TierPrice\\SaveHandlerTest::testExecuteWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014108,
+    "stop": 1711693014110,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "24ad1d9f3be2df022523ad0e2a5b689e",
+    "testCaseId": "da2fd26c2e645ba4aa69adb02f4642b5",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Attribute\\Backend\\TierPrice\\SaveHandlerTest::testExecuteWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Attribute\\Backend\\TierPrice\\SaveHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "bbd07522-f0ee-4499-aa8f-c0f5581c7d7e",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Config\\SessionLifetime\\BackendModelTest::testBeforeSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009845,
+    "stop": 1711693009845,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ac051f408574abff34d7d206357c4bdf",
+    "testCaseId": "cbdc8ef24f83100fc967d0e4485d589f",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Config\\SessionLifetime\\BackendModelTest::testBeforeSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Config\\SessionLifetime\\BackendModelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

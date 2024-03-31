@@ -1,0 +1,50 @@
+{
+    "uuid": "0ff36bb6-d3b3-4f2a-badd-7a8a2e08439b",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\AbstractElementTest::testIsVisibleReturnsTrueForProperScopes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017958,
+    "stop": 1711693017959,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e83f59c73eacd005c6509d2a555b29b5",
+    "testCaseId": "05e933aa8f4447ed74b698ceeb0e2c03",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\AbstractElementTest::testIsVisibleReturnsTrueForProperScopes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\AbstractElementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsVisibleReturnsTrueForProperScopes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

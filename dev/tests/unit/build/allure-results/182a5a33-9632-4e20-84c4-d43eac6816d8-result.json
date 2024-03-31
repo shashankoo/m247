@@ -1,0 +1,50 @@
+{
+    "uuid": "182a5a33-9632-4e20-84c4-d43eac6816d8",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\RelatedProductsTest::testGetRelatedProductIds",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032869,
+    "stop": 1711693032869,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "058390e097539ea526d94803518c6cf4",
+    "testCaseId": "3e90aa862378b8749f31545b5262ba91",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\RelatedProductsTest::testGetRelatedProductIds",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\RelatedProductsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRelatedProductIds"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

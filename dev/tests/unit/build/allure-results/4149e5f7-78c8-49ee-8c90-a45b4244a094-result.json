@@ -1,0 +1,43 @@
+{
+    "uuid": "4149e5f7-78c8-49ee-8c90-a45b4244a094",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Total\\Config\\BaseTest::testGetTotalUnserializeCachedCollectorCodes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039470,
+    "stop": 1711693039470,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5546b9d29a97ba9f793718b3853c8ce9",
+    "testCaseId": "b39435f00dfa4ca74ca8510588ef22da",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Total\\Config\\BaseTest::testGetTotalUnserializeCachedCollectorCodes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Total\\Config\\BaseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTotalUnserializeCachedCollectorCodes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

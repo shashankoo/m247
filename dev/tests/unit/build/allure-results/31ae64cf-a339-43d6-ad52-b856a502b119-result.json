@@ -1,0 +1,43 @@
+{
+    "uuid": "31ae64cf-a339-43d6-ad52-b856a502b119",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TierPriceManagementTest::testSuccessDeleteTierPrice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015327,
+    "stop": 1711693015328,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "333a5b4a6d764e38778553d44d8a464a",
+    "testCaseId": "9e38348e5110d9b9ac36d9c72cf5f63a",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TierPriceManagementTest::testSuccessDeleteTierPrice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TierPriceManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSuccessDeleteTierPrice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

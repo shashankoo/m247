@@ -1,0 +1,50 @@
+{
+    "uuid": "c7c31374-77e7-48ae-8cd0-ce5de66d2bd8",
+    "name": "Magento\\Framework\\Code\\Test\\Unit\\GeneratedFilesTest::itDoesNotCleanGeneratedFilesWhenCheckingFlagExistsDueToExceptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069329,
+    "stop": 1711693069329,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Magento\\Framework\\Exception\\RuntimeException\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b0284d8de71566fe0d22d6b359bb6d15",
+    "testCaseId": "868d21490f07cd628de0c1d97b69b6a2",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Code\\Test\\Unit\\GeneratedFilesTest::itDoesNotCleanGeneratedFilesWhenCheckingFlagExistsDueToExceptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Code\\Test\\Unit\\GeneratedFilesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "itDoesNotCleanGeneratedFilesWhenCheckingFlagExistsDueToExceptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "e59b303a-c4cc-4505-9377-9ba7192f4b2e",
+    "name": "Magento\\User\\Test\\Unit\\Observer\\Backend\\AuthObserverTest::testAdminAuthenticate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053008,
+    "stop": 1711693053011,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a18d608a3ea0697c9c5ed899317fdab4",
+    "testCaseId": "a314f8cb0e46f3ed362e18f9cdb31c5f",
+    "rerunOf": null,
+    "fullName": "Magento\\User\\Test\\Unit\\Observer\\Backend\\AuthObserverTest::testAdminAuthenticate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\User\\Test\\Unit\\Observer\\Backend\\AuthObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAdminAuthenticate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

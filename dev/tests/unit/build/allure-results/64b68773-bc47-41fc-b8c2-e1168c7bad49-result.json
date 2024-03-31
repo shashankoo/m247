@@ -1,0 +1,43 @@
+{
+    "uuid": "64b68773-bc47-41fc-b8c2-e1168c7bad49",
+    "name": "Magento\\Review\\Test\\Unit\\Block\\Adminhtml\\Rss\\Grid\\LinkTest::testIsRssAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693034571,
+    "stop": 1711693034572,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "35813e094d4fbb9c7b5ed57c68f5d492",
+    "testCaseId": "6cdf77223f737640cc7f51a1b0d9dbd2",
+    "rerunOf": null,
+    "fullName": "Magento\\Review\\Test\\Unit\\Block\\Adminhtml\\Rss\\Grid\\LinkTest::testIsRssAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Review\\Test\\Unit\\Block\\Adminhtml\\Rss\\Grid\\LinkTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsRssAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

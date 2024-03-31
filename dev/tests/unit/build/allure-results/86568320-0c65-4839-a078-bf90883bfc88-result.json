@@ -1,0 +1,43 @@
+{
+    "uuid": "86568320-0c65-4839-a078-bf90883bfc88",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Diff\\DiffManagerTest::testRegisterTableModificationWhenChangeEngine",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076387,
+    "stop": 1711693076399,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "792b464af7a58b3bf34dd99d19c71fa7",
+    "testCaseId": "20943451d2294759c5c32459867964a0",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Diff\\DiffManagerTest::testRegisterTableModificationWhenChangeEngine",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Diff\\DiffManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRegisterTableModificationWhenChangeEngine"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

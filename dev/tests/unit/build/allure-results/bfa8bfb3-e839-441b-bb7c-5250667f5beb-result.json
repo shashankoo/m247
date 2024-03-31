@@ -1,0 +1,50 @@
+{
+    "uuid": "bfa8bfb3-e839-441b-bb7c-5250667f5beb",
+    "name": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\RequestTest::testGetServer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073657,
+    "stop": 1711693073657,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#16",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f442c93d3cfcddd6cde645fbd22b0951",
+    "testCaseId": "dc6ac14176348926593845123fa8f477",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\RequestTest::testGetServer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\RequestTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetServer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

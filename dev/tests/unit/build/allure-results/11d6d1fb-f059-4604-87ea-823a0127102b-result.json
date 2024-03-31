@@ -1,0 +1,43 @@
+{
+    "uuid": "11d6d1fb-f059-4604-87ea-823a0127102b",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Dependency\\Report\\Framework\\Data\\ConfigTest::testGetDependenciesCount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055600,
+    "stop": 1711693055601,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e599f36da6200930d59aebc43e142347",
+    "testCaseId": "c76355aebc05e78131b0d616e15ace10",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Dependency\\Report\\Framework\\Data\\ConfigTest::testGetDependenciesCount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Dependency\\Report\\Framework\\Data\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDependenciesCount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

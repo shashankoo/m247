@@ -1,0 +1,50 @@
+{
+    "uuid": "4088fa12-69d4-43f6-a55e-bf138aa60efc",
+    "name": "Magento\\Payment\\Test\\Unit\\Block\\Transparent\\RedirectTest::testGetPostParams",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031387,
+    "stop": 1711693031387,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7a444af6f2c7d5e0f2e03ec3dd705e33",
+    "testCaseId": "1e9c8d99c2f7e46349e458e266ebc309",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Block\\Transparent\\RedirectTest::testGetPostParams",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Block\\Transparent\\RedirectTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPostParams"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

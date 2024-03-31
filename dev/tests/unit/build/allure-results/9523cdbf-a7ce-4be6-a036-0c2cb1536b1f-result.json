@@ -1,0 +1,43 @@
+{
+    "uuid": "9523cdbf-a7ce-4be6-a036-0c2cb1536b1f",
+    "name": "Magento\\Webapi\\Test\\Unit\\Model\\Authorization\\OauthUserContextTest::testGetUserType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053534,
+    "stop": 1711693053536,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "45a91c68d6b7e9d94b67b2953f12b60b",
+    "testCaseId": "9cb7fb361d3f5371ffd4b71bcbf4ed25",
+    "rerunOf": null,
+    "fullName": "Magento\\Webapi\\Test\\Unit\\Model\\Authorization\\OauthUserContextTest::testGetUserType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Webapi\\Test\\Unit\\Model\\Authorization\\OauthUserContextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUserType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

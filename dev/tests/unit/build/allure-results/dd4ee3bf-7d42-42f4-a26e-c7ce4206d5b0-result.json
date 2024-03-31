@@ -1,0 +1,50 @@
+{
+    "uuid": "dd4ee3bf-7d42-42f4-a26e-c7ce4206d5b0",
+    "name": "Magento\\Framework\\Code\\Test\\Unit\\NameBuilderTest::testBuildClassName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069432,
+    "stop": 1711693069432,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ed3ae2e5abe3735f011a5724e30a6d5e",
+    "testCaseId": "78b17effc0c36471d5a8862d955e797f",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Code\\Test\\Unit\\NameBuilderTest::testBuildClassName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Code\\Test\\Unit\\NameBuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildClassName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

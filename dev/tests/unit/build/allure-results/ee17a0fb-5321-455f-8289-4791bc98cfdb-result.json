@@ -1,0 +1,50 @@
+{
+    "uuid": "ee17a0fb-5321-455f-8289-4791bc98cfdb",
+    "name": "Magento\\Analytics\\Test\\Unit\\Cron\\UpdateTest::testExecuteRegularScenario",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009025,
+    "stop": 1711693009025,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Not the last attempt with command execution result False\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4bd3390a4bb9376885f7ba453ea52116",
+    "testCaseId": "7b55f8f3e9c09515fd6e5a8686627cb6",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Cron\\UpdateTest::testExecuteRegularScenario",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Cron\\UpdateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteRegularScenario"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

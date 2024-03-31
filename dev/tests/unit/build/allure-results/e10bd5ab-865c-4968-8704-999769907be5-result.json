@@ -1,0 +1,43 @@
+{
+    "uuid": "e10bd5ab-865c-4968-8704-999769907be5",
+    "name": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Observer\\ReportOrderPlacedTest::testReportOrderPlacedModuleDisabledFromConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030891,
+    "stop": 1711693030893,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c21cd66314648a95a215ec0e95c86e0c",
+    "testCaseId": "9a17849f49f8c4b5f31386106a132239",
+    "rerunOf": null,
+    "fullName": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Observer\\ReportOrderPlacedTest::testReportOrderPlacedModuleDisabledFromConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Observer\\ReportOrderPlacedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReportOrderPlacedModuleDisabledFromConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

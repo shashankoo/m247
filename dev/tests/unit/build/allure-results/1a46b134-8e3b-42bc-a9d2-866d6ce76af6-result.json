@@ -1,0 +1,43 @@
+{
+    "uuid": "1a46b134-8e3b-42bc-a9d2-866d6ce76af6",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\ResourceModel\\Oauth\\TokenTest::testCleanOldAuthorizedTokensExcept",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030147,
+    "stop": 1711693030148,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "773e1a69f6c2684d8e9084ce770e47e3",
+    "testCaseId": "559a9b1e33d5dc98df91ac614c9d4fbe",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\ResourceModel\\Oauth\\TokenTest::testCleanOldAuthorizedTokensExcept",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\ResourceModel\\Oauth\\TokenTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCleanOldAuthorizedTokensExcept"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

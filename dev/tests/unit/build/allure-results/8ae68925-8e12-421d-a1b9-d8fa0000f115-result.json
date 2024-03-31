@@ -1,0 +1,50 @@
+{
+    "uuid": "8ae68925-8e12-421d-a1b9-d8fa0000f115",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\AttributeTest::testCanBeFilterableInGrid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020359,
+    "stop": 1711693020360,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#11",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "50d2bcf7b61f47f6b43234272c29e96f",
+    "testCaseId": "de254ed8b4a5d22988acdd7a3e627add",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\AttributeTest::testCanBeFilterableInGrid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\AttributeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanBeFilterableInGrid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "993b07eb-6281-4ef5-84c8-3f5433ae6368",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Product\\Plugin\\UpdateQuoteItemsTest::testAfterUpdate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032776,
+    "stop": 1711693032776,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "26a1eabe5fb0658f3c54c3a5c770ffb4",
+    "testCaseId": "6968186eede7bd900923d643f5613c1c",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Product\\Plugin\\UpdateQuoteItemsTest::testAfterUpdate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Product\\Plugin\\UpdateQuoteItemsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterUpdate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

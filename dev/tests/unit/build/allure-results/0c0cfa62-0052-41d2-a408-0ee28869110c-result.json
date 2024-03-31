@@ -1,0 +1,43 @@
+{
+    "uuid": "0c0cfa62-0052-41d2-a408-0ee28869110c",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Validator\\Attribute\\BackendTest::testisValidIfProvidedResourceModelIsIncorrect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022914,
+    "stop": 1711693022915,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8036288c9ecfa1d067564f39bc08107b",
+    "testCaseId": "7dccb53696c0bafc1a1f3210f2508d3d",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Validator\\Attribute\\BackendTest::testisValidIfProvidedResourceModelIsIncorrect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Validator\\Attribute\\BackendTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testisValidIfProvidedResourceModelIsIncorrect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

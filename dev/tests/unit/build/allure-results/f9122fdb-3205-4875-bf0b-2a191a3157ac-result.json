@@ -1,0 +1,50 @@
+{
+    "uuid": "f9122fdb-3205-4875-bf0b-2a191a3157ac",
+    "name": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Helper\\SortItemsTest::testSortItems",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074837,
+    "stop": 1711693074837,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"pre-sorted array items\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "79eb4c0241be31ea0b9a24e841816cc2",
+    "testCaseId": "29934d58eed5b5737da709b94f8803a6",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Helper\\SortItemsTest::testSortItems",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Helper\\SortItemsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSortItems"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "6891d372-8b9d-41b3-bc88-988bdb057cfa",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Backend\\SecureTest::testSaveMergedJsCssMustBeCleaned",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017873,
+    "stop": 1711693017874,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6ed2a6ac7431a5eaf3b58bcac32b5819",
+    "testCaseId": "892b6a8005fffc3990d049db35fde315",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Backend\\SecureTest::testSaveMergedJsCssMustBeCleaned",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Backend\\SecureTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveMergedJsCssMustBeCleaned"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

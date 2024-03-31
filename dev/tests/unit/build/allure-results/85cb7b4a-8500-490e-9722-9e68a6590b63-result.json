@@ -1,0 +1,43 @@
+{
+    "uuid": "85cb7b4a-8500-490e-9722-9e68a6590b63",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\DiscountTest::testCollectNonZeroShipping",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037630,
+    "stop": 1711693037630,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9e0cd3d9b70a4d949b70aabc65659c3b",
+    "testCaseId": "b6213e524fb5a209d09216ccfab6fa4e",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\DiscountTest::testCollectNonZeroShipping",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\DiscountTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectNonZeroShipping"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

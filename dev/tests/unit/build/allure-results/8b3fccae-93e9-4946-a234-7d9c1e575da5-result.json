@@ -1,0 +1,43 @@
+{
+    "uuid": "8b3fccae-93e9-4946-a234-7d9c1e575da5",
+    "name": "Magento\\Paypal\\Test\\Unit\\Cron\\FetchReportsTest::testExecuteThrowsException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031883,
+    "stop": 1711693031886,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5f8717189995f08d60fd4fa8b8d21cbc",
+    "testCaseId": "78534a425d7b46d2dbee2bd43e04d42c",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Cron\\FetchReportsTest::testExecuteThrowsException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Cron\\FetchReportsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteThrowsException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

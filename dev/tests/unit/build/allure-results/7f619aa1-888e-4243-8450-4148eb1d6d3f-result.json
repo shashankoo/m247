@@ -1,0 +1,50 @@
+{
+    "uuid": "7f619aa1-888e-4243-8450-4148eb1d6d3f",
+    "name": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\CustomerCompositeTest::testImportData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019221,
+    "stop": 1711693019222,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"delete_behavior_customer_true\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bd59077a9f4a9633a538a83b9a27a001",
+    "testCaseId": "1cbbbf021fa989bbdaae11201b7278fb",
+    "rerunOf": null,
+    "fullName": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\CustomerCompositeTest::testImportData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\CustomerCompositeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testImportData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

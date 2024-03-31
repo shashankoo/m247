@@ -1,0 +1,50 @@
+{
+    "uuid": "951e876c-7342-4f5b-9c2e-c49aefe81cda",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\PublicCookieMetadataTest::testGetters",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076670,
+    "stop": 1711693076670,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"getDomain\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "16f3b83b6391716c2cad81acdbe60778",
+    "testCaseId": "8724ec31a35570f3aff8ec8c0afb89f2",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\PublicCookieMetadataTest::testGetters",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\PublicCookieMetadataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetters"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

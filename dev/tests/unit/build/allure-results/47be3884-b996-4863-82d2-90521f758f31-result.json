@@ -1,0 +1,43 @@
+{
+    "uuid": "47be3884-b996-4863-82d2-90521f758f31",
+    "name": "Magento\\Framework\\Test\\Unit\\ProfilerTest::testClearTimer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056685,
+    "stop": 1711693056686,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "05d07ea7280642cd27f3fc4542ae03ed",
+    "testCaseId": "e6836bd1efa2d4ff7a1ce63a16c37596",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\ProfilerTest::testClearTimer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\ProfilerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testClearTimer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

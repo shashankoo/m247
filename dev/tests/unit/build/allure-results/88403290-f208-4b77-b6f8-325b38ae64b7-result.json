@@ -1,0 +1,50 @@
+{
+    "uuid": "88403290-f208-4b77-b6f8-325b38ae64b7",
+    "name": "Magento\\Framework\\Config\\Test\\Unit\\ValidationStateTest::testIsValidationRequired",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070047,
+    "stop": 1711693070047,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f527675f14c1a6c7d5bb8395fbeb148a",
+    "testCaseId": "da7770c286be00b4f6f62050fe825da7",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Config\\Test\\Unit\\ValidationStateTest::testIsValidationRequired",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Config\\Test\\Unit\\ValidationStateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValidationRequired"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

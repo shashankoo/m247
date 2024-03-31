@@ -1,0 +1,43 @@
+{
+    "uuid": "893c9a10-4250-4788-9d7a-8fc07307b579",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Elasticsearch5\\Model\\Adapter\\Index\\IndexNameResolverTest::testGetIndexPattern",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023088,
+    "stop": 1711693023088,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7eda4b6536f396b1cbd54708d1551d20",
+    "testCaseId": "3a1c664ab67cee49edd0414c0c8bb8b3",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Elasticsearch5\\Model\\Adapter\\Index\\IndexNameResolverTest::testGetIndexPattern",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Elasticsearch5\\Model\\Adapter\\Index\\IndexNameResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIndexPattern"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "4bf2f984-5941-411a-bea5-f8a978fed260",
+    "name": "Magento\\Paypal\\Test\\Unit\\Block\\Billing\\AgreementsTest::testGetItemStatus",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031789,
+    "stop": 1711693031790,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4e9c0fe67e2873d0359e6d52b703abcf",
+    "testCaseId": "19df573dcf825d5eee011d4ecf5f2fba",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Block\\Billing\\AgreementsTest::testGetItemStatus",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Block\\Billing\\AgreementsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItemStatus"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

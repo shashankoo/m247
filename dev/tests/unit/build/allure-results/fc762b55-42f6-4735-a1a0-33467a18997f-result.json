@@ -1,0 +1,43 @@
+{
+    "uuid": "fc762b55-42f6-4735-a1a0-33467a18997f",
+    "name": "Magento\\Deploy\\Test\\Unit\\Model\\FilesystemTest::testGenerateStaticForNotAllowedAdminLocale",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021303,
+    "stop": 1711693021304,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6687fbaecba2be1f093d5707a166702e",
+    "testCaseId": "0e3bf6c591c08b1b96e8f706bfd3274d",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Model\\FilesystemTest::testGenerateStaticForNotAllowedAdminLocale",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Model\\FilesystemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerateStaticForNotAllowedAdminLocale"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

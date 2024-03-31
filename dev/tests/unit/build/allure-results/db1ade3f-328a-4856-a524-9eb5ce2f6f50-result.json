@@ -1,0 +1,50 @@
+{
+    "uuid": "db1ade3f-328a-4856-a524-9eb5ce2f6f50",
+    "name": "Magento\\Framework\\Event\\Test\\Unit\\Observer\\CronTest::testGetNumeric",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073045,
+    "stop": 1711693073045,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#11",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "afc9c673098df7302b4d8675d10ad4e7",
+    "testCaseId": "4d1fdcafe27542cb3990d27af6dd99db",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Event\\Test\\Unit\\Observer\\CronTest::testGetNumeric",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Event\\Test\\Unit\\Observer\\CronTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetNumeric"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "5932c08a-54d1-4929-9956-23b1450c883d",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\CoreTest::testSetBackendException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059270,
+    "stop": 1711693059270,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"non-existing class passed\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ad8c64985bcf987d83fa9f0985f7e362",
+    "testCaseId": "4f8cb93a4f9fa9d8d7170541f90312cf",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\CoreTest::testSetBackendException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\CoreTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetBackendException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

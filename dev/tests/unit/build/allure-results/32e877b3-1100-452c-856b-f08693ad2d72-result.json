@@ -1,0 +1,43 @@
+{
+    "uuid": "32e877b3-1100-452c-856b-f08693ad2d72",
+    "name": "Magento\\Checkout\\Test\\Unit\\Model\\GuestShippingInformationManagementTest::testSaveAddressInformation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016880,
+    "stop": 1711693016882,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f4e06a563ab8cba94e78507e7285d895",
+    "testCaseId": "26da10a1909fc887a39b6ea01e28cea3",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Model\\GuestShippingInformationManagementTest::testSaveAddressInformation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Model\\GuestShippingInformationManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveAddressInformation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

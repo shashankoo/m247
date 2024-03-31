@@ -1,0 +1,50 @@
+{
+    "uuid": "61b14889-3d01-4797-9c27-4f45b86a3ded",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\EmailNotificationTest::testNewAccount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020530,
+    "stop": 1711693020531,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e7698ea1f160e415dd32ccd806bd59f9",
+    "testCaseId": "25bee425975df47f7f5fe1dd36df7174",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\EmailNotificationTest::testNewAccount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\EmailNotificationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testNewAccount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "c54636e6-4105-48c1-a8e0-d8436bb22b99",
+    "name": "Magento\\Framework\\Config\\Test\\Unit\\Dom\\NodePathMatcherTest::testMatch",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069943,
+    "stop": 1711693069943,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"partial match\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "76f35eb30e66e5e9bcc725d5da549962",
+    "testCaseId": "4023828b70405065d735a22ec0fb8219",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Config\\Test\\Unit\\Dom\\NodePathMatcherTest::testMatch",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Config\\Test\\Unit\\Dom\\NodePathMatcherTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMatch"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

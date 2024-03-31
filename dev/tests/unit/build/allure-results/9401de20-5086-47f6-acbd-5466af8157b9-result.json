@@ -1,0 +1,43 @@
+{
+    "uuid": "9401de20-5086-47f6-acbd-5466af8157b9",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\Sales\\Total\\Quote\\ShippingTest::testCollectDoesNotCalculateTaxIfThereIsNoItemsRelatedToGivenAddress",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042723,
+    "stop": 1711693042728,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8bc460f47b569bba748ec1a1678da196",
+    "testCaseId": "448b864305078c5bdcebca95a09cf370",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\Sales\\Total\\Quote\\ShippingTest::testCollectDoesNotCalculateTaxIfThereIsNoItemsRelatedToGivenAddress",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\Sales\\Total\\Quote\\ShippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectDoesNotCalculateTaxIfThereIsNoItemsRelatedToGivenAddress"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

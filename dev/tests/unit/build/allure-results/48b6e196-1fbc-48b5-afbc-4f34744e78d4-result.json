@@ -1,0 +1,50 @@
+{
+    "uuid": "48b6e196-1fbc-48b5-afbc-4f34744e78d4",
+    "name": "Magento\\Framework\\Test\\Unit\\ArchiveTest::testPackUnpackTar",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056467,
+    "stop": 1711693056467,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "The extension 'bz2' is not enabled.",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d64acb511d5b376de038a031f8987bd9",
+    "testCaseId": "8dd4a840a6f4976fc6abe6b9f1265e73",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\ArchiveTest::testPackUnpackTar",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\ArchiveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPackUnpackTar"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

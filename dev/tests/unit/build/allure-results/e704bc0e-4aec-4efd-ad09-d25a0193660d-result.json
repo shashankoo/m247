@@ -1,0 +1,50 @@
+{
+    "uuid": "e704bc0e-4aec-4efd-ad09-d25a0193660d",
+    "name": "Magento\\Backend\\Test\\Unit\\App\\Action\\Plugin\\AuthenticationTest::testProcessNotLoggedInUser",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009427,
+    "stop": 1711693009428,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Neither iFrame nor Ajax\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bbac0e2b3a841aa401217769a8ddd332",
+    "testCaseId": "d7f2dfa65d03756210453d40017e27e6",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\App\\Action\\Plugin\\AuthenticationTest::testProcessNotLoggedInUser",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\App\\Action\\Plugin\\AuthenticationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessNotLoggedInUser"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

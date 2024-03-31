@@ -1,0 +1,50 @@
+{
+    "uuid": "61f85f3c-ee88-40f2-8335-78741df8aec8",
+    "name": "Magento\\Analytics\\Test\\Unit\\Model\\EncodedContextTest::testConstruct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009105,
+    "stop": 1711693009105,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"With Initialization Vector\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bcf4c769691a18407b34a2243aeac3cc",
+    "testCaseId": "422945124dc74bc10517e0eed1729a57",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Model\\EncodedContextTest::testConstruct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Model\\EncodedContextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstruct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

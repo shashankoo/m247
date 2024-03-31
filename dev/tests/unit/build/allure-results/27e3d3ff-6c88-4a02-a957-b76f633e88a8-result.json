@@ -1,0 +1,50 @@
+{
+    "uuid": "27e3d3ff-6c88-4a02-a957-b76f633e88a8",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\FileSystemTest::testNormalizePath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077801,
+    "stop": 1711693077801,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"standard path\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8c6e96c6d2e32eb02288fce1ef41e1eb",
+    "testCaseId": "2a0ca66651ead3c7208e182e32d2a03b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\FileSystemTest::testNormalizePath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\FileSystemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testNormalizePath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

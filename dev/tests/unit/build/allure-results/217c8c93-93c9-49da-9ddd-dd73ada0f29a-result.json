@@ -1,0 +1,50 @@
+{
+    "uuid": "217c8c93-93c9-49da-9ddd-dd73ada0f29a",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\Column\\Renderer\\RadioTest::testRender",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009599,
+    "stop": 1711693009599,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"checked\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3a248330c15be163bb7c28e2874997c1",
+    "testCaseId": "68451b219a8e979c7346757ace2254f3",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\Column\\Renderer\\RadioTest::testRender",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\Column\\Renderer\\RadioTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRender"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

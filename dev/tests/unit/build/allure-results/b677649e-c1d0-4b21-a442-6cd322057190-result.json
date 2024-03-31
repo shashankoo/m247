@@ -1,0 +1,43 @@
+{
+    "uuid": "b677649e-c1d0-4b21-a442-6cd322057190",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testGetIsSalableSimple",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015706,
+    "stop": 1711693015707,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getStockItem\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3697f0d44e7faefe57882e62cbb4d7f5",
+    "testCaseId": "0ab6dc25f37fcbf690ab68cc7f55a6cf",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testGetIsSalableSimple",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIsSalableSimple"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

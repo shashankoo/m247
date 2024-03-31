@@ -1,0 +1,50 @@
+{
+    "uuid": "7b714700-f7a5-4763-8af6-71b0b1627157",
+    "name": "Magento\\Framework\\File\\Test\\Unit\\MimeTest::testGetMimeTypeRemote",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073151,
+    "stop": 1711693073151,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"weird extension\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "582a9aa2e66fa41cefb2c213b5b66485",
+    "testCaseId": "520796b7d0a1d9488d6773eb35faa635",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\File\\Test\\Unit\\MimeTest::testGetMimeTypeRemote",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\File\\Test\\Unit\\MimeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMimeTypeRemote"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

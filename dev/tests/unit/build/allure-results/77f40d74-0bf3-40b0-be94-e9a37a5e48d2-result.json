@@ -1,0 +1,43 @@
+{
+    "uuid": "77f40d74-0bf3-40b0-be94-e9a37a5e48d2",
+    "name": "Magento\\Bundle\\Test\\Unit\\Model\\OptionRepositoryTest::testDeleteThrowsExceptionIfCannotDelete",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010766,
+    "stop": 1711693010767,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a88370ccb254f296bc23ea57366b787d",
+    "testCaseId": "6ba9d47ab331439d1d21dedf7059139a",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Model\\OptionRepositoryTest::testDeleteThrowsExceptionIfCannotDelete",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Model\\OptionRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteThrowsExceptionIfCannotDelete"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "5de2b0e0-a8fa-4ad4-8042-346255145169",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ItemTest::testToArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010064,
+    "stop": 1711693010064,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"with submenu\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4d27c951d753e0965eac7a1b37a40468",
+    "testCaseId": "82b399875a95844cae39a183c4c4d11f",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ItemTest::testToArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "3cb4fdd1-43be-4b49-834d-aef98b9c8050",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testPlaceWithSaleOperationSupported",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038446,
+    "stop": 1711693038447,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c6fa726748d3fb6ef45a3043522a89fc",
+    "testCaseId": "11c86110aded98f6f075aa8f6d4a550a",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testPlaceWithSaleOperationSupported",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPlaceWithSaleOperationSupported"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

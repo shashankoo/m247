@@ -1,0 +1,43 @@
+{
+    "uuid": "fdc94cef-3b20-4ce7-b406-f6fe6aa84901",
+    "name": "Magento\\Ui\\Test\\Unit\\Controller\\Adminhtml\\Index\\RenderTest::testExecuteAjaxRequestException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052417,
+    "stop": 1711693052420,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "28c7f9a89bc880824c5b5cadec02ce47",
+    "testCaseId": "3a03dc8fa2a9c4378eb74a66c9ab3ac8",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Controller\\Adminhtml\\Index\\RenderTest::testExecuteAjaxRequestException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Controller\\Adminhtml\\Index\\RenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteAjaxRequestException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

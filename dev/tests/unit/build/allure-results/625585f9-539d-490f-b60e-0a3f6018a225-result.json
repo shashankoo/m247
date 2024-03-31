@@ -1,0 +1,43 @@
+{
+    "uuid": "625585f9-539d-490f-b60e-0a3f6018a225",
+    "name": "Magento\\GiftMessageGraphQl\\Test\\Unit\\Model\\Resolver\\Order\\GiftMessageTest::testResolveWithoutIDInValueParameter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023966,
+    "stop": 1711693023971,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ac5dfc2151c7570b6fab6b799bdcf513",
+    "testCaseId": "b4e870c25ade377e73cc34dbc801010a",
+    "rerunOf": null,
+    "fullName": "Magento\\GiftMessageGraphQl\\Test\\Unit\\Model\\Resolver\\Order\\GiftMessageTest::testResolveWithoutIDInValueParameter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GiftMessageGraphQl\\Test\\Unit\\Model\\Resolver\\Order\\GiftMessageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testResolveWithoutIDInValueParameter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

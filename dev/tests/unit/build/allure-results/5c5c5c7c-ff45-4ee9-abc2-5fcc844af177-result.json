@@ -1,0 +1,43 @@
+{
+    "uuid": "5c5c5c7c-ff45-4ee9-abc2-5fcc844af177",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\ClearExpiredCronJobObserverTest::testExecuteForNotExistingWebsite",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032551,
+    "stop": 1711693032551,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bcdec92c19fd1603e08176ca77cbac89",
+    "testCaseId": "ba01cd5676688f9f5be271a13e79366f",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\ClearExpiredCronJobObserverTest::testExecuteForNotExistingWebsite",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\ClearExpiredCronJobObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteForNotExistingWebsite"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

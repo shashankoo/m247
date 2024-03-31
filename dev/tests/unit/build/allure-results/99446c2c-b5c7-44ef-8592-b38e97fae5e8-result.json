@@ -1,0 +1,43 @@
+{
+    "uuid": "99446c2c-b5c7-44ef-8592-b38e97fae5e8",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\Platform\\QuoteTest::testQuoteIdentifierWithZendDbExpr",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070746,
+    "stop": 1711693070747,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2d1e8eac37752ecdd885402f615de61d",
+    "testCaseId": "c86adfb3eeca036f9196d59ebb55d9ca",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\Platform\\QuoteTest::testQuoteIdentifierWithZendDbExpr",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\Platform\\QuoteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testQuoteIdentifierWithZendDbExpr"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

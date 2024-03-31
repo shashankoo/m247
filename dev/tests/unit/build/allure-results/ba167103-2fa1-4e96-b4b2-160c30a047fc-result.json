@@ -1,0 +1,43 @@
+{
+    "uuid": "ba167103-2fa1-4e96-b4b2-160c30a047fc",
+    "name": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Cart\\Configuration\\Plugin\\GroupedTest::testAroundIsProductConfiguredWhenProductIsNotGrouped",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024332,
+    "stop": 1711693024333,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "16d063a347af034de0f56f9284f4f128",
+    "testCaseId": "d20e00e93cdb76a123465fda13190af9",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Cart\\Configuration\\Plugin\\GroupedTest::testAroundIsProductConfiguredWhenProductIsNotGrouped",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Cart\\Configuration\\Plugin\\GroupedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundIsProductConfiguredWhenProductIsNotGrouped"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

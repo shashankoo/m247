@@ -1,0 +1,43 @@
+{
+    "uuid": "a9e4089a-de49-4772-a88e-98ab5d1098eb",
+    "name": "Magento\\Analytics\\Test\\Unit\\Model\\Config\\Backend\\VerticalTest::testBeforeSaveFailedWithLocalizedException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009048,
+    "stop": 1711693009049,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c553610a66a7f25fa80b5e6157a2df0b",
+    "testCaseId": "6f88b08a303ff5dde0712b1f713390e7",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Model\\Config\\Backend\\VerticalTest::testBeforeSaveFailedWithLocalizedException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Model\\Config\\Backend\\VerticalTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSaveFailedWithLocalizedException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

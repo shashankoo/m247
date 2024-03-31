@@ -1,0 +1,50 @@
+{
+    "uuid": "abb85952-7702-4f5d-b01f-0078e738c0e9",
+    "name": "Magento\\Paypal\\Test\\Unit\\Controller\\Payflow\\ReturnUrlTest::testExecuteAllowedOrderState",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031841,
+    "stop": 1711693031842,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "558338ccec3f29989e8e4069b818ee69",
+    "testCaseId": "aeea0b6ec6d28f4b123ed80f39003008",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Controller\\Payflow\\ReturnUrlTest::testExecuteAllowedOrderState",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Controller\\Payflow\\ReturnUrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteAllowedOrderState"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

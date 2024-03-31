@@ -1,0 +1,50 @@
+{
+    "uuid": "856a30d7-4da8-4e09-8781-c63bfae886a5",
+    "name": "Magento\\Reports\\Test\\Unit\\Helper\\DataTest::testGetIntervals",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033464,
+    "stop": 1711693033465,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "72139772e913beb3d594fbe80a8de291",
+    "testCaseId": "8dba947860a8f2d57dac802822d33be9",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Helper\\DataTest::testGetIntervals",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIntervals"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

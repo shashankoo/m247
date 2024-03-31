@@ -1,0 +1,43 @@
+{
+    "uuid": "3d5fa9c4-14bf-45a0-87ff-f2ccae32c8cb",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Creditmemo\\CancelTest::testExecuteNoCreditmemo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036979,
+    "stop": 1711693036980,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bf942284b6af6ff5ff34e0bada8afe83",
+    "testCaseId": "fa949757bba316af85b9dd7e4c5df5bb",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Creditmemo\\CancelTest::testExecuteNoCreditmemo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Creditmemo\\CancelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteNoCreditmemo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

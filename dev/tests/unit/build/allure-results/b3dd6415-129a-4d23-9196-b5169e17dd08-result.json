@@ -1,0 +1,50 @@
+{
+    "uuid": "b3dd6415-129a-4d23-9196-b5169e17dd08",
+    "name": "Magento\\Framework\\Code\\Test\\Unit\\Generator\\InterfaceGeneratorTest::testGenerate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069368,
+    "stop": 1711693069368,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"\"abstract\" usage exception\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cf9d12cf69bac335418647529e99c4d1",
+    "testCaseId": "11b79e2cf9a1f3a228f5de46f92bc079",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Code\\Test\\Unit\\Generator\\InterfaceGeneratorTest::testGenerate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Code\\Test\\Unit\\Generator\\InterfaceGeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

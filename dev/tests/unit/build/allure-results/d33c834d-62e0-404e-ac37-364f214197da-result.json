@@ -1,0 +1,50 @@
+{
+    "uuid": "d33c834d-62e0-404e-ac37-364f214197da",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Validator\\LayoutUpdatePermissionsTest::testValidationConfiguration",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011564,
+    "stop": 1711693011565,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ac217ed78251ea0146ba4797a5c86c60",
+    "testCaseId": "821866364929f667e19b000e5c3a7a79",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Validator\\LayoutUpdatePermissionsTest::testValidationConfiguration",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Validator\\LayoutUpdatePermissionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidationConfiguration"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

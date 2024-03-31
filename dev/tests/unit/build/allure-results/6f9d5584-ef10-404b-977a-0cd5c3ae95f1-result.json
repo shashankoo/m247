@@ -1,0 +1,43 @@
+{
+    "uuid": "6f9d5584-ef10-404b-977a-0cd5c3ae95f1",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Command\\CaptureStrategyCommandTest::testCaptureExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056149,
+    "stop": 1711693056158,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ee7e89867043193b3d4ab6fcb3688c2e",
+    "testCaseId": "e4a11d99856b656b2e3e68d9dc235333",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Command\\CaptureStrategyCommandTest::testCaptureExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Command\\CaptureStrategyCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCaptureExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

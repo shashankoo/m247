@@ -1,0 +1,43 @@
+{
+    "uuid": "1948fd4a-baf0-4aa7-83b7-3e279e0f5665",
+    "name": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest::testProcessSimpleTypeStringToInt",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075493,
+    "stop": 1711693075494,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6febc1bbfe60401bda87591a1cb46631",
+    "testCaseId": "48775757264828c5bb0409ffd2f1fdd4",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest::testProcessSimpleTypeStringToInt",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessSimpleTypeStringToInt"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

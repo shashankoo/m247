@@ -1,0 +1,50 @@
+{
+    "uuid": "2061f635-05a8-4bdc-b0d5-0d08fff8cd11",
+    "name": "Magento\\OfflineShipping\\Test\\Unit\\Model\\ResourceModel\\Carrier\\Tablerate\\CSV\\ColumnResolverTest::testGetColumnValueByHeader",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031134,
+    "stop": 1711693031134,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"custom_field\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "10284289b299aacf570936b7a144bab4",
+    "testCaseId": "6a73b67a74753051fd4e32c85361bf30",
+    "rerunOf": null,
+    "fullName": "Magento\\OfflineShipping\\Test\\Unit\\Model\\ResourceModel\\Carrier\\Tablerate\\CSV\\ColumnResolverTest::testGetColumnValueByHeader",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\OfflineShipping\\Test\\Unit\\Model\\ResourceModel\\Carrier\\Tablerate\\CSV\\ColumnResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetColumnValueByHeader"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

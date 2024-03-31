@@ -1,0 +1,43 @@
+{
+    "uuid": "f45e438e-3fb7-4373-bf80-418f3dfe7e9e",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\ResourceModel\\Product\\Type\\Configurable\\AttributeTest::testSaveNewLabel",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018678,
+    "stop": 1711693018679,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0e9ad5ebd7cc429f279dad1fe4cbe3e8",
+    "testCaseId": "eb19e07ca897fe5d7a4f5b3851ca7229",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\ResourceModel\\Product\\Type\\Configurable\\AttributeTest::testSaveNewLabel",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\ResourceModel\\Product\\Type\\Configurable\\AttributeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveNewLabel"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

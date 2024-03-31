@@ -1,0 +1,43 @@
+{
+    "uuid": "5b92220e-06e4-4c05-866e-e7c15ecc8ad4",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\TreeTest::testGetTreeWhenChildrenAreNotExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014222,
+    "stop": 1711693014223,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0d9ab5e3def096a9e290d506f684e6a5",
+    "testCaseId": "d3cb7433e896aecc649d3d5de493ed44",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\TreeTest::testGetTreeWhenChildrenAreNotExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\TreeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTreeWhenChildrenAreNotExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

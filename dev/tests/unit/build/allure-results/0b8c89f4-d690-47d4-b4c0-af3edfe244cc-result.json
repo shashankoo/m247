@@ -1,0 +1,43 @@
+{
+    "uuid": "0b8c89f4-d690-47d4-b4c0-af3edfe244cc",
+    "name": "Magento\\Newsletter\\Test\\Unit\\Controller\\Manage\\SaveTest::testSaveActionNoCustomerInSession",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030934,
+    "stop": 1711693030934,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "45795e29127978a96aaafafe90400001",
+    "testCaseId": "15621a395aaa6f21556c68c148ee54fa",
+    "rerunOf": null,
+    "fullName": "Magento\\Newsletter\\Test\\Unit\\Controller\\Manage\\SaveTest::testSaveActionNoCustomerInSession",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Newsletter\\Test\\Unit\\Controller\\Manage\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveActionNoCustomerInSession"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

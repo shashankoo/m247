@@ -1,0 +1,50 @@
+{
+    "uuid": "198f0cbf-c87d-440e-811b-2293f715fb75",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\StaticResourceTest::testLaunchWithInvalidLocale",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058943,
+    "stop": 1711693058944,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e037635ebac371a5dd343d5645785fbd",
+    "testCaseId": "3bf97133972f7ef1dd808f45212e3829",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\StaticResourceTest::testLaunchWithInvalidLocale",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\StaticResourceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLaunchWithInvalidLocale"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

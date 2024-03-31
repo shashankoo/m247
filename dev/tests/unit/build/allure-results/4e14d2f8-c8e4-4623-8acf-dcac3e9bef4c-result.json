@@ -1,0 +1,50 @@
+{
+    "uuid": "4e14d2f8-c8e4-4623-8acf-dcac3e9bef4c",
+    "name": "Magento\\Framework\\EntityManager\\Test\\Unit\\Db\\UpdateRowTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693072937,
+    "stop": 1711693072938,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"default\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7f9593b69184a3122fefb7c06b90c7b8",
+    "testCaseId": "394f55a2b2fe33eeb14a4d6f0feffb75",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\EntityManager\\Test\\Unit\\Db\\UpdateRowTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\EntityManager\\Test\\Unit\\Db\\UpdateRowTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

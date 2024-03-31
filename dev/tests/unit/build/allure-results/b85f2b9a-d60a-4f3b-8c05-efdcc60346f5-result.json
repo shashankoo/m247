@@ -1,0 +1,50 @@
+{
+    "uuid": "b85f2b9a-d60a-4f3b-8c05-efdcc60346f5",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Auth\\SessionTest::testIsAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009838,
+    "stop": 1711693009838,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Positive: Permission granted\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3292ad1d2a4430f64c6cab49ada059d8",
+    "testCaseId": "d42600734e4444ec8fbc75183ee2653f",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Auth\\SessionTest::testIsAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Auth\\SessionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

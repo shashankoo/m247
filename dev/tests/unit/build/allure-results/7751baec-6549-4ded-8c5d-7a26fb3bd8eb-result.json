@@ -1,0 +1,50 @@
+{
+    "uuid": "7751baec-6549-4ded-8c5d-7a26fb3bd8eb",
+    "name": "Magento\\Deploy\\Test\\Unit\\Model\\DeploymentConfig\\ChangeDetectorTest::testHasChanges",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021270,
+    "stop": 1711693021270,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "43e5ec64a1a4c85b82b0aad526ab05ea",
+    "testCaseId": "d4002930e0fee1e64ff78c16b08d739e",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Model\\DeploymentConfig\\ChangeDetectorTest::testHasChanges",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Model\\DeploymentConfig\\ChangeDetectorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testHasChanges"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

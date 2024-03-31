@@ -1,0 +1,43 @@
+{
+    "uuid": "530bc4a3-7ae5-40f6-a29c-68af8a337127",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\ResourceModel\\Order\\Creditmemo\\Relation\\RefundTest::testProcessRelation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693040652,
+    "stop": 1711693040689,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "198f01ee3bbc1758990dd524930ea6f0",
+    "testCaseId": "9ca71bab34a614550f57c3e73e42e743",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\ResourceModel\\Order\\Creditmemo\\Relation\\RefundTest::testProcessRelation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\ResourceModel\\Order\\Creditmemo\\Relation\\RefundTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessRelation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

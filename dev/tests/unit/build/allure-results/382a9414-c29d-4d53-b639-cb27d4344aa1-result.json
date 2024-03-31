@@ -1,0 +1,43 @@
+{
+    "uuid": "382a9414-c29d-4d53-b639-cb27d4344aa1",
+    "name": "Magento\\Analytics\\Test\\Unit\\Model\\CryptographerTest::testEncodeTokenNotValid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009104,
+    "stop": 1711693009104,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6942d315abd4cbe3d7aae4f0cf2f6e0e",
+    "testCaseId": "b0ed114eb2603aec64d82df8e2262ea1",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Model\\CryptographerTest::testEncodeTokenNotValid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Model\\CryptographerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEncodeTokenNotValid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

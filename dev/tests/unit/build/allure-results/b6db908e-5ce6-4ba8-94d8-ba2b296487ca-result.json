@@ -1,0 +1,50 @@
+{
+    "uuid": "b6db908e-5ce6-4ba8-94d8-ba2b296487ca",
+    "name": "Magento\\Payment\\Test\\Unit\\Block\\Transparent\\FormTest::testGetMethodConfigData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031373,
+    "stop": 1711693031374,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "735b72423aa5a99dd94cf25a762a5f60",
+    "testCaseId": "c5df7e4771c7f38fc1516e4842134802",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Block\\Transparent\\FormTest::testGetMethodConfigData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Block\\Transparent\\FormTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMethodConfigData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

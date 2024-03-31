@@ -1,0 +1,43 @@
+{
+    "uuid": "62959371-e923-4ed3-aee7-6961e4d3904d",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\Type\\ConfigurableTest::testGetProductByAttributesReturnFirstItem",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018627,
+    "stop": 1711693018628,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "650207346f44f0573eddb26327f670c6",
+    "testCaseId": "c1c65e57c11766577271831a0e4b53bb",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\Type\\ConfigurableTest::testGetProductByAttributesReturnFirstItem",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\Type\\ConfigurableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetProductByAttributesReturnFirstItem"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

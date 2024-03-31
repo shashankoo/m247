@@ -1,0 +1,43 @@
+{
+    "uuid": "a6c85957-a8b0-4d75-86bb-f585f0172278",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\OrderNotifierTest::testNotifySuccess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039593,
+    "stop": 1711693039610,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "69009d67952db8d7d4d3883a25a12e3a",
+    "testCaseId": "9cd023fd42af2a6185b6e26209ba54ca",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\OrderNotifierTest::testNotifySuccess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\OrderNotifierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testNotifySuccess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

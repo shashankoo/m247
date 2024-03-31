@@ -1,0 +1,50 @@
+{
+    "uuid": "d2242d64-8ead-4e3d-89cc-8844907978a6",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\VersionControl\\AbstractEntityTest::testSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022823,
+    "stop": 1711693022825,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6f2e6960c6bc25451a21d426b5f7180d",
+    "testCaseId": "cba3f0871cf070b1e263a83a1661c86f",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\VersionControl\\AbstractEntityTest::testSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\VersionControl\\AbstractEntityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

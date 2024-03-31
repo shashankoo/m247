@@ -1,0 +1,43 @@
+{
+    "uuid": "c9d987ba-0d2f-4da7-981f-a495e0ec4a0b",
+    "name": "Magento\\Bundle\\Test\\Unit\\Block\\Catalog\\Product\\View\\Type\\BundleTest::testGetJsonConfigFixedPriceBundleNoOption",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010551,
+    "stop": 1711693010565,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "113d9528dd6129340b4803e06b3c38f9",
+    "testCaseId": "536bd01f2246ec50c34baaef585c5dab",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Block\\Catalog\\Product\\View\\Type\\BundleTest::testGetJsonConfigFixedPriceBundleNoOption",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Block\\Catalog\\Product\\View\\Type\\BundleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetJsonConfigFixedPriceBundleNoOption"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

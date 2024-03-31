@@ -1,0 +1,43 @@
+{
+    "uuid": "f4acc1b1-d94d-4d18-8e23-3c634f779f7a",
+    "name": "Magento\\Deploy\\Test\\Unit\\Model\\Plugin\\ConfigChangeDetectorTest::testBeforeDispatchWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021313,
+    "stop": 1711693021313,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "053cf3a0c75cde05adc348eb43aa5ef0",
+    "testCaseId": "d35dfad8e87fc3c00a8e56db1204115f",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Model\\Plugin\\ConfigChangeDetectorTest::testBeforeDispatchWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Model\\Plugin\\ConfigChangeDetectorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeDispatchWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

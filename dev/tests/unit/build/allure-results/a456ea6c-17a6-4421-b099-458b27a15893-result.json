@@ -1,0 +1,43 @@
+{
+    "uuid": "a456ea6c-17a6-4421-b099-458b27a15893",
+    "name": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\CacheTest::testUnlockWithAnotherSign",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074018,
+    "stop": 1711693074018,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a477d8492fe763bb610f5d74e99b59ef",
+    "testCaseId": "5ec420931d36998423bfd61e41b179fd",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\CacheTest::testUnlockWithAnotherSign",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\CacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUnlockWithAnotherSign"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

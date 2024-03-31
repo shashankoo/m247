@@ -1,0 +1,50 @@
+{
+    "uuid": "6409be05-a46f-4956-9c64-72c5917ea510",
+    "name": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\CreatePostTest::testSuccessRedirect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019617,
+    "stop": 1711693019617,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Cannot be unit tested with the auto generated builder dependencies",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f1b81cfb0fb145c40589714a8b9a4710",
+    "testCaseId": "59b257a56ea0744abb5748313bffff97",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\CreatePostTest::testSuccessRedirect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\CreatePostTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSuccessRedirect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

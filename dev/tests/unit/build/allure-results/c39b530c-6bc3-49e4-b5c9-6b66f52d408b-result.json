@@ -1,0 +1,50 @@
+{
+    "uuid": "c39b530c-6bc3-49e4-b5c9-6b66f52d408b",
+    "name": "Magento\\Security\\Test\\Unit\\Model\\SecurityChecker\\QuantityTest::testCheckException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041333,
+    "stop": 1711693041334,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "618d482efa42f710959b210cd194db73",
+    "testCaseId": "0b7aec2371064f7fba02d6ae8c6b53c9",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Model\\SecurityChecker\\QuantityTest::testCheckException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Model\\SecurityChecker\\QuantityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

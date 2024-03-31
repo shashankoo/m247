@@ -1,0 +1,43 @@
+{
+    "uuid": "7a9894c1-a992-477a-8f89-1d09cba0d020",
+    "name": "Magento\\Wishlist\\Test\\Unit\\Controller\\WishlistProviderTest::testGetWishlistWithIdWithoutCustomer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054387,
+    "stop": 1711693054387,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5593ddd8b09276089f231a9ba4c1c72a",
+    "testCaseId": "676f69a7adfbdb10883f04a1c92c357e",
+    "rerunOf": null,
+    "fullName": "Magento\\Wishlist\\Test\\Unit\\Controller\\WishlistProviderTest::testGetWishlistWithIdWithoutCustomer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Wishlist\\Test\\Unit\\Controller\\WishlistProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetWishlistWithIdWithoutCustomer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

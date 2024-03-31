@@ -1,0 +1,50 @@
+{
+    "uuid": "3a7d5f1d-0216-49f4-8be7-fda27d777f61",
+    "name": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Report\\CollectionTest::testGetSize",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033555,
+    "stop": 1711693033556,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "eaa911b53103990380601093a0ffdd3b",
+    "testCaseId": "e7a15f92b66f0bf090cac534554f8876",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Report\\CollectionTest::testGetSize",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Report\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSize"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

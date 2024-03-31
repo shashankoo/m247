@@ -1,0 +1,50 @@
+{
+    "uuid": "5eacc3c6-f004-4113-8f41-ca025fcd6c56",
+    "name": "Magento\\Framework\\Search\\Test\\Unit\\Adapter\\Mysql\\ConditionManagerTest::testGenerateCondition",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075577,
+    "stop": 1711693075578,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6ddb40950bac033c49f9d4f81df7ec27",
+    "testCaseId": "fe27e6a4b30f70932a29a648c80875bf",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Search\\Test\\Unit\\Adapter\\Mysql\\ConditionManagerTest::testGenerateCondition",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Search\\Test\\Unit\\Adapter\\Mysql\\ConditionManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerateCondition"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

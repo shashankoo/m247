@@ -1,0 +1,50 @@
+{
+    "uuid": "9c49e50a-3957-46be-b2c3-0ba705ae620b",
+    "name": "Magento\\Framework\\Encryption\\Test\\Unit\\EncryptorTest::testGetHashMustUseSpecifiedHashingAlgo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693072088,
+    "stop": 1711693072088,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "36b04ea6b9abf4105cb38de7334d3669",
+    "testCaseId": "8271de46603c235ed0a7aae078147823",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Encryption\\Test\\Unit\\EncryptorTest::testGetHashMustUseSpecifiedHashingAlgo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Encryption\\Test\\Unit\\EncryptorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetHashMustUseSpecifiedHashingAlgo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

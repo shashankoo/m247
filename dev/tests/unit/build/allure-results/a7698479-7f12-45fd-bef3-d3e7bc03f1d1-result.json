@@ -1,0 +1,50 @@
+{
+    "uuid": "a7698479-7f12-45fd-bef3-d3e7bc03f1d1",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\SensitiveCookieMetadataTest::testToArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076682,
+    "stop": 1711693076682,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"without secure\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3cf1c88573364c7b1abcb75f95bdc591",
+    "testCaseId": "75ddbbaf2bd40c3308e1e9e126ed66ad",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\SensitiveCookieMetadataTest::testToArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\SensitiveCookieMetadataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

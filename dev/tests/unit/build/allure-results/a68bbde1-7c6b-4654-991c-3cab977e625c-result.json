@@ -1,0 +1,50 @@
+{
+    "uuid": "a68bbde1-7c6b-4654-991c-3cab977e625c",
+    "name": "Magento\\Bundle\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\BundlePanelTest::testModifyMeta",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011207,
+    "stop": 1711693011208,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "67c5e8baff4dfd8b14bfffbab871981d",
+    "testCaseId": "ebd6ca54e4d11d55abd7a9836b03fdf2",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\BundlePanelTest::testModifyMeta",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\BundlePanelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testModifyMeta"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

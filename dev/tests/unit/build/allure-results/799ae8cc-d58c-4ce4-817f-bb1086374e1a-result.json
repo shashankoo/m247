@@ -1,0 +1,50 @@
+{
+    "uuid": "799ae8cc-d58c-4ce4-817f-bb1086374e1a",
+    "name": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\ConfirmTest::testSuccessMessage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019598,
+    "stop": 1711693019600,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "61db403dcc92be18da4019e01d8e8e3d",
+    "testCaseId": "67ad7351c9154bf5928ab54c6eee41fe",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\ConfirmTest::testSuccessMessage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\ConfirmTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSuccessMessage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

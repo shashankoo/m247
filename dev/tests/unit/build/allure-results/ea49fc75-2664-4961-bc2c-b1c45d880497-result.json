@@ -1,0 +1,43 @@
+{
+    "uuid": "ea49fc75-2664-4961-bc2c-b1c45d880497",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testCanCancelCanUnhold",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039753,
+    "stop": 1711693039754,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e4a1dec3d44a5978823a8fceba5b65ac",
+    "testCaseId": "2a22d1e1df3b1253e19e5ee9d43c8f47",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testCanCancelCanUnhold",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanCancelCanUnhold"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

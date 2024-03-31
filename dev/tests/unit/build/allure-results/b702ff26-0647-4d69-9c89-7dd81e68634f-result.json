@@ -1,0 +1,50 @@
+{
+    "uuid": "b702ff26-0647-4d69-9c89-7dd81e68634f",
+    "name": "Magento\\CatalogRule\\Test\\Unit\\Model\\RuleTest::testIsRuleBehaviorChanged",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012409,
+    "stop": 1711693012410,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "551a042f5e711cd4c9d7fa24a5b2ca82",
+    "testCaseId": "f76e644cb4f336e1a7ce80cb5306b70b",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogRule\\Test\\Unit\\Model\\RuleTest::testIsRuleBehaviorChanged",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogRule\\Test\\Unit\\Model\\RuleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsRuleBehaviorChanged"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

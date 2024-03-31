@@ -1,0 +1,50 @@
+{
+    "uuid": "12aec03b-feb8-43eb-b32c-cd6604eecf2d",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\IntegerTest::testFromDefinition",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076161,
+    "stop": 1711693076161,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "745fe25645e68a98dac80b58b30fcfc3",
+    "testCaseId": "1076b883c3f4e81eb6cc125880c4f7b4",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\IntegerTest::testFromDefinition",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\IntegerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFromDefinition"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

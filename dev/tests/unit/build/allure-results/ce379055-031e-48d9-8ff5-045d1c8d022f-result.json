@@ -1,0 +1,50 @@
+{
+    "uuid": "ce379055-031e-48d9-8ff5-045d1c8d022f",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\Data\\SamplesTest::testGetSamplesTitle",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022192,
+    "stop": 1711693022194,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7fc928fada5b5566146fa2130e4d0a41",
+    "testCaseId": "e2db581e4cb2385c273b3d758720c0e5",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\Data\\SamplesTest::testGetSamplesTitle",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\Data\\SamplesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSamplesTitle"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

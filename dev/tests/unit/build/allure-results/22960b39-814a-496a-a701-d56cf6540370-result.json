@@ -1,0 +1,43 @@
+{
+    "uuid": "22960b39-814a-496a-a701-d56cf6540370",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\GuestCart\\GuestShippingMethodManagementTest::testEstimateByExtendedAddress",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032758,
+    "stop": 1711693032759,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d5b919d1d8d76becc8d72705f609490e",
+    "testCaseId": "752fd36e96a291bf1003c054afffbcb8",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\GuestCart\\GuestShippingMethodManagementTest::testEstimateByExtendedAddress",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\GuestCart\\GuestShippingMethodManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEstimateByExtendedAddress"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

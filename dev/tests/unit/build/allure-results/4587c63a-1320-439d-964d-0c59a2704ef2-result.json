@@ -1,0 +1,43 @@
+{
+    "uuid": "4587c63a-1320-439d-964d-0c59a2704ef2",
+    "name": "Magento\\Checkout\\Test\\Unit\\CustomerData\\ItemPoolTest::testGetItemDataIfItemExistInMap",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016779,
+    "stop": 1711693016780,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d15c02ef84d0b836d90b66fdebbe18ce",
+    "testCaseId": "253899cbb945089560adf440c21f2472",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\CustomerData\\ItemPoolTest::testGetItemDataIfItemExistInMap",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\CustomerData\\ItemPoolTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItemDataIfItemExistInMap"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

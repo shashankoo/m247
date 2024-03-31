@@ -1,0 +1,43 @@
+{
+    "uuid": "ff652fb7-7637-4aa0-b8f9-9b1728a86595",
+    "name": "Magento\\Customer\\Test\\Unit\\CustomerData\\CustomerTest::testGetSectionDataWithoutCustomerId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019795,
+    "stop": 1711693019796,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f7f1d3ed71d6d06d06e0d7ace99b396d",
+    "testCaseId": "328b177ebb58959534af8c02f3d1468d",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\CustomerData\\CustomerTest::testGetSectionDataWithoutCustomerId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\CustomerData\\CustomerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSectionDataWithoutCustomerId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

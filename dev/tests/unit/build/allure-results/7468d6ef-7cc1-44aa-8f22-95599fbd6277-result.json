@@ -1,0 +1,50 @@
+{
+    "uuid": "7468d6ef-7cc1-44aa-8f22-95599fbd6277",
+    "name": "Magento\\Setup\\Test\\Unit\\Console\\CompilerPreparationTest::testClearGenerationDirWhenNeeded",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054954,
+    "stop": 1711693054954,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"ST compiler, help option\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f13bd1691afc4afeb948fb60998f2a03",
+    "testCaseId": "7227c23433e5de7e9f3065213439be28",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Console\\CompilerPreparationTest::testClearGenerationDirWhenNeeded",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Console\\CompilerPreparationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testClearGenerationDirWhenNeeded"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

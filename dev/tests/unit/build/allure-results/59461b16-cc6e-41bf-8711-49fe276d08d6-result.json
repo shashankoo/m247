@@ -1,0 +1,50 @@
+{
+    "uuid": "59461b16-cc6e-41bf-8711-49fe276d08d6",
+    "name": "Magento\\Framework\\Test\\Unit\\ProfilerTest::testParseConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056694,
+    "stop": 1711693056694,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Driver ignored configuration\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "88ec271d7a9744e1cbbd2425671fae6b",
+    "testCaseId": "4dcbe747d09b6c062e4f87168a275777",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\ProfilerTest::testParseConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\ProfilerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testParseConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

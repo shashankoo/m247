@@ -1,0 +1,43 @@
+{
+    "uuid": "d13ac739-1089-4a0c-9b89-9e006e2e17ae",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Token\\ProviderTest::testGetConsumerByKeyNonExistentConsumer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030118,
+    "stop": 1711693030118,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2cb1a6268a547a159ff78d8ec932ab25",
+    "testCaseId": "42241961f812577f5d41fff178664af2",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Token\\ProviderTest::testGetConsumerByKeyNonExistentConsumer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Token\\ProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConsumerByKeyNonExistentConsumer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

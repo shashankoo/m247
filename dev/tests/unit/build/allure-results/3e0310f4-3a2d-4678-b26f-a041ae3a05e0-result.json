@@ -1,0 +1,43 @@
+{
+    "uuid": "3e0310f4-3a2d-4678-b26f-a041ae3a05e0",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\PageCacheTest::testCreateConfigWithRedis",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055111,
+    "stop": 1711693055111,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3c10baedae640e36ca8bf719e4b3ee94",
+    "testCaseId": "ccfeae67d77ee2d3905ad957e3b5858b",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\PageCacheTest::testCreateConfigWithRedis",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\PageCacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateConfigWithRedis"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

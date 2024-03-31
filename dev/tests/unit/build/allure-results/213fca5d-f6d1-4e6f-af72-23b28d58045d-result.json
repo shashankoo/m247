@@ -1,0 +1,43 @@
+{
+    "uuid": "213fca5d-f6d1-4e6f-af72-23b28d58045d",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Pricing\\Renderer\\SalableResolverTest::testSalableItem",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015297,
+    "stop": 1711693015298,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c53225de9b74f5d832b632c5e2f77e5c",
+    "testCaseId": "63c654d64ae69595c9791434ee97e381",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Pricing\\Renderer\\SalableResolverTest::testSalableItem",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Pricing\\Renderer\\SalableResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSalableItem"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

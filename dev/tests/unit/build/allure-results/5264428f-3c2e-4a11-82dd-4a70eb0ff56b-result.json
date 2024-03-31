@@ -1,0 +1,43 @@
+{
+    "uuid": "5264428f-3c2e-4a11-82dd-4a70eb0ff56b",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Customer\\CredentialsValidatorTest::testCheckPasswordDifferentFromEmail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020421,
+    "stop": 1711693020421,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e7bda2c39a9b300da3e610779be90c2f",
+    "testCaseId": "9aaf6b67c4ccf70b229f2ececc0f9b63",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Customer\\CredentialsValidatorTest::testCheckPasswordDifferentFromEmail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Customer\\CredentialsValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckPasswordDifferentFromEmail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

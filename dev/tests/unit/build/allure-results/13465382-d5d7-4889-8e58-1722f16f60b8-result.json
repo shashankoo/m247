@@ -1,0 +1,43 @@
+{
+    "uuid": "13465382-d5d7-4889-8e58-1722f16f60b8",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\ElasticsearchTest::testDeleteDocsFailure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023207,
+    "stop": 1711693023207,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7c0648059d6325373f4d302aff6f31c4",
+    "testCaseId": "d468e5fb18c83a21c2acb02bd4b1a73c",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\ElasticsearchTest::testDeleteDocsFailure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\ElasticsearchTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteDocsFailure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

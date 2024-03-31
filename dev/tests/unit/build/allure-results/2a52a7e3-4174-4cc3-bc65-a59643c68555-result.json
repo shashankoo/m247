@@ -1,0 +1,43 @@
+{
+    "uuid": "2a52a7e3-4174-4cc3-bc65-a59643c68555",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Container\\InvoiceCommentIdentityTest::testSetCustomerName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037750,
+    "stop": 1711693037750,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4e03bc7c9b25f4eae6019dc8e05ee823",
+    "testCaseId": "efe44c85c2085cf921e2fa4e9f127045",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Container\\InvoiceCommentIdentityTest::testSetCustomerName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Container\\InvoiceCommentIdentityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetCustomerName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "8b00f4d8-9eda-4c37-bbff-adf40fb50811",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Constraints\\ForeignKeyTest::testFromDefinition",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076210,
+    "stop": 1711693076210,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e38a9a5c190f856d4aad9fd73b0fe565",
+    "testCaseId": "705ab3adb2bce3de9a888cb6e67512e6",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Constraints\\ForeignKeyTest::testFromDefinition",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Constraints\\ForeignKeyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFromDefinition"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

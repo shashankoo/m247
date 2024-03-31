@@ -1,0 +1,50 @@
+{
+    "uuid": "ccb04acc-ca01-4697-b2b0-bd493997f127",
+    "name": "Magento\\Sitemap\\Test\\Unit\\Model\\SitemapTest::testGetDocumentRootFromBaseDir",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041741,
+    "stop": 1711693041741,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"symlink <document root>\/usa\/txt -> \/var\/www\/html\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a788efd9895def357c04195e44c92fe2",
+    "testCaseId": "58a5716a518e137d9986969147e3bd3c",
+    "rerunOf": null,
+    "fullName": "Magento\\Sitemap\\Test\\Unit\\Model\\SitemapTest::testGetDocumentRootFromBaseDir",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sitemap\\Test\\Unit\\Model\\SitemapTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDocumentRootFromBaseDir"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

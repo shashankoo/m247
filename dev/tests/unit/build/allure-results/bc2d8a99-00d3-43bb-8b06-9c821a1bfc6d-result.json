@@ -1,0 +1,43 @@
+{
+    "uuid": "bc2d8a99-00d3-43bb-8b06-9c821a1bfc6d",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\Calculation\\Rate\\ConverterTest::testCreateTitlesFromServiceObjectWhenTitlesAreNotProvided",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042613,
+    "stop": 1711693042613,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b7f2fe5024fefb5af878e258e0270eab",
+    "testCaseId": "86096d0a85dbf78486170ce55e38550e",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\Calculation\\Rate\\ConverterTest::testCreateTitlesFromServiceObjectWhenTitlesAreNotProvided",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\Calculation\\Rate\\ConverterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateTitlesFromServiceObjectWhenTitlesAreNotProvided"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "4154a4bb-3bb0-41c2-98aa-5009bfd28756",
+    "name": "Magento\\MediaStorage\\Test\\Unit\\Helper\\File\\Storage\\DatabaseTest::testSaveUploadedFile",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030445,
+    "stop": 1711693030445,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"media database, file unique\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "01250d2c858d040ed10d87ee07a0506e",
+    "testCaseId": "2f6c9a2434d51d1270e6b6b0be05bf54",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaStorage\\Test\\Unit\\Helper\\File\\Storage\\DatabaseTest::testSaveUploadedFile",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaStorage\\Test\\Unit\\Helper\\File\\Storage\\DatabaseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveUploadedFile"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

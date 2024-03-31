@@ -1,0 +1,50 @@
+{
+    "uuid": "186f5330-a282-4e76-ad96-bfbe44320cec",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\AbstractCriteriaTest::testAddOrder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070845,
+    "stop": 1711693070846,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fd394aabbea58f74014d9b0304af7aca",
+    "testCaseId": "f70ef2c4f0d0c26c974fba0da9992e38",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\AbstractCriteriaTest::testAddOrder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\AbstractCriteriaTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddOrder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

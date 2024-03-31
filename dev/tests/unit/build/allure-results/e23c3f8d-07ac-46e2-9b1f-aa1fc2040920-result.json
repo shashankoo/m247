@@ -1,0 +1,43 @@
+{
+    "uuid": "e23c3f8d-07ac-46e2-9b1f-aa1fc2040920",
+    "name": "Magento\\GiftMessage\\Test\\Unit\\Model\\OrderItemRepositoryTest::testGetNoSuchEntityExceptionOnIsMessageAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024019,
+    "stop": 1711693024020,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "683284dbb6357b012a03508744455861",
+    "testCaseId": "17eac4edf29dce5983b840acf5ffcbcd",
+    "rerunOf": null,
+    "fullName": "Magento\\GiftMessage\\Test\\Unit\\Model\\OrderItemRepositoryTest::testGetNoSuchEntityExceptionOnIsMessageAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GiftMessage\\Test\\Unit\\Model\\OrderItemRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetNoSuchEntityExceptionOnIsMessageAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

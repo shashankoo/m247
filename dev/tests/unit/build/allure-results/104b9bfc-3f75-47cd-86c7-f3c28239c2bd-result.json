@@ -1,0 +1,50 @@
+{
+    "uuid": "104b9bfc-3f75-47cd-86c7-f3c28239c2bd",
+    "name": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\Config\\Backend\\Duo\\ApiHostnameTest::testBefore",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043882,
+    "stop": 1711693043882,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#8",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "27ba3972ab682b9d8356d54164b48266",
+    "testCaseId": "28bcf637c9b304c214c22fabcff95bf9",
+    "rerunOf": null,
+    "fullName": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\Config\\Backend\\Duo\\ApiHostnameTest::testBefore",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\Config\\Backend\\Duo\\ApiHostnameTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBefore"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

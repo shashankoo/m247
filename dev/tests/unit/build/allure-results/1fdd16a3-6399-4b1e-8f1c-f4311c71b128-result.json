@@ -1,0 +1,43 @@
+{
+    "uuid": "1fdd16a3-6399-4b1e-8f1c-f4311c71b128",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Address\\Validator\\CustomerTest::testValidateExistingCustomerAddressWithNotRelevantCustomer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020240,
+    "stop": 1711693020240,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8a44056a09f16b2473337b54c69a5a7f",
+    "testCaseId": "9e57ac829ce0283574e762e4c227bd01",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Address\\Validator\\CustomerTest::testValidateExistingCustomerAddressWithNotRelevantCustomer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Address\\Validator\\CustomerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateExistingCustomerAddressWithNotRelevantCustomer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

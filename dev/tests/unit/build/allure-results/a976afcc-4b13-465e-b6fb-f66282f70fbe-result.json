@@ -1,0 +1,50 @@
+{
+    "uuid": "a976afcc-4b13-465e-b6fb-f66282f70fbe",
+    "name": "Magento\\Framework\\Reflection\\Test\\Unit\\DataObjectProcessorTest::testBuildOutputDataArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075422,
+    "stop": 1711693075424,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"With getExtensionAttributes as Excluded Method\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "322b978f8a0b7a81a9a181eb15a131fd",
+    "testCaseId": "3e8df326aafee9fae8797c65ff929bc0",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Reflection\\Test\\Unit\\DataObjectProcessorTest::testBuildOutputDataArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Reflection\\Test\\Unit\\DataObjectProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildOutputDataArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

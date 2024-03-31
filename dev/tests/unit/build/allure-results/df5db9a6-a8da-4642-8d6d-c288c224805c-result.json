@@ -1,0 +1,43 @@
+{
+    "uuid": "df5db9a6-a8da-4642-8d6d-c288c224805c",
+    "name": "Magento\\Indexer\\Test\\Unit\\Model\\Processor\\CleanCacheTest::testAfterReindexAllInvalid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693028682,
+    "stop": 1711693028682,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0bcc71a6736c5835788e28c729790ada",
+    "testCaseId": "20b70b4e6b1cfef4958c93ed96bb69e5",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Model\\Processor\\CleanCacheTest::testAfterReindexAllInvalid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Model\\Processor\\CleanCacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterReindexAllInvalid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

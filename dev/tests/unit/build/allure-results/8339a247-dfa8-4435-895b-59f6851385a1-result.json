@@ -1,0 +1,50 @@
+{
+    "uuid": "8339a247-dfa8-4435-895b-59f6851385a1",
+    "name": "Magento\\AdminAdobeIms\\Test\\Unit\\Service\\ImsCommandOptionServiceTest::testOrganizationIdPromptReturnsOrgId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008462,
+    "stop": 1711693008463,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4ed0bee70b4b3f759aeef83b26f00f85",
+    "testCaseId": "286ef98a1b27378c9000e3d2192fedf5",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminAdobeIms\\Test\\Unit\\Service\\ImsCommandOptionServiceTest::testOrganizationIdPromptReturnsOrgId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminAdobeIms\\Test\\Unit\\Service\\ImsCommandOptionServiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testOrganizationIdPromptReturnsOrgId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

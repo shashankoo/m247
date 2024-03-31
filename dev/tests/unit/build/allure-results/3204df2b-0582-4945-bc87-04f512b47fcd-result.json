@@ -1,0 +1,43 @@
+{
+    "uuid": "3204df2b-0582-4945-bc87-04f512b47fcd",
+    "name": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\Config\\Backend\\ForceProvidersTest::testBeforeSaveInvalid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043884,
+    "stop": 1711693043886,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a0052646b4154045967c1201bba53fef",
+    "testCaseId": "2d1a0f1abe3205b77eb765db93680067",
+    "rerunOf": null,
+    "fullName": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\Config\\Backend\\ForceProvidersTest::testBeforeSaveInvalid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\Config\\Backend\\ForceProvidersTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSaveInvalid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

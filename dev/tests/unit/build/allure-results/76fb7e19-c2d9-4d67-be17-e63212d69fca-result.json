@@ -1,0 +1,50 @@
+{
+    "uuid": "76fb7e19-c2d9-4d67-be17-e63212d69fca",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Page\\ConfigTest::testAddRemotePageAsset",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078401,
+    "stop": 1711693078401,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "edc3d2815deb5e77ea67052e88c1448f",
+    "testCaseId": "16c138a5d147045b71ef534ec50b84f5",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Page\\ConfigTest::testAddRemotePageAsset",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Page\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddRemotePageAsset"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

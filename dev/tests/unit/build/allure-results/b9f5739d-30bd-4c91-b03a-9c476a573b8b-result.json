@@ -1,0 +1,43 @@
+{
+    "uuid": "b9f5739d-30bd-4c91-b03a-9c476a573b8b",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\FieldTest::testGetOptionsParsesResultOfProvidedMethodOfSourceModelIfTypeIsNotMultiselect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018025,
+    "stop": 1711693018026,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9c52a4c234d4a5332446201770a4df77",
+    "testCaseId": "7140777ed56bf1230965c5c1b1aa32ba",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\FieldTest::testGetOptionsParsesResultOfProvidedMethodOfSourceModelIfTypeIsNotMultiselect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\FieldTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOptionsParsesResultOfProvidedMethodOfSourceModelIfTypeIsNotMultiselect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

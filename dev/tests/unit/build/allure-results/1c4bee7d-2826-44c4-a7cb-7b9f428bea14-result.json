@@ -1,0 +1,43 @@
+{
+    "uuid": "1c4bee7d-2826-44c4-a7cb-7b9f428bea14",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\CvvEmsCodeMapperTest::testGetCodeWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032257,
+    "stop": 1711693032257,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d925ffd7485f66bb767d7624c8b84b63",
+    "testCaseId": "9121d3176719388928c2027662f5f4f3",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\CvvEmsCodeMapperTest::testGetCodeWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\CvvEmsCodeMapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCodeWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

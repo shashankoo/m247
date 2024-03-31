@@ -1,0 +1,50 @@
+{
+    "uuid": "4daf30ec-5954-496d-b51a-527183eabea3",
+    "name": "Magento\\Framework\\Filter\\Test\\Unit\\TranslitUrlTest::testFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073579,
+    "stop": 1711693073580,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f7650236f195dbed4f0fe0dd77f02e6f",
+    "testCaseId": "c7e1a502bfedb77a5f410f86577688bd",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filter\\Test\\Unit\\TranslitUrlTest::testFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filter\\Test\\Unit\\TranslitUrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "2e58d332-9a52-4c05-a95c-f69f70755049",
+    "name": "Magento\\Cms\\Test\\Unit\\Helper\\Wysiwyg\\ImagesTest::testIsUsingStaticUrlsAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017272,
+    "stop": 1711693017273,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "94eafb24b37c6096538e4328e58f4b08",
+    "testCaseId": "a915b7365ae0ba9285e3fed695ede82b",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Helper\\Wysiwyg\\ImagesTest::testIsUsingStaticUrlsAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Helper\\Wysiwyg\\ImagesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsUsingStaticUrlsAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

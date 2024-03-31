@@ -1,0 +1,50 @@
+{
+    "uuid": "9b8669ea-daee-4f41-bdb7-b4b36399f4d3",
+    "name": "Magento\\Theme\\Test\\Unit\\Helper\\StorageTest::testGetCurrentPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043265,
+    "stop": 1711693043266,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"real path should resolve to relative path\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a0c635583c88bfb3e71dc8817944fe05",
+    "testCaseId": "7efe239f529c89796f5607596a5c24a2",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Helper\\StorageTest::testGetCurrentPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Helper\\StorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCurrentPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

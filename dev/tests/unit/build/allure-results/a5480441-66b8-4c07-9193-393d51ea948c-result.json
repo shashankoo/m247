@@ -1,0 +1,50 @@
+{
+    "uuid": "a5480441-66b8-4c07-9193-393d51ea948c",
+    "name": "Magento\\Bundle\\Test\\Unit\\Model\\Plugin\\PriceBackendTest::testAroundValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010799,
+    "stop": 1711693010799,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f536504ddfca90aeab182f4e8f6c7d5e",
+    "testCaseId": "082d2db4460291682ac535eacea88c8a",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Model\\Plugin\\PriceBackendTest::testAroundValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Model\\Plugin\\PriceBackendTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

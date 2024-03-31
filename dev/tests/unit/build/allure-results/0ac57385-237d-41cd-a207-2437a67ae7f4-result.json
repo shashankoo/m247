@@ -1,0 +1,43 @@
+{
+    "uuid": "0ac57385-237d-41cd-a207-2437a67ae7f4",
+    "name": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\BulkStatusTest::testGetNotStartedOperationsCountByBulkIdAndOpenStatus",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009271,
+    "stop": 1711693009272,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8ae31618b7373b45b795b6b60da9f26c",
+    "testCaseId": "799514aed839a840ee1767790a5e56b3",
+    "rerunOf": null,
+    "fullName": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\BulkStatusTest::testGetNotStartedOperationsCountByBulkIdAndOpenStatus",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\BulkStatusTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetNotStartedOperationsCountByBulkIdAndOpenStatus"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

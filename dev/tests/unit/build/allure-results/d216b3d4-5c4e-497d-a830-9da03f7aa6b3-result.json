@@ -1,0 +1,50 @@
+{
+    "uuid": "d216b3d4-5c4e-497d-a830-9da03f7aa6b3",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\LockTest::testCreateConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055102,
+    "stop": 1711693055102,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Check default values\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "310cf04b1a5a06cb51c00e3f3fba0844",
+    "testCaseId": "76e4b03d9111b68115ca4adeaafcbe1b",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\LockTest::testCreateConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsList\\LockTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "772758c3-2526-4b98-a6c9-6ce257179f33",
+    "name": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\Provider\\Engine\\U2fKey\\ConfigReaderTest::testGetValidDomain",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043937,
+    "stop": 1711693043938,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "17ef78900cdeee52e31df8e37bdb8a13",
+    "testCaseId": "dbe559d0498c00e05b3243e2352dd829",
+    "rerunOf": null,
+    "fullName": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\Provider\\Engine\\U2fKey\\ConfigReaderTest::testGetValidDomain",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\Provider\\Engine\\U2fKey\\ConfigReaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValidDomain"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

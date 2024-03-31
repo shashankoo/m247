@@ -1,0 +1,43 @@
+{
+    "uuid": "c513ecdc-5ec0-4333-be1a-6fc9bc67f4dc",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\System\\Config\\Backend\\Catalog\\Url\\Rewrite\\SuffixTest::testAfterSaveCleanCache",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016011,
+    "stop": 1711693016013,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b88773bdf254ba9ab40b630e685c9026",
+    "testCaseId": "3fd038937bd608cf292ea2ca1b2eb3bc",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\System\\Config\\Backend\\Catalog\\Url\\Rewrite\\SuffixTest::testAfterSaveCleanCache",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\System\\Config\\Backend\\Catalog\\Url\\Rewrite\\SuffixTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSaveCleanCache"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

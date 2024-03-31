@@ -1,0 +1,43 @@
+{
+    "uuid": "f58e2caa-a2f8-4d84-9ae5-8033c1a76149",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\EmulateCustomerObserverTest::testExecuteWhenSessionNotPersist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032555,
+    "stop": 1711693032556,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5ef5ee432ae98c008df9f3cb667cd31e",
+    "testCaseId": "46fb493285268c6cd07315e2e9f22f6f",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\EmulateCustomerObserverTest::testExecuteWhenSessionNotPersist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\EmulateCustomerObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenSessionNotPersist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

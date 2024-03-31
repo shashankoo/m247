@@ -1,0 +1,43 @@
+{
+    "uuid": "d334478a-3de0-4dfd-b58f-cff5a5040a41",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Compiler\\Config\\Chain\\BackslashTrimTest::testModifyArgumentsDoNotExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055725,
+    "stop": 1711693055727,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "da3cacc837d9d26b0db14dad60543a43",
+    "testCaseId": "bc17934a83421e66393b99a64b87325e",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Compiler\\Config\\Chain\\BackslashTrimTest::testModifyArgumentsDoNotExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Compiler\\Config\\Chain\\BackslashTrimTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testModifyArgumentsDoNotExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

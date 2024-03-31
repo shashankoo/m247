@@ -1,0 +1,43 @@
+{
+    "uuid": "f3f74237-ba37-4c04-92e1-b1d649a379d7",
+    "name": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Type\\GroupedTest::testPrepareForCartAdvancedWithProductsStrictFalseEmptyArrayResult",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024387,
+    "stop": 1711693024388,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "733f700132d8a8f3f90ab3f27eaddd08",
+    "testCaseId": "0e233d387bde315608d02470b73f3d64",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Type\\GroupedTest::testPrepareForCartAdvancedWithProductsStrictFalseEmptyArrayResult",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Type\\GroupedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareForCartAdvancedWithProductsStrictFalseEmptyArrayResult"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "e66eda94-94ab-46a3-b33d-9a3c85e2f816",
+    "name": "Magento\\AdobeStockClient\\Test\\Unit\\Model\\StockFileToDocumentTest::testConvert",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008751,
+    "stop": 1711693008752,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d297cd4171ec86b706044a1bd387d2bc",
+    "testCaseId": "1e29e4ad93906c4dc237d8a263bc5e53",
+    "rerunOf": null,
+    "fullName": "Magento\\AdobeStockClient\\Test\\Unit\\Model\\StockFileToDocumentTest::testConvert",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdobeStockClient\\Test\\Unit\\Model\\StockFileToDocumentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvert"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

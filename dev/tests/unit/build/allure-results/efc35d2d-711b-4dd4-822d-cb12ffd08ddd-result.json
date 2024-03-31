@@ -1,0 +1,43 @@
+{
+    "uuid": "efc35d2d-711b-4dd4-822d-cb12ffd08ddd",
+    "name": "Magento\\Framework\\Reflection\\Test\\Unit\\AttributeTypeResolverTest::testResolveObjectTypeWithNonObjectValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075412,
+    "stop": 1711693075413,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "078e01d43d7e76c2b72cdcbaba1300d4",
+    "testCaseId": "136082e29e5b73be88a8c9d73933bd97",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Reflection\\Test\\Unit\\AttributeTypeResolverTest::testResolveObjectTypeWithNonObjectValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Reflection\\Test\\Unit\\AttributeTypeResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testResolveObjectTypeWithNonObjectValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "5839ba36-33a2-402e-a055-59284af7e6ac",
+    "name": "Magento\\CardinalCommerce\\Test\\Unit\\Model\\Response\\JwtPayloadValidatorTest::testValidationActionCodeFails",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011384,
+    "stop": 1711693011384,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "01aae91c1e6db1a8d0def379217f723e",
+    "testCaseId": "e423d1e59717922600d1de6c406d45a0",
+    "rerunOf": null,
+    "fullName": "Magento\\CardinalCommerce\\Test\\Unit\\Model\\Response\\JwtPayloadValidatorTest::testValidationActionCodeFails",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CardinalCommerce\\Test\\Unit\\Model\\Response\\JwtPayloadValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidationActionCodeFails"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

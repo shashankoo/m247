@@ -1,0 +1,43 @@
+{
+    "uuid": "6c25cc7f-9b04-4cc4-b911-5838d252b1df",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\InvoiceCommentSenderTest::testSendFalse",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037803,
+    "stop": 1711693037805,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "74eac96fb4518a9e3b7dd627e1af7a64",
+    "testCaseId": "ac9281f146ff0572298de1347d1a54a5",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\InvoiceCommentSenderTest::testSendFalse",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\InvoiceCommentSenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSendFalse"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

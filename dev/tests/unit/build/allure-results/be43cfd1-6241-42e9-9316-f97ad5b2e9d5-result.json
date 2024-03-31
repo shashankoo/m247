@@ -1,0 +1,50 @@
+{
+    "uuid": "be43cfd1-6241-42e9-9316-f97ad5b2e9d5",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testCanNotInvoiceInSomeStates",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039856,
+    "stop": 1711693039857,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ba431be5b12560c262954d692c5b5bb8",
+    "testCaseId": "d09780741047190f1b021c736a287254",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest::testCanNotInvoiceInSomeStates",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\OrderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanNotInvoiceInSomeStates"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

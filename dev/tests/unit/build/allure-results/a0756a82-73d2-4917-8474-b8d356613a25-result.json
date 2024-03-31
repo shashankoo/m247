@@ -1,0 +1,50 @@
+{
+    "uuid": "a0756a82-73d2-4917-8474-b8d356613a25",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\BootstrapTest::testAssertInstalled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057695,
+    "stop": 1711693057695,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cff65189ef7799f61887a23209fd35e6",
+    "testCaseId": "68d156fcde0f78ab6319371a3b6b2657",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\BootstrapTest::testAssertInstalled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\BootstrapTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAssertInstalled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

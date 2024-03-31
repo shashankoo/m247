@@ -1,0 +1,43 @@
+{
+    "uuid": "c4b41114-0bdc-4fd1-aa7a-7bd571add245",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Helper\\StockTest::testAssignStatusToProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011912,
+    "stop": 1711693011914,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1ab23167bdf6a3acaedb54c59cb15515",
+    "testCaseId": "049ddddc0800354ebc5bd4cc8b08ab0d",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Helper\\StockTest::testAssignStatusToProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Helper\\StockTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAssignStatusToProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

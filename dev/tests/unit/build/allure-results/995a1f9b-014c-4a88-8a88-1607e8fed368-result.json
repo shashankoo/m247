@@ -1,0 +1,50 @@
+{
+    "uuid": "995a1f9b-014c-4a88-8a88-1607e8fed368",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Layer\\FilterListTest::testGetFilters",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014729,
+    "stop": 1711693014730,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "070d8b307060095e4e1ff1398aca584a",
+    "testCaseId": "66a32765aad5fb8791c1ab2803903e84",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Layer\\FilterListTest::testGetFilters",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Layer\\FilterListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFilters"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

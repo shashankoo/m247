@@ -1,0 +1,50 @@
+{
+    "uuid": "f834ec7b-0c98-44ae-8cc8-d173f119cd6e",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\ArrayManagerTest::testReplace",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076609,
+    "stop": 1711693076609,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "18dacb004f7665aca32af503a325997c",
+    "testCaseId": "871f5e1b6f1de7e985f3044d7ca1ca52",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\ArrayManagerTest::testReplace",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\ArrayManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReplace"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

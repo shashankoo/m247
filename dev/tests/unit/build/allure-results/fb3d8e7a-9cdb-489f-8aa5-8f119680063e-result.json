@@ -1,0 +1,50 @@
+{
+    "uuid": "fb3d8e7a-9cdb-489f-8aa5-8f119680063e",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\DobTest::testSetDate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019510,
+    "stop": 1711693019512,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0b909a6c3065d332d885e80208c9cd43",
+    "testCaseId": "2fe27021c8e64923bd7fa55bf05b8f51",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\DobTest::testSetDate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\DobTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetDate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

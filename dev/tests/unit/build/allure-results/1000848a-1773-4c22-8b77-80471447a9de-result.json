@@ -1,0 +1,50 @@
+{
+    "uuid": "1000848a-1773-4c22-8b77-80471447a9de",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\FileTest::testOutputValueNonJson",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020728,
+    "stop": 1711693020728,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"text\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ea01e53991162b2a64ca7d8399bc8715",
+    "testCaseId": "ca46b5cf0ded410bbc7f7f3ae86ea5f1",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\FileTest::testOutputValueNonJson",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\FileTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testOutputValueNonJson"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

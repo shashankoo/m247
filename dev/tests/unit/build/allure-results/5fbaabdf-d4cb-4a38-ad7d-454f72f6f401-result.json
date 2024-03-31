@@ -1,0 +1,43 @@
+{
+    "uuid": "5fbaabdf-d4cb-4a38-ad7d-454f72f6f401",
+    "name": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\FinalPriceTest::testGetMaximalPriceFixedBundleWithOption",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011168,
+    "stop": 1711693011168,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "66f994c8c34388962a085a32bf761dcd",
+    "testCaseId": "4ced1d42f803a6e4a6efc0b03febcf29",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\FinalPriceTest::testGetMaximalPriceFixedBundleWithOption",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\FinalPriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMaximalPriceFixedBundleWithOption"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

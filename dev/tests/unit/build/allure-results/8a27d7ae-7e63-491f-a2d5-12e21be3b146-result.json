@@ -1,0 +1,50 @@
+{
+    "uuid": "8a27d7ae-7e63-491f-a2d5-12e21be3b146",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Model\\Payment\\Method\\Specification\\EnabledTest::testIsSatisfiedBy",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030800,
+    "stop": 1711693030800,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6152b1570137724da94e036130a3eb2c",
+    "testCaseId": "f2c71fa1a113e205bf9a7005b563ed18",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Model\\Payment\\Method\\Specification\\EnabledTest::testIsSatisfiedBy",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Model\\Payment\\Method\\Specification\\EnabledTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsSatisfiedBy"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

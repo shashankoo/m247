@@ -1,0 +1,50 @@
+{
+    "uuid": "2c3bb2cf-e0af-4f7b-bb9b-47a729d858c6",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\AbstractDataTest::testApplyInputFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020648,
+    "stop": 1711693020648,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "311d82bcb3c3f18f363fdccbeacd3faf",
+    "testCaseId": "497446446d023744a2817dc24bf9ab5f",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\AbstractDataTest::testApplyInputFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\AbstractDataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testApplyInputFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

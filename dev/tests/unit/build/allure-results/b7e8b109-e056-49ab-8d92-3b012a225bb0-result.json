@@ -1,0 +1,43 @@
+{
+    "uuid": "b7e8b109-e056-49ab-8d92-3b012a225bb0",
+    "name": "Magento\\Catalog\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Button\\BackTest::testGetButtonData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013455,
+    "stop": 1711693013457,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "50d8ea146013395f00622f1d43354a3f",
+    "testCaseId": "bf6509f0ddff39b7be70414cd0589c06",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Button\\BackTest::testGetButtonData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Button\\BackTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetButtonData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

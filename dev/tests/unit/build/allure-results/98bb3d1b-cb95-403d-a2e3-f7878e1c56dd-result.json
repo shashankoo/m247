@@ -1,0 +1,43 @@
+{
+    "uuid": "98bb3d1b-cb95-403d-a2e3-f7878e1c56dd",
+    "name": "Magento\\Theme\\Test\\Unit\\Helper\\StorageTest::testGetThemeNotFound",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043251,
+    "stop": 1711693043252,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "68528d5a7182f90bec88d107e8f11eec",
+    "testCaseId": "89649e929e1aab6fbfb157452188c4cb",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Helper\\StorageTest::testGetThemeNotFound",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Helper\\StorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetThemeNotFound"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

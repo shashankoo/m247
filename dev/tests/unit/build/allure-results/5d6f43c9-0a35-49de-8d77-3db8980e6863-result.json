@@ -1,0 +1,43 @@
+{
+    "uuid": "5d6f43c9-0a35-49de-8d77-3db8980e6863",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Backend\\File\\RequestDataTest::testGetNameReturnsNullIfInvalidPathIsProvided",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017864,
+    "stop": 1711693017864,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7160f9fee6b950e14a9f3acab70e0cd2",
+    "testCaseId": "f441ceaa895e5238b9a23c437a78ca17",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Backend\\File\\RequestDataTest::testGetNameReturnsNullIfInvalidPathIsProvided",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Backend\\File\\RequestDataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetNameReturnsNullIfInvalidPathIsProvided"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "cdbe3814-755c-47ac-98c3-474d8a4a43a4",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testGetShippingAddress",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038142,
+    "stop": 1711693038143,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "43d7626730bd3d36c83d02dc446e35f6",
+    "testCaseId": "70ae21207f34b29c49c8478ac13a64eb",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testGetShippingAddress",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetShippingAddress"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

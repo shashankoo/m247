@@ -1,0 +1,43 @@
+{
+    "uuid": "844a2eb7-71f6-4a33-b5b6-94e0ea1e679d",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\MultishippingTest::testGetQuoteShippingAddressesItems",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030760,
+    "stop": 1711693030762,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c4c5bd9c8d19edea0e486bb5b42c3af5",
+    "testCaseId": "39d59fb66c91b66c9326f20594d24de9",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\MultishippingTest::testGetQuoteShippingAddressesItems",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\MultishippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetQuoteShippingAddressesItems"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

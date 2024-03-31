@@ -1,0 +1,50 @@
+{
+    "uuid": "5cf88f6c-d2dc-43cd-bfb0-6282029bda96",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Api\\NvpTest::testCall",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031948,
+    "stop": 1711693031948,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7ad997f2899d46e3ba886ee3de9e5a35",
+    "testCaseId": "a1ae25630fe2eefa212b617791fc12df",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Api\\NvpTest::testCall",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Api\\NvpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCall"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "720b21ce-c14c-4407-a1ba-8c9e631e726f",
+    "name": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest::testCanSendInvoiceCommentEmail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037352,
+    "stop": 1711693037352,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c338ae4e60a4a1ea1e3dc26c17fcee0a",
+    "testCaseId": "a4fb3dc97c252b229dc2604b0adf9556",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest::testCanSendInvoiceCommentEmail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanSendInvoiceCommentEmail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

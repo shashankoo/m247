@@ -1,0 +1,43 @@
+{
+    "uuid": "78bc5e5c-3fd9-4773-a0f5-ad7d96e3d734",
+    "name": "Magento\\Customer\\Test\\Unit\\Controller\\Ajax\\LoginTest::testLoginFailure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019784,
+    "stop": 1711693019786,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "117eaeda2c169ce5811808a0f5589c2f",
+    "testCaseId": "bf6047e14e9ba7ecc8724de2018fba08",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Controller\\Ajax\\LoginTest::testLoginFailure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Controller\\Ajax\\LoginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLoginFailure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

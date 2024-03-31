@@ -1,0 +1,50 @@
+{
+    "uuid": "9aba0e97-42d2-4dac-9021-dc7a361ff18c",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\AbstractCriteriaTest::testAddField",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070843,
+    "stop": 1711693070843,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f2dc7bc66268bdb35f1753d8597097bc",
+    "testCaseId": "24e7b9a48cd840cab7c4f5a04f968b22",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\AbstractCriteriaTest::testAddField",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\AbstractCriteriaTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddField"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

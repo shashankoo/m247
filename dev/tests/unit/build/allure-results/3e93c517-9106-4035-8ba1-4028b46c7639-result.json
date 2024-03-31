@@ -1,0 +1,50 @@
+{
+    "uuid": "3e93c517-9106-4035-8ba1-4028b46c7639",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Plugin\\DisableMultishippingModeTest::testPluginWithChangedMultishippingMode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030806,
+    "stop": 1711693030806,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"check_when_totals_are_not_collected\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4490aa107bb452d6552bb0ff48294509",
+    "testCaseId": "6d809bfa8703e524086a07960eb27dd0",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Plugin\\DisableMultishippingModeTest::testPluginWithChangedMultishippingMode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Plugin\\DisableMultishippingModeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPluginWithChangedMultishippingMode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

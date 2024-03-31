@@ -1,0 +1,43 @@
+{
+    "uuid": "0db261b1-b079-4df1-af91-5769ba9123ea",
+    "name": "Magento\\Framework\\Pricing\\Test\\Unit\\Render\\RendererPoolTest::testCreatePriceRenderNoPriceModel",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075312,
+    "stop": 1711693075313,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1c9a1eabfd1cf46495a1644b3be131bd",
+    "testCaseId": "829f6cbfc1498f6c2a9a2469bb720672",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Pricing\\Test\\Unit\\Render\\RendererPoolTest::testCreatePriceRenderNoPriceModel",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Pricing\\Test\\Unit\\Render\\RendererPoolTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreatePriceRenderNoPriceModel"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

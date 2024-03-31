@@ -1,0 +1,43 @@
+{
+    "uuid": "23ba00c8-1be9-4cbc-8784-d0e814859471",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\NullableTest::testToDefinition",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076166,
+    "stop": 1711693076166,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "75dcd08f301b419c75bd0df9b9b213ff",
+    "testCaseId": "64fb5fe157ebb29d5602a63e5df88953",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\NullableTest::testToDefinition",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\NullableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToDefinition"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "ddc06e27-68d7-41e7-b9b2-1babd2daeae4",
+    "name": "Magento\\Framework\\Session\\Test\\Unit\\SessionManagerTest::testSessionManagerConstructor",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076106,
+    "stop": 1711693076106,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "To be fixed in MAGETWO-34751",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d3ac8a1a67b9ea2b54f56eb3a3c21026",
+    "testCaseId": "f4c95d76ac1d9e40fce7ef4a8bcd6662",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Session\\Test\\Unit\\SessionManagerTest::testSessionManagerConstructor",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Session\\Test\\Unit\\SessionManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSessionManagerConstructor"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

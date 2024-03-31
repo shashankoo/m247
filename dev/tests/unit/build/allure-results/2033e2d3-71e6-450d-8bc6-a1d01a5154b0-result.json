@@ -1,0 +1,43 @@
+{
+    "uuid": "2033e2d3-71e6-450d-8bc6-a1d01a5154b0",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\RemoteSynchronizedCacheTest::testSaveWithMismatchedRemoteData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059257,
+    "stop": 1711693059257,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "505c8241f588ff963543ff2fb5f1b911",
+    "testCaseId": "a1bce7c702eb6c0145342f7cdf0e5711",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\RemoteSynchronizedCacheTest::testSaveWithMismatchedRemoteData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\RemoteSynchronizedCacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveWithMismatchedRemoteData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

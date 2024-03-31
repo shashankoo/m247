@@ -1,0 +1,50 @@
+{
+    "uuid": "0c28f5a4-670b-4f47-ab45-b33b15074821",
+    "name": "Magento\\Bundle\\Test\\Unit\\Pricing\\Adjustment\\CalculatorTest::testGetterAmount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011072,
+    "stop": 1711693011072,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"case with getting maximum amount\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c206ee989088e42bc2ba635ea729f73d",
+    "testCaseId": "edeb0f2a2c2a8dff941926fd5df5844c",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Pricing\\Adjustment\\CalculatorTest::testGetterAmount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Pricing\\Adjustment\\CalculatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetterAmount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

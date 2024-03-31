@@ -1,0 +1,50 @@
+{
+    "uuid": "00187e6b-168d-4160-a03a-bb457a5608be",
+    "name": "Magento\\Customer\\Test\\Unit\\Helper\\AddressTest::testGetTaxCalculationAddressType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019840,
+    "stop": 1711693019841,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fd1b4eab01246deef69f7488f77cf4f6",
+    "testCaseId": "be7caf82e3e98322c12c7839db2ef3eb",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Helper\\AddressTest::testGetTaxCalculationAddressType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Helper\\AddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTaxCalculationAddressType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

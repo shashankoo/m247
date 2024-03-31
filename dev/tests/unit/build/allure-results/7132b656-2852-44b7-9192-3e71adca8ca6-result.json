@@ -1,0 +1,43 @@
+{
+    "uuid": "7132b656-2852-44b7-9192-3e71adca8ca6",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Query\\Builder\\AggregationTest::testBuildDynamicPrice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023526,
+    "stop": 1711693023526,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "31df1d1e96a9e7cc982d101dde686584",
+    "testCaseId": "10e7d0572d4bab40cd28f5332bdaedf4",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Query\\Builder\\AggregationTest::testBuildDynamicPrice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Query\\Builder\\AggregationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildDynamicPrice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

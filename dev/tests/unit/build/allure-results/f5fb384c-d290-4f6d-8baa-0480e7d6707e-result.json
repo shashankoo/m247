@@ -1,0 +1,43 @@
+{
+    "uuid": "f5fb384c-d290-4f6d-8baa-0480e7d6707e",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\Type\\ConfigurableTest::testGetProductByAttributesReturnUsedProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018622,
+    "stop": 1711693018626,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cbbb51b4b5988e60a49c3bd4b40ded4f",
+    "testCaseId": "210813398575b04185bcca69855d68d2",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\Type\\ConfigurableTest::testGetProductByAttributesReturnUsedProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\Type\\ConfigurableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetProductByAttributesReturnUsedProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

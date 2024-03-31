@@ -1,0 +1,50 @@
+{
+    "uuid": "39420225-1d12-4c82-be99-b9512aeb9b83",
+    "name": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\HelperTest::testUpdateReportRatingPos",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033513,
+    "stop": 1711693033513,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d2b2f9125d87e7d501382c0866574d58",
+    "testCaseId": "2456c4f509af22de43f57aca203f542a",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\HelperTest::testUpdateReportRatingPos",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\HelperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdateReportRatingPos"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

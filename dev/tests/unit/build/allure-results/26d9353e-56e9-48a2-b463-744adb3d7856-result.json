@@ -1,0 +1,43 @@
+{
+    "uuid": "26d9353e-56e9-48a2-b463-744adb3d7856",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\CancelTest::testExecuteNotPost",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036783,
+    "stop": 1711693036784,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f8ec37778766ec49887afc5556be40ae",
+    "testCaseId": "cf1394fb32298bb55f74e3aef98bfd95",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\CancelTest::testExecuteNotPost",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\CancelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteNotPost"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

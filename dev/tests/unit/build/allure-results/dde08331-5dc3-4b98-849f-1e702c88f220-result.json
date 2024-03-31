@@ -1,0 +1,43 @@
+{
+    "uuid": "dde08331-5dc3-4b98-849f-1e702c88f220",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\HttpTest::testLaunchException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058160,
+    "stop": 1711693058161,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "958651f83cd5b23edea36601539dce46",
+    "testCaseId": "5991562f7166d1d7ac6900d5f0e1ee9f",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\HttpTest::testLaunchException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLaunchException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

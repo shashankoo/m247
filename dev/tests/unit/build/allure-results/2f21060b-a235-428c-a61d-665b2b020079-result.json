@@ -1,0 +1,50 @@
+{
+    "uuid": "2f21060b-a235-428c-a61d-665b2b020079",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Source\\TableTest::testGetAllOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022720,
+    "stop": 1711693022721,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "61941da1d52c57b741270cae08a07b05",
+    "testCaseId": "4c8549920b5d8fafbc286f1ac43d1c83",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Source\\TableTest::testGetAllOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Source\\TableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAllOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

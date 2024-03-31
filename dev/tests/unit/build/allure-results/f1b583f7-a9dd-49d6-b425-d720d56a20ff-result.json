@@ -1,0 +1,50 @@
+{
+    "uuid": "f1b583f7-a9dd-49d6-b425-d720d56a20ff",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Items\\AbstractTest::testGetItemHtml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036718,
+    "stop": 1711693036718,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "71da2fbf99ead56181214412ef35a707",
+    "testCaseId": "a9baa716d3c1e5902261f01bbddd417e",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Items\\AbstractTest::testGetItemHtml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Items\\AbstractTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItemHtml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

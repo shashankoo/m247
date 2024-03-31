@@ -1,0 +1,43 @@
+{
+    "uuid": "360479f9-a38c-4b16-bdd2-019babe387d0",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfig\\FileReaderTest::testLoad",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057875,
+    "stop": 1711693057877,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "28ea080daeed8c39280de4fd9e30b1d5",
+    "testCaseId": "c975e0a6336a00f30f7a9c0f3c5dd755",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfig\\FileReaderTest::testLoad",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfig\\FileReaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLoad"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

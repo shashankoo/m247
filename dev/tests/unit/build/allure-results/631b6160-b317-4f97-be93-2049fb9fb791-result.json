@@ -1,0 +1,50 @@
+{
+    "uuid": "631b6160-b317-4f97-be93-2049fb9fb791",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\DateTest::testValidateValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020699,
+    "stop": 1711693020700,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Valid, min and max\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e59e9f6804639173d1f4887398017297",
+    "testCaseId": "70f62500ddeaa5b9db74f89958e1a63d",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\DateTest::testValidateValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\DateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

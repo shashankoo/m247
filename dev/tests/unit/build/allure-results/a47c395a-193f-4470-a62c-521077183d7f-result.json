@@ -1,0 +1,43 @@
+{
+    "uuid": "a47c395a-193f-4470-a62c-521077183d7f",
+    "name": "Magento\\AdminAdobeIms\\Test\\Unit\\Plugin\\AdminForgotPasswordPluginTest::testPluginProceedsWhenModuleIsDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008435,
+    "stop": 1711693008435,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "705d6242a23dd10ed5efdee8d14875c3",
+    "testCaseId": "91a88aca2b419815ef0a5334d097a84e",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminAdobeIms\\Test\\Unit\\Plugin\\AdminForgotPasswordPluginTest::testPluginProceedsWhenModuleIsDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminAdobeIms\\Test\\Unit\\Plugin\\AdminForgotPasswordPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPluginProceedsWhenModuleIsDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

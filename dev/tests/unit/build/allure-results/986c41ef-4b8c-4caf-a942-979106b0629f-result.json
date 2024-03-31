@@ -1,0 +1,43 @@
+{
+    "uuid": "986c41ef-4b8c-4caf-a942-979106b0629f",
+    "name": "Magento\\Deploy\\Test\\Unit\\Process\\QueueTest::testProcess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021340,
+    "stop": 1711693021340,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "26052dbb3d58b5845a2fca273a32abc8",
+    "testCaseId": "fbd1f819c042af7936b9f7deb521d57e",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Process\\QueueTest::testProcess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Process\\QueueTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

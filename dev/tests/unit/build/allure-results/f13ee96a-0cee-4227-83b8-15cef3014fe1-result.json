@@ -1,0 +1,50 @@
+{
+    "uuid": "f13ee96a-0cee-4227-83b8-15cef3014fe1",
+    "name": "Magento\\Paypal\\Test\\Unit\\Helper\\DataTest::testGetHtmlTransactionRealLink",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031898,
+    "stop": 1711693031898,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "046636118c460a9d7d01fb8f20a72539",
+    "testCaseId": "ae6d919401c635f0ec9af4c89386c1c9",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Helper\\DataTest::testGetHtmlTransactionRealLink",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetHtmlTransactionRealLink"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

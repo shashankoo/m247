@@ -1,0 +1,43 @@
+{
+    "uuid": "cbeb6ad4-d0f7-4c88-b07e-bbec26409fc5",
+    "name": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\AbstractDbTest::testGetValidationRulesBeforeSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074281,
+    "stop": 1711693074281,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5819e012818111d678c7103557ec0182",
+    "testCaseId": "e3413be6f6c32d39f7caa0fa6449e76e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\AbstractDbTest::testGetValidationRulesBeforeSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\AbstractDbTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValidationRulesBeforeSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

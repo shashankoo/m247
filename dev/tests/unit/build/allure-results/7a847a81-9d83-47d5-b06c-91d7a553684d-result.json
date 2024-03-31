@@ -1,0 +1,50 @@
+{
+    "uuid": "7a847a81-9d83-47d5-b06c-91d7a553684d",
+    "name": "Magento\\Email\\Test\\Unit\\Model\\TemplateTest::testIsValidForSend",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023753,
+    "stop": 1711693023754,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"no sender email so not valid\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ff1d2de88b09a4c0c992303b292cf411",
+    "testCaseId": "a41a4220b4579600fc56d051728e2f53",
+    "rerunOf": null,
+    "fullName": "Magento\\Email\\Test\\Unit\\Model\\TemplateTest::testIsValidForSend",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Email\\Test\\Unit\\Model\\TemplateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValidForSend"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

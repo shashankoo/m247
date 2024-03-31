@@ -1,0 +1,50 @@
+{
+    "uuid": "a4be120e-4819-488c-9fc7-4369e795751a",
+    "name": "Magento\\Widget\\Test\\Unit\\Model\\ResourceModel\\Layout\\Link\\CollectionTest::testAddTemporaryFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054206,
+    "stop": 1711693054206,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Add temporary filter\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e2ee1ee32f0304d43911723cc29dbe39",
+    "testCaseId": "eb5cb9a94f71538dea04512fef4be74c",
+    "rerunOf": null,
+    "fullName": "Magento\\Widget\\Test\\Unit\\Model\\ResourceModel\\Layout\\Link\\CollectionTest::testAddTemporaryFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Widget\\Test\\Unit\\Model\\ResourceModel\\Layout\\Link\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddTemporaryFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

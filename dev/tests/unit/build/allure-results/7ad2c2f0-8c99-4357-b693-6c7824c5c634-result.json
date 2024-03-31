@@ -1,0 +1,43 @@
+{
+    "uuid": "7ad2c2f0-8c99-4357-b693-6c7824c5c634",
+    "name": "Magento\\AdminAdobeIms\\Test\\Unit\\Controller\\Adminhtml\\OAuth\\ImsCallbackTest::testStateNotExistsInImsCallback",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008391,
+    "stop": 1711693008392,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "661178312302280455bf7992cc83bfb7",
+    "testCaseId": "92d659d98c8f1c2a640ae69d97eaeef3",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminAdobeIms\\Test\\Unit\\Controller\\Adminhtml\\OAuth\\ImsCallbackTest::testStateNotExistsInImsCallback",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminAdobeIms\\Test\\Unit\\Controller\\Adminhtml\\OAuth\\ImsCallbackTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testStateNotExistsInImsCallback"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

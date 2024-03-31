@@ -1,0 +1,50 @@
+{
+    "uuid": "e8a855c3-dd2d-4afb-90d5-6450fcebc5e0",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Model\\Sales\\Order\\Link\\PurchasedTest::testGetLink",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022075,
+    "stop": 1711693022076,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "da66fc2a09f3688fc784b61ee73b7603",
+    "testCaseId": "952992718fe4f046f3cbdc9097b20005",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Model\\Sales\\Order\\Link\\PurchasedTest::testGetLink",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Model\\Sales\\Order\\Link\\PurchasedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLink"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

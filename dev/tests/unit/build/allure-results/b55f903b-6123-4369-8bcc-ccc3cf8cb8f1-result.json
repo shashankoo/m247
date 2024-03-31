@@ -1,0 +1,50 @@
+{
+    "uuid": "b55f903b-6123-4369-8bcc-ccc3cf8cb8f1",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\GenderTest::testIsRequired",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019563,
+    "stop": 1711693019563,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "263198d23aa8c16015288caa08c9a6ec",
+    "testCaseId": "3393aa2b193e408261d316b42408dedb",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\GenderTest::testIsRequired",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\GenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsRequired"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

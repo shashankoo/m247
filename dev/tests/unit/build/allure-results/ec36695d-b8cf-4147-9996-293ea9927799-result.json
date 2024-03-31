@@ -1,0 +1,50 @@
+{
+    "uuid": "ec36695d-b8cf-4147-9996-293ea9927799",
+    "name": "Magento\\Framework\\Test\\Unit\\FlagManagerTest::testDeleteFlag",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056653,
+    "stop": 1711693056654,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "657c72d0f3248c6a0e9c2554bb4f2385",
+    "testCaseId": "2ed6d65c46890b32c7b40b0bfc215027",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\FlagManagerTest::testDeleteFlag",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\FlagManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteFlag"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

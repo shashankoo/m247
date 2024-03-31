@@ -1,0 +1,43 @@
+{
+    "uuid": "be57aac3-25dc-4988-a88a-40bf243e939f",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\ShippingTest::testCollectNoSpecifiedShippingAmount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037633,
+    "stop": 1711693037635,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1948f5c6ce384211fd5435580789dbb9",
+    "testCaseId": "c11f8595d17badf58edf90e2b118ca02",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\ShippingTest::testCollectNoSpecifiedShippingAmount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\ShippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectNoSpecifiedShippingAmount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

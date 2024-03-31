@@ -1,0 +1,50 @@
+{
+    "uuid": "0135c817-d85e-482a-8491-85a1c55bdeba",
+    "name": "Magento\\Ui\\Test\\Unit\\Model\\ManagerTest::testCreateRawComponentData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052482,
+    "stop": 1711693052483,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d9a85823e002fafc548c23b97289f90e",
+    "testCaseId": "0721281ee52f4dd41aa5a1e0453d7005",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Model\\ManagerTest::testCreateRawComponentData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Model\\ManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateRawComponentData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

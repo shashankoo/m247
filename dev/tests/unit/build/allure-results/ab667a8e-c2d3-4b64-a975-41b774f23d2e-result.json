@@ -1,0 +1,43 @@
+{
+    "uuid": "ab667a8e-c2d3-4b64-a975-41b774f23d2e",
+    "name": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\ProcessorFacadeTest::testProcessWithConfigurationMismatchException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017787,
+    "stop": 1711693017787,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d8ca9e71bd1405ccd33f8abb7c07487d",
+    "testCaseId": "998625c53e7ed646b52ccddc857214dd",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\ProcessorFacadeTest::testProcessWithConfigurationMismatchException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\ProcessorFacadeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessWithConfigurationMismatchException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

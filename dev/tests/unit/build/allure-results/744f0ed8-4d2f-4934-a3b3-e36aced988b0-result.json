@@ -1,0 +1,50 @@
+{
+    "uuid": "744f0ed8-4d2f-4934-a3b3-e36aced988b0",
+    "name": "Magento\\Wishlist\\Test\\Unit\\Controller\\Shared\\CartTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054370,
+    "stop": 1711693054373,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "463efd37c1ff344218753dedebf880ab",
+    "testCaseId": "c8b2f709b6b558af9fc5debd90bc980c",
+    "rerunOf": null,
+    "fullName": "Magento\\Wishlist\\Test\\Unit\\Controller\\Shared\\CartTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Wishlist\\Test\\Unit\\Controller\\Shared\\CartTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

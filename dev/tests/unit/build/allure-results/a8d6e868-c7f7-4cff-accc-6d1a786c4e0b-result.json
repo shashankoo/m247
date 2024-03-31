@@ -1,0 +1,50 @@
+{
+    "uuid": "a8d6e868-c7f7-4cff-accc-6d1a786c4e0b",
+    "name": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest::testResolveFullyQualifiedClassNames",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075529,
+    "stop": 1711693075529,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#6",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "91acf0842964f4072b110b49b4c83e44",
+    "testCaseId": "cd8a1f7ae3a3ee25dce6e55fe7518b68",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest::testResolveFullyQualifiedClassNames",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testResolveFullyQualifiedClassNames"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

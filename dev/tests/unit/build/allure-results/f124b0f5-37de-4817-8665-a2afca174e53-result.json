@@ -1,0 +1,43 @@
+{
+    "uuid": "f124b0f5-37de-4817-8665-a2afca174e53",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\CompositeBaseSelectProcessorTest::testInitializeWithWrongProcessorInstance",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015907,
+    "stop": 1711693015908,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "574e5567e84b4602b64218d52b3b2413",
+    "testCaseId": "4e49ee0d6f00990bf1f44965a061f63f",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\CompositeBaseSelectProcessorTest::testInitializeWithWrongProcessorInstance",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\CompositeBaseSelectProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInitializeWithWrongProcessorInstance"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

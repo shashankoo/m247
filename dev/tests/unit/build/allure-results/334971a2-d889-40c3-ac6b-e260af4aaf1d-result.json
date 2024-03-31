@@ -1,0 +1,50 @@
+{
+    "uuid": "334971a2-d889-40c3-ac6b-e260af4aaf1d",
+    "name": "Magento\\Vault\\Test\\Unit\\Observer\\AfterPaymentSaveObserverTest::testPositiveCase",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053351,
+    "stop": 1711693053353,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "55a9f901c20b627c2a2a0bd2ddc24cb7",
+    "testCaseId": "7a135010929c096416fa3e4ebcb7184c",
+    "rerunOf": null,
+    "fullName": "Magento\\Vault\\Test\\Unit\\Observer\\AfterPaymentSaveObserverTest::testPositiveCase",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Vault\\Test\\Unit\\Observer\\AfterPaymentSaveObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPositiveCase"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

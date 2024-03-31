@@ -1,0 +1,43 @@
+{
+    "uuid": "e82141fb-b859-4252-bd95-ec93dcce41ff",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testValidateResetPasswordTokenBadResetPasswordLinkToken",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019948,
+    "stop": 1711693019949,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "49668965ba37804151250b2483dde733",
+    "testCaseId": "cd4871c6df07883317f23155025a1c81",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testValidateResetPasswordTokenBadResetPasswordLinkToken",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateResetPasswordTokenBadResetPasswordLinkToken"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

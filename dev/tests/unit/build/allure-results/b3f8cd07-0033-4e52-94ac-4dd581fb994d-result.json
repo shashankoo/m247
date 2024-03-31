@@ -1,0 +1,43 @@
+{
+    "uuid": "b3f8cd07-0033-4e52-94ac-4dd581fb994d",
+    "name": "Magento\\Bundle\\Test\\Unit\\Model\\Product\\CatalogPriceTest::testGetCatalogPriceWithCurrentStore",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010825,
+    "stop": 1711693010830,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7e91fb338621a191a93a5272952b69ed",
+    "testCaseId": "130aeade4c8bd7ece71149f9df439c96",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Model\\Product\\CatalogPriceTest::testGetCatalogPriceWithCurrentStore",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Model\\Product\\CatalogPriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCatalogPriceWithCurrentStore"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "469bad03-5e6f-4207-8331-fed555d4ddd4",
+    "name": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest::testCanSendNewShipmentEmail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037343,
+    "stop": 1711693037344,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1523f998b02cba51a1af50661f197d1b",
+    "testCaseId": "77f95a1e733360af8080f68d34bf9b24",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest::testCanSendNewShipmentEmail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanSendNewShipmentEmail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

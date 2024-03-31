@@ -1,0 +1,50 @@
+{
+    "uuid": "e91c55b8-d6b6-47eb-ad97-fb3ae3f88cbc",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\AttributeAdapterTest::testIsDateTimeType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023229,
+    "stop": 1711693023229,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "36b49a7472127d6e26512eb307afa526",
+    "testCaseId": "c5f29288b817325189e6614e059e9140",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\AttributeAdapterTest::testIsDateTimeType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\AttributeAdapterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsDateTimeType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

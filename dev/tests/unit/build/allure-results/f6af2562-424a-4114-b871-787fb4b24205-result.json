@@ -1,0 +1,50 @@
+{
+    "uuid": "f6af2562-424a-4114-b871-787fb4b24205",
+    "name": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\EditTest::testGetConfigSearchParamsJson",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017627,
+    "stop": 1711693017628,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a91474a814f3c450451b580f45368d47",
+    "testCaseId": "7240753654c0d7c9906a8f5ae7debf6e",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\EditTest::testGetConfigSearchParamsJson",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\EditTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfigSearchParamsJson"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

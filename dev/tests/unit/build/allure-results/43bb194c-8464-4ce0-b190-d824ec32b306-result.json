@@ -1,0 +1,43 @@
+{
+    "uuid": "43bb194c-8464-4ce0-b190-d824ec32b306",
+    "name": "Magento\\Paypal\\Test\\Unit\\Block\\PayflowExpress\\FormTest::testGetBillingAgreementCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031821,
+    "stop": 1711693031822,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6a349c9f89fdd7be581a361418abcf62",
+    "testCaseId": "bf82312dbf140e3202dffda02431cf51",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Block\\PayflowExpress\\FormTest::testGetBillingAgreementCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Block\\PayflowExpress\\FormTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBillingAgreementCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

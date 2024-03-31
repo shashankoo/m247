@@ -1,0 +1,50 @@
+{
+    "uuid": "823ced86-dc34-4c44-b05d-0c2ff4e1c7a9",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Validation\\CanShipTest::testCanShip",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039575,
+    "stop": 1711693039576,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c0f969a0d331b49a81d95bf01ee7d46c",
+    "testCaseId": "22d65d78cc024dc3312163ac06e60762",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Validation\\CanShipTest::testCanShip",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Validation\\CanShipTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanShip"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

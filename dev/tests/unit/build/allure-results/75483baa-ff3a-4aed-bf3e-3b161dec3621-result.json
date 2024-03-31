@@ -1,0 +1,43 @@
+{
+    "uuid": "75483baa-ff3a-4aed-bf3e-3b161dec3621",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Builder\\Command\\AddTest::testExecuteDoesntRewriteDataInFilledItem",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009878,
+    "stop": 1711693009878,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a7572ff27e7a1ee753dc4f1cabf8067c",
+    "testCaseId": "2a214b53f532937dcd1e01101532e0d4",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Builder\\Command\\AddTest::testExecuteDoesntRewriteDataInFilledItem",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Builder\\Command\\AddTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteDoesntRewriteDataInFilledItem"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

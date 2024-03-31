@@ -1,0 +1,43 @@
+{
+    "uuid": "a7dba7c7-47bb-4147-b03b-8e86b761503f",
+    "name": "Magento\\Checkout\\Test\\Unit\\Model\\ShippingInformationManagementTest::testSaveAddressInformationIfShippingAddressNotSet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016925,
+    "stop": 1711693016926,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f7df8a62ea2a194d6b994a369c4eab09",
+    "testCaseId": "27ea2968fedfc415b99e81254c5f6fdb",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Model\\ShippingInformationManagementTest::testSaveAddressInformationIfShippingAddressNotSet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Model\\ShippingInformationManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveAddressInformationIfShippingAddressNotSet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

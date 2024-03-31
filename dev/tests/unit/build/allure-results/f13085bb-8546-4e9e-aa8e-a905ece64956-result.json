@@ -1,0 +1,43 @@
+{
+    "uuid": "f13085bb-8546-4e9e-aa8e-a905ece64956",
+    "name": "Magento\\Indexer\\Test\\Unit\\Model\\ProcessorTest::testClearChangelog",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693028801,
+    "stop": 1711693028802,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "88f0365b262cd79e776448bf56711e3c",
+    "testCaseId": "634db3adb472055e93b6f7bc97842557",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Model\\ProcessorTest::testClearChangelog",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Model\\ProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testClearChangelog"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

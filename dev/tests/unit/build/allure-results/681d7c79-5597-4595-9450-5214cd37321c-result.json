@@ -1,0 +1,50 @@
+{
+    "uuid": "681d7c79-5597-4595-9450-5214cd37321c",
+    "name": "Magento\\Vault\\Test\\Unit\\Model\\Method\\VaultTest::testAuthorizeNoTokenMetadata",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053149,
+    "stop": 1711693053149,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8df4ecc6f2d8c16b5c9437b66e883fbf",
+    "testCaseId": "41c8587b3584563101b17b8336d1500e",
+    "rerunOf": null,
+    "fullName": "Magento\\Vault\\Test\\Unit\\Model\\Method\\VaultTest::testAuthorizeNoTokenMetadata",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Vault\\Test\\Unit\\Model\\Method\\VaultTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAuthorizeNoTokenMetadata"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

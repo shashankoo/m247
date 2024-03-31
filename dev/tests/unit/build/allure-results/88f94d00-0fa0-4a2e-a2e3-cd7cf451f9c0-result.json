@@ -1,0 +1,50 @@
+{
+    "uuid": "88f94d00-0fa0-4a2e-a2e3-cd7cf451f9c0",
+    "name": "Magento\\Ui\\Test\\Unit\\Controller\\Index\\RenderTest::testExecuteWithoutPermissions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052429,
+    "stop": 1711693052430,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a3c78846831bdec3f536a45663d90f66",
+    "testCaseId": "ea89334bf6a3416ead48436d87cd589b",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Controller\\Index\\RenderTest::testExecuteWithoutPermissions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Controller\\Index\\RenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithoutPermissions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

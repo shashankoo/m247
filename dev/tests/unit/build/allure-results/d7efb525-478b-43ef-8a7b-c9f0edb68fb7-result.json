@@ -1,0 +1,50 @@
+{
+    "uuid": "d7efb525-478b-43ef-8a7b-c9f0edb68fb7",
+    "name": "Magento\\LayeredNavigation\\Test\\Unit\\Block\\NavigationTest::testCanShowBlockWithDifferentDisplayModes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030345,
+    "stop": 1711693030346,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "72983ca8cf43b730d92e53a1b17dab37",
+    "testCaseId": "04a27920fc7d5f8b29c06bee67e0d381",
+    "rerunOf": null,
+    "fullName": "Magento\\LayeredNavigation\\Test\\Unit\\Block\\NavigationTest::testCanShowBlockWithDifferentDisplayModes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\LayeredNavigation\\Test\\Unit\\Block\\NavigationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanShowBlockWithDifferentDisplayModes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

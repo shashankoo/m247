@@ -1,0 +1,50 @@
+{
+    "uuid": "0a33c0ce-e6a8-443b-9613-edfb01c39aa3",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Address\\Total\\SubtotalTest::testCollect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032803,
+    "stop": 1711693032804,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getStockItem\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ff6d47d77c834448c24fc11dd0a9c4af",
+    "testCaseId": "4a39f5dc8ccac66fccb9fed3241fa435",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Address\\Total\\SubtotalTest::testCollect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Address\\Total\\SubtotalTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

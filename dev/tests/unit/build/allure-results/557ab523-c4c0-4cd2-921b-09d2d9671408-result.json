@@ -1,0 +1,43 @@
+{
+    "uuid": "557ab523-c4c0-4cd2-921b-09d2d9671408",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest::testCheckExtensionsError",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055345,
+    "stop": 1711693055346,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "aec4c7c95e221f0d39511e84cf5b18ed",
+    "testCaseId": "d2e3e824fb41faa9b47fa8f127c496ce",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest::testCheckExtensionsError",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckExtensionsError"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

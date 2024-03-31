@@ -1,0 +1,43 @@
+{
+    "uuid": "ad950f18-3b71-4e6d-8113-18e4b57f77af",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Aggregation\\DataProviderFactoryTest::testCreateDataProviderWithoutQuery",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023428,
+    "stop": 1711693023428,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9b6c2b2e96258a2d68c0f74c9a4b1b55",
+    "testCaseId": "8852964af77b2cf268ae2b066a5c36b7",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Aggregation\\DataProviderFactoryTest::testCreateDataProviderWithoutQuery",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Aggregation\\DataProviderFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateDataProviderWithoutQuery"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

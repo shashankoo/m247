@@ -1,0 +1,50 @@
+{
+    "uuid": "8d060b1f-3bfd-4f56-a000-c06f2fcb54a1",
+    "name": "Magento\\Cron\\Test\\Unit\\Model\\Config\\XsdTest::testValidXmlFile",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018890,
+    "stop": 1711693018891,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3e4c2465497cb903b5cb075e9fb3f1f0",
+    "testCaseId": "47209e506a71fe7878968b568b8f2bdb",
+    "rerunOf": null,
+    "fullName": "Magento\\Cron\\Test\\Unit\\Model\\Config\\XsdTest::testValidXmlFile",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cron\\Test\\Unit\\Model\\Config\\XsdTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidXmlFile"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

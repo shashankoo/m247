@@ -1,0 +1,43 @@
+{
+    "uuid": "e4a46a37-4dcf-46a5-887d-fb29434fa163",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Reader\\FileScannerTest::testGetUsesWithAnotherNamespace",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055680,
+    "stop": 1711693055680,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "73b76573e7dcb5e448944efa02b7f009",
+    "testCaseId": "bb447ab0622d05cd0eda5b44dd8d491f",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Reader\\FileScannerTest::testGetUsesWithAnotherNamespace",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Reader\\FileScannerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUsesWithAnotherNamespace"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

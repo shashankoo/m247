@@ -1,0 +1,50 @@
+{
+    "uuid": "d2cc88b0-3211-44a9-8b4f-b1b26fda07eb",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\SearchConfigTest::testSaveConfiguration",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055522,
+    "stop": 1711693055523,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "056bfd23405915303e4f79371c022905",
+    "testCaseId": "03e328177d61c4227101ccce34be3d40",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\SearchConfigTest::testSaveConfiguration",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\SearchConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveConfiguration"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

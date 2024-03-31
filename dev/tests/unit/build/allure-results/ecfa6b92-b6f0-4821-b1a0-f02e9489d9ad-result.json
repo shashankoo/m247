@@ -1,0 +1,50 @@
+{
+    "uuid": "ecfa6b92-b6f0-4821-b1a0-f02e9489d9ad",
+    "name": "Magento\\Framework\\Url\\Test\\Unit\\HostCheckerTest::testIsOwnOrigin",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076891,
+    "stop": 1711693076892,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1910c7e901fad70075a75a89dd4a699e",
+    "testCaseId": "cac32edc4304fb28a1819034e03ba137",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Url\\Test\\Unit\\HostCheckerTest::testIsOwnOrigin",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Url\\Test\\Unit\\HostCheckerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsOwnOrigin"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

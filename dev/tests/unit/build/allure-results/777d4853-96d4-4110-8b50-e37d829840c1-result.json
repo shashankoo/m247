@@ -1,0 +1,50 @@
+{
+    "uuid": "777d4853-96d4-4110-8b50-e37d829840c1",
+    "name": "Magento\\Paypal\\Test\\Unit\\Helper\\Shortcut\\ValidatorTest::testIsMethodAvailable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031914,
+    "stop": 1711693031914,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d05d95c00729f996e972a603226b0a3d",
+    "testCaseId": "0fab971c1b50ce5a5c8f09e2e980a4fe",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Helper\\Shortcut\\ValidatorTest::testIsMethodAvailable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Helper\\Shortcut\\ValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsMethodAvailable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

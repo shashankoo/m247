@@ -1,0 +1,50 @@
+{
+    "uuid": "f2747b0f-3a92-4467-8b4b-f762f7cb5adf",
+    "name": "Magento\\GraphQl\\Test\\Unit\\Model\\Config\\DisableSessionTest::testisSessionDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024233,
+    "stop": 1711693024233,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "64e8152f9c768e1b56c282a6a12fa9d2",
+    "testCaseId": "22ee0effa1dd73c14abeed4e01cc8ac7",
+    "rerunOf": null,
+    "fullName": "Magento\\GraphQl\\Test\\Unit\\Model\\Config\\DisableSessionTest::testisSessionDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GraphQl\\Test\\Unit\\Model\\Config\\DisableSessionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testisSessionDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

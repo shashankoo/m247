@@ -1,0 +1,43 @@
+{
+    "uuid": "005b05fc-25e4-4df1-b421-00fc1fa93bc5",
+    "name": "Magento\\Security\\Test\\Unit\\Observer\\AdminUserAuthenticateBeforeTest::testWithNonExpiredUser",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041344,
+    "stop": 1711693041344,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f000391d60e4d5b119fa750afdbc65f7",
+    "testCaseId": "14cc21cdd9da36ac329715f34a2f0b64",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Observer\\AdminUserAuthenticateBeforeTest::testWithNonExpiredUser",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Observer\\AdminUserAuthenticateBeforeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWithNonExpiredUser"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

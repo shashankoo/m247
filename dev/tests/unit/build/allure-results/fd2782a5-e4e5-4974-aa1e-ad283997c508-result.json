@@ -1,0 +1,50 @@
+{
+    "uuid": "fd2782a5-e4e5-4974-aa1e-ad283997c508",
+    "name": "Magento\\PageCache\\Test\\Unit\\Model\\Layout\\LayoutPluginTest::testAfterGetOutput",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031278,
+    "stop": 1711693031279,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Cacheable layout with Varnish\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "280a5d66f220950a31345eabaddcefe6",
+    "testCaseId": "f8623f0d6a0f1a65523d10ee67005ebe",
+    "rerunOf": null,
+    "fullName": "Magento\\PageCache\\Test\\Unit\\Model\\Layout\\LayoutPluginTest::testAfterGetOutput",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\PageCache\\Test\\Unit\\Model\\Layout\\LayoutPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetOutput"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

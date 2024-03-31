@@ -1,0 +1,43 @@
+{
+    "uuid": "04b189b0-e657-4c5b-ae89-f9087dade356",
+    "name": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\ZookeeperTest::testConstructionWithoutException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074030,
+    "stop": 1711693074030,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Test was skipped because php extension Zookeeper is not installed.",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c8ec5a59bf8b1f7f764869c087e3717a",
+    "testCaseId": "7946cc1f119ad75a36ec6f06b2a6ac59",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\ZookeeperTest::testConstructionWithoutException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Lock\\Test\\Unit\\Backend\\ZookeeperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructionWithoutException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

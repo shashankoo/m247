@@ -1,0 +1,43 @@
+{
+    "uuid": "86bef32e-3ba8-4b21-a855-3884bdd8f24c",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Store\\SwitcherTest::testGetWebsitesIfSetWebsiteIds",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009529,
+    "stop": 1711693009531,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0ac0b94847ae2e5771f20ea3a164f7bc",
+    "testCaseId": "142dccce45a742a517baebe26dac9e64",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Store\\SwitcherTest::testGetWebsitesIfSetWebsiteIds",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Store\\SwitcherTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetWebsitesIfSetWebsiteIds"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

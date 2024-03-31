@@ -1,0 +1,43 @@
+{
+    "uuid": "64c37f74-bb2b-4526-8101-327aa5d12de7",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Rss\\OrderStatusTest::testGetRssDataWithWrongSignature",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041005,
+    "stop": 1711693041005,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3bdc2bafa8b9843cacaef73745ada9e8",
+    "testCaseId": "dc852b297d16f65f4b74377d6de79258",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Rss\\OrderStatusTest::testGetRssDataWithWrongSignature",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Rss\\OrderStatusTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRssDataWithWrongSignature"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "d45b4cd2-4ced-471b-8c04-ed87310f15ec",
+    "name": "Magento\\AwsS3\\Test\\Unit\\Driver\\AwsS3Test::testGetRealPathSafety",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009402,
+    "stop": 1711693009402,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "abafc20bb4d8ac89721eae000af7ff0b",
+    "testCaseId": "d0ee946f4c7ce5cabe5e30bc5bf297c3",
+    "rerunOf": null,
+    "fullName": "Magento\\AwsS3\\Test\\Unit\\Driver\\AwsS3Test::testGetRealPathSafety",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AwsS3\\Test\\Unit\\Driver\\AwsS3Test"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRealPathSafety"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

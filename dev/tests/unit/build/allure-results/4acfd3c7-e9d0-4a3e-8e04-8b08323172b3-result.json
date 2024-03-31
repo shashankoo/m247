@@ -1,0 +1,50 @@
+{
+    "uuid": "4acfd3c7-e9d0-4a3e-8e04-8b08323172b3",
+    "name": "Magento\\Framework\\Url\\Test\\Unit\\Helper\\DataTest::testGetEncodedUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076880,
+    "stop": 1711693076880,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"no url\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7e1f3a8b5fe734ff9f19d53cf304b6fa",
+    "testCaseId": "ed0120a5c6b817e4f892cce343561e04",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Url\\Test\\Unit\\Helper\\DataTest::testGetEncodedUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Url\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetEncodedUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

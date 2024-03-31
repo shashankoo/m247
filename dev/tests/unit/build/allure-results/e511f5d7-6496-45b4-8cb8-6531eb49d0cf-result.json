@@ -1,0 +1,50 @@
+{
+    "uuid": "e511f5d7-6496-45b4-8cb8-6531eb49d0cf",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Creditmemo\\SaveTest::testExecuteEmails",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037009,
+    "stop": 1711693037011,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "34e00bb9ef025808d2c50a991e9a13ff",
+    "testCaseId": "bf775bc299f9c89efc374167da7563c2",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Creditmemo\\SaveTest::testExecuteEmails",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Creditmemo\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteEmails"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "5c9396bd-d1bf-4090-9646-8d8e1e102086",
+    "name": "Magento\\Theme\\Test\\Unit\\Model\\Theme\\CollectionTest::testAddConstraint",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043492,
+    "stop": 1711693043492,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skipped in #27500 due to testing protected\/private methods and properties",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"area\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "08fdad4d2de5f900c710dd0de6fe0eaf",
+    "testCaseId": "2e0a32a3c6d42af74c95ee93583c996f",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Model\\Theme\\CollectionTest::testAddConstraint",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Model\\Theme\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddConstraint"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "04a8b9ae-e93c-40e3-89be-62e456d6191b",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Create\\ReorderTest::testExecuteRedirectNewOrderWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036934,
+    "stop": 1711693036935,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ef05cef584151568388ba1a887e21165",
+    "testCaseId": "ed62c93cbe879e512bb1c4b3817bdbe7",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Create\\ReorderTest::testExecuteRedirectNewOrderWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Create\\ReorderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteRedirectNewOrderWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

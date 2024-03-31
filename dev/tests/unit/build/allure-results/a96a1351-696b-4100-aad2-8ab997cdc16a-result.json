@@ -1,0 +1,43 @@
+{
+    "uuid": "a96a1351-696b-4100-aad2-8ab997cdc16a",
+    "name": "Magento\\Csp\\Test\\Unit\\Model\\Mode\\ConfigManagerTest::testThrownExceptionForCrontabArea",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019074,
+    "stop": 1711693019076,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b2e623ae5aa465abe9b769b2bd0fca41",
+    "testCaseId": "b717477c5c9e87591769afc6d0331b17",
+    "rerunOf": null,
+    "fullName": "Magento\\Csp\\Test\\Unit\\Model\\Mode\\ConfigManagerTest::testThrownExceptionForCrontabArea",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Csp\\Test\\Unit\\Model\\Mode\\ConfigManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testThrownExceptionForCrontabArea"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

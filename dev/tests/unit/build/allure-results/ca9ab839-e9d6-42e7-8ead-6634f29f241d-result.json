@@ -1,0 +1,50 @@
+{
+    "uuid": "ca9ab839-e9d6-42e7-8ead-6634f29f241d",
+    "name": "Magento\\Framework\\Filter\\Test\\Unit\\AbstractFactoryTest::testCreateFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073315,
+    "stop": 1711693073316,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"not shared with args\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dcf99a8847b32ef7b472c8237857f497",
+    "testCaseId": "70a56934e8133d705217aae6b3ca541f",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filter\\Test\\Unit\\AbstractFactoryTest::testCreateFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filter\\Test\\Unit\\AbstractFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

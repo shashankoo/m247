@@ -1,0 +1,50 @@
+{
+    "uuid": "36868408-3451-419d-837c-a50b4c4354af",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Element\\Text\\TextList\\LinkTest::testToHtml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077730,
+    "stop": 1711693077730,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f272929688ddb060accde213197ff1e5",
+    "testCaseId": "1b11149630eacdaf0307fbf2e60afa76",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Element\\Text\\TextList\\LinkTest::testToHtml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Element\\Text\\TextList\\LinkTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToHtml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

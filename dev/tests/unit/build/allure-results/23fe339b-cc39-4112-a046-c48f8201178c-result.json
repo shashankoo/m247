@@ -1,0 +1,50 @@
+{
+    "uuid": "23fe339b-cc39-4112-a046-c48f8201178c",
+    "name": "Magento\\Framework\\Logger\\Test\\Unit\\LoggerProxyTest::logException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074054,
+    "stop": 1711693074054,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a68a79416e2763fbb15f69b2e26e3077",
+    "testCaseId": "2c76e5ff9197075e7014f5023ad771e6",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Logger\\Test\\Unit\\LoggerProxyTest::logException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Logger\\Test\\Unit\\LoggerProxyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "logException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

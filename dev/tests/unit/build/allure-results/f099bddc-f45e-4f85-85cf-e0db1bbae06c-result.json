@@ -1,0 +1,50 @@
+{
+    "uuid": "f099bddc-f45e-4f85-85cf-e0db1bbae06c",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Plugin\\CustomerFlushFormKeyTest::testAroundFlushFormKey",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020937,
+    "stop": 1711693020940,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "415bd49f499724943afe25588e780ce8",
+    "testCaseId": "fe9c77ce289a66e0106536c7c6f079de",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Plugin\\CustomerFlushFormKeyTest::testAroundFlushFormKey",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Plugin\\CustomerFlushFormKeyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundFlushFormKey"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

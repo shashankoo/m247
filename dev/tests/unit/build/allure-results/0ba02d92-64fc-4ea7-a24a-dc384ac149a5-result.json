@@ -1,0 +1,43 @@
+{
+    "uuid": "0ba02d92-64fc-4ea7-a24a-dc384ac149a5",
+    "name": "Magento\\Tax\\Test\\Unit\\Controller\\Adminhtml\\Rate\\AjaxLoadTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042414,
+    "stop": 1711693042423,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3c5b68bb3df9c5d40cadbddbb2517790",
+    "testCaseId": "cb6e8f24288c96bf6787428f6e7658c2",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Controller\\Adminhtml\\Rate\\AjaxLoadTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Controller\\Adminhtml\\Rate\\AjaxLoadTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

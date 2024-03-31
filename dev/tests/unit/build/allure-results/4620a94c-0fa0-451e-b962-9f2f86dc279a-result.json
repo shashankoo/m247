@@ -1,0 +1,43 @@
+{
+    "uuid": "4620a94c-0fa0-451e-b962-9f2f86dc279a",
+    "name": "Magento\\Framework\\Indexer\\Test\\Unit\\Config\\DependencyInfoProviderTest::testGetDependenciesNonExistentIndexer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073726,
+    "stop": 1711693073726,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "53efc9610c2924f111e3d3b42bdb40b0",
+    "testCaseId": "5b2b5a9ce9c9b90fe3a2687dc73e8f3f",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Indexer\\Test\\Unit\\Config\\DependencyInfoProviderTest::testGetDependenciesNonExistentIndexer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Indexer\\Test\\Unit\\Config\\DependencyInfoProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDependenciesNonExistentIndexer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

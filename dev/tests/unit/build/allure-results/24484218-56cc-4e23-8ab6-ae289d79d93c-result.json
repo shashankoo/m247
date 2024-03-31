@@ -1,0 +1,50 @@
+{
+    "uuid": "24484218-56cc-4e23-8ab6-ae289d79d93c",
+    "name": "Magento\\Setup\\Test\\Unit\\Mvc\\Bootstrap\\InitParamListenerTest::testCreateService",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056073,
+    "stop": 1711693056075,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"mage_mode CLI\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5a96da42b2493ced2a361725c316757a",
+    "testCaseId": "b98921288eec33c2c789f16b66399d41",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Mvc\\Bootstrap\\InitParamListenerTest::testCreateService",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Mvc\\Bootstrap\\InitParamListenerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateService"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

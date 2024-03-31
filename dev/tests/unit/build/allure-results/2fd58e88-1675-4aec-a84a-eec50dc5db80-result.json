@@ -1,0 +1,43 @@
+{
+    "uuid": "2fd58e88-1675-4aec-a84a-eec50dc5db80",
+    "name": "Magento\\Bundle\\Test\\Unit\\Observer\\AppendUpsellProductsObserverTest::testAddBundleCollectionItemsToEventCollection",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011037,
+    "stop": 1711693011039,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "13444f301febc71fc3970a16106230e6",
+    "testCaseId": "b7b151a7fe3dc6272fe325f7c1d88f70",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Observer\\AppendUpsellProductsObserverTest::testAddBundleCollectionItemsToEventCollection",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Observer\\AppendUpsellProductsObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddBundleCollectionItemsToEventCollection"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

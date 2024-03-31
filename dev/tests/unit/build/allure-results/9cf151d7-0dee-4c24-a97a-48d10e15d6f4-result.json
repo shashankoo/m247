@@ -1,0 +1,50 @@
+{
+    "uuid": "9cf151d7-0dee-4c24-a97a-48d10e15d6f4",
+    "name": "Magento\\Paypal\\Test\\Unit\\Controller\\Payflow\\ReturnUrlTest::testCheckXSSEscaped",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031866,
+    "stop": 1711693031867,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "eff857e9f200445eb269970534df0ea3",
+    "testCaseId": "0258f6459790e35016c4d2bd1d8217c9",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Controller\\Payflow\\ReturnUrlTest::testCheckXSSEscaped",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Controller\\Payflow\\ReturnUrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckXSSEscaped"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

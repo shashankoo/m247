@@ -1,0 +1,50 @@
+{
+    "uuid": "8dbc149a-c0ab-4849-9512-bdb03c6cc582",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\StructurePluginTest::testAroundGetElementByPathPartsNonPayment",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032002,
+    "stop": 1711693032002,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f53a557706a2dd1704cb68ac264e17bb",
+    "testCaseId": "42a0e634b999a917b42290d3b2f321a6",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\StructurePluginTest::testAroundGetElementByPathPartsNonPayment",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\StructurePluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundGetElementByPathPartsNonPayment"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

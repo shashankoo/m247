@@ -1,0 +1,50 @@
+{
+    "uuid": "6c72a79c-dd5d-4476-aeaf-66bdc8320cd8",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\SearchConfigTest::testSaveConfigurationValidationFail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055525,
+    "stop": 1711693055526,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "43249afbfedc6567a2d9bfc4bc27dcb7",
+    "testCaseId": "c3116fb1d9162cf7cf560875a8427c5a",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\SearchConfigTest::testSaveConfigurationValidationFail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\SearchConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveConfigurationValidationFail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

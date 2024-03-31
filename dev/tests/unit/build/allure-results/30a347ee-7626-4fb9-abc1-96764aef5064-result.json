@@ -1,0 +1,43 @@
+{
+    "uuid": "30a347ee-7626-4fb9-abc1-96764aef5064",
+    "name": "Magento\\VaultGraphQl\\Test\\Unit\\Model\\Resolver\\DeletePaymentTokenTest::testCustomerNotAuthorized",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053116,
+    "stop": 1711693053116,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "44c0b8263612ecd1f40ddcbee8b6a33c",
+    "testCaseId": "200d345f3bc7be66c9fa34da8c0dff53",
+    "rerunOf": null,
+    "fullName": "Magento\\VaultGraphQl\\Test\\Unit\\Model\\Resolver\\DeletePaymentTokenTest::testCustomerNotAuthorized",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\VaultGraphQl\\Test\\Unit\\Model\\Resolver\\DeletePaymentTokenTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCustomerNotAuthorized"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

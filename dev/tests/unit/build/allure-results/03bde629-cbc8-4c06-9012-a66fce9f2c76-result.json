@@ -1,0 +1,50 @@
+{
+    "uuid": "03bde629-cbc8-4c06-9012-a66fce9f2c76",
+    "name": "Magento\\Bundle\\Test\\Unit\\Model\\ProductOptionProcessorTest::testConvertToBuyRequest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010957,
+    "stop": 1711693010961,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "136f08063ba8d292652c76f39b265bd9",
+    "testCaseId": "4948dd86939d5a135de07b8d7330a9b6",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Model\\ProductOptionProcessorTest::testConvertToBuyRequest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Model\\ProductOptionProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvertToBuyRequest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

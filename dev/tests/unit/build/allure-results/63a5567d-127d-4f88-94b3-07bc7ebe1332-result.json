@@ -1,0 +1,43 @@
+{
+    "uuid": "63a5567d-127d-4f88-94b3-07bc7ebe1332",
+    "name": "Magento\\MediaGallery\\Test\\Unit\\Plugin\\Wysiwyg\\Images\\StorageTest::testAfterDeleteFileWhenRelativePathIsEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030408,
+    "stop": 1711693030408,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bb9e1822636120fdff4944631bc9cfc7",
+    "testCaseId": "6a0f57f7d6e232d53643a1c514432bdd",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaGallery\\Test\\Unit\\Plugin\\Wysiwyg\\Images\\StorageTest::testAfterDeleteFileWhenRelativePathIsEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaGallery\\Test\\Unit\\Plugin\\Wysiwyg\\Images\\StorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterDeleteFileWhenRelativePathIsEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

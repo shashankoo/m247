@@ -1,0 +1,50 @@
+{
+    "uuid": "d4f051d0-ed55-4606-956d-1efa51da5400",
+    "name": "Magento\\Bundle\\Test\\Unit\\Block\\Sales\\Order\\Items\\RendererTest::testIsChildCalculatedWithItem",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010616,
+    "stop": 1711693010617,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ce5a6af77523e87eb4822ed505718c74",
+    "testCaseId": "c2b5e11b995b0db0dabf8e79fb0c134d",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Block\\Sales\\Order\\Items\\RendererTest::testIsChildCalculatedWithItem",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Block\\Sales\\Order\\Items\\RendererTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsChildCalculatedWithItem"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

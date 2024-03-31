@@ -1,0 +1,50 @@
+{
+    "uuid": "6ebd2718-0d90-4269-b053-9078ce357219",
+    "name": "Magento\\Checkout\\Test\\Unit\\Block\\Cart\\ShippingTest::testGetSerializedCheckoutConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016660,
+    "stop": 1711693016660,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "23468212f4f8fe1ebbf952a5d90acf79",
+    "testCaseId": "253e0d3e6d3b6aacb1be5dd2981e786d",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Block\\Cart\\ShippingTest::testGetSerializedCheckoutConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Block\\Cart\\ShippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSerializedCheckoutConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

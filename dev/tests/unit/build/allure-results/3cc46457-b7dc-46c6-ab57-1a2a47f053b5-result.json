@@ -1,0 +1,50 @@
+{
+    "uuid": "3cc46457-b7dc-46c6-ab57-1a2a47f053b5",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Dictionary\\PhraseTest::testAccessorMethods",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055920,
+    "stop": 1711693055920,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6e30238ec3f8435f315314abe5b34644",
+    "testCaseId": "dbead99cf20b92deb834bbdc0377c84f",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Dictionary\\PhraseTest::testAccessorMethods",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Dictionary\\PhraseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAccessorMethods"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

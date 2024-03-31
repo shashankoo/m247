@@ -1,0 +1,50 @@
+{
+    "uuid": "c5a3cfbb-a7b7-4461-ba44-698d9dfb4fe8",
+    "name": "Magento\\Weee\\Test\\Unit\\Block\\Item\\Price\\RendererTest::testGetFianlRowDisplayPriceExclTax",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053717,
+    "stop": 1711693053717,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"weee_disabled_true\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6cde1bee9ae97c76e90d2639e7d01d35",
+    "testCaseId": "567cb3772ef0d0df59ff55398e61252d",
+    "rerunOf": null,
+    "fullName": "Magento\\Weee\\Test\\Unit\\Block\\Item\\Price\\RendererTest::testGetFianlRowDisplayPriceExclTax",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Weee\\Test\\Unit\\Block\\Item\\Price\\RendererTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFianlRowDisplayPriceExclTax"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

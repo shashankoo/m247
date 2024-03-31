@@ -1,0 +1,43 @@
+{
+    "uuid": "6890c988-7407-49b0-8dcb-2488553db26f",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\PhpCookieManagerTest::testSetSensitiveCookieWithPathAndDomain",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076663,
+    "stop": 1711693076663,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1ac904b965f9631d75aba6586eeba115",
+    "testCaseId": "c0d8873a60d053d36c4845841abad6f8",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\PhpCookieManagerTest::testSetSensitiveCookieWithPathAndDomain",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\PhpCookieManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetSensitiveCookieWithPathAndDomain"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

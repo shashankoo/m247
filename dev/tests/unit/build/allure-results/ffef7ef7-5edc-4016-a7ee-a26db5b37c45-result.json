@@ -1,0 +1,50 @@
+{
+    "uuid": "ffef7ef7-5edc-4016-a7ee-a26db5b37c45",
+    "name": "Magento\\Contact\\Test\\Unit\\Plugin\\UserDataProvider\\ViewModelTest::testBeforeToHtml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018814,
+    "stop": 1711693018814,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"view model was not preset before\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "333db6400297b3ff25a6420d7c08bc57",
+    "testCaseId": "729e4f9d8b83101cd32cebe8c1a8ad3b",
+    "rerunOf": null,
+    "fullName": "Magento\\Contact\\Test\\Unit\\Plugin\\UserDataProvider\\ViewModelTest::testBeforeToHtml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Contact\\Test\\Unit\\Plugin\\UserDataProvider\\ViewModelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeToHtml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

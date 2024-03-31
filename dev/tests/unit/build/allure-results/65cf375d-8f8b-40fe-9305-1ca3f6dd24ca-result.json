@@ -1,0 +1,50 @@
+{
+    "uuid": "65cf375d-8f8b-40fe-9305-1ca3f6dd24ca",
+    "name": "Magento\\Catalog\\Test\\Unit\\Helper\\ImageTest::testGetResizedImageInfo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014049,
+    "stop": 1711693014050,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "22949c34855f8634b2824276d6946a4c",
+    "testCaseId": "c519b354262cea0fa391f66375f672e6",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Helper\\ImageTest::testGetResizedImageInfo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Helper\\ImageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetResizedImageInfo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

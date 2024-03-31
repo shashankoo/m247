@@ -1,0 +1,50 @@
+{
+    "uuid": "cd1c5742-7523-47d8-b9d2-203ebb91faf7",
+    "name": "Magento\\Review\\Test\\Unit\\Model\\ResourceModel\\Review\\Product\\CollectionTest::testAddAttributeToFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693035401,
+    "stop": 1711693035401,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "MAGETWO-59234: Code under the test depends on a virtual type which cannot be mocked.",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c90f02102b8a4d6dcc35a109c90cd278",
+    "testCaseId": "68173750cbbc4e3594611b41ebe18378",
+    "rerunOf": null,
+    "fullName": "Magento\\Review\\Test\\Unit\\Model\\ResourceModel\\Review\\Product\\CollectionTest::testAddAttributeToFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Review\\Test\\Unit\\Model\\ResourceModel\\Review\\Product\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddAttributeToFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

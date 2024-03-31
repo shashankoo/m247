@@ -1,0 +1,50 @@
+{
+    "uuid": "48c2774c-31e9-4c3f-8a61-44e4f3490b02",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Parser\\Adapter\\Php\\Tokenizer\\TokenTest::testIsNew",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056014,
+    "stop": 1711693056014,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"identifier\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "62c11daaaf4c73b60302a453c2e0c35a",
+    "testCaseId": "118947785c339e2aedb517f608dc4430",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Parser\\Adapter\\Php\\Tokenizer\\TokenTest::testIsNew",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Parser\\Adapter\\Php\\Tokenizer\\TokenTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsNew"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

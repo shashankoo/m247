@@ -1,0 +1,43 @@
+{
+    "uuid": "b3bfccb7-aab0-447a-ab54-5aca7b56a010",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\ValidatorTest::testProcessShippingAmountNoRules",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036237,
+    "stop": 1711693036238,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getShippingAssignments\" with addMethods(), but it exists in class \"Magento\\Quote\\Api\\Data\\CartExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "714c01c39e83ee9648152ad4d64b7948",
+    "testCaseId": "e222d6be7c47fc265ad8a184cd83079b",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\ValidatorTest::testProcessShippingAmountNoRules",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\ValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessShippingAmountNoRules"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

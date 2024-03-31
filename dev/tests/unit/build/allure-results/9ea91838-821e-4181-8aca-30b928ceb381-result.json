@@ -1,0 +1,50 @@
+{
+    "uuid": "9ea91838-821e-4181-8aca-30b928ceb381",
+    "name": "Magento\\Framework\\Math\\Test\\Unit\\RandomTest::testGetRandomString",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074129,
+    "stop": 1711693074129,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cc7b2837ad60979d80b0549649beba47",
+    "testCaseId": "cf757eb3c264bfc8db150e4d27871d43",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Math\\Test\\Unit\\RandomTest::testGetRandomString",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Math\\Test\\Unit\\RandomTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRandomString"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

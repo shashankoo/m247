@@ -1,0 +1,43 @@
+{
+    "uuid": "5cf64965-ff29-4c85-9d81-ee367d6f036b",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\PhpReadinessCheckTest::testCheckPhpExtensionsNoRequired",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055518,
+    "stop": 1711693055518,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "22a8d900377e30b6c931d0f4e4fe12db",
+    "testCaseId": "7d81fdd0feef1eedc9109c713bd0b113",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\PhpReadinessCheckTest::testCheckPhpExtensionsNoRequired",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\PhpReadinessCheckTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckPhpExtensionsNoRequired"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

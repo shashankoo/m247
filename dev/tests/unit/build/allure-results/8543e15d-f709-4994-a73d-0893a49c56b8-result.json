@@ -1,0 +1,50 @@
+{
+    "uuid": "8543e15d-f709-4994-a73d-0893a49c56b8",
+    "name": "Magento\\Analytics\\Test\\Unit\\Model\\ReportWriterTest::testWrite",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009150,
+    "stop": 1711693009154,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0d3b69f23c64df8c70c99d75fd041497",
+    "testCaseId": "b26828ba667c5f410e8acc259b9240c3",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Model\\ReportWriterTest::testWrite",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Model\\ReportWriterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWrite"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

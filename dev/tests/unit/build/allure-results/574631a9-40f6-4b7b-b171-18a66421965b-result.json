@@ -1,0 +1,43 @@
+{
+    "uuid": "574631a9-40f6-4b7b-b171-18a66421965b",
+    "name": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\Redis\\ConfigTest::testGetSentinelVerifyMaster",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076080,
+    "stop": 1711693076080,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "19a73c78c10d27c967a931db619fcd35",
+    "testCaseId": "7112b1ed7f8ac57bdbb9347afe39fd17",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\Redis\\ConfigTest::testGetSentinelVerifyMaster",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Session\\Test\\Unit\\SaveHandler\\Redis\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSentinelVerifyMaster"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

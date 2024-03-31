@@ -1,0 +1,43 @@
+{
+    "uuid": "55ab0a95-8a38-492a-8b2f-dda4988a3571",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testResetPassword",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019964,
+    "stop": 1711693019966,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "655bc20009ef0a7d8c7b19d966cca0ad",
+    "testCaseId": "0268f3db0ba2f50ef21e964871950cc8",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testResetPassword",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testResetPassword"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

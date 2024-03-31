@@ -1,0 +1,50 @@
+{
+    "uuid": "cdd328fa-7591-4275-8116-fa86ddf1496f",
+    "name": "Magento\\Cms\\Test\\Unit\\Controller\\Adminhtml\\Page\\EditTest::testEditAction",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017137,
+    "stop": 1711693017139,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "11914a7c347ad36c13cbc2a9b042b823",
+    "testCaseId": "0d8a3d69e52d88d0d7018c56be570ae5",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Controller\\Adminhtml\\Page\\EditTest::testEditAction",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Controller\\Adminhtml\\Page\\EditTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEditAction"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "a7ee5b85-251c-450c-a5f1-4bf482ecde49",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\RemoteSynchronizedCacheTest::testSaveWithEqualRemoteData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059256,
+    "stop": 1711693059256,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "41bcc4b1c109c8a4f0ceaf99e973fc6c",
+    "testCaseId": "da745489aeb30f238c53b2094038b356",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\RemoteSynchronizedCacheTest::testSaveWithEqualRemoteData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\RemoteSynchronizedCacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveWithEqualRemoteData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

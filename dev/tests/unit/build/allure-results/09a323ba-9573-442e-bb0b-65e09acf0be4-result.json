@@ -1,0 +1,43 @@
+{
+    "uuid": "09a323ba-9573-442e-bb0b-65e09acf0be4",
+    "name": "Magento\\Deploy\\Test\\Unit\\Collector\\CollectorTest::testCollect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021194,
+    "stop": 1711693021199,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "660f80a7c8c173547bdbb37c3ce7cca0",
+    "testCaseId": "c72092e21d5adb8c34a5dc1cb4bee75e",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Collector\\CollectorTest::testCollect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Collector\\CollectorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

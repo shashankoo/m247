@@ -1,0 +1,50 @@
+{
+    "uuid": "b94b4d30-8917-43e1-b3af-1998abfc4cae",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\TemporaryTableServiceTest::testCreateFromSelect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070836,
+    "stop": 1711693070836,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8663e2b679efdffd11ee86233cc775f8",
+    "testCaseId": "115ce5bddcac42e85a9b03ca5ea05abc",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\TemporaryTableServiceTest::testCreateFromSelect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\TemporaryTableServiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateFromSelect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

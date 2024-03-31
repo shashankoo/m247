@@ -1,0 +1,50 @@
+{
+    "uuid": "3228e01b-e2aa-4d84-8c41-af6b11a0dd5f",
+    "name": "Magento\\ProductAlert\\Test\\Unit\\Block\\Product\\View\\PriceTest::testSetTemplatePriceAlertNotAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032614,
+    "stop": 1711693032615,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"price alert is not allowed\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5e406d069ecf347fec0b4c5b64b6ccce",
+    "testCaseId": "9c8d9a81b52e677a0908511c634a8013",
+    "rerunOf": null,
+    "fullName": "Magento\\ProductAlert\\Test\\Unit\\Block\\Product\\View\\PriceTest::testSetTemplatePriceAlertNotAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ProductAlert\\Test\\Unit\\Block\\Product\\View\\PriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetTemplatePriceAlertNotAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

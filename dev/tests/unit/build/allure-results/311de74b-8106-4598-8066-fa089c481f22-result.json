@@ -1,0 +1,50 @@
+{
+    "uuid": "311de74b-8106-4598-8066-fa089c481f22",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\Description\\Mixin\\HeaderMixinTest::testApply",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055160,
+    "stop": 1711693055161,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "efec247e3e2e31f85c9fd397f0b9f156",
+    "testCaseId": "4198175deda831c2200692a4ff34834e",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\Description\\Mixin\\HeaderMixinTest::testApply",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\Description\\Mixin\\HeaderMixinTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testApply"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "f30b3694-436c-4bd8-8dc3-02ef5b1becde",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\ImageTest::testGetResizedImageInfoEmptyCache",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015099,
+    "stop": 1711693015100,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6ffc52723123a91e438e40f5173a2cb5",
+    "testCaseId": "235703d0218e4be73515f01528d1da60",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\ImageTest::testGetResizedImageInfoEmptyCache",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\ImageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetResizedImageInfoEmptyCache"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

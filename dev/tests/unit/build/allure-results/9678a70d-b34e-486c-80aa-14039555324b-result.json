@@ -1,0 +1,50 @@
+{
+    "uuid": "9678a70d-b34e-486c-80aa-14039555324b",
+    "name": "Magento\\Swatches\\Test\\Unit\\Model\\Plugin\\ProductTest::testAfterGetMediaAttributes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042285,
+    "stop": 1711693042285,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#6",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "18e6065cc6076e23cc26431ecd7b99bf",
+    "testCaseId": "55b730d143ac5b06b287f30553b3cec5",
+    "rerunOf": null,
+    "fullName": "Magento\\Swatches\\Test\\Unit\\Model\\Plugin\\ProductTest::testAfterGetMediaAttributes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Swatches\\Test\\Unit\\Model\\Plugin\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetMediaAttributes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

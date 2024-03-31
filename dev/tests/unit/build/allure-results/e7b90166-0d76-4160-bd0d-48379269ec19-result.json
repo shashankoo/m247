@@ -1,0 +1,50 @@
+{
+    "uuid": "e7b90166-0d76-4160-bd0d-48379269ec19",
+    "name": "Magento\\Framework\\Code\\Test\\Unit\\GeneratorTest::testGenerateClassWithExistName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069412,
+    "stop": 1711693069413,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cdfc9a02e747201f3d85bc07dbc4bcdf",
+    "testCaseId": "2f6e3f564ddde431f0e794799fa2a9e9",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Code\\Test\\Unit\\GeneratorTest::testGenerateClassWithExistName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Code\\Test\\Unit\\GeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerateClassWithExistName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "031c3ef7-590c-49f8-b312-0983558244e6",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Observer\\IsAllowedGuestCheckoutObserverTest::testIsAllowedGuestCheckoutConfigSetToTrue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022130,
+    "stop": 1711693022130,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8bc00dcdba5f8533ca88cc193cfa0c0d",
+    "testCaseId": "96c243c6d4f408cb3ee26a7ebb1367b6",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Observer\\IsAllowedGuestCheckoutObserverTest::testIsAllowedGuestCheckoutConfigSetToTrue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Observer\\IsAllowedGuestCheckoutObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAllowedGuestCheckoutConfigSetToTrue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

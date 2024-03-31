@@ -1,0 +1,50 @@
+{
+    "uuid": "d981c679-26a8-4bb9-a608-7f6452a5884c",
+    "name": "Magento\\Weee\\Test\\Unit\\Pricing\\Render\\AdjustmentTest::testRenderWeeeTaxAttributeName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054145,
+    "stop": 1711693054145,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9785233fdca167bb899a595daa103e5b",
+    "testCaseId": "1f3393c994444e130426842512ec4ef9",
+    "rerunOf": null,
+    "fullName": "Magento\\Weee\\Test\\Unit\\Pricing\\Render\\AdjustmentTest::testRenderWeeeTaxAttributeName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Weee\\Test\\Unit\\Pricing\\Render\\AdjustmentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRenderWeeeTaxAttributeName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

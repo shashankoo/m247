@@ -1,0 +1,43 @@
+{
+    "uuid": "0d363419-564a-4f70-94b0-8e65b59bda8c",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testIndexerAfterDeleteCommitProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015648,
+    "stop": 1711693015649,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getStockItem\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a28707111bcec3c2ba11adbaf9421f80",
+    "testCaseId": "ef5bdaa387828eb93e7abe569fd800a6",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testIndexerAfterDeleteCommitProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIndexerAfterDeleteCommitProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

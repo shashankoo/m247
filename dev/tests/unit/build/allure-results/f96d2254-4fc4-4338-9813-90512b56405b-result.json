@@ -1,0 +1,50 @@
+{
+    "uuid": "f96d2254-4fc4-4338-9813-90512b56405b",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\PricePersistenceTest::testRetrieveSkuById",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015247,
+    "stop": 1711693015247,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "acf80c4c90d3cf309931e77bf40a8684",
+    "testCaseId": "9df1e19cd421be66e734e2b6faa629f2",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\PricePersistenceTest::testRetrieveSkuById",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\PricePersistenceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRetrieveSkuById"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "89e05dd1-2d5a-492f-a20b-b908d990f47b",
+    "name": "Magento\\Directory\\Test\\Unit\\Block\\DataTest::testGetCountryHtmlSelect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021650,
+    "stop": 1711693021652,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "88807d77faf6d9d529ac1297885d9d02",
+    "testCaseId": "8a33571f24f6da13002ad5ffd9f4c7e4",
+    "rerunOf": null,
+    "fullName": "Magento\\Directory\\Test\\Unit\\Block\\DataTest::testGetCountryHtmlSelect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Directory\\Test\\Unit\\Block\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCountryHtmlSelect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

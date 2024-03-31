@@ -1,0 +1,50 @@
+{
+    "uuid": "2c70dabf-dcec-4327-a385-b0bf83437c38",
+    "name": "Magento\\PageCache\\Test\\Unit\\Observer\\ProcessLayoutRenderElementTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031304,
+    "stop": 1711693031306,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"full_page type and Varnish enabled, public scope, ttl is set\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d01e4d9cafe1481c64ed753699922f95",
+    "testCaseId": "87f3cb5f7fcb708952ac00f725f458ee",
+    "rerunOf": null,
+    "fullName": "Magento\\PageCache\\Test\\Unit\\Observer\\ProcessLayoutRenderElementTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\PageCache\\Test\\Unit\\Observer\\ProcessLayoutRenderElementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

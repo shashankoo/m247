@@ -1,0 +1,43 @@
+{
+    "uuid": "b74083c2-8af5-4ee4-9f91-8b6c8141ba04",
+    "name": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\HttpTest::testFilePutContentsFail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073262,
+    "stop": 1711693073262,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "12864b06c81a86b48e45ea5cd4e02a33",
+    "testCaseId": "d0b84ed6a90eac93cb02d0f23f87ff74",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\HttpTest::testFilePutContentsFail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFilePutContentsFail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "bb5ef5ca-bf44-46dc-a35f-b0b07ff015b3",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\ConfigTest::testGetValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057855,
+    "stop": 1711693057856,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c801a10988e0fdfb8882d6231c035011",
+    "testCaseId": "c4c7c6a3206e55d6b7931e96fa424fb9",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\ConfigTest::testGetValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "b896e63d-f579-4101-9684-e216673bd713",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\QuoteRepository\\Plugin\\AccessChangeQuoteControlTest::testBeforeSaveForGuestIsAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033095,
+    "stop": 1711693033095,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2f804d0a857f7830322e62a0c9de2c12",
+    "testCaseId": "d63b212ac03a50b75da14ffc76da89d6",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\QuoteRepository\\Plugin\\AccessChangeQuoteControlTest::testBeforeSaveForGuestIsAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\QuoteRepository\\Plugin\\AccessChangeQuoteControlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSaveForGuestIsAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

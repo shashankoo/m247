@@ -1,0 +1,50 @@
+{
+    "uuid": "d4e2a252-475c-4a8c-b9d8-33a9da15f151",
+    "name": "Magento\\ReCaptchaWebapiGraphQl\\Test\\Unit\\Plugin\\GraphQlValidatorTest::testPlugin",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033317,
+    "stop": 1711693033317,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"not-protected\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0bb085b66986cb399ae712dec3a44a98",
+    "testCaseId": "31ab66a18b94f110670cd3c88d700bcf",
+    "rerunOf": null,
+    "fullName": "Magento\\ReCaptchaWebapiGraphQl\\Test\\Unit\\Plugin\\GraphQlValidatorTest::testPlugin",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ReCaptchaWebapiGraphQl\\Test\\Unit\\Plugin\\GraphQlValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPlugin"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "c03ccd50-0139-4ad8-a01b-d3299968d7cc",
+    "name": "Magento\\Shipping\\Test\\Unit\\Model\\Shipping\\LabelGeneratorTest::testAddTrackingNumbersToShipment",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041625,
+    "stop": 1711693041625,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3d0cbe490c93f1ca43b1d06a24fd6370",
+    "testCaseId": "8d8279256e8c337fa05347d15c1c218d",
+    "rerunOf": null,
+    "fullName": "Magento\\Shipping\\Test\\Unit\\Model\\Shipping\\LabelGeneratorTest::testAddTrackingNumbersToShipment",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Shipping\\Test\\Unit\\Model\\Shipping\\LabelGeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddTrackingNumbersToShipment"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

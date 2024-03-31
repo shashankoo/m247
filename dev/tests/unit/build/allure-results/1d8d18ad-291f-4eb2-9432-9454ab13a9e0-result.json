@@ -1,0 +1,43 @@
+{
+    "uuid": "1d8d18ad-291f-4eb2-9432-9454ab13a9e0",
+    "name": "Magento\\GoogleOptimizer\\Test\\Unit\\Observer\\Product\\DeleteProductGoogleExperimentScriptObserverTest::testDeleteFromProductGoogleExperimentScriptFail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024198,
+    "stop": 1711693024199,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5de0afc0b1bdf693fb5c70d6fe17abf2",
+    "testCaseId": "73a65ec7a8a390a67d26853a2148047d",
+    "rerunOf": null,
+    "fullName": "Magento\\GoogleOptimizer\\Test\\Unit\\Observer\\Product\\DeleteProductGoogleExperimentScriptObserverTest::testDeleteFromProductGoogleExperimentScriptFail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GoogleOptimizer\\Test\\Unit\\Observer\\Product\\DeleteProductGoogleExperimentScriptObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteFromProductGoogleExperimentScriptFail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

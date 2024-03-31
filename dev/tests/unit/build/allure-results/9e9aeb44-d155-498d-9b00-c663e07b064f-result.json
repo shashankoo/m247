@@ -1,0 +1,43 @@
+{
+    "uuid": "9e9aeb44-d155-498d-9b00-c663e07b064f",
+    "name": "Magento\\WeeeGraphQl\\Test\\Unit\\Model\\Resolver\\FixedProductTaxResolverTest::testShouldThrowException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053665,
+    "stop": 1711693053666,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getStore\" with addMethods(), but it exists in class \"Magento\\GraphQl\\Model\\Query\\ContextExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f9b7cceac9d3111a690c30d0674cb332",
+    "testCaseId": "a03f1ad804dadc8e96b195bcafa86139",
+    "rerunOf": null,
+    "fullName": "Magento\\WeeeGraphQl\\Test\\Unit\\Model\\Resolver\\FixedProductTaxResolverTest::testShouldThrowException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\WeeeGraphQl\\Test\\Unit\\Model\\Resolver\\FixedProductTaxResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testShouldThrowException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "ed5a5c38-8707-44fb-aee2-d38878b687a0",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\RepositoryTest::testSaveDoesNotSaveAttributeOptionsIfOptionsAreAbsentInPayload",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014964,
+    "stop": 1711693014964,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "21713b194143c768bbcfd692b76408cd",
+    "testCaseId": "1917e8ad52fb1b7b25d631a86b9323fb",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\RepositoryTest::testSaveDoesNotSaveAttributeOptionsIfOptionsAreAbsentInPayload",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\RepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveDoesNotSaveAttributeOptionsIfOptionsAreAbsentInPayload"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

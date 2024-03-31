@@ -1,0 +1,43 @@
+{
+    "uuid": "22d0563f-2cf4-47c4-833f-df7d83d3e440",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Cache\\RuntimeStaleCacheStateModifierTest::doesNotPersistModifiedCacheTypes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057725,
+    "stop": 1711693057725,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0aea1e84f30faaf488dc75c091b0d09c",
+    "testCaseId": "21302e0e97e373b4f43722ec80bf0301",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Cache\\RuntimeStaleCacheStateModifierTest::doesNotPersistModifiedCacheTypes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Cache\\RuntimeStaleCacheStateModifierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "doesNotPersistModifiedCacheTypes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

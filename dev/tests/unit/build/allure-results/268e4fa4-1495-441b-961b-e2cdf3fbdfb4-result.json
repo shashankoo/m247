@@ -1,0 +1,43 @@
+{
+    "uuid": "268e4fa4-1495-441b-961b-e2cdf3fbdfb4",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Model\\SampleRepositoryTest::testCreateThrowsExceptionIfTitleIsEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022112,
+    "stop": 1711693022112,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0b54d9e01132ca431ac572cea01f3847",
+    "testCaseId": "3b7b1d5e1d167a310595afe5873a2d32",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Model\\SampleRepositoryTest::testCreateThrowsExceptionIfTitleIsEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Model\\SampleRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateThrowsExceptionIfTitleIsEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

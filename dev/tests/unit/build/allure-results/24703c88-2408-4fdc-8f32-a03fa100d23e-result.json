@@ -1,0 +1,43 @@
+{
+    "uuid": "24703c88-2408-4fdc-8f32-a03fa100d23e",
+    "name": "Magento\\Setup\\Test\\Unit\\Console\\Command\\BackupCommandTest::testExecuteCodeBackup",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054735,
+    "stop": 1711693054736,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7275dfd2bde2865061fc871cc8d66de9",
+    "testCaseId": "01c76669d66925595703ea0e4789a8aa",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Console\\Command\\BackupCommandTest::testExecuteCodeBackup",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Console\\Command\\BackupCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteCodeBackup"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

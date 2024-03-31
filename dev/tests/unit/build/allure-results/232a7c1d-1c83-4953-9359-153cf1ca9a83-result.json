@@ -1,0 +1,50 @@
+{
+    "uuid": "232a7c1d-1c83-4953-9359-153cf1ca9a83",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\OptionTest::testValidateAmbiguousData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011542,
+    "stop": 1711693011547,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"ambiguity_several_db_rows\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7b5cfffe8abf1111c9101f29103a5201",
+    "testCaseId": "e7cdb23b965c7874e24020c3754f5c01",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\OptionTest::testValidateAmbiguousData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\OptionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateAmbiguousData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

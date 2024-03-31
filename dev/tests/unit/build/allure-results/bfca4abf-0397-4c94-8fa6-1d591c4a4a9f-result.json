@@ -1,0 +1,50 @@
+{
+    "uuid": "bfca4abf-0397-4c94-8fa6-1d591c4a4a9f",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\FieldProvider\\FieldType\\Resolver\\FloatTypeTest::testGetFieldType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023281,
+    "stop": 1711693023281,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "abfde0350ad0ab7930ed9e3bc43346b4",
+    "testCaseId": "f5030980c5637727944a751594b77b4c",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\FieldProvider\\FieldType\\Resolver\\FloatTypeTest::testGetFieldType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\FieldProvider\\FieldType\\Resolver\\FloatTypeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFieldType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

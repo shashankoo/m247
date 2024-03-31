@@ -1,0 +1,43 @@
+{
+    "uuid": "16f0bd7b-a392-47b7-bd93-13ac04d1286b",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Observer\\AddSalesRuleNameToOrderObserverTest::testAddSalesRuleNameToOrderWithoutCouponCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036249,
+    "stop": 1711693036251,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2fc8fe15c91e16d5681db5922a085fee",
+    "testCaseId": "2c347faeb00b2507f276bde207905763",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Observer\\AddSalesRuleNameToOrderObserverTest::testAddSalesRuleNameToOrderWithoutCouponCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Observer\\AddSalesRuleNameToOrderObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddSalesRuleNameToOrderWithoutCouponCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

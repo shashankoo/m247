@@ -1,0 +1,43 @@
+{
+    "uuid": "fa1953b8-2693-4268-9032-a0e15ab59abb",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Observer\\CouponCodeValidationTest::testReachingLimitForCouponCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036276,
+    "stop": 1711693036277,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d2070200c65cfbcbffab4cca9360b8c9",
+    "testCaseId": "6643df7c4aa348672462c9c0d7267dae",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Observer\\CouponCodeValidationTest::testReachingLimitForCouponCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Observer\\CouponCodeValidationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReachingLimitForCouponCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "935ba16e-3028-4a40-9f7f-b0575f89ddf5",
+    "name": "Magento\\Config\\Test\\Unit\\App\\Config\\Source\\DumpConfigSourceAggregatedTest::testGetWithExcludeDefault",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017570,
+    "stop": 1711693017571,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d9c6c23d363a8d8d51c8d3bc90907b68",
+    "testCaseId": "e84d0cfb50ab6cc5ad34e116fc62ec31",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\App\\Config\\Source\\DumpConfigSourceAggregatedTest::testGetWithExcludeDefault",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\App\\Config\\Source\\DumpConfigSourceAggregatedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetWithExcludeDefault"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

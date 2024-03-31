@@ -1,0 +1,50 @@
+{
+    "uuid": "aa9db93f-0620-4ae7-b04c-d6df1bc17f47",
+    "name": "Magento\\CatalogSearch\\Test\\Unit\\Model\\AdvancedTest::testAddFiltersVerifyAddConditionsToRegistry",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012646,
+    "stop": 1711693012647,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"price_with_currency\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3c0059a653e75b427d8ec5bb47df8fd9",
+    "testCaseId": "5cf01a2a35a36efdc6c10c7dccca06c4",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogSearch\\Test\\Unit\\Model\\AdvancedTest::testAddFiltersVerifyAddConditionsToRegistry",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogSearch\\Test\\Unit\\Model\\AdvancedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddFiltersVerifyAddConditionsToRegistry"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "10627c38-5905-4e4b-a82d-4255001fa6b9",
+    "name": "Magento\\Swagger\\Test\\Unit\\Controller\\Index\\IndexTest::testDispatchRejectsWhenDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042023,
+    "stop": 1711693042023,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2eb2237243bb9925a43039a5d4ac9106",
+    "testCaseId": "c8910deaf30a646deab15d4416ef0cb9",
+    "rerunOf": null,
+    "fullName": "Magento\\Swagger\\Test\\Unit\\Controller\\Index\\IndexTest::testDispatchRejectsWhenDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Swagger\\Test\\Unit\\Controller\\Index\\IndexTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDispatchRejectsWhenDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

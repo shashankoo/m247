@@ -1,0 +1,43 @@
+{
+    "uuid": "51c0c92f-d79c-4d7f-9b5a-3c2e843aa068",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Api\\StockStateTest::testCheckQuoteItemQty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011868,
+    "stop": 1711693011869,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f01d52ee64e56f2154a8435167998b01",
+    "testCaseId": "c7ecf76ad31b12d5ab08f8cf4459005d",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Api\\StockStateTest::testCheckQuoteItemQty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Api\\StockStateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckQuoteItemQty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "9c8613c7-2d12-4a6b-9a80-0a1cb538517f",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\StoreSwitcher\\RedirectDataValidatorTest::testValidation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041945,
+    "stop": 1711693041945,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cc837342dd7694c72d642e6a32a3f1ae",
+    "testCaseId": "b1adc08d1b82dfcdc1bce4b109d54986",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\StoreSwitcher\\RedirectDataValidatorTest::testValidation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\StoreSwitcher\\RedirectDataValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

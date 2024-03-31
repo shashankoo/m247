@@ -1,0 +1,50 @@
+{
+    "uuid": "c306298d-d1d4-4c77-97ca-0e613683c58f",
+    "name": "Magento\\Wishlist\\Test\\Unit\\ViewModel\\AllowedQuantityTest::testGettingMinMaxQty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054701,
+    "stop": 1711693054702,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d1c73cf7602880a20f3f75f4dc1c0a61",
+    "testCaseId": "9ead84fb9e9c061c9473f30ae9fa3ec3",
+    "rerunOf": null,
+    "fullName": "Magento\\Wishlist\\Test\\Unit\\ViewModel\\AllowedQuantityTest::testGettingMinMaxQty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Wishlist\\Test\\Unit\\ViewModel\\AllowedQuantityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGettingMinMaxQty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

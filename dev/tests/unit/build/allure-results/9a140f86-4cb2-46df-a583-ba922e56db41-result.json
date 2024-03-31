@@ -1,0 +1,50 @@
+{
+    "uuid": "9a140f86-4cb2-46df-a583-ba922e56db41",
+    "name": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Initialization\\Helper\\AttributeFilterTest::testPrepareProductAttributes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013869,
+    "stop": 1711693013869,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"update_product_without_use_defaults_2\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f4031bcebeaa23de0e0a53baf99d746d",
+    "testCaseId": "7de5423881a6f50ff5abb2f5748eae0d",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Initialization\\Helper\\AttributeFilterTest::testPrepareProductAttributes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Initialization\\Helper\\AttributeFilterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareProductAttributes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

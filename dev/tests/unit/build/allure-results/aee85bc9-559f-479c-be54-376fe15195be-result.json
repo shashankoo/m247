@@ -1,0 +1,50 @@
+{
+    "uuid": "aee85bc9-559f-479c-be54-376fe15195be",
+    "name": "Magento\\Cron\\Test\\Unit\\Model\\ScheduleTest::testGetNumeric",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019027,
+    "stop": 1711693019028,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#12",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "173986170f635d264d3b52b9da56bfb6",
+    "testCaseId": "298d12c7cbd34ef1e81cbe8505e2511d",
+    "rerunOf": null,
+    "fullName": "Magento\\Cron\\Test\\Unit\\Model\\ScheduleTest::testGetNumeric",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cron\\Test\\Unit\\Model\\ScheduleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetNumeric"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

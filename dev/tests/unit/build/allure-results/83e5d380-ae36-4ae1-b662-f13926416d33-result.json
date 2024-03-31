@@ -1,0 +1,43 @@
+{
+    "uuid": "83e5d380-ae36-4ae1-b662-f13926416d33",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Total\\ShippingTest::testCollectWithPreviousInvoice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038083,
+    "stop": 1711693038084,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "14c82a69874d0adedc69b3e2ff6f7fa3",
+    "testCaseId": "bc7e02ed93fa7025d2e8adc0af6517e3",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Total\\ShippingTest::testCollectWithPreviousInvoice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Total\\ShippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectWithPreviousInvoice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

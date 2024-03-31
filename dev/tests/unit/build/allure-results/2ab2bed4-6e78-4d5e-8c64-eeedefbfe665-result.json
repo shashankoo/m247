@@ -1,0 +1,43 @@
+{
+    "uuid": "2ab2bed4-6e78-4d5e-8c64-eeedefbfe665",
+    "name": "Magento\\Cookie\\Test\\Unit\\Block\\RequireCookieTest::testGetScriptOptionsWhenRedirectToCmsIsYes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018815,
+    "stop": 1711693018816,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "87b834101a6f291f5c01590075bde53c",
+    "testCaseId": "926c2e55ca829ae558292482a5c36e63",
+    "rerunOf": null,
+    "fullName": "Magento\\Cookie\\Test\\Unit\\Block\\RequireCookieTest::testGetScriptOptionsWhenRedirectToCmsIsYes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cookie\\Test\\Unit\\Block\\RequireCookieTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetScriptOptionsWhenRedirectToCmsIsYes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

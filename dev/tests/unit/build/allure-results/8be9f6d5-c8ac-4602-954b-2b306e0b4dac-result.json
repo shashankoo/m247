@@ -1,0 +1,50 @@
+{
+    "uuid": "8be9f6d5-c8ac-4602-954b-2b306e0b4dac",
+    "name": "Magento\\Framework\\Serialize\\Test\\Unit\\Serializer\\SerializeTest::testUnserialize",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075993,
+    "stop": 1711693075994,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#6",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "666a5544f0bd161e7a643ab90ad6876c",
+    "testCaseId": "3052cc4c6882ae09cec687c4cf732920",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Serialize\\Test\\Unit\\Serializer\\SerializeTest::testUnserialize",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Serialize\\Test\\Unit\\Serializer\\SerializeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUnserialize"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

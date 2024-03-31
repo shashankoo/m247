@@ -1,0 +1,43 @@
+{
+    "uuid": "3162cd3a-3fc2-4b6c-b0a3-b8eb511ba363",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\Action\\RowTest::testExecuteWithExistingFlatTablesCreatesTables",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014509,
+    "stop": 1711693014510,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f22be96138ca8cefb321a4181d549fc7",
+    "testCaseId": "d1f28ff7412558b57dfe2be67438ff5d",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\Action\\RowTest::testExecuteWithExistingFlatTablesCreatesTables",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\Action\\RowTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithExistingFlatTablesCreatesTables"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

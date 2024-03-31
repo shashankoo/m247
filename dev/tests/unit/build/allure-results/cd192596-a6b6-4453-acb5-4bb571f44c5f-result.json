@@ -1,0 +1,50 @@
+{
+    "uuid": "cd192596-a6b6-4453-acb5-4bb571f44c5f",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Spi\\StockStateProviderTest::testGetStockQty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012083,
+    "stop": 1711693012083,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "51a12dd70c12dc378af0309a52aa044c",
+    "testCaseId": "829483312ef39e2aa53fc0c110c02153",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Spi\\StockStateProviderTest::testGetStockQty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Spi\\StockStateProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStockQty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

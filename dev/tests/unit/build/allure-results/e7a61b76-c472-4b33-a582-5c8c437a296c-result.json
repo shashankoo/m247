@@ -1,0 +1,50 @@
+{
+    "uuid": "e7a61b76-c472-4b33-a582-5c8c437a296c",
+    "name": "Magento\\Framework\\HTTP\\Test\\Unit\\Adapter\\CurlTest::testRead",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073603,
+    "stop": 1711693073607,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8b99f881743e4f4fba6ce1382546aa58",
+    "testCaseId": "cff3be7db6bbdfb221f7ed8dfbbaf235",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\HTTP\\Test\\Unit\\Adapter\\CurlTest::testRead",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\HTTP\\Test\\Unit\\Adapter\\CurlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRead"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

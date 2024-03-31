@@ -1,0 +1,43 @@
+{
+    "uuid": "da3b2af1-8daa-41ae-b0e6-feeb721cac9c",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Controller\\Paypal\\ReviewTest::testExecuteExceptionPaymentWithoutNonce",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056132,
+    "stop": 1711693056132,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skip this test",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7e3198fa789b914acbb099d3536e2bf8",
+    "testCaseId": "9b3ff89ed3bc827f13e026b1a9f03086",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Controller\\Paypal\\ReviewTest::testExecuteExceptionPaymentWithoutNonce",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Controller\\Paypal\\ReviewTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteExceptionPaymentWithoutNonce"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

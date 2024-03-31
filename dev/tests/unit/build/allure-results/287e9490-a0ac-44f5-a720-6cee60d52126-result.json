@@ -1,0 +1,50 @@
+{
+    "uuid": "287e9490-a0ac-44f5-a720-6cee60d52126",
+    "name": "Magento\\AwsS3\\Test\\Unit\\Driver\\AwsS3Test::testIsFile",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009396,
+    "stop": 1711693009396,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d157da70bcc3e80a883cee5991c551ec",
+    "testCaseId": "82b2843fea6afd4c46077b3e47e8c4ba",
+    "rerunOf": null,
+    "fullName": "Magento\\AwsS3\\Test\\Unit\\Driver\\AwsS3Test::testIsFile",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AwsS3\\Test\\Unit\\Driver\\AwsS3Test"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsFile"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

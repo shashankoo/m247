@@ -1,0 +1,43 @@
+{
+    "uuid": "42a8c96b-0c7a-4bf2-851d-488e2dc51cca",
+    "name": "Magento\\Security\\Test\\Unit\\Model\\AdminSessionInfoTest::testGetFormattedIp",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041253,
+    "stop": 1711693041254,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bc1d024aa73905da4f8a1a092a36616f",
+    "testCaseId": "f7379cbe888639520be774136f2e8e4d",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Model\\AdminSessionInfoTest::testGetFormattedIp",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Model\\AdminSessionInfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFormattedIp"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

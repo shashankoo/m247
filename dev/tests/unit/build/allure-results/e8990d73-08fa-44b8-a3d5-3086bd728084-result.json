@@ -1,0 +1,43 @@
+{
+    "uuid": "e8990d73-08fa-44b8-a3d5-3086bd728084",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\CouponManagementTest::testDeleteWhenCouponIsNotEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032720,
+    "stop": 1711693032720,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "45850a9d452a129c5b755e98ad0433b3",
+    "testCaseId": "b6d81784bbfa1d46c3932ccd6b3c7ba4",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\CouponManagementTest::testDeleteWhenCouponIsNotEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\CouponManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteWhenCouponIsNotEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

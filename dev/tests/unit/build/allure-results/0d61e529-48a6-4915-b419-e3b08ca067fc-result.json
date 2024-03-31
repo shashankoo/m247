@@ -1,0 +1,43 @@
+{
+    "uuid": "0d61e529-48a6-4915-b419-e3b08ca067fc",
+    "name": "Magento\\GiftMessage\\Test\\Unit\\Model\\Plugin\\OrderGetTest::testGetAfterWhenMessagesAreNotSet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024028,
+    "stop": 1711693024028,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getGiftMessage\" with addMethods(), but it exists in class \"Magento\\Sales\\Api\\Data\\OrderExtension\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1c4b6082c0e1039a3db3e68bf4a1479b",
+    "testCaseId": "e47afc6c809fa455e4266ee65c5490e2",
+    "rerunOf": null,
+    "fullName": "Magento\\GiftMessage\\Test\\Unit\\Model\\Plugin\\OrderGetTest::testGetAfterWhenMessagesAreNotSet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GiftMessage\\Test\\Unit\\Model\\Plugin\\OrderGetTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAfterWhenMessagesAreNotSet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

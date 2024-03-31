@@ -1,0 +1,43 @@
+{
+    "uuid": "2f19a973-aed4-44b0-b881-fcf6ff60f8a9",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Eav\\Plugin\\AttributeSetTest::testBeforeSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014486,
+    "stop": 1711693014487,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f06e05eeca47645ff9827b73ab2f2701",
+    "testCaseId": "f37bdbaa972a8ef3b472b1b5b081cb0e",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Eav\\Plugin\\AttributeSetTest::testBeforeSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Eav\\Plugin\\AttributeSetTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "dd275c7b-430b-4b12-a87f-d03b5adecbe2",
+    "name": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\Fieldset\\GroupTest::testIsCollapseState",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031744,
+    "stop": 1711693031745,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a758f7660fb3a0a9da109aa6fb0fe1c8",
+    "testCaseId": "bfc91ce5ff70cbed6c66baafd03a110d",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\Fieldset\\GroupTest::testIsCollapseState",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\Fieldset\\GroupTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsCollapseState"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

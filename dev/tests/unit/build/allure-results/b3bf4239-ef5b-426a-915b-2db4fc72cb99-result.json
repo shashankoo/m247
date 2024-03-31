@@ -1,0 +1,43 @@
+{
+    "uuid": "b3bf4239-ef5b-426a-915b-2db4fc72cb99",
+    "name": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\OperationManagementTest::testChangeOperationStatus",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009286,
+    "stop": 1711693009288,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b0a42e85b1ddb2f5ecc7798a0408268c",
+    "testCaseId": "45acdbb7772b349cf7c01e9534969d1b",
+    "rerunOf": null,
+    "fullName": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\OperationManagementTest::testChangeOperationStatus",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AsynchronousOperations\\Test\\Unit\\Model\\OperationManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testChangeOperationStatus"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

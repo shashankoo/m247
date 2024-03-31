@@ -1,0 +1,50 @@
+{
+    "uuid": "4323f02f-cdf3-49dc-b25f-49bc3e9e8950",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\ResourceModel\\RuleTest::testGetProductAttributes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036089,
+    "stop": 1711693036090,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ca29c0263dbb95f92ad52a01a5aa24ad",
+    "testCaseId": "989ace1ebeee5a3304d85a0159777352",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\ResourceModel\\RuleTest::testGetProductAttributes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\ResourceModel\\RuleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetProductAttributes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

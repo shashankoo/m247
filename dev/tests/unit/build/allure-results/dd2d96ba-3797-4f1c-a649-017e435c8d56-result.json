@@ -1,0 +1,43 @@
+{
+    "uuid": "dd2d96ba-3797-4f1c-a649-017e435c8d56",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Http\\Client\\TransactionSubmitForSettlementTest::testPlaceRequest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056213,
+    "stop": 1711693056216,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "41eafed8f9605a74b95ca6ed60f9b90d",
+    "testCaseId": "5714d90a9339e80f5ff938a64d388e12",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Http\\Client\\TransactionSubmitForSettlementTest::testPlaceRequest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Http\\Client\\TransactionSubmitForSettlementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPlaceRequest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

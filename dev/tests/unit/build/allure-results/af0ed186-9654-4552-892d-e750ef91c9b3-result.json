@@ -1,0 +1,50 @@
+{
+    "uuid": "af0ed186-9654-4552-892d-e750ef91c9b3",
+    "name": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Initialization\\HelperTest::testMergeProductOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013916,
+    "stop": 1711693013917,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"key2 is replaced, key1 is not (checkbox is not checked)\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3fa01896d688ecb6785e509e84c4bfee",
+    "testCaseId": "7c9eec292e4b63c5ad4f786b39eb8700",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Initialization\\HelperTest::testMergeProductOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Initialization\\HelperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMergeProductOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "d78044e1-6c23-441f-8d71-40918effb182",
+    "name": "Magento\\CatalogGraphQl\\Test\\Unit\\Model\\Resolver\\Product\\Price\\DiscountTest::testGetPriceDiscount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011404,
+    "stop": 1711693011404,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#7",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "396278a1792e64eb083c29ac94043b9a",
+    "testCaseId": "fc378d3fdd9f6a17cb969bcea10cf08f",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogGraphQl\\Test\\Unit\\Model\\Resolver\\Product\\Price\\DiscountTest::testGetPriceDiscount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogGraphQl\\Test\\Unit\\Model\\Resolver\\Product\\Price\\DiscountTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPriceDiscount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

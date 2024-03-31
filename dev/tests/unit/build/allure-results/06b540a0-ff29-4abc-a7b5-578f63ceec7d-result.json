@@ -1,0 +1,50 @@
+{
+    "uuid": "06b540a0-ff29-4abc-a7b5-578f63ceec7d",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\DatabaseTest::testRemove",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059165,
+    "stop": 1711693059165,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"with_store_data\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6caf0725cd123a470de72eab5641a78f",
+    "testCaseId": "e0746fa8a4c4eed849a30d618a338c0d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\DatabaseTest::testRemove",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\DatabaseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRemove"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

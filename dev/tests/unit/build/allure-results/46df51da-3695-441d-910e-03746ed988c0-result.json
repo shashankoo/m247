@@ -1,0 +1,50 @@
+{
+    "uuid": "46df51da-3695-441d-910e-03746ed988c0",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Controller\\Adminhtml\\History\\DownloadTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024584,
+    "stop": 1711693024585,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Relative file name\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5038dc4e7a585a573cd8387904638376",
+    "testCaseId": "7535f2258012ef26a304e3f1fe21f358",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Controller\\Adminhtml\\History\\DownloadTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Controller\\Adminhtml\\History\\DownloadTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

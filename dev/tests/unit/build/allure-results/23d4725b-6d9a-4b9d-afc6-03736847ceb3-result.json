@@ -1,0 +1,50 @@
+{
+    "uuid": "23d4725b-6d9a-4b9d-afc6-03736847ceb3",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Validator\\Attribute\\DataTest::testIsValid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022935,
+    "stop": 1711693022936,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"is_invalid\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6f229583510794dce4cdf6e49b424403",
+    "testCaseId": "b76fda532d4f7fc740b623b962cb6b3a",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Validator\\Attribute\\DataTest::testIsValid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Validator\\Attribute\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

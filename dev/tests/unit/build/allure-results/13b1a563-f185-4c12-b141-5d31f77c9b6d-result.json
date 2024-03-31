@@ -1,0 +1,50 @@
+{
+    "uuid": "13b1a563-f185-4c12-b141-5d31f77c9b6d",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\FilePermissionsTest::testGetMissingWritableDirectoriesAndPathsForInstallation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076516,
+    "stop": 1711693076517,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d3c4a8b5bf5e11137006c9aeaabc7743",
+    "testCaseId": "895ec5f81d979f55b22cfe0b4c489b4c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\FilePermissionsTest::testGetMissingWritableDirectoriesAndPathsForInstallation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\FilePermissionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMissingWritableDirectoriesAndPathsForInstallation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

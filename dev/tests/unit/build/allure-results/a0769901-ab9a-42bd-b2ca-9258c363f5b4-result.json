@@ -1,0 +1,43 @@
+{
+    "uuid": "a0769901-ab9a-42bd-b2ca-9258c363f5b4",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Category\\Product\\RowSizeEstimatorTest::testEstimateRowSize",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014447,
+    "stop": 1711693014448,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7a2b33802e563183b437639e793a419d",
+    "testCaseId": "b7dbe5d05ce362e520b0f6c0661609a2",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Category\\Product\\RowSizeEstimatorTest::testEstimateRowSize",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Category\\Product\\RowSizeEstimatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEstimateRowSize"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

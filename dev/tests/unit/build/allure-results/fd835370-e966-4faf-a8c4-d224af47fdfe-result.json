@@ -1,0 +1,50 @@
+{
+    "uuid": "fd835370-e966-4faf-a8c4-d224af47fdfe",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Design\\Fallback\\Rule\\SimpleTest::testGetPatternDirs",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077258,
+    "stop": 1711693077258,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"no optional param passed\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "46747df7bc1994f052e702800b9e80e2",
+    "testCaseId": "10bca9ca751bac80f665c6bec5c1db90",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Design\\Fallback\\Rule\\SimpleTest::testGetPatternDirs",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Design\\Fallback\\Rule\\SimpleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPatternDirs"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

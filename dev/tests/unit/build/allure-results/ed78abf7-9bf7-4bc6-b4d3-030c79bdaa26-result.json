@@ -1,0 +1,43 @@
+{
+    "uuid": "ed78abf7-9bf7-4bc6-b4d3-030c79bdaa26",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Gallery\\GalleryManagementTest::testCreateWithCannotSaveException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015040,
+    "stop": 1711693015041,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ad48c6d87494cb82960064d745eced6c",
+    "testCaseId": "5d4615f71dde00423d632e253fa2f44c",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Gallery\\GalleryManagementTest::testCreateWithCannotSaveException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Gallery\\GalleryManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateWithCannotSaveException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

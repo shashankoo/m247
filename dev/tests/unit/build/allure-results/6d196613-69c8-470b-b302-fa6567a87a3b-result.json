@@ -1,0 +1,43 @@
+{
+    "uuid": "6d196613-69c8-470b-b302-fa6567a87a3b",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\OverviewTest::testGetShippingRateByCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030663,
+    "stop": 1711693030667,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "aba5bbc9cc33ece97c449d1e697c9482",
+    "testCaseId": "4f44e41951388feab605b58ec5681430",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\OverviewTest::testGetShippingRateByCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\OverviewTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetShippingRateByCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

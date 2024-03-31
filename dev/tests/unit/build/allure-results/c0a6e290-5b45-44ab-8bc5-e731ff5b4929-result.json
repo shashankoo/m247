@@ -1,0 +1,50 @@
+{
+    "uuid": "c0a6e290-5b45-44ab-8bc5-e731ff5b4929",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\StockManagementTest::testRegisterProductsSale",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012159,
+    "stop": 1711693012161,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ac42de0fe08539476b9491d20ef4656a",
+    "testCaseId": "d14bb2798098ab933709e103806b2baf",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\StockManagementTest::testRegisterProductsSale",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\StockManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRegisterProductsSale"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "469c9a06-7a7a-4645-80a5-b6bf6574f55d",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Parser\\Adapter\\Php\\Tokenizer\\PhraseCollectorTest::testParse",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055998,
+    "stop": 1711693056000,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"two phrases\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "23b103d6b148a21dfbe4c5ddc1c4fd3f",
+    "testCaseId": "35cb3a864ec3f6ebd480075abbdca7bb",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Parser\\Adapter\\Php\\Tokenizer\\PhraseCollectorTest::testParse",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Parser\\Adapter\\Php\\Tokenizer\\PhraseCollectorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testParse"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

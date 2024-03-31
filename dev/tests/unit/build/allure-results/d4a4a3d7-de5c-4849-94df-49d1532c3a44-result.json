@@ -1,0 +1,50 @@
+{
+    "uuid": "d4a4a3d7-de5c-4849-94df-49d1532c3a44",
+    "name": "Magento\\Directory\\Test\\Unit\\Model\\CurrencyConfigTest::testGetConfigCurrencies",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021720,
+    "stop": 1711693021722,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4c190842a3fd2552e58481edcc3a4d0c",
+    "testCaseId": "0c388bf4bdc32ff7485029fd4102f1a2",
+    "rerunOf": null,
+    "fullName": "Magento\\Directory\\Test\\Unit\\Model\\CurrencyConfigTest::testGetConfigCurrencies",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Directory\\Test\\Unit\\Model\\CurrencyConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfigCurrencies"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

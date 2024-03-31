@@ -1,0 +1,50 @@
+{
+    "uuid": "68f7004f-ce4a-44a6-9453-697e0bd3c5da",
+    "name": "Magento\\Framework\\Config\\Test\\Unit\\Converter\\DomTest::testConvert",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069902,
+    "stop": 1711693069903,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f9c89376d3cdc3ec8197b17458ed6a7d",
+    "testCaseId": "6b587bcccff6c815dc1ce18349615748",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Config\\Test\\Unit\\Converter\\DomTest::testConvert",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Config\\Test\\Unit\\Converter\\DomTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvert"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "80e2773a-b8cd-4c0e-838e-66bda7a281f3",
+    "name": "Magento\\PageCache\\Test\\Unit\\Model\\DepersonalizeCheckerTest::testCheckIfDepersonalize",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031266,
+    "stop": 1711693031267,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#6",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "069cf9d60d51435e9c0a26f8dd1041d6",
+    "testCaseId": "0dec53a49c863582388f4f4c6160d580",
+    "rerunOf": null,
+    "fullName": "Magento\\PageCache\\Test\\Unit\\Model\\DepersonalizeCheckerTest::testCheckIfDepersonalize",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\PageCache\\Test\\Unit\\Model\\DepersonalizeCheckerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckIfDepersonalize"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

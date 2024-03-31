@@ -1,0 +1,50 @@
+{
+    "uuid": "5a766077-be02-4c9e-9a18-a33a6c7dd510",
+    "name": "Magento\\Framework\\Css\\Test\\Unit\\PreProcessor\\File\\Collector\\AggregatedTest::testGetFiles",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070541,
+    "stop": 1711693070541,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"no library\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1016ba2dfc2432cdccd09d3e6fd48026",
+    "testCaseId": "3a21f5d6b80a352f7f38f9fec3059da2",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Css\\Test\\Unit\\PreProcessor\\File\\Collector\\AggregatedTest::testGetFiles",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Css\\Test\\Unit\\PreProcessor\\File\\Collector\\AggregatedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFiles"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "ebe64031-2cd1-4810-927d-1cc7c5818e65",
+    "name": "Magento\\Developer\\Test\\Unit\\Console\\Command\\ProfilerEnableCommandTest::testCommand",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021394,
+    "stop": 1711693021395,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7f5a7bd58c39e769a3e85d73562fe3d9",
+    "testCaseId": "284bcebb1d20f325a8ecc75d50d7f2e9",
+    "rerunOf": null,
+    "fullName": "Magento\\Developer\\Test\\Unit\\Console\\Command\\ProfilerEnableCommandTest::testCommand",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Developer\\Test\\Unit\\Console\\Command\\ProfilerEnableCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCommand"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

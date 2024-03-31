@@ -1,0 +1,50 @@
+{
+    "uuid": "07197795-81b2-4857-97b8-4a21547e1024",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\CvvEmsCodeMapperTest::testGetCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032254,
+    "stop": 1711693032254,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4b92056a98736d73f663412578e86537",
+    "testCaseId": "0dff624823e85bdebcf2400b639e61d0",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\CvvEmsCodeMapperTest::testGetCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\CvvEmsCodeMapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "63cf7930-79ad-4540-8dcb-fa18bf528709",
+    "name": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Observer\\ReportProductDeletedTest::testReportProductDeletedModuleDisabledFromConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030898,
+    "stop": 1711693030898,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "88191b599839e8737d6bea3e303e9953",
+    "testCaseId": "e590fe604811e4a4c4519947c67cb376",
+    "rerunOf": null,
+    "fullName": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Observer\\ReportProductDeletedTest::testReportProductDeletedModuleDisabledFromConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Observer\\ReportProductDeletedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReportProductDeletedModuleDisabledFromConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

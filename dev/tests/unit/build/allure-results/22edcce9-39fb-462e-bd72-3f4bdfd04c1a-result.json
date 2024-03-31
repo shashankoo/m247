@@ -1,0 +1,43 @@
+{
+    "uuid": "22edcce9-39fb-462e-bd72-3f4bdfd04c1a",
+    "name": "Magento\\Persistent\\Test\\Unit\\Model\\QuoteManagerTest::testSetGuest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032515,
+    "stop": 1711693032516,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"setShippingAssignments\" with addMethods(), but it exists in class \"Magento\\Quote\\Api\\Data\\CartExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "96ea6712b139d2b3de502b3497655b2b",
+    "testCaseId": "2aa8090306b7243a9f619ed1e6ae656e",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Model\\QuoteManagerTest::testSetGuest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Model\\QuoteManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetGuest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

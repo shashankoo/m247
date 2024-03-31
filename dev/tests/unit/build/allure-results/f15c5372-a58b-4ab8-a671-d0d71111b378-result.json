@@ -1,0 +1,50 @@
+{
+    "uuid": "f15c5372-a58b-4ab8-a671-d0d71111b378",
+    "name": "Magento\\CatalogSearch\\Test\\Unit\\Model\\Indexer\\Fulltext\\Plugin\\AttributeTest::testAfterSaveWithInvalidation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012672,
+    "stop": 1711693012672,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"save_new_without_invalidation\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a8c5484a08d36d59f8b08e01a2051e18",
+    "testCaseId": "def274df568c71aea8cdd9efdae7364f",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogSearch\\Test\\Unit\\Model\\Indexer\\Fulltext\\Plugin\\AttributeTest::testAfterSaveWithInvalidation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogSearch\\Test\\Unit\\Model\\Indexer\\Fulltext\\Plugin\\AttributeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSaveWithInvalidation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

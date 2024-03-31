@@ -1,0 +1,50 @@
+{
+    "uuid": "c52e34b3-6cc2-4df8-b1fb-9f76afbe1e32",
+    "name": "Magento\\SwaggerWebapi\\Test\\Unit\\Model\\SchemaType\\RestTest::testGetSchemaUrlPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042019,
+    "stop": 1711693042019,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dc1097991304e15fc75c5d6f7403244f",
+    "testCaseId": "13ee7d6c0466c8a2c3de06b2d2ca75f1",
+    "rerunOf": null,
+    "fullName": "Magento\\SwaggerWebapi\\Test\\Unit\\Model\\SchemaType\\RestTest::testGetSchemaUrlPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SwaggerWebapi\\Test\\Unit\\Model\\SchemaType\\RestTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSchemaUrlPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

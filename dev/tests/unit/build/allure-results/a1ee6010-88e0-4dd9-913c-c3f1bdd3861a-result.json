@@ -1,0 +1,43 @@
+{
+    "uuid": "a1ee6010-88e0-4dd9-913c-c3f1bdd3861a",
+    "name": "Magento\\Contact\\Test\\Unit\\Helper\\DataTest::testGetUserEmailNotLoggedIn",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018798,
+    "stop": 1711693018798,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "69ffd2fd34c1c69fea720351ac2cfaed",
+    "testCaseId": "78e367549cac9fd4a543291fc3b723b5",
+    "rerunOf": null,
+    "fullName": "Magento\\Contact\\Test\\Unit\\Helper\\DataTest::testGetUserEmailNotLoggedIn",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Contact\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUserEmailNotLoggedIn"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

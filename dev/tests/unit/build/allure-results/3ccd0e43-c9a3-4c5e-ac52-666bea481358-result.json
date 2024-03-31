@@ -1,0 +1,43 @@
+{
+    "uuid": "3ccd0e43-c9a3-4c5e-ac52-666bea481358",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\CategoryRepositoryTest::testGetWhenCategoryDoesNotExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014266,
+    "stop": 1711693014266,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "647402f9e792252217be6d81abda3f63",
+    "testCaseId": "cffe97ed5862aac5957185077af5f8e3",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\CategoryRepositoryTest::testGetWhenCategoryDoesNotExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\CategoryRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetWhenCategoryDoesNotExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

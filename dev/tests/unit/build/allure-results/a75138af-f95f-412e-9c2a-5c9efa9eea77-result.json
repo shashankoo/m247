@@ -1,0 +1,50 @@
+{
+    "uuid": "a75138af-f95f-412e-9c2a-5c9efa9eea77",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\Decorator\\DecoratorAbstractTest::testConstructorException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059200,
+    "stop": 1711693059200,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"empty\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1cfa667c580f8a85989df179d6be1009",
+    "testCaseId": "e63563757528479487ff91d261f76521",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\Decorator\\DecoratorAbstractTest::testConstructorException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\Decorator\\DecoratorAbstractTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructorException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

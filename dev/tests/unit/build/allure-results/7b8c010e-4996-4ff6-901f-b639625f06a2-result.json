@@ -1,0 +1,43 @@
+{
+    "uuid": "7b8c010e-4996-4ff6-901f-b639625f06a2",
+    "name": "Magento\\Bundle\\Test\\Unit\\Block\\Adminhtml\\Sales\\Order\\View\\Items\\RendererTest::testGetOrderOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010495,
+    "stop": 1711693010496,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c92e076eacc4e5ee0fd594f3cddd38fc",
+    "testCaseId": "63e686977f68c9c9f7cee5e6da91bd83",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Block\\Adminhtml\\Sales\\Order\\View\\Items\\RendererTest::testGetOrderOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Block\\Adminhtml\\Sales\\Order\\View\\Items\\RendererTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOrderOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "f84904ff-3c5b-44e8-9a54-a15472c2e08a",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Increment\\NumericTest::testGetNextId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022813,
+    "stop": 1711693022814,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8a0662ec668035b7565a9552e57475bf",
+    "testCaseId": "bb5630b61b3ee9b5e9fb1e6e10cd963c",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Increment\\NumericTest::testGetNextId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Increment\\NumericTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetNextId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

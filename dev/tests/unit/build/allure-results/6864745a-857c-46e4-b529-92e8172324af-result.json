@@ -1,0 +1,50 @@
+{
+    "uuid": "6864745a-857c-46e4-b529-92e8172324af",
+    "name": "Magento\\CatalogRule\\Test\\Unit\\Model\\RuleTest::testValidateData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012394,
+    "stop": 1711693012395,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "12163f5a0372e8f2d6ea3f20f6bd9602",
+    "testCaseId": "d680e020e747a0c7ecc474fa73fd9e1a",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogRule\\Test\\Unit\\Model\\RuleTest::testValidateData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogRule\\Test\\Unit\\Model\\RuleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

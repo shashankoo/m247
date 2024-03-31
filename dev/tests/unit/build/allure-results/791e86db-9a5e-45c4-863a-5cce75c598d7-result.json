@@ -1,0 +1,43 @@
+{
+    "uuid": "791e86db-9a5e-45c4-863a-5cce75c598d7",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\PriceModifier\\CompositeTest::testModifyPriceIfModifierExists",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015290,
+    "stop": 1711693015291,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "69984503f4426695fe56487ce7fa17a4",
+    "testCaseId": "5f63e7fcb201a43130be79ff810cc059",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\PriceModifier\\CompositeTest::testModifyPriceIfModifierExists",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\PriceModifier\\CompositeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testModifyPriceIfModifierExists"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

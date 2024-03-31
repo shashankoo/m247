@@ -1,0 +1,43 @@
+{
+    "uuid": "583f0914-af83-4362-8129-cc847cc0f55f",
+    "name": "Magento\\Setup\\Test\\Unit\\Fixtures\\CatalogPriceRulesFixtureTest::testIntroduceParamLabels",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054998,
+    "stop": 1711693054998,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c40b5a0d3c84f9d97234d1b90936302c",
+    "testCaseId": "31d0815f94a0381bb766f1f53d2ccc4f",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Fixtures\\CatalogPriceRulesFixtureTest::testIntroduceParamLabels",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Fixtures\\CatalogPriceRulesFixtureTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIntroduceParamLabels"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

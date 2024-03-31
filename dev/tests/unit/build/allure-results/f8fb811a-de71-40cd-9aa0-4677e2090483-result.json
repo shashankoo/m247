@@ -1,0 +1,50 @@
+{
+    "uuid": "f8fb811a-de71-40cd-9aa0-4677e2090483",
+    "name": "Magento\\RemoteStorage\\Test\\Unit\\Setup\\ConfigOptionsListTest::testCreateConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033380,
+    "stop": 1711693033380,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Remote Storage Options Present and Remote Storage Deployment Config Missing\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "89c2abc707c01294daf3c4ee9f373379",
+    "testCaseId": "c253f383a8f1011d4d7a3bdbaf3ca2a7",
+    "rerunOf": null,
+    "fullName": "Magento\\RemoteStorage\\Test\\Unit\\Setup\\ConfigOptionsListTest::testCreateConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\RemoteStorage\\Test\\Unit\\Setup\\ConfigOptionsListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

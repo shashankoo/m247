@@ -1,0 +1,50 @@
+{
+    "uuid": "1a9a9081-def7-4f3a-870d-d79de719c38f",
+    "name": "Magento\\Framework\\Encryption\\Test\\Unit\\Adapter\\SodiumChachaIetfTest::testDecrypt",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071638,
+    "stop": 1711693071639,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "47917e35aef2456ffc8702616a355b45",
+    "testCaseId": "08b90d66e1efc884d9a4c190d2cdf98a",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Encryption\\Test\\Unit\\Adapter\\SodiumChachaIetfTest::testDecrypt",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Encryption\\Test\\Unit\\Adapter\\SodiumChachaIetfTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDecrypt"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

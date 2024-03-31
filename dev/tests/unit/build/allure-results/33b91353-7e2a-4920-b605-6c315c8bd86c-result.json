@@ -1,0 +1,50 @@
+{
+    "uuid": "33b91353-7e2a-4920-b605-6c315c8bd86c",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\CategoryProcessorTest::testGetCategoryById",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011449,
+    "stop": 1711693011450,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e1ab585ef5543ac33689d4c2e9c11000",
+    "testCaseId": "4ccf40679b40388f220f09c79746a1a5",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\CategoryProcessorTest::testGetCategoryById",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\CategoryProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCategoryById"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

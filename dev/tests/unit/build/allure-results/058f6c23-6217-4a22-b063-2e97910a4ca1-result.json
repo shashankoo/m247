@@ -1,0 +1,43 @@
+{
+    "uuid": "058f6c23-6217-4a22-b063-2e97910a4ca1",
+    "name": "Magento\\CmsUrlRewrite\\Test\\Unit\\Observer\\ProcessUrlRewriteSavingObserverTest::testExecuteWithoutDataChanged",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017015,
+    "stop": 1711693017015,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "52b3194f23e176e76b5328b9af03a05e",
+    "testCaseId": "a7ae5e9a59173fbc13d14063e05d1f84",
+    "rerunOf": null,
+    "fullName": "Magento\\CmsUrlRewrite\\Test\\Unit\\Observer\\ProcessUrlRewriteSavingObserverTest::testExecuteWithoutDataChanged",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CmsUrlRewrite\\Test\\Unit\\Observer\\ProcessUrlRewriteSavingObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithoutDataChanged"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

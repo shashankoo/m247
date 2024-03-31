@@ -1,0 +1,50 @@
+{
+    "uuid": "59f97766-4d3a-4fb3-b918-2ecd9f446e50",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Layout\\ElementTest::testIsCacheable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077860,
+    "stop": 1711693077860,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#6",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "40abdb399d240d5c1266b44e324b2a44",
+    "testCaseId": "115d50c03aa2afb69814f613d1726adf",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Layout\\ElementTest::testIsCacheable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Layout\\ElementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsCacheable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

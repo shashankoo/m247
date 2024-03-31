@@ -1,0 +1,50 @@
+{
+    "uuid": "7a914645-04e4-46c3-ab73-1457bba1f98a",
+    "name": "Magento\\Bundle\\Test\\Unit\\Model\\Sales\\Order\\Pdf\\Items\\AbstractItemsTest::testGetChildren",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010993,
+    "stop": 1711693010994,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "42887f0253c0b4423ba0f4b809af1a89",
+    "testCaseId": "91ca633e8f642d7ea647c1b8156c7cb7",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Model\\Sales\\Order\\Pdf\\Items\\AbstractItemsTest::testGetChildren",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Model\\Sales\\Order\\Pdf\\Items\\AbstractItemsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetChildren"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

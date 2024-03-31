@@ -1,0 +1,43 @@
+{
+    "uuid": "e1034917-4cb4-4eef-85fe-f5db6dac689f",
+    "name": "Magento\\Checkout\\Test\\Unit\\Model\\PaymentInformationManagementTest::testSavePaymentInformationAndPlaceOrderWithNewBillingAddress",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016898,
+    "stop": 1711693016898,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "67f33b06b8eace10e8371837df2a6c1d",
+    "testCaseId": "dd2e755669a764d45ec8f5fc48c383ab",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Model\\PaymentInformationManagementTest::testSavePaymentInformationAndPlaceOrderWithNewBillingAddress",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Model\\PaymentInformationManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSavePaymentInformationAndPlaceOrderWithNewBillingAddress"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

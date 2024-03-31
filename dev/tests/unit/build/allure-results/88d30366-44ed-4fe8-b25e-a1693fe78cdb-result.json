@@ -1,0 +1,43 @@
+{
+    "uuid": "88d30366-44ed-4fe8-b25e-a1693fe78cdb",
+    "name": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Order\\OrderAdapterTest::testGetBillingAddressIsNull",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031424,
+    "stop": 1711693031425,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a04c7bb15845bb6e2f77fcb376d3a395",
+    "testCaseId": "b8321d1ee995cc7f8c8b8aacecb3aa10",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Order\\OrderAdapterTest::testGetBillingAddressIsNull",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Order\\OrderAdapterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBillingAddressIsNull"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

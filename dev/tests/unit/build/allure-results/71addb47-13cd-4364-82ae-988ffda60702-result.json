@@ -1,0 +1,43 @@
+{
+    "uuid": "71addb47-13cd-4364-82ae-988ffda60702",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\MultishippingTest::testUpdateQuoteCustomerShippingAddress",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030756,
+    "stop": 1711693030756,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "10c773cb29e72a76737b8ac5897cb6b8",
+    "testCaseId": "e775d253a9ce105af578a1523d1d880d",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\MultishippingTest::testUpdateQuoteCustomerShippingAddress",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\MultishippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdateQuoteCustomerShippingAddress"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

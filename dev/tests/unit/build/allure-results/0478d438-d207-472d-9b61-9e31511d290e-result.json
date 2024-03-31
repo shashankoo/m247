@@ -1,0 +1,43 @@
+{
+    "uuid": "0478d438-d207-472d-9b61-9e31511d290e",
+    "name": "Magento\\Reports\\Test\\Unit\\Observer\\SendfriendProductObserverTest::testExecuteWhenReportIsDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033982,
+    "stop": 1711693034022,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9a757f92f79816484c43cb2cd49941ce",
+    "testCaseId": "ee1a7303bf89081201454f8e73fb064f",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Observer\\SendfriendProductObserverTest::testExecuteWhenReportIsDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Observer\\SendfriendProductObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenReportIsDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

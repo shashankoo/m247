@@ -1,0 +1,43 @@
+{
+    "uuid": "dcca2d3d-836f-4079-83c0-28e1fb4263c5",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Address\\ValidatorTest::testValidateWithInvalidData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032820,
+    "stop": 1711693032821,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "908b4b863cbfabc9a8590831f55e8de0",
+    "testCaseId": "9d56547b93a4ad9a316a31211a701ba9",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Address\\ValidatorTest::testValidateWithInvalidData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Address\\ValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateWithInvalidData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "63464dbf-5387-4fb2-9b29-768dc021f08f",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Source\\StatusTest::testGetOptionText",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014985,
+    "stop": 1711693014986,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "079e215e45153fcf1460403b8d70af41",
+    "testCaseId": "b967b5b48cd25634ee0325d44d51544d",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Source\\StatusTest::testGetOptionText",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Source\\StatusTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOptionText"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

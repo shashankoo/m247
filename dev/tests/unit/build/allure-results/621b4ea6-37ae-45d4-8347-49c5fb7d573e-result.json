@@ -1,0 +1,50 @@
+{
+    "uuid": "621b4ea6-37ae-45d4-8347-49c5fb7d573e",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\FieldProvider\\StaticFieldTest::testGetAllAttributesTypes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023293,
+    "stop": 1711693023293,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4cc2c8813b65de00c8412ff19a04fffa",
+    "testCaseId": "8800fb3a7f3346b1ca26eaab1db4eaab",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\FieldProvider\\StaticFieldTest::testGetAllAttributesTypes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\FieldProvider\\StaticFieldTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAllAttributesTypes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

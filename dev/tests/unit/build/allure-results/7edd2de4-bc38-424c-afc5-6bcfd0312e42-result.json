@@ -1,0 +1,50 @@
+{
+    "uuid": "7edd2de4-bc38-424c-afc5-6bcfd0312e42",
+    "name": "Magento\\Framework\\Exception\\Test\\Unit\\LocalizedExceptionTest::testConstructor",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073089,
+    "stop": 1711693073090,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"withNoNameParameters\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7d9bbd1ed5dba3749e68ed891705804f",
+    "testCaseId": "0f525bad564a0ef87294b29564e1dcc5",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Exception\\Test\\Unit\\LocalizedExceptionTest::testConstructor",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Exception\\Test\\Unit\\LocalizedExceptionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructor"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "f3e5c97e-2882-442f-bee7-da3bc528511b",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\NameTest::testGetContainerClassName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019581,
+    "stop": 1711693019581,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "14aac2921e9f8abf1282e58cfca8a3dd",
+    "testCaseId": "8f8189c3902a341ed173b7dcd8b8f57e",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\NameTest::testGetContainerClassName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\NameTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetContainerClassName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

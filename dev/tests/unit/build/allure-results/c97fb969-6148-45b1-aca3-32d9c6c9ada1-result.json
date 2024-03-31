@@ -1,0 +1,50 @@
+{
+    "uuid": "c97fb969-6148-45b1-aca3-32d9c6c9ada1",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\From\\Element\\Newsletter\\SubscriptionsTest::testGetElementHtml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019457,
+    "stop": 1711693019460,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d1d7468865c74a90a4368071cba397b3",
+    "testCaseId": "9e068f627be0479e977b0022d638ce08",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\From\\Element\\Newsletter\\SubscriptionsTest::testGetElementHtml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\From\\Element\\Newsletter\\SubscriptionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetElementHtml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "9fa36d9a-78ab-4a25-b81d-404bdbc2c136",
+    "name": "Magento\\DownloadableImportExport\\Test\\Unit\\Helper\\DataTest::testPrepareDataForSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021818,
+    "stop": 1711693021819,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Data set 1\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d21e7165ae1cb0fd1d0cf44ddc91f0f0",
+    "testCaseId": "5e1d8566320ee5fd8bf82fdbb0d77620",
+    "rerunOf": null,
+    "fullName": "Magento\\DownloadableImportExport\\Test\\Unit\\Helper\\DataTest::testPrepareDataForSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\DownloadableImportExport\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareDataForSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

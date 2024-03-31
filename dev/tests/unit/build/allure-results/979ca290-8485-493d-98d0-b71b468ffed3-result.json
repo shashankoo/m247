@@ -1,0 +1,50 @@
+{
+    "uuid": "979ca290-8485-493d-98d0-b71b468ffed3",
+    "name": "Magento\\Catalog\\Test\\Unit\\Helper\\ImageTest::testGetLabel",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014046,
+    "stop": 1711693014046,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "79fb9886e78c7b247e4cc9a4f5bb6727",
+    "testCaseId": "e4433dc726fdf6572d6a600c40862dfb",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Helper\\ImageTest::testGetLabel",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Helper\\ImageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLabel"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

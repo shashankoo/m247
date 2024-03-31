@@ -1,0 +1,43 @@
+{
+    "uuid": "31af6323-3178-4f7b-90fe-59a9d397ce11",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\ResourceModel\\Oauth\\TokenTest::testDeleteOldEntries",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030149,
+    "stop": 1711693030149,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cac2a68796b3ae27f7dacd6b74f6e09b",
+    "testCaseId": "6f5f003230b10c3f3bcaee9bc3ba89ee",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\ResourceModel\\Oauth\\TokenTest::testDeleteOldEntries",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\ResourceModel\\Oauth\\TokenTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteOldEntries"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

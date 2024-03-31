@@ -1,0 +1,43 @@
+{
+    "uuid": "75ce5165-a544-4c84-abf3-73eeeb0ca238",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\MaintenanceModeTest::testisOnWithIP",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058193,
+    "stop": 1711693058194,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2eb06f7cb8913991c2cc0adb123320ee",
+    "testCaseId": "ce4914d08550d5d5dd94772fd10ff117",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\MaintenanceModeTest::testisOnWithIP",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\MaintenanceModeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testisOnWithIP"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "b0023569-98d0-4e89-8c12-01cfa421e8df",
+    "name": "Magento\\UrlRewrite\\Test\\Unit\\Model\\ResourceModel\\UrlRewriteCollectionTest::testAddStoreFilterIfStoreIsInt",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052878,
+    "stop": 1711693052878,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ebbec01a29663aafc5a3cfdd1f251650",
+    "testCaseId": "91ac24b7dae83cca6ae47cf836968b6f",
+    "rerunOf": null,
+    "fullName": "Magento\\UrlRewrite\\Test\\Unit\\Model\\ResourceModel\\UrlRewriteCollectionTest::testAddStoreFilterIfStoreIsInt",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\UrlRewrite\\Test\\Unit\\Model\\ResourceModel\\UrlRewriteCollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddStoreFilterIfStoreIsInt"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

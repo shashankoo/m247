@@ -1,0 +1,50 @@
+{
+    "uuid": "acfb51f0-8ca3-4a00-ba59-d1a30a1aa27a",
+    "name": "Magento\\Weee\\Test\\Unit\\Model\\TaxTest::testGetProductWeeeAttributes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053944,
+    "stop": 1711693053945,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"website_not_passed\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4ce1cf0bc63661511d68de563f2734dc",
+    "testCaseId": "a8939c366cb1d13cbad08cf6e535a14e",
+    "rerunOf": null,
+    "fullName": "Magento\\Weee\\Test\\Unit\\Model\\TaxTest::testGetProductWeeeAttributes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Weee\\Test\\Unit\\Model\\TaxTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetProductWeeeAttributes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

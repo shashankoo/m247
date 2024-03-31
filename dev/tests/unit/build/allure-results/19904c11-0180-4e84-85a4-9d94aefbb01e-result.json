@@ -1,0 +1,50 @@
+{
+    "uuid": "19904c11-0180-4e84-85a4-9d94aefbb01e",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\RtlTextHandlerTest::testIsRtlText",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041008,
+    "stop": 1711693041008,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f3a24dd77704a4a7b95e0a6e4428818e",
+    "testCaseId": "393ef4fc68166861c03735c2478348ff",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\RtlTextHandlerTest::testIsRtlText",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\RtlTextHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsRtlText"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

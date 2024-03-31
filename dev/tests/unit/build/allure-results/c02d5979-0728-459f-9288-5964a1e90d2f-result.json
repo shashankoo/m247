@@ -1,0 +1,50 @@
+{
+    "uuid": "c02d5979-0728-459f-9288-5964a1e90d2f",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\ExpressionConverterTest::testShortenEntityName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070691,
+    "stop": 1711693070691,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Abbreviated identifier\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3c7574d4ab6f3b04e4d1ac75f3ac247b",
+    "testCaseId": "a947648d2fa4081fbbc299d47c21c714",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\ExpressionConverterTest::testShortenEntityName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\ExpressionConverterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testShortenEntityName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

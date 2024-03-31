@@ -1,0 +1,50 @@
+{
+    "uuid": "3838d663-64eb-42ff-b7b3-6a7f0815bfdc",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\RefundOperationTest::testExecuteOffline",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037590,
+    "stop": 1711693037597,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "af7de3e5a174f2a30628e4e759a82ef3",
+    "testCaseId": "64e594f635752797990a7ddd94dd549b",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\RefundOperationTest::testExecuteOffline",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\RefundOperationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteOffline"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

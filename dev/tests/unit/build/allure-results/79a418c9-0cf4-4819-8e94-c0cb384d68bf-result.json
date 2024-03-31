@@ -1,0 +1,43 @@
+{
+    "uuid": "79a418c9-0cf4-4819-8e94-c0cb384d68bf",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\ConfigTest::testSaveToCheckAdminSystemConfigChangedSectionEvent",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018132,
+    "stop": 1711693018133,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ede3d911f7d4f24914531f410d1eb3b5",
+    "testCaseId": "f181c559bd67ea99d15aa92f4ada82f5",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\ConfigTest::testSaveToCheckAdminSystemConfigChangedSectionEvent",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveToCheckAdminSystemConfigChangedSectionEvent"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "af60f952-a02b-4d90-b240-bb6e10cf0bae",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\StaticResourceTest::testCatchExceptionDeveloperMode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058933,
+    "stop": 1711693058935,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cb434e1e166f6d13c8052fb6b2302b0d",
+    "testCaseId": "644e3ed635c0ae1993e4279f134607c1",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\StaticResourceTest::testCatchExceptionDeveloperMode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\StaticResourceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCatchExceptionDeveloperMode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

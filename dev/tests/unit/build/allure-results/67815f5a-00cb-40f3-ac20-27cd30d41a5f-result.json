@@ -1,0 +1,50 @@
+{
+    "uuid": "67815f5a-00cb-40f3-ac20-27cd30d41a5f",
+    "name": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\RequestTest::testGetAcceptTypes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078560,
+    "stop": 1711693078560,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9ae93a0f19f0f1f9d3d84b4db08d5a53",
+    "testCaseId": "a3ec497e432d177916ff29570a62b654",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\RequestTest::testGetAcceptTypes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\RequestTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAcceptTypes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

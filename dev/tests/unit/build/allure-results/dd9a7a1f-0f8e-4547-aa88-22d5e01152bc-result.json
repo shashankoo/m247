@@ -1,0 +1,43 @@
+{
+    "uuid": "dd9a7a1f-0f8e-4547-aa88-22d5e01152bc",
+    "name": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleUninstallCommandTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054912,
+    "stop": 1711693054914,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1ddf4e15f5563fba92979e5b443aae40",
+    "testCaseId": "3eae79b58acfec3bc71b47004b903322",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleUninstallCommandTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleUninstallCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

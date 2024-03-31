@@ -1,0 +1,43 @@
+{
+    "uuid": "0995f01e-1367-414c-b332-c6abd4dca71e",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TierPriceManagementTest::testDeleteTierPriceFromNonExistingProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015328,
+    "stop": 1711693015329,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d24eee6b47a4858e2a364e5076f10332",
+    "testCaseId": "3b77cce69e2f2c211287f1c8855c76f6",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TierPriceManagementTest::testDeleteTierPriceFromNonExistingProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TierPriceManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteTierPriceFromNonExistingProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

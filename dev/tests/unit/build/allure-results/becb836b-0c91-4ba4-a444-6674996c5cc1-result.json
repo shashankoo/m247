@@ -1,0 +1,50 @@
+{
+    "uuid": "becb836b-0c91-4ba4-a444-6674996c5cc1",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Response\\HeaderProvider\\XssProtectionTest::testGetValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058790,
+    "stop": 1711693058790,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e9d4dc9548e776ac86eefae271d2ddfc",
+    "testCaseId": "56bf7ceb990f28dca6f14a0945cdcecf",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Response\\HeaderProvider\\XssProtectionTest::testGetValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Response\\HeaderProvider\\XssProtectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "c8b793c8-c02a-428e-9a6b-25f4be0e1225",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\DatabaseTest::testInitializeWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059155,
+    "stop": 1711693059156,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"empty_tags_table\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "271c878574a4b2d41949d63c51e3a375",
+    "testCaseId": "7aecc0af0b473580be2e522ca1251c97",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\DatabaseTest::testInitializeWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\DatabaseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInitializeWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "a91b0348-3370-430f-a91b-9369549673e6",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ItemTest::testGetBuyRequestNoOptionByCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032918,
+    "stop": 1711693032918,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c7360c87618312a85d29f51ee2a1314e",
+    "testCaseId": "ff86d9ae27e04b62d147eebd574b419d",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ItemTest::testGetBuyRequestNoOptionByCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBuyRequestNoOptionByCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

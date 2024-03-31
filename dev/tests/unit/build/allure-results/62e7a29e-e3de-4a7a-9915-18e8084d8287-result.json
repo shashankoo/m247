@@ -1,0 +1,43 @@
+{
+    "uuid": "62e7a29e-e3de-4a7a-9915-18e8084d8287",
+    "name": "Magento\\Cms\\Test\\Unit\\Block\\BlockByIdentifierTest::testBlockReturnsEmptyStringWhenIdentifierProvidedNotFound",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017061,
+    "stop": 1711693017062,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a2d5bff11a02726f0901b7d846f38ec3",
+    "testCaseId": "edfb8ba19af620b9fdf2d8c9215ad87b",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Block\\BlockByIdentifierTest::testBlockReturnsEmptyStringWhenIdentifierProvidedNotFound",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Block\\BlockByIdentifierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBlockReturnsEmptyStringWhenIdentifierProvidedNotFound"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "3b7a566f-c217-45db-8d7d-c8ecb8d0eee8",
+    "name": "Magento\\Payment\\Test\\Unit\\Model\\Method\\FreeTest::testGetConfigPaymentAction",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031660,
+    "stop": 1711693031661,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c6e9fbd692706a7385c28b60205d1127",
+    "testCaseId": "0d08231b820eece1ebfd08484b441ca9",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Model\\Method\\FreeTest::testGetConfigPaymentAction",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Model\\Method\\FreeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfigPaymentAction"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

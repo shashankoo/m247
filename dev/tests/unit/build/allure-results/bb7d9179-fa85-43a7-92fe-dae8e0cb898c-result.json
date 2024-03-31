@@ -1,0 +1,50 @@
+{
+    "uuid": "bb7d9179-fa85-43a7-92fe-dae8e0cb898c",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest::testSetAsChildException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071493,
+    "stop": 1711693071493,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5b3e7167d625bac43d8c4d0baba28233",
+    "testCaseId": "6dae5c8c7b36c8afb8c6f4f11903c060",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest::testSetAsChildException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetAsChildException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

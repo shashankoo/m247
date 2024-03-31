@@ -1,0 +1,50 @@
+{
+    "uuid": "044b01be-390c-40ab-a9f6-6506a0f0833d",
+    "name": "Magento\\Widget\\Test\\Unit\\Block\\Adminhtml\\Widget\\Instance\\Edit\\Tab\\PropertiesTest::testIsHidden",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054182,
+    "stop": 1711693054183,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "115ee641f3806533df8f33f8c7a369e4",
+    "testCaseId": "59080055b45e85bc1a3f1b7ea4d5081f",
+    "rerunOf": null,
+    "fullName": "Magento\\Widget\\Test\\Unit\\Block\\Adminhtml\\Widget\\Instance\\Edit\\Tab\\PropertiesTest::testIsHidden",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Widget\\Test\\Unit\\Block\\Adminhtml\\Widget\\Instance\\Edit\\Tab\\PropertiesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsHidden"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

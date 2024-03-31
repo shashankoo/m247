@@ -1,0 +1,50 @@
+{
+    "uuid": "faf5fc99-8bea-48ab-acaa-4f16e18d4d90",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\SmartButtonConfigTest::testGetConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032444,
+    "stop": 1711693032444,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"checkout\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ec7c2dd757fdfa6649e81a2ffff60d6f",
+    "testCaseId": "45b1ce90d0acdce1f9a96e78dacdad9c",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\SmartButtonConfigTest::testGetConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\SmartButtonConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

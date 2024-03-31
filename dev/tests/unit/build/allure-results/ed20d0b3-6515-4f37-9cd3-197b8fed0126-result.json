@@ -1,0 +1,50 @@
+{
+    "uuid": "ed20d0b3-6515-4f37-9cd3-197b8fed0126",
+    "name": "Magento\\Shipping\\Test\\Unit\\Helper\\CarrierTest::testGetOnlineCarrierCodes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041558,
+    "stop": 1711693041559,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fa04cc645e4993d3f14ee61eeaf39ecb",
+    "testCaseId": "c744793cbfd4db2d3f2020c23ca6f92c",
+    "rerunOf": null,
+    "fullName": "Magento\\Shipping\\Test\\Unit\\Helper\\CarrierTest::testGetOnlineCarrierCodes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Shipping\\Test\\Unit\\Helper\\CarrierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOnlineCarrierCodes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

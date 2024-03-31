@@ -1,0 +1,43 @@
+{
+    "uuid": "f235ce4e-e062-4363-9ea7-e4eb404fce60",
+    "name": "Magento\\Captcha\\Test\\Unit\\Model\\Customer\\Plugin\\AjaxLoginTest::testAroundExecuteIncorrectCaptcha",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011296,
+    "stop": 1711693011297,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0933b91b672d42c660b76d8d2fb93761",
+    "testCaseId": "d219be5b4daee580632b5c824b79f946",
+    "rerunOf": null,
+    "fullName": "Magento\\Captcha\\Test\\Unit\\Model\\Customer\\Plugin\\AjaxLoginTest::testAroundExecuteIncorrectCaptcha",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Captcha\\Test\\Unit\\Model\\Customer\\Plugin\\AjaxLoginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundExecuteIncorrectCaptcha"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

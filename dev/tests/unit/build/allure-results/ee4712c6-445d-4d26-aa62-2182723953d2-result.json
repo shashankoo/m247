@@ -1,0 +1,50 @@
+{
+    "uuid": "ee4712c6-445d-4d26-aa62-2182723953d2",
+    "name": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\AbstractDbTest::testGetMainTable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074274,
+    "stop": 1711693074275,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7ddeba9cd52a2bbfa87a3d680bb492a1",
+    "testCaseId": "7d7fd1adbf6ae34c8c30294bdc4a5ace",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\AbstractDbTest::testGetMainTable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\AbstractDbTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMainTable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

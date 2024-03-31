@@ -1,0 +1,50 @@
+{
+    "uuid": "853d151c-59d8-4bbe-b984-dc042022ce1c",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\ItemTest::testGetSimpleQtyToMethods",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038198,
+    "stop": 1711693038198,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"partially_refunded_partially_shipped\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3eaa569c91fff529ae756aca2b933ca2",
+    "testCaseId": "781f3a58cf152a10edb25d6a27019882",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\ItemTest::testGetSimpleQtyToMethods",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSimpleQtyToMethods"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

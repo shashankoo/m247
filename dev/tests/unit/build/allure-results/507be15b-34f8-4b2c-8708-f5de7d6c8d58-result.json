@@ -1,0 +1,50 @@
+{
+    "uuid": "507be15b-34f8-4b2c-8708-f5de7d6c8d58",
+    "name": "Magento\\Swatches\\Test\\Unit\\Model\\SwatchAttributeTypeTest::testIsSwatchAttribute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042292,
+    "stop": 1711693042292,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7a4d47986c73196bb6499ea8fce5925c",
+    "testCaseId": "ddc60da5a29d7c78cf0871d31c5a3954",
+    "rerunOf": null,
+    "fullName": "Magento\\Swatches\\Test\\Unit\\Model\\SwatchAttributeTypeTest::testIsSwatchAttribute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Swatches\\Test\\Unit\\Model\\SwatchAttributeTypeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsSwatchAttribute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

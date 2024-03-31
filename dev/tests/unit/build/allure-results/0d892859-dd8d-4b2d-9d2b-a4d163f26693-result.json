@@ -1,0 +1,50 @@
+{
+    "uuid": "0d892859-dd8d-4b2d-9d2b-a4d163f26693",
+    "name": "Magento\\Framework\\Console\\Test\\Unit\\QuestionPerformer\\YesNoTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070420,
+    "stop": 1711693070420,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1d149aba9dddb79659a67694370f4148",
+    "testCaseId": "6e028795ea926fdc6c1276cd50fc4993",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Console\\Test\\Unit\\QuestionPerformer\\YesNoTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Console\\Test\\Unit\\QuestionPerformer\\YesNoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

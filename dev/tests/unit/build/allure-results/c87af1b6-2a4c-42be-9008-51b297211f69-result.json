@@ -1,0 +1,50 @@
+{
+    "uuid": "c87af1b6-2a4c-42be-9008-51b297211f69",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\UploaderTest::testMoveFileUrlDrivePool",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011834,
+    "stop": 1711693011835,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "489b1c64594b3d3c5e737007c8940ffc",
+    "testCaseId": "f34e0eb7e94dd4d06698eea458fcaea5",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\UploaderTest::testMoveFileUrlDrivePool",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\UploaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMoveFileUrlDrivePool"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "ea40e70e-f4e2-4df5-8997-b7a10946a4ef",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\CouponManagementTest::testSetWhenCouponCodeIsInvalid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032717,
+    "stop": 1711693032718,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "635681c6eea2a99d8f810f3804dc1a3d",
+    "testCaseId": "1dcc886b8eac72907a60759adab8568a",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\CouponManagementTest::testSetWhenCouponCodeIsInvalid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\CouponManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetWhenCouponCodeIsInvalid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

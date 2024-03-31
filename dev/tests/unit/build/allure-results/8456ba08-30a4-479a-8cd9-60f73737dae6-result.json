@@ -1,0 +1,50 @@
+{
+    "uuid": "8456ba08-30a4-479a-8cd9-60f73737dae6",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Controller\\Adminhtml\\Export\\File\\DownloadTest::testExecuteInvalidFileName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024581,
+    "stop": 1711693024581,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Empty file name\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ac76b8351afb10e42fe5daf27e63cb69",
+    "testCaseId": "5e268cdd3768f3f6d1c90ea30ade6d68",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Controller\\Adminhtml\\Export\\File\\DownloadTest::testExecuteInvalidFileName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Controller\\Adminhtml\\Export\\File\\DownloadTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteInvalidFileName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

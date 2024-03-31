@@ -1,0 +1,43 @@
+{
+    "uuid": "0958f4bb-a7b8-4767-85d7-9751aa13ff9e",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\StoreSwitcher\\RedirectDataCacheSerializerTest::testUnserializeShouldThrowExceptionIfCacheKeyIsInvalid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041942,
+    "stop": 1711693041942,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1c8d9f230253f9b9865ad899f10984a2",
+    "testCaseId": "1ee77546f8c910f61cad001bd2c442ae",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\StoreSwitcher\\RedirectDataCacheSerializerTest::testUnserializeShouldThrowExceptionIfCacheKeyIsInvalid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\StoreSwitcher\\RedirectDataCacheSerializerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUnserializeShouldThrowExceptionIfCacheKeyIsInvalid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

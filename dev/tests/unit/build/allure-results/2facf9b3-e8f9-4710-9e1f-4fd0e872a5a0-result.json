@@ -1,0 +1,50 @@
+{
+    "uuid": "2facf9b3-e8f9-4710-9e1f-4fd0e872a5a0",
+    "name": "Magento\\Indexer\\Test\\Unit\\Controller\\Adminhtml\\Indexer\\MassChangelogTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024930,
+    "stop": 1711693024931,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"set1\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "39f4d17d52299509abfae6f61b604590",
+    "testCaseId": "0f808dcab7f9bc7acc955aef8b4701f0",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Controller\\Adminhtml\\Indexer\\MassChangelogTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Controller\\Adminhtml\\Indexer\\MassChangelogTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

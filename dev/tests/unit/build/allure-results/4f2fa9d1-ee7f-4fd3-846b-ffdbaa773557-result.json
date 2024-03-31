@@ -1,0 +1,50 @@
+{
+    "uuid": "4f2fa9d1-ee7f-4fd3-846b-ffdbaa773557",
+    "name": "Magento\\Tax\\Test\\Unit\\Block\\Grid\\Renderer\\CodesTest::testRenderCodes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042377,
+    "stop": 1711693042378,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6c743b53b082e08c814e7e83fc7fd426",
+    "testCaseId": "0805864f60ec6af93256967b4eca28ea",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Block\\Grid\\Renderer\\CodesTest::testRenderCodes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Block\\Grid\\Renderer\\CodesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRenderCodes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

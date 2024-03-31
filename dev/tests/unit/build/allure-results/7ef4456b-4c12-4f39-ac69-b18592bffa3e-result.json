@@ -1,0 +1,43 @@
+{
+    "uuid": "7ef4456b-4c12-4f39-ac69-b18592bffa3e",
+    "name": "Magento\\Sales\\Test\\Unit\\Helper\\ReorderTest::testCanReorderStoreNotAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037375,
+    "stop": 1711693037376,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a11cefedab25a1d4758c34c0740e6421",
+    "testCaseId": "33660f5c99333df8b623362528f555dc",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Helper\\ReorderTest::testCanReorderStoreNotAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Helper\\ReorderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanReorderStoreNotAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

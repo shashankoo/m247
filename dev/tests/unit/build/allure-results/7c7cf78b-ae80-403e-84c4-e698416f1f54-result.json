@@ -1,0 +1,50 @@
+{
+    "uuid": "7c7cf78b-ae80-403e-84c4-e698416f1f54",
+    "name": "Magento\\Framework\\Translate\\Test\\Unit\\InlineTest::testIsAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076831,
+    "stop": 1711693076832,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d158597532ea8ff289fe2b72ffb2a9f8",
+    "testCaseId": "eb3148e95de0126c8c1b61c1db86741d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Translate\\Test\\Unit\\InlineTest::testIsAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Translate\\Test\\Unit\\InlineTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

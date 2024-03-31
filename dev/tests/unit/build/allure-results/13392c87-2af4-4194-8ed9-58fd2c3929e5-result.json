@@ -1,0 +1,50 @@
+{
+    "uuid": "13392c87-2af4-4194-8ed9-58fd2c3929e5",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Action\\Discount\\ByPercentTest::testCalculate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036108,
+    "stop": 1711693036109,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e8e32834bf8eb48ea081cb5cf9d61559",
+    "testCaseId": "81543ac590f3f0d9ef7423cc5caaac7f",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Action\\Discount\\ByPercentTest::testCalculate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Action\\Discount\\ByPercentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCalculate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

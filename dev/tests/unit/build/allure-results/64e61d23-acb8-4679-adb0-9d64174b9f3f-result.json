@@ -1,0 +1,50 @@
+{
+    "uuid": "64e61d23-acb8-4679-adb0-9d64174b9f3f",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Layout\\ScheduledStructure\\HelperTest::testScheduleStructure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078171,
+    "stop": 1711693078171,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d8aedd965c20db34c82ab956f7ba8a09",
+    "testCaseId": "af0f101b5f22bd30edf07c54d6864654",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Layout\\ScheduledStructure\\HelperTest::testScheduleStructure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Layout\\ScheduledStructure\\HelperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testScheduleStructure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

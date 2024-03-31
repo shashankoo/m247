@@ -1,0 +1,50 @@
+{
+    "uuid": "07517312-1b61-4c37-8ec4-74aa19f2c56b",
+    "name": "Magento\\Paypal\\Test\\Unit\\Controller\\Express\\PlaceOrderTest::testExecuteProcessableException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031830,
+    "stop": 1711693031830,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "141419da4b3d97d47f2105ca90f6bc80",
+    "testCaseId": "360a8b26d7290f9cd25a4f923cb8188c",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Controller\\Express\\PlaceOrderTest::testExecuteProcessableException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Controller\\Express\\PlaceOrderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteProcessableException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "ff8dae02-befa-43bc-88a1-33075efefc8d",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\StatusResolverTest::testGetOrderStatusByState",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039393,
+    "stop": 1711693039393,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "77174b9384bddcddd5720d5ca2252b06",
+    "testCaseId": "8eb3bd1ce01865712538f185abfa6b5f",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\StatusResolverTest::testGetOrderStatusByState",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\StatusResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOrderStatusByState"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

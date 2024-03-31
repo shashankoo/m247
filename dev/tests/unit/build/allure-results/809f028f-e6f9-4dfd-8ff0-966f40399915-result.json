@@ -1,0 +1,43 @@
+{
+    "uuid": "809f028f-e6f9-4dfd-8ff0-966f40399915",
+    "name": "Magento\\Store\\Test\\Unit\\App\\Action\\Plugin\\StoreCheckTest::testBeforeExecuteWhenStoreNotActive",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041745,
+    "stop": 1711693041747,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f01b8f1288186877f585affc066c1edf",
+    "testCaseId": "33697c136e8bf1e7d112133069e99a35",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\App\\Action\\Plugin\\StoreCheckTest::testBeforeExecuteWhenStoreNotActive",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\App\\Action\\Plugin\\StoreCheckTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeExecuteWhenStoreNotActive"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

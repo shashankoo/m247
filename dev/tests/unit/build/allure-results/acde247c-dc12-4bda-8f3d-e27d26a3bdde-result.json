@@ -1,0 +1,50 @@
+{
+    "uuid": "acde247c-dc12-4bda-8f3d-e27d26a3bdde",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\FilePermissionsTest::testGetApplicationCurrentNonWritableDirectories",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076515,
+    "stop": 1711693076515,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "10f308a1bdbfab64d1ebcf3e563225eb",
+    "testCaseId": "b3c298e5a6e87c9f4bdde5ae8ecfd0ea",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\FilePermissionsTest::testGetApplicationCurrentNonWritableDirectories",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\FilePermissionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetApplicationCurrentNonWritableDirectories"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

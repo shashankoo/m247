@@ -1,0 +1,43 @@
+{
+    "uuid": "1f5ba515-8aaa-420c-93f7-84896676ec77",
+    "name": "Magento\\Framework\\ObjectManager\\Test\\Unit\\ObjectManagerTest::testGetCreatesSharedInstancesEveryTime",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075097,
+    "stop": 1711693075097,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a5f4c793ea443124bd98682185962422",
+    "testCaseId": "2d5cd2531fcb7fa6ec843d8ce04f04ab",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\ObjectManager\\Test\\Unit\\ObjectManagerTest::testGetCreatesSharedInstancesEveryTime",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\ObjectManager\\Test\\Unit\\ObjectManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCreatesSharedInstancesEveryTime"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

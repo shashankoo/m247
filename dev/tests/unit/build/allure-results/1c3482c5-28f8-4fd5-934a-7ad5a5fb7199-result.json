@@ -1,0 +1,50 @@
+{
+    "uuid": "1c3482c5-28f8-4fd5-934a-7ad5a5fb7199",
+    "name": "Magento\\Checkout\\Test\\Unit\\Model\\SessionTest::testRestoreQuote",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016911,
+    "stop": 1711693016912,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7b1564f31c8add49b243a913595e2ccb",
+    "testCaseId": "e7ecd3e4ccdd35d685b042f2641aa481",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Model\\SessionTest::testRestoreQuote",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Model\\SessionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRestoreQuote"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

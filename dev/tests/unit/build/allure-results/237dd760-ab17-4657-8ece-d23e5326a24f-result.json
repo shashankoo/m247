@@ -1,0 +1,50 @@
+{
+    "uuid": "237dd760-ab17-4657-8ece-d23e5326a24f",
+    "name": "Magento\\RemoteStorage\\Test\\Unit\\Driver\\Adpater\\Cache\\GenericTest::testGetMetaData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033358,
+    "stop": 1711693033361,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f8403eef0e1cfb3ce93783b5828d474a",
+    "testCaseId": "80e1a55a5a4691fb369681fb13a4f62b",
+    "rerunOf": null,
+    "fullName": "Magento\\RemoteStorage\\Test\\Unit\\Driver\\Adpater\\Cache\\GenericTest::testGetMetaData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\RemoteStorage\\Test\\Unit\\Driver\\Adpater\\Cache\\GenericTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMetaData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

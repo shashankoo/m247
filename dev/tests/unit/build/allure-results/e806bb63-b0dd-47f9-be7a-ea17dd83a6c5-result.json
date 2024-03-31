@@ -1,0 +1,43 @@
+{
+    "uuid": "e806bb63-b0dd-47f9-be7a-ea17dd83a6c5",
+    "name": "Magento\\User\\Test\\Unit\\Model\\ResourceModel\\UserTest::testUnlockWithInteger",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052984,
+    "stop": 1711693052985,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7a3a4ac632191d44a2317ce35fe99085",
+    "testCaseId": "09c01b64ab0901443e444f890ba52e69",
+    "rerunOf": null,
+    "fullName": "Magento\\User\\Test\\Unit\\Model\\ResourceModel\\UserTest::testUnlockWithInteger",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\User\\Test\\Unit\\Model\\ResourceModel\\UserTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUnlockWithInteger"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

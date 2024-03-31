@@ -1,0 +1,43 @@
+{
+    "uuid": "929fabf7-eb88-4ade-8bf5-2574285f53ff",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\ElasticsearchTest::testAddDocsFailure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023204,
+    "stop": 1711693023204,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6ab6ccbdd043df6afb830104871c5237",
+    "testCaseId": "a7b8870618daab57c25ac669a4854dcb",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\ElasticsearchTest::testAddDocsFailure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\ElasticsearchTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddDocsFailure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

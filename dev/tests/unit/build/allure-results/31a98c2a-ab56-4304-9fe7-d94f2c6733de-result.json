@@ -1,0 +1,50 @@
+{
+    "uuid": "31a98c2a-ab56-4304-9fe7-d94f2c6733de",
+    "name": "Magento\\Email\\Test\\Unit\\Model\\TemplateTest::testIsValidForSend",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023754,
+    "stop": 1711693023754,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"no subject so not valid\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ca765c9f47e2b7b3c508345550137af0",
+    "testCaseId": "a41a4220b4579600fc56d051728e2f53",
+    "rerunOf": null,
+    "fullName": "Magento\\Email\\Test\\Unit\\Model\\TemplateTest::testIsValidForSend",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Email\\Test\\Unit\\Model\\TemplateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValidForSend"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

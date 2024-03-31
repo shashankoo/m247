@@ -1,0 +1,43 @@
+{
+    "uuid": "b424be03-6b3d-477d-ae07-dd6fa6a93d51",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Token\\ProviderTest::testCreateRequestTokenIncorrectType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030109,
+    "stop": 1711693030109,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bae51018b2e161ec450bca179d65c373",
+    "testCaseId": "90d7f25e473623fb43d11a8cff65cf8f",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Token\\ProviderTest::testCreateRequestTokenIncorrectType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Token\\ProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateRequestTokenIncorrectType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

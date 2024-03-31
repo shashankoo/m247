@@ -1,0 +1,50 @@
+{
+    "uuid": "bb872a24-4ebf-4048-9235-308ca73eb0b3",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\ObjectManager\\ConfigCacheTest::testGet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058205,
+    "stop": 1711693058206,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2109831db8052d6201203d9d7ce87281",
+    "testCaseId": "af4c9ca7801ab07be16968f9b34a6274",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\ObjectManager\\ConfigCacheTest::testGet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\ObjectManager\\ConfigCacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

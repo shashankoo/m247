@@ -1,0 +1,43 @@
+{
+    "uuid": "7bcec2dc-9046-4cec-b624-975af141d5ef",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\Plugin\\StoreCookieTest::testBeforeDispatchNoSuchEntity",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041883,
+    "stop": 1711693041884,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "006736cb73a684a222168b50b62f0d69",
+    "testCaseId": "504b8b5c65259148879d333d1d86de60",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\Plugin\\StoreCookieTest::testBeforeDispatchNoSuchEntity",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\Plugin\\StoreCookieTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeDispatchNoSuchEntity"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

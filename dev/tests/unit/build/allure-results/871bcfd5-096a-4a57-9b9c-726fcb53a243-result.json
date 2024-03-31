@@ -1,0 +1,50 @@
+{
+    "uuid": "871bcfd5-096a-4a57-9b9c-726fcb53a243",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Config\\FileResolverTest::testGetGlobal",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057785,
+    "stop": 1711693057785,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a14fea4955dfbb03db62e1ff4e9d08c1",
+    "testCaseId": "caa932e56550f27f499dece7856d748a",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Config\\FileResolverTest::testGetGlobal",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Config\\FileResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetGlobal"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

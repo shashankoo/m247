@@ -1,0 +1,50 @@
+{
+    "uuid": "92b11a4f-6540-4a7a-a830-804795e5c880",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\SelectTest::testOutputValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022443,
+    "stop": 1711693022443,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "24636c4e00aaec20de777043f23b9313",
+    "testCaseId": "b08ecc8ea391ee4b3c6ce97e6a2ac728",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\SelectTest::testOutputValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\SelectTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testOutputValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

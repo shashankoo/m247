@@ -1,0 +1,43 @@
+{
+    "uuid": "c910bd13-cd3d-45dd-8a7f-a052bb8bd3f3",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\TypeTransitionManager\\Plugin\\ConfigurableTest::testAroundProcessProductWithProductThatCanBeTransformedToConfigurable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018632,
+    "stop": 1711693018632,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "97db53686d8f9f6d0d6a8c82ab3aedd9",
+    "testCaseId": "2986dd0d059235fffd025cdf64075875",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\TypeTransitionManager\\Plugin\\ConfigurableTest::testAroundProcessProductWithProductThatCanBeTransformedToConfigurable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\TypeTransitionManager\\Plugin\\ConfigurableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundProcessProductWithProductThatCanBeTransformedToConfigurable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

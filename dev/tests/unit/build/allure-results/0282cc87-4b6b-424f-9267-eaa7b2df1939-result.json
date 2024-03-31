@@ -1,0 +1,50 @@
+{
+    "uuid": "0282cc87-4b6b-424f-9267-eaa7b2df1939",
+    "name": "Magento\\MediaStorage\\Test\\Unit\\Helper\\File\\Storage\\DatabaseTest::testRenameFile",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030432,
+    "stop": 1711693030433,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"non-media database\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6a80469016a24280a87346c204f70e6f",
+    "testCaseId": "0c1a20b564b7fa2577d38f5f72ca1c16",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaStorage\\Test\\Unit\\Helper\\File\\Storage\\DatabaseTest::testRenameFile",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaStorage\\Test\\Unit\\Helper\\File\\Storage\\DatabaseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRenameFile"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

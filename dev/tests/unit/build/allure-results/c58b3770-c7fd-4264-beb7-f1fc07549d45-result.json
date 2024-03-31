@@ -1,0 +1,50 @@
+{
+    "uuid": "c58b3770-c7fd-4264-beb7-f1fc07549d45",
+    "name": "Magento\\Swatches\\Test\\Unit\\Controller\\Adminhtml\\Iframe\\ShowTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042182,
+    "stop": 1711693042183,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e0b94ef2e819e4391a66c92e1380842f",
+    "testCaseId": "3b68fc5e45c903f87d12fec4006235bf",
+    "rerunOf": null,
+    "fullName": "Magento\\Swatches\\Test\\Unit\\Controller\\Adminhtml\\Iframe\\ShowTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Swatches\\Test\\Unit\\Controller\\Adminhtml\\Iframe\\ShowTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "83326fc8-d035-4324-81aa-7a36bbbfec9d",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfig\\ReaderTest::testGetFile",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057878,
+    "stop": 1711693057879,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a77f6fe6dd5e671fbc78768470083bfd",
+    "testCaseId": "2bc44c44a961677896bbf659a96670f9",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfig\\ReaderTest::testGetFile",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfig\\ReaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFile"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

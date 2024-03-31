@@ -1,0 +1,43 @@
+{
+    "uuid": "d77f13d6-e0f4-4931-9534-df0a031c5193",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Eav\\AbstractActionTest::testGetIndexerWithUnknownTypeThrowsException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014465,
+    "stop": 1711693014465,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "66c22391c813f333c235c75c548a69fb",
+    "testCaseId": "cbda6532ec13e30fc60b2668bd6dad8d",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Eav\\AbstractActionTest::testGetIndexerWithUnknownTypeThrowsException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Eav\\AbstractActionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIndexerWithUnknownTypeThrowsException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

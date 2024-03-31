@@ -1,0 +1,43 @@
+{
+    "uuid": "8aac8fb6-d51f-453d-b6ae-4b9324cbd87a",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Reader\\FileClassScannerTest::testBracketedNamespacesAndClasses",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055675,
+    "stop": 1711693055675,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9a636e0dcf04cb6e4e39568fc3a280ed",
+    "testCaseId": "6079c4b5100b58ad6bb72db796b2900f",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Reader\\FileClassScannerTest::testBracketedNamespacesAndClasses",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Reader\\FileClassScannerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBracketedNamespacesAndClasses"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "e6430818-2e98-4721-99d6-71fa4657f1d0",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest::testGetByIdAbsentProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015522,
+    "stop": 1711693015523,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "81e3a46e4e1f653ad95b62c3c51a8cc3",
+    "testCaseId": "69ad6b563493b25845839be5f576380a",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest::testGetByIdAbsentProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetByIdAbsentProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

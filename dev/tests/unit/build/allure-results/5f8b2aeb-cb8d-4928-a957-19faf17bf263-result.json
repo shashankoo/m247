@@ -1,0 +1,43 @@
+{
+    "uuid": "5f8b2aeb-cb8d-4928-a957-19faf17bf263",
+    "name": "Magento\\Deploy\\Test\\Unit\\Service\\DeployStaticContentTest::testMaxExecutionTimeOptionPassed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021355,
+    "stop": 1711693021355,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f2db8af66de84fc1ff703864867456d3",
+    "testCaseId": "299430bab6c9aac430657aac962827ab",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Service\\DeployStaticContentTest::testMaxExecutionTimeOptionPassed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Service\\DeployStaticContentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMaxExecutionTimeOptionPassed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

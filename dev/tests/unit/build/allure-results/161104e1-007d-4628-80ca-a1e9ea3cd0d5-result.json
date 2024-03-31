@@ -1,0 +1,43 @@
+{
+    "uuid": "161104e1-007d-4628-80ca-a1e9ea3cd0d5",
+    "name": "Magento\\Framework\\Mail\\Test\\Unit\\AddressTest::testGetEmailEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074072,
+    "stop": 1711693074073,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2ce3754ade496db97467e5097e76ec81",
+    "testCaseId": "b8351dd06520087a50d652e5ade8fdf7",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Mail\\Test\\Unit\\AddressTest::testGetEmailEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Mail\\Test\\Unit\\AddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetEmailEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "b9ec79db-30e2-420a-94e5-48f31d708676",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\MakePersistentQuoteGuestObserverTest::testExecuteWhenShoppingCartIsNotPersist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032568,
+    "stop": 1711693032568,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dd9be1978e815d483e9af0695ccda95e",
+    "testCaseId": "f0bce7f96647a4c64359425656189423",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\MakePersistentQuoteGuestObserverTest::testExecuteWhenShoppingCartIsNotPersist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\MakePersistentQuoteGuestObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenShoppingCartIsNotPersist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "28fd09cb-b89a-47c9-9971-933ad7efeb59",
+    "name": "Magento\\Security\\Test\\Unit\\Model\\SecurityCookieTest::testDeleteLogoutReasonCookie",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041337,
+    "stop": 1711693041337,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c4b74d6b9503fb870bd186b9770db629",
+    "testCaseId": "6f5d87527b507076f1e39a43a0b1a854",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Model\\SecurityCookieTest::testDeleteLogoutReasonCookie",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Model\\SecurityCookieTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteLogoutReasonCookie"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "262c4d77-c043-4a70-8d21-fffa8e285a81",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Route\\ConfigInterface\\ProxyTest::testGetModulesByFrontName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058828,
+    "stop": 1711693058828,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a9d3b6903250d1007c7a0d308532e273",
+    "testCaseId": "80a1521e823c3435c04b7edaa1684a00",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Route\\ConfigInterface\\ProxyTest::testGetModulesByFrontName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Route\\ConfigInterface\\ProxyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetModulesByFrontName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "6d20e185-d56a-4f20-9582-91c61267c7ad",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\MongoDbTest::testGetIdsMatchingTags",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059218,
+    "stop": 1711693059218,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"getIdsMatchingTags() - multiple tags\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3e8b92cf1d83323c378bc5a1d9f2bfbc",
+    "testCaseId": "b2d8ddac7716b28ac90265bce7914b48",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\MongoDbTest::testGetIdsMatchingTags",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\MongoDbTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIdsMatchingTags"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

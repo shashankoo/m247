@@ -1,0 +1,50 @@
+{
+    "uuid": "e2bf1999-1329-48d7-80b8-d74f36245f29",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\ItemTest::testCalcRowTotal",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037579,
+    "stop": 1711693037581,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"qty 0\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "30d2dc6918058dd298085fa8084138fc",
+    "testCaseId": "03d0442a67cfe9ecd281a3afb2b10415",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\ItemTest::testCalcRowTotal",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCalcRowTotal"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

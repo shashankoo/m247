@@ -1,0 +1,50 @@
+{
+    "uuid": "4bac3a9f-6549-470e-8fba-a5caf2c2a529",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\TaxClass\\Source\\CustomerTest::testGetAllOptionsNameIntegrity",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042786,
+    "stop": 1711693042786,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4a672132e7ad3cc851938b1e2c1d1b63",
+    "testCaseId": "599aca363b2f95f8f64dcabf266ab3b1",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\TaxClass\\Source\\CustomerTest::testGetAllOptionsNameIntegrity",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\TaxClass\\Source\\CustomerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAllOptionsNameIntegrity"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

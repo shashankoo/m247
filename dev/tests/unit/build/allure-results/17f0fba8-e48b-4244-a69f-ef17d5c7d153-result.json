@@ -1,0 +1,50 @@
+{
+    "uuid": "17f0fba8-e48b-4244-a69f-ef17d5c7d153",
+    "name": "Magento\\Framework\\Mview\\Test\\Unit\\ViewTest::testIsEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074620,
+    "stop": 1711693074620,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a9da44c1665220ad152e966b211c35ae",
+    "testCaseId": "2141290d355b75ed572dda64b449fdb4",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Mview\\Test\\Unit\\ViewTest::testIsEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Mview\\Test\\Unit\\ViewTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

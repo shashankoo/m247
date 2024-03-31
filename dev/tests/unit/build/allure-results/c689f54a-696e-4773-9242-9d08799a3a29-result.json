@@ -1,0 +1,50 @@
+{
+    "uuid": "c689f54a-696e-4773-9242-9d08799a3a29",
+    "name": "Magento\\Customer\\Test\\Unit\\Helper\\ViewTest::testGetCustomerName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019861,
+    "stop": 1711693019862,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "af1c6113a62e3ea4e22c81d5ac85b70d",
+    "testCaseId": "2654a627e9c0c38948d94421123cf636",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Helper\\ViewTest::testGetCustomerName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Helper\\ViewTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCustomerName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "35bd9638-b28e-4870-ba26-bf97b3bb0c8a",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\RemoveGuestPersistenceOnEmptyCartObserverTest::testExecuteWithNonexistentCart",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032578,
+    "stop": 1711693032578,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2e0da3b166bc8e54691ef12af4414aab",
+    "testCaseId": "5ea4465e9cb7eb3b69c98121c7fe4ff4",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\RemoveGuestPersistenceOnEmptyCartObserverTest::testExecuteWithNonexistentCart",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\RemoveGuestPersistenceOnEmptyCartObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithNonexistentCart"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

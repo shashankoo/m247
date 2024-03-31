@@ -1,0 +1,43 @@
+{
+    "uuid": "4124b60c-0495-4c39-8dd4-2cd443ac8cd3",
+    "name": "Magento\\PageCache\\Test\\Unit\\Observer\\FlushAllCacheTest::testExecuteWithVarnish",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031297,
+    "stop": 1711693031298,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "698d10aeacfb4730b8fcffa0fd8848cd",
+    "testCaseId": "1a030f57004f4fc86538c9a7122f1ffb",
+    "rerunOf": null,
+    "fullName": "Magento\\PageCache\\Test\\Unit\\Observer\\FlushAllCacheTest::testExecuteWithVarnish",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\PageCache\\Test\\Unit\\Observer\\FlushAllCacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithVarnish"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

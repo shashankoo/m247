@@ -1,0 +1,50 @@
+{
+    "uuid": "b22dc101-f2fb-4c05-aa7d-e77254e3eeb1",
+    "name": "Magento\\Framework\\Pricing\\Test\\Unit\\Adjustment\\PoolTest::testGetAdjustmentByCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075187,
+    "stop": 1711693075187,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ff96866e3a41d13aa5af287edb405809",
+    "testCaseId": "07f308752e984df7a917b04701c8368e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Pricing\\Test\\Unit\\Adjustment\\PoolTest::testGetAdjustmentByCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Pricing\\Test\\Unit\\Adjustment\\PoolTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAdjustmentByCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

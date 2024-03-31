@@ -1,0 +1,50 @@
+{
+    "uuid": "aae236b9-6dba-43ba-ba36-ed9169cfef91",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\AbstractDataTest::testValidateInputRule",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020679,
+    "stop": 1711693020679,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#11",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f7c15a7baf3ea5bb41f0fb557e02c533",
+    "testCaseId": "a854d02475af5ba8952c4b5a5b2d4980",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\AbstractDataTest::testValidateInputRule",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\AbstractDataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateInputRule"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

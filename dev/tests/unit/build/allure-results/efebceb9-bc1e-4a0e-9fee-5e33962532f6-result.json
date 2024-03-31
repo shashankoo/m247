@@ -1,0 +1,43 @@
+{
+    "uuid": "efebceb9-bc1e-4a0e-9fee-5e33962532f6",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlTest::testSequentialTransactionsSuccess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070637,
+    "stop": 1711693070637,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "952d78e4b6029eacada44f2266beb6bb",
+    "testCaseId": "1d18fa04668e25395655867d60610602",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlTest::testSequentialTransactionsSuccess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSequentialTransactionsSuccess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

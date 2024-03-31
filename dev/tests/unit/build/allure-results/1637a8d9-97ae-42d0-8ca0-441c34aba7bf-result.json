@@ -1,0 +1,50 @@
+{
+    "uuid": "1637a8d9-97ae-42d0-8ca0-441c34aba7bf",
+    "name": "Magento\\Developer\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\WorkflowTypeTest::testRender",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021367,
+    "stop": 1711693021370,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "60de56cfe2a4c4188f286c42b8b8f5df",
+    "testCaseId": "7919862236a7b58390a39fdc39ee7d8d",
+    "rerunOf": null,
+    "fullName": "Magento\\Developer\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\WorkflowTypeTest::testRender",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Developer\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\WorkflowTypeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRender"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "342bce45-9b9b-4a30-95f4-b1dce46a29f2",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\AbstractAttributeTest::testGetOptionWhenOptionsAreEmptyWithSource",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022587,
+    "stop": 1711693022588,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a2672b001fac0478d544bb83b0f37468",
+    "testCaseId": "ce0392651cf4cc3b625f5e529c87f366",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\AbstractAttributeTest::testGetOptionWhenOptionsAreEmptyWithSource",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\AbstractAttributeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOptionWhenOptionsAreEmptyWithSource"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

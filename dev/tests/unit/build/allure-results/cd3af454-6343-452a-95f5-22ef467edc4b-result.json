@@ -1,0 +1,50 @@
+{
+    "uuid": "cd3af454-6343-452a-95f5-22ef467edc4b",
+    "name": "Magento\\Framework\\Reflection\\Test\\Unit\\ExtensionAttributesProcessorTest::testBuildOutputDataArrayWithPermission",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075426,
+    "stop": 1711693075428,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"permission allowed\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2d4f77db7f04b96f0de444f2eacd98ff",
+    "testCaseId": "55705ea285548400f7a9ce9a65bf8a4e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Reflection\\Test\\Unit\\ExtensionAttributesProcessorTest::testBuildOutputDataArrayWithPermission",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Reflection\\Test\\Unit\\ExtensionAttributesProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildOutputDataArrayWithPermission"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

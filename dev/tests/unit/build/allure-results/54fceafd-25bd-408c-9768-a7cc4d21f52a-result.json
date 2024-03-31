@@ -1,0 +1,43 @@
+{
+    "uuid": "54fceafd-25bd-408c-9768-a7cc4d21f52a",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Plugin\\ProductRepository\\TransactionWrapperTest::testAroundDeleteRollBack",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014877,
+    "stop": 1711693014878,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "971f543177abbfd7d1ed87bebbc4a27b",
+    "testCaseId": "7ff032cfc276996c204610521c1e14ed",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Plugin\\ProductRepository\\TransactionWrapperTest::testAroundDeleteRollBack",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Plugin\\ProductRepository\\TransactionWrapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundDeleteRollBack"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "cdf4786b-9d5b-445e-97af-390b91253c8c",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Hostedpro\\RequestTest::testSetAmountWithoutTaxZeroSubtotal",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032060,
+    "stop": 1711693032061,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "308c3e6e0d93bc1eafcc75ad93e48a16",
+    "testCaseId": "ae988f4074634bbc5847650d90484e95",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Hostedpro\\RequestTest::testSetAmountWithoutTaxZeroSubtotal",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Hostedpro\\RequestTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetAmountWithoutTaxZeroSubtotal"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

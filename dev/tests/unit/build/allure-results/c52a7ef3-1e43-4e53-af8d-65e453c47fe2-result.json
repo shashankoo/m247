@@ -1,0 +1,43 @@
+{
+    "uuid": "c52a7ef3-1e43-4e53-af8d-65e453c47fe2",
+    "name": "Magento\\Analytics\\Test\\Unit\\Model\\Config\\Backend\\Enabled\\SubscriptionHandlerTest::testProcessDisabledTokenDoesNotExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009038,
+    "stop": 1711693009038,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6947762de51552f8ba891605e2a25248",
+    "testCaseId": "d00fef60ca878a0d01d3456d892e0e5d",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Model\\Config\\Backend\\Enabled\\SubscriptionHandlerTest::testProcessDisabledTokenDoesNotExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Model\\Config\\Backend\\Enabled\\SubscriptionHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessDisabledTokenDoesNotExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

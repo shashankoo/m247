@@ -1,0 +1,50 @@
+{
+    "uuid": "d77ae925-a4b1-4c94-88ac-99fd6b86bd6b",
+    "name": "Magento\\OfflineShipping\\Test\\Unit\\Model\\ResourceModel\\Carrier\\Tablerate\\CSV\\RowParserTest::testParseWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031139,
+    "stop": 1711693031139,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "751fdee57a5014b0783033d0112bbd93",
+    "testCaseId": "f7525953ebe9e9e7ef0c62e7fba9c31b",
+    "rerunOf": null,
+    "fullName": "Magento\\OfflineShipping\\Test\\Unit\\Model\\ResourceModel\\Carrier\\Tablerate\\CSV\\RowParserTest::testParseWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\OfflineShipping\\Test\\Unit\\Model\\ResourceModel\\Carrier\\Tablerate\\CSV\\RowParserTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testParseWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

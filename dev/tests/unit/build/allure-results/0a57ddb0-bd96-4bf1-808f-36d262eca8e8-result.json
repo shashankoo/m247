@@ -1,0 +1,50 @@
+{
+    "uuid": "0a57ddb0-bd96-4bf1-808f-36d262eca8e8",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfig\\Writer\\PhpFormatterTest::testFormat",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057887,
+    "stop": 1711693057888,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9820862d4520f4b684341f123e6f81ed",
+    "testCaseId": "5563d7b63a7f09a8f4d817b12c6dafaa",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfig\\Writer\\PhpFormatterTest::testFormat",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfig\\Writer\\PhpFormatterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFormat"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

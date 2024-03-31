@@ -1,0 +1,43 @@
+{
+    "uuid": "571376a8-e3f6-4d6a-a9a8-76bed176990d",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\Column\\MultistoreTest::testIsDisplayedReturnsFalseInSingleStoreMode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009583,
+    "stop": 1711693009583,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "45835d3b38e289fb518eafef7f345e35",
+    "testCaseId": "3a2203cabf7d705f6d58db27ba4bba25",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\Column\\MultistoreTest::testIsDisplayedReturnsFalseInSingleStoreMode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\Column\\MultistoreTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsDisplayedReturnsFalseInSingleStoreMode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "cba876b7-a167-4a3f-90b2-090d85ec80ae",
+    "name": "Magento\\RemoteStorage\\Test\\Unit\\Setup\\ConfigOptionsListTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033376,
+    "stop": 1711693033376,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Remote Storage Missing Bucket\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5c375988df361c1ada604f5cf2375829",
+    "testCaseId": "44f15e5fed5fee6924d0ae7c6abf837b",
+    "rerunOf": null,
+    "fullName": "Magento\\RemoteStorage\\Test\\Unit\\Setup\\ConfigOptionsListTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\RemoteStorage\\Test\\Unit\\Setup\\ConfigOptionsListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

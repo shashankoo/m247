@@ -1,0 +1,50 @@
+{
+    "uuid": "213b61b3-b7ff-482e-9275-dcb8a3964fa6",
+    "name": "Magento\\Theme\\Test\\Unit\\ViewModel\\Block\\Html\\Header\\LogoSizeResolverTest::testGetHeight",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043834,
+    "stop": 1711693043834,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c2f34a1c8025d51cc314d49b30268e0a",
+    "testCaseId": "1795f66fb791ae6bccfde118769c62b6",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\ViewModel\\Block\\Html\\Header\\LogoSizeResolverTest::testGetHeight",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\ViewModel\\Block\\Html\\Header\\LogoSizeResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetHeight"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

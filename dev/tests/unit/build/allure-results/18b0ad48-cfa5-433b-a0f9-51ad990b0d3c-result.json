@@ -1,0 +1,50 @@
+{
+    "uuid": "18b0ad48-cfa5-433b-a0f9-51ad990b0d3c",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\RefundOrderTest::testOrderCreditmemo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693040162,
+    "stop": 1711693040165,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"TestWithNotifyFalse\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "37e0028e5e6fd39f0490328a3f4dddf5",
+    "testCaseId": "6a6862365af9a9276ef83cbafbc49c64",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\RefundOrderTest::testOrderCreditmemo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\RefundOrderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testOrderCreditmemo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

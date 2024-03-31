@@ -1,0 +1,50 @@
+{
+    "uuid": "3500fbe0-efcb-45d4-b6a8-3c3f3ac1651e",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\ErrorProcessing\\ProcessingErrorTest::testGetErrorLevel",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024734,
+    "stop": 1711693024734,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a2ce8b6b8efc49be4f04ec143744996a",
+    "testCaseId": "f77f8452270cb5d6ca1ac8fc0a844e47",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\ErrorProcessing\\ProcessingErrorTest::testGetErrorLevel",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\ErrorProcessing\\ProcessingErrorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetErrorLevel"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

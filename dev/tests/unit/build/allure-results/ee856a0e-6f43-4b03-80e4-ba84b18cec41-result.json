@@ -1,0 +1,43 @@
+{
+    "uuid": "ee856a0e-6f43-4b03-80e4-ba84b18cec41",
+    "name": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest::testRenderMsrpDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016144,
+    "stop": 1711693016151,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f688d6e05a6100bea70e57c037153b88",
+    "testCaseId": "4202afed085a15cf4dd6a3a643e55bc8",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest::testRenderMsrpDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRenderMsrpDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "d02846fb-3776-43ec-a7fe-fda6e8ded661",
+    "name": "Magento\\GroupedImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\GroupedTest::testSaveData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024263,
+    "stop": 1711693024264,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9b4475dbaa4f298948bf51e5becfc962",
+    "testCaseId": "752033b42486cad62c28ccf198cd2806",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\GroupedTest::testSaveData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\GroupedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

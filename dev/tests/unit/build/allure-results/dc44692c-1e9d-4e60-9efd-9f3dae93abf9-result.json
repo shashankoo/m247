@@ -1,0 +1,50 @@
+{
+    "uuid": "dc44692c-1e9d-4e60-9efd-9f3dae93abf9",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\CheckExpirePersistentQuoteObserverTest::testExecuteWhenPersistentIsEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032542,
+    "stop": 1711693032542,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "42065e68ac5f1d1954281a4c05c006f9",
+    "testCaseId": "1b1bc105a8647760d6bb4af9c0f8e79b",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\CheckExpirePersistentQuoteObserverTest::testExecuteWhenPersistentIsEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\CheckExpirePersistentQuoteObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenPersistentIsEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

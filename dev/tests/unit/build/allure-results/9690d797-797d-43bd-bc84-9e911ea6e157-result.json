@@ -1,0 +1,50 @@
+{
+    "uuid": "9690d797-797d-43bd-bc84-9e911ea6e157",
+    "name": "Magento\\Framework\\Model\\Test\\Unit\\ActionValidator\\RemoveActionTest::testIsAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074249,
+    "stop": 1711693074249,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "80b334f31eececb6dad1d34f8e1e22fc",
+    "testCaseId": "4d6334adc7c1661c3d68089d33f08a14",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Model\\Test\\Unit\\ActionValidator\\RemoveActionTest::testIsAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Model\\Test\\Unit\\ActionValidator\\RemoveActionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

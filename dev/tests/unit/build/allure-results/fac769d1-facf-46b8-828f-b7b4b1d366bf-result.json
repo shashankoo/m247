@@ -1,0 +1,43 @@
+{
+    "uuid": "fac769d1-facf-46b8-828f-b7b4b1d366bf",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Helper\\StockTest::testAddIsInStockFilterToCollection",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011925,
+    "stop": 1711693011931,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "fd05f84c0e92518e11fa129b9bab0ac6",
+    "testCaseId": "c2c341d5ff722cdcd9e3f797e59eed90",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Helper\\StockTest::testAddIsInStockFilterToCollection",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Helper\\StockTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddIsInStockFilterToCollection"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "5053697d-62c2-463b-9c7c-030a0c637a32",
+    "name": "Magento\\Integration\\Test\\Unit\\Oauth\\OauthTest::testValidateAccessTokenRequestTokenRejectedByType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030176,
+    "stop": 1711693030176,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "64f1f1e542f14c9aeeca35f5e19a9efc",
+    "testCaseId": "df3b5e4c4d362a1a1767361551f2c2cf",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Oauth\\OauthTest::testValidateAccessTokenRequestTokenRejectedByType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Oauth\\OauthTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateAccessTokenRequestTokenRejectedByType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

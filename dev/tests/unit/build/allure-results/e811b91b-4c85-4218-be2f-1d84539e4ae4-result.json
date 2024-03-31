@@ -1,0 +1,43 @@
+{
+    "uuid": "e811b91b-4c85-4218-be2f-1d84539e4ae4",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\ConnectionManagerTest::testGetConnectionFailure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023442,
+    "stop": 1711693023442,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "84c37af87026f3391e8a48954fc6ed6d",
+    "testCaseId": "06b38f1e50f26b6c59e4ba21a51a15d5",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\ConnectionManagerTest::testGetConnectionFailure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\ConnectionManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConnectionFailure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

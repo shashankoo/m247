@@ -1,0 +1,50 @@
+{
+    "uuid": "045a0583-bfeb-4f43-8b8d-92882e98e3df",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\CreditmemoSenderTest::testSend",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037799,
+    "stop": 1711693037799,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#6",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1ff3feef7e9c62bd24db9fd4a8fe098c",
+    "testCaseId": "54005e94a6324319cc5335368ebf9d51",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\CreditmemoSenderTest::testSend",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\CreditmemoSenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSend"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

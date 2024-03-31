@@ -1,0 +1,43 @@
+{
+    "uuid": "9a18ebb1-05f5-40a3-b716-6f8bfa3ba26c",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\CompositeTokenReaderTest::testCompositeReaderFailsWhenNoTokensFound",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030000,
+    "stop": 1711693030000,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0691609576231f033d161dcfa8c449f2",
+    "testCaseId": "03bc74643fa2b39ffb3ad3cb78760bd0",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\CompositeTokenReaderTest::testCompositeReaderFailsWhenNoTokensFound",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\CompositeTokenReaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCompositeReaderFailsWhenNoTokensFound"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

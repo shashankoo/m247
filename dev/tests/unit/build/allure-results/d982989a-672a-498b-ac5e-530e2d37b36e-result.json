@@ -1,0 +1,50 @@
+{
+    "uuid": "d982989a-672a-498b-ac5e-530e2d37b36e",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\AvsEmsCodeMapperTest::testGetCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032249,
+    "stop": 1711693032250,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#10",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "13cf8764c6f87f835d061339e418f8a9",
+    "testCaseId": "53d709bd3f46a0017ff3c505beeb7664",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\AvsEmsCodeMapperTest::testGetCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\AvsEmsCodeMapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

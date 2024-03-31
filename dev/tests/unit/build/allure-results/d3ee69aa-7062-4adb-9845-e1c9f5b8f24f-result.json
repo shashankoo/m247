@@ -1,0 +1,50 @@
+{
+    "uuid": "d3ee69aa-7062-4adb-9845-e1c9f5b8f24f",
+    "name": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\StatTest::testFetch",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075401,
+    "stop": 1711693075401,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2ecb93b538e4c4b3df75c82ec25a93d3",
+    "testCaseId": "0261cff94aec77e9283aad8cfea3097b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\StatTest::testFetch",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\StatTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFetch"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "c0a7af0d-e724-48dd-bc19-f411c0ce19f3",
+    "name": "Magento\\Framework\\Code\\Test\\Unit\\Validator\\ConstructorIntegrityTest::testValidateIfClassHasParentConstructCall",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069473,
+    "stop": 1711693069473,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a2536982c83ca8a9bb8129f40b28b4db",
+    "testCaseId": "abb020ef5f2c5dd6b7b292b9a1abc4ec",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Code\\Test\\Unit\\Validator\\ConstructorIntegrityTest::testValidateIfClassHasParentConstructCall",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Code\\Test\\Unit\\Validator\\ConstructorIntegrityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateIfClassHasParentConstructCall"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

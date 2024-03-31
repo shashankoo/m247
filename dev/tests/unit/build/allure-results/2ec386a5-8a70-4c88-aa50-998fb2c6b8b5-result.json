@@ -1,0 +1,43 @@
+{
+    "uuid": "2ec386a5-8a70-4c88-aa50-998fb2c6b8b5",
+    "name": "Magento\\User\\Test\\Unit\\Model\\Backend\\Config\\ObserverConfigTest::testIsPasswordChangeForcedFalse",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052964,
+    "stop": 1711693052964,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "89089a83528584b390b90ea8b9be56a4",
+    "testCaseId": "2fdc817afc5d0e6e40c5202f2e2d237a",
+    "rerunOf": null,
+    "fullName": "Magento\\User\\Test\\Unit\\Model\\Backend\\Config\\ObserverConfigTest::testIsPasswordChangeForcedFalse",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\User\\Test\\Unit\\Model\\Backend\\Config\\ObserverConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsPasswordChangeForcedFalse"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

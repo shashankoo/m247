@@ -1,0 +1,50 @@
+{
+    "uuid": "a2b3f8bb-1d61-449d-8dbb-a6bf3a2918b2",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Dictionary\\PhraseTest::testPhraseCreation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055915,
+    "stop": 1711693055916,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9f2da63c27299fc9910c2e0753b362d3",
+    "testCaseId": "6797960d53fb93cdd949280c2c86e7a5",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Dictionary\\PhraseTest::testPhraseCreation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Dictionary\\PhraseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPhraseCreation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

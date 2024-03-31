@@ -1,0 +1,43 @@
+{
+    "uuid": "6d271632-a4f6-4cfe-8281-1b1668e3dd86",
+    "name": "Magento\\Indexer\\Test\\Unit\\Model\\ResourceModel\\AbstractResourceTest::testClearTemporaryIndexTable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693028842,
+    "stop": 1711693028843,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "760a1346a10226004ea9ca1cd5592c90",
+    "testCaseId": "d6ce2f1319567f4aaac4142ef6622f87",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Model\\ResourceModel\\AbstractResourceTest::testClearTemporaryIndexTable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Model\\ResourceModel\\AbstractResourceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testClearTemporaryIndexTable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

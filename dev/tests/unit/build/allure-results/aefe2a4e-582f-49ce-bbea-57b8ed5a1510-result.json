@@ -1,0 +1,43 @@
+{
+    "uuid": "aefe2a4e-582f-49ce-bbea-57b8ed5a1510",
+    "name": "Magento\\Framework\\Interception\\Test\\Unit\\ObjectManager\\Config\\DeveloperTest::testGetInstanceTypeReturnsSimpleClassIfInterceptionConfigIsNotSet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073832,
+    "stop": 1711693073832,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e7437e7b4bb2aa65abea8aba2368ac77",
+    "testCaseId": "60e548bc83c894fe29a98871a7db7d8a",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Interception\\Test\\Unit\\ObjectManager\\Config\\DeveloperTest::testGetInstanceTypeReturnsSimpleClassIfInterceptionConfigIsNotSet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Interception\\Test\\Unit\\ObjectManager\\Config\\DeveloperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetInstanceTypeReturnsSimpleClassIfInterceptionConfigIsNotSet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

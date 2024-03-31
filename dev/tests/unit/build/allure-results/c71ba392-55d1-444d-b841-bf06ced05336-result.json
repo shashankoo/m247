@@ -1,0 +1,43 @@
+{
+    "uuid": "c71ba392-55d1-444d-b841-bf06ced05336",
+    "name": "Magento\\Framework\\File\\Test\\Unit\\Transfer\\Adapter\\HttpTest::testSendHeadRequest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073159,
+    "stop": 1711693073160,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "68ea4cf38dca92985a4f8fc15fc6e5b2",
+    "testCaseId": "1939a1681359d89868ac9c2b59a972a1",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\File\\Test\\Unit\\Transfer\\Adapter\\HttpTest::testSendHeadRequest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\File\\Test\\Unit\\Transfer\\Adapter\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSendHeadRequest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

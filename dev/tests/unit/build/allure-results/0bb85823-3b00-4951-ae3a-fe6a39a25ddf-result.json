@@ -1,0 +1,43 @@
+{
+    "uuid": "0bb85823-3b00-4951-ae3a-fe6a39a25ddf",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\InvoiceRepositoryTest::testGetNoId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037510,
+    "stop": 1711693037511,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "af3886e5b643a230e4e0863eed815798",
+    "testCaseId": "8c9bdc69278e81abab91ec8d86e7ae61",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\InvoiceRepositoryTest::testGetNoId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\InvoiceRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetNoId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "b0e1db34-cd41-4141-a7ec-14d2959d4654",
+    "name": "Magento\\CatalogRule\\Test\\Unit\\Plugin\\Indexer\\CategoryTest::testAfterSaveWithoutAffectedProductIds",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012518,
+    "stop": 1711693012519,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1914f6a34865b387023d5303a9b695cd",
+    "testCaseId": "e099f9654ba91f8dfadd7ab81552bd74",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogRule\\Test\\Unit\\Plugin\\Indexer\\CategoryTest::testAfterSaveWithoutAffectedProductIds",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogRule\\Test\\Unit\\Plugin\\Indexer\\CategoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSaveWithoutAffectedProductIds"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

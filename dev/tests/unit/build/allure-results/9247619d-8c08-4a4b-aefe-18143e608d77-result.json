@@ -1,0 +1,43 @@
+{
+    "uuid": "9247619d-8c08-4a4b-aefe-18143e608d77",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Controller\\Paypal\\PlaceOrderTest::testExecuteException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056127,
+    "stop": 1711693056127,
+    "status": "failed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Expectation failed for method name is \"addExceptionMessage\" when invoked 1 time(s)\nParameter 1 for invocation Magento\\Framework\\Message\\ManagerInterface::addExceptionMessage(InvalidArgumentException Object (...), null, null) does not match expected value.\nFailed asserting that null matches expected 'The order # cannot be processed.'.",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bf2cc0b8de934021589b095e9846776c",
+    "testCaseId": "4174c8ecf902bfde14b20253f8b260d3",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Controller\\Paypal\\PlaceOrderTest::testExecuteException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Controller\\Paypal\\PlaceOrderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

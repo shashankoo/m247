@@ -1,0 +1,50 @@
+{
+    "uuid": "4ec1810c-cc18-4b6d-bf3e-42d638154eaa",
+    "name": "Magento\\Framework\\Acl\\Test\\Unit\\AclResource\\Config\\MergedXsdTest::testSchemaCorrectlyIdentifiesInvalidXml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057507,
+    "stop": 1711693057508,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"without_title\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "74351e8f695c4fadf58929c83a7483d7",
+    "testCaseId": "666f46dcad7c5caae32cf3cf50c5db4b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Acl\\Test\\Unit\\AclResource\\Config\\MergedXsdTest::testSchemaCorrectlyIdentifiesInvalidXml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Acl\\Test\\Unit\\AclResource\\Config\\MergedXsdTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSchemaCorrectlyIdentifiesInvalidXml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "8d3e5b11-6934-499a-baa2-b36c75c155f8",
+    "name": "Magento\\Indexer\\Test\\Unit\\Controller\\Adminhtml\\Indexer\\MassInvalidateTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024937,
+    "stop": 1711693024937,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"set3\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ab5f95f3393a2d8eff64e6f0f3aaff93",
+    "testCaseId": "f0cfa39e45516d70308aae8756b08fff",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Controller\\Adminhtml\\Indexer\\MassInvalidateTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Controller\\Adminhtml\\Indexer\\MassInvalidateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

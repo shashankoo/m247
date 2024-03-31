@@ -1,0 +1,50 @@
+{
+    "uuid": "cd849314-9afa-4d53-babc-123aab5d7319",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest::testGetPathInfo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058731,
+    "stop": 1711693058731,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#7",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "31107b53b67e6dafb5c2d0f964703624",
+    "testCaseId": "99116ccdaf8a887a5eb5f1d1410d294c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest::testGetPathInfo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPathInfo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

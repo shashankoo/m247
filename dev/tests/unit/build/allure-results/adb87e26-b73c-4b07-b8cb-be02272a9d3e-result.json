@@ -1,0 +1,50 @@
+{
+    "uuid": "adb87e26-b73c-4b07-b8cb-be02272a9d3e",
+    "name": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\AbstractDbTest::testGetChecksum",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074277,
+    "stop": 1711693074278,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f5eef44e622ed552f7b265f94d861b37",
+    "testCaseId": "d3a99cf2d7c73f8d7ab66ceeca720c7b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\AbstractDbTest::testGetChecksum",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\AbstractDbTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetChecksum"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

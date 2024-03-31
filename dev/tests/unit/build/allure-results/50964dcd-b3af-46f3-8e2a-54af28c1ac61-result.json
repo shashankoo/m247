@@ -1,0 +1,43 @@
+{
+    "uuid": "50964dcd-b3af-46f3-8e2a-54af28c1ac61",
+    "name": "Magento\\Framework\\Filesystem\\Test\\Unit\\File\\ExcludeFilterTest::testExclusion",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073271,
+    "stop": 1711693073274,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7c01200c103609af5b316b0a82b2055c",
+    "testCaseId": "753895e9da257388717af212912c07bc",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filesystem\\Test\\Unit\\File\\ExcludeFilterTest::testExclusion",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filesystem\\Test\\Unit\\File\\ExcludeFilterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExclusion"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

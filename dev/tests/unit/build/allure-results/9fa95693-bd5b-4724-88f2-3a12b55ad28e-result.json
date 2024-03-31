@@ -1,0 +1,43 @@
+{
+    "uuid": "9fa95693-bd5b-4724-88f2-3a12b55ad28e",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Container\\ShipmentIdentityTest::testGetEmailCopyToEmptyResult",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037780,
+    "stop": 1711693037780,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d7a67a0733df0392ab157817a6a43a46",
+    "testCaseId": "8011489341ba4e916fb3ee144845bd82",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Container\\ShipmentIdentityTest::testGetEmailCopyToEmptyResult",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Container\\ShipmentIdentityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetEmailCopyToEmptyResult"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

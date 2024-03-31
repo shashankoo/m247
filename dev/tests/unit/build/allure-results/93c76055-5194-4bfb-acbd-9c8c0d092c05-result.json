@@ -1,0 +1,50 @@
+{
+    "uuid": "93c76055-5194-4bfb-acbd-9c8c0d092c05",
+    "name": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Order\\CollectionTest::testGetDateRangeFirstPart",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033521,
+    "stop": 1711693033522,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "deb6ff45b35a8f79ce8c536e58f5add3",
+    "testCaseId": "167d6ff8ea516a57511e9c8c5f189208",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Order\\CollectionTest::testGetDateRangeFirstPart",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Order\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDateRangeFirstPart"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

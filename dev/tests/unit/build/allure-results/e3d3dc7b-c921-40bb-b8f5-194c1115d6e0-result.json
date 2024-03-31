@@ -1,0 +1,50 @@
+{
+    "uuid": "e3d3dc7b-c921-40bb-b8f5-194c1115d6e0",
+    "name": "Magento\\CatalogRule\\Test\\Unit\\Model\\Indexer\\Product\\ProductRuleIndexerTest::testDoExecuteList",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012297,
+    "stop": 1711693012297,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "30bb49eabc763d6e58e1fe2b643a2f16",
+    "testCaseId": "801a0e1f293ae7685797a22bc71b596c",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogRule\\Test\\Unit\\Model\\Indexer\\Product\\ProductRuleIndexerTest::testDoExecuteList",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogRule\\Test\\Unit\\Model\\Indexer\\Product\\ProductRuleIndexerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDoExecuteList"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

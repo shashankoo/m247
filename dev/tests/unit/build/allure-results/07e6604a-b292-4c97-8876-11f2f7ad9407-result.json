@@ -1,0 +1,50 @@
+{
+    "uuid": "07e6604a-b292-4c97-8876-11f2f7ad9407",
+    "name": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\CreatePostTest::testSuccessMessage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019615,
+    "stop": 1711693019615,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Cannot be unit tested with the auto generated builder dependencies",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "be8737230d16a9ffe88591162c67a153",
+    "testCaseId": "179f5303a35f99408da9003556a25d3a",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\CreatePostTest::testSuccessMessage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\CreatePostTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSuccessMessage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

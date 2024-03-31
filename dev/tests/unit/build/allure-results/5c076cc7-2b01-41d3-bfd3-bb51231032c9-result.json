@@ -1,0 +1,43 @@
+{
+    "uuid": "5c076cc7-2b01-41d3-bfd3-bb51231032c9",
+    "name": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\SaveTest::testSaveActionExceptionOnIntegrationsCreatedFromConfigFile",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029831,
+    "stop": 1711693029832,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2e632a74726ed254348c7f84afbbcb59",
+    "testCaseId": "c4ef25a19a5d3105a18a33fb72de194b",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\SaveTest::testSaveActionExceptionOnIntegrationsCreatedFromConfigFile",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Controller\\Adminhtml\\Integration\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveActionExceptionOnIntegrationsCreatedFromConfigFile"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

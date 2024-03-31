@@ -1,0 +1,50 @@
+{
+    "uuid": "73aa749d-f532-47e8-950b-4ed0aa07d95f",
+    "name": "Magento\\Ui\\Test\\Unit\\Component\\Listing\\Columns\\ColumnTest::testSorting",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693049379,
+    "stop": 1711693049379,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "662588d751be27de12b87b03df27c649",
+    "testCaseId": "49e04abbe136948999f58ef2f2b70e57",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Component\\Listing\\Columns\\ColumnTest::testSorting",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Component\\Listing\\Columns\\ColumnTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSorting"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

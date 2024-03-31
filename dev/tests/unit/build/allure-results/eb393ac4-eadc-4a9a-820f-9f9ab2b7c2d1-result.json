@@ -1,0 +1,50 @@
+{
+    "uuid": "eb393ac4-eadc-4a9a-820f-9f9ab2b7c2d1",
+    "name": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\CategoryUrlPathAutogeneratorObserverTest::testShouldResetUrlPathAndUrlKeyIfUrlKeyIsUsingDefaultValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013159,
+    "stop": 1711693013159,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b6d4c7fbcb90eb4e632f40532450d5dd",
+    "testCaseId": "9983eed20721e5ec1a5a76648e6181dc",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\CategoryUrlPathAutogeneratorObserverTest::testShouldResetUrlPathAndUrlKeyIfUrlKeyIsUsingDefaultValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\CategoryUrlPathAutogeneratorObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testShouldResetUrlPathAndUrlKeyIfUrlKeyIsUsingDefaultValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

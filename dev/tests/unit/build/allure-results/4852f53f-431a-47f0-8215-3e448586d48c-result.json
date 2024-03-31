@@ -1,0 +1,43 @@
+{
+    "uuid": "4852f53f-431a-47f0-8215-3e448586d48c",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\Validation\\InvalidSkuProcessorTest::testRetrieveInvalidSkuList",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015280,
+    "stop": 1711693015281,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "17253eae1a33263159efafc48a50fbd7",
+    "testCaseId": "2053dc32d8036777e2d245170862e6b0",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\Validation\\InvalidSkuProcessorTest::testRetrieveInvalidSkuList",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Price\\Validation\\InvalidSkuProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRetrieveInvalidSkuList"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

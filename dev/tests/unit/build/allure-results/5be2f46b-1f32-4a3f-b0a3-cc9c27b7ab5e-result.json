@@ -1,0 +1,43 @@
+{
+    "uuid": "5be2f46b-1f32-4a3f-b0a3-cc9c27b7ab5e",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\Validator\\FileTest::testIsValidWithNegativeImageSizeY",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015169,
+    "stop": 1711693015169,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dac787198f9bf43e38d47c3f0affc320",
+    "testCaseId": "36159f87fab391aaddba0a72d6ed8901",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\Validator\\FileTest::testIsValidWithNegativeImageSizeY",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\Validator\\FileTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValidWithNegativeImageSizeY"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

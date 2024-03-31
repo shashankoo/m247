@@ -1,0 +1,43 @@
+{
+    "uuid": "a6c1fa45-c533-46c9-b362-86dd94bc3ea3",
+    "name": "Magento\\Catalog\\Test\\Unit\\Cron\\DeleteAbandonedStoreFlatTablesTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013994,
+    "stop": 1711693013996,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "40e8c5bf86ca3cb36e0605d1de137ffa",
+    "testCaseId": "e6d453fd49182ddbf1d2425ab0868bbe",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Cron\\DeleteAbandonedStoreFlatTablesTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Cron\\DeleteAbandonedStoreFlatTablesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

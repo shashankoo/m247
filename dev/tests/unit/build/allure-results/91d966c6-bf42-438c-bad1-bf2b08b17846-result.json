@@ -1,0 +1,50 @@
+{
+    "uuid": "91d966c6-bf42-438c-bad1-bf2b08b17846",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\AttributeTest::testGetBackendTypeByInput",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022737,
+    "stop": 1711693022737,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#12",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "01472b39d091f681a647cf27ca438639",
+    "testCaseId": "a5c03f9190dee9b5ec351ee17efcc684",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\AttributeTest::testGetBackendTypeByInput",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\AttributeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBackendTypeByInput"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

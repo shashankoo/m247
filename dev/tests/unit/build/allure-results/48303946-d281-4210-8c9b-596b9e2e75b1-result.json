@@ -1,0 +1,43 @@
+{
+    "uuid": "48303946-d281-4210-8c9b-596b9e2e75b1",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\ProcessorTest::testMarkIndexerAsInvalid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014549,
+    "stop": 1711693014550,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "aaa8c1daa2268612ac4a29a7101f2979",
+    "testCaseId": "b3dc93a0a8179f64192e7c00598562a2",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\ProcessorTest::testMarkIndexerAsInvalid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\ProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMarkIndexerAsInvalid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

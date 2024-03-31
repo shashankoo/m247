@@ -1,0 +1,50 @@
+{
+    "uuid": "23a0ac82-fd0d-4fd8-85c2-3bbb46a0a750",
+    "name": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest::testBasicClassName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075517,
+    "stop": 1711693075517,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "11d2c25ba3cbc01772b8fc5cc1ea170d",
+    "testCaseId": "36c9132bd1ef2268740ef5d3b08dfc91",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest::testBasicClassName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBasicClassName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

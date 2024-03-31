@@ -1,0 +1,43 @@
+{
+    "uuid": "4a0e290d-6633-4f6f-b308-c83626631946",
+    "name": "Magento\\Deploy\\Test\\Unit\\Model\\DeploymentConfig\\HashTest::testRegenerateWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021284,
+    "stop": 1711693021284,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4d48b8f27247600ed399ad0cf58a2e39",
+    "testCaseId": "96e3a6e115f84f4fee1654f55bcda5b0",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Model\\DeploymentConfig\\HashTest::testRegenerateWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Model\\DeploymentConfig\\HashTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRegenerateWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

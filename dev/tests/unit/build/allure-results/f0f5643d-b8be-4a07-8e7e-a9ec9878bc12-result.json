@@ -1,0 +1,43 @@
+{
+    "uuid": "f0f5643d-b8be-4a07-8e7e-a9ec9878bc12",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\EmulateQuoteObserverTest::testExecuteWhenCustomerLoggedIn",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032561,
+    "stop": 1711693032561,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "934aed20171599687e3a22c243d7a3e8",
+    "testCaseId": "2ea72d9ba03cb47973b7f386d9417f31",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\EmulateQuoteObserverTest::testExecuteWhenCustomerLoggedIn",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\EmulateQuoteObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenCustomerLoggedIn"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

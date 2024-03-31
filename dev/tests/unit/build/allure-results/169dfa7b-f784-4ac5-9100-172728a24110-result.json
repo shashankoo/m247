@@ -1,0 +1,50 @@
+{
+    "uuid": "169dfa7b-f784-4ac5-9100-172728a24110",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\TaxTest::testCollect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037663,
+    "stop": 1711693037664,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"collect_with_full_discount_product_price\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "82c6ef8d74cabd1480191adfbf16418a",
+    "testCaseId": "417b1372c13c9b3458f6a2923559f8fa",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\TaxTest::testCollect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\TaxTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

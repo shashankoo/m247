@@ -1,0 +1,50 @@
+{
+    "uuid": "c1507f3e-a876-40b2-aa14-fb2511e1f667",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest::testIsSafeMethodFalse",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058693,
+    "stop": 1711693058696,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Test 2\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "07f590d740ca23de4d911d5f0bf1ee32",
+    "testCaseId": "30ecc8be8ef9118af94030c4bed3a780",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest::testIsSafeMethodFalse",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsSafeMethodFalse"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

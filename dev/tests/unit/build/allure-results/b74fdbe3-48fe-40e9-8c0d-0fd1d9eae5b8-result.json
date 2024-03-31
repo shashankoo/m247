@@ -1,0 +1,50 @@
+{
+    "uuid": "b74fdbe3-48fe-40e9-8c0d-0fd1d9eae5b8",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Source\\Export\\EntityTest::testToOptionArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024771,
+    "stop": 1711693024772,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Empty Entity\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d9a4f4e60ae3219bcf12f9c6e5c5fdff",
+    "testCaseId": "e87b008e31fe2fdd211fc73c210a08af",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Source\\Export\\EntityTest::testToOptionArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Source\\Export\\EntityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToOptionArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

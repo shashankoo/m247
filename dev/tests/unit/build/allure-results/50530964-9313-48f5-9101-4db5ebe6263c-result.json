@@ -1,0 +1,43 @@
+{
+    "uuid": "50530964-9313-48f5-9101-4db5ebe6263c",
+    "name": "Magento\\Store\\Test\\Unit\\App\\FrontController\\Plugin\\RequestPreprocessorTest::testAroundDispatchIfRedirectCodeNotExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041759,
+    "stop": 1711693041761,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "feedd7f240f5382f9fb36e6f73359489",
+    "testCaseId": "2d58cd6498d6449acaa55169114b4077",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\App\\FrontController\\Plugin\\RequestPreprocessorTest::testAroundDispatchIfRedirectCodeNotExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\App\\FrontController\\Plugin\\RequestPreprocessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundDispatchIfRedirectCodeNotExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

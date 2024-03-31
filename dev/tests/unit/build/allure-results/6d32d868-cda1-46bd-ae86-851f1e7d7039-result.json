@@ -1,0 +1,43 @@
+{
+    "uuid": "6d32d868-cda1-46bd-ae86-851f1e7d7039",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\ShippingTest::testCollectException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037631,
+    "stop": 1711693037633,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6b3b26aa264f271ea5901de817a63f01",
+    "testCaseId": "9a7aa80da574ea2a37b4e96a62ea5988",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\ShippingTest::testCollectException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\ShippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

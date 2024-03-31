@@ -1,0 +1,43 @@
+{
+    "uuid": "a1875952-e9d5-4cd8-897c-4e271b2fb764",
+    "name": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest::testNotSalableItem",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016152,
+    "stop": 1711693016154,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ac530caefe62b88789ea905a0b174799",
+    "testCaseId": "4ff4daaded205f4252e0f83aa3c7c163",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest::testNotSalableItem",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testNotSalableItem"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

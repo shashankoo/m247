@@ -1,0 +1,43 @@
+{
+    "uuid": "f8076f7a-46b3-4e04-81da-b14183d3650d",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\ShardingTest::testGetResources",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076496,
+    "stop": 1711693076496,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "23365fbd791af36bd43778cb98c52242",
+    "testCaseId": "fac7643be0ae1f8b9fb7069c71e5d3b1",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\ShardingTest::testGetResources",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\ShardingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetResources"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

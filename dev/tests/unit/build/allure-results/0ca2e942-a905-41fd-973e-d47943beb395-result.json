@@ -1,0 +1,50 @@
+{
+    "uuid": "0ca2e942-a905-41fd-973e-d47943beb395",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Query\\ValueTransformer\\IntegerTransformerTest::testIntegerTransform",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023582,
+    "stop": 1711693023582,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "00ce12ba8ad66417156889e0a3885def",
+    "testCaseId": "f332cedda6fe729182f06798641001d8",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Query\\ValueTransformer\\IntegerTransformerTest::testIntegerTransform",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Query\\ValueTransformer\\IntegerTransformerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIntegerTransform"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

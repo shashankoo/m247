@@ -1,0 +1,43 @@
+{
+    "uuid": "1e9a1ae9-3851-4996-9f83-c32aedd08709",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlFactoryTest::testCreateInvalidClass",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070599,
+    "stop": 1711693070599,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "31d29e6af337f169f32f699e047d3008",
+    "testCaseId": "04fb6043165454285ff098b36aa2a2dc",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlFactoryTest::testCreateInvalidClass",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\Adapter\\Pdo\\MysqlFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateInvalidClass"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "053fb919-1480-4200-8bf8-8bfbe547d3f5",
+    "name": "Magento\\Security\\Test\\Unit\\Controller\\Adminhtml\\Session\\LogoutAllTest::testExecuteException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041248,
+    "stop": 1711693041249,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "98ca5c435da5ec817aa8ff9cc5575d07",
+    "testCaseId": "c4dcdc5e3b12a8309aa1b20810abe56b",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Controller\\Adminhtml\\Session\\LogoutAllTest::testExecuteException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Controller\\Adminhtml\\Session\\LogoutAllTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

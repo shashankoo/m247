@@ -1,0 +1,43 @@
+{
+    "uuid": "dd9f4cc2-9c05-42ad-bb19-5a89948b3496",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testGetMediaAttributeValues",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015716,
+    "stop": 1711693015717,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getStockItem\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "90b70ab1b199c20c033f60d490fc957f",
+    "testCaseId": "7364a7975609036711a675369d9c1204",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testGetMediaAttributeValues",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMediaAttributeValues"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

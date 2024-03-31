@@ -1,0 +1,43 @@
+{
+    "uuid": "819a0bba-44b5-4f1c-9339-81d86fcfc423",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Create\\ReorderTest::testExecuteRedirectNewOrder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036931,
+    "stop": 1711693036932,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7339fb307b534a294f2062285496d0fe",
+    "testCaseId": "e9bff2583f9b327671029b75a9990df0",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Create\\ReorderTest::testExecuteRedirectNewOrder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Create\\ReorderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteRedirectNewOrder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "91b90fd6-3e79-42f1-9886-feb0c57ce721",
+    "name": "Magento\\Analytics\\Test\\Unit\\Cron\\CollectDataTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009017,
+    "stop": 1711693009017,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Subscription is disabled\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2f05181213fd6439ff5ecad53e95fef8",
+    "testCaseId": "103b5bf5d0fe5715be1e320b190fbb58",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Cron\\CollectDataTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Cron\\CollectDataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

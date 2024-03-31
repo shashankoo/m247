@@ -1,0 +1,50 @@
+{
+    "uuid": "d60c0457-5de0-444b-9953-08bfe8915233",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Helper\\DownloadTest::testGetContentTypeThroughHelper",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021945,
+    "stop": 1711693021945,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8fc7ccd093f411069f91df424a1c255f",
+    "testCaseId": "cab38192c0d3afa9fac7f04fe0dd959b",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Helper\\DownloadTest::testGetContentTypeThroughHelper",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Helper\\DownloadTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetContentTypeThroughHelper"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

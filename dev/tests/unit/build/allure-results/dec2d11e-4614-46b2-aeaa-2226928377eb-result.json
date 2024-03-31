@@ -1,0 +1,43 @@
+{
+    "uuid": "dec2d11e-4614-46b2-aeaa-2226928377eb",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TypeTest::testGetPriceInfo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015373,
+    "stop": 1711693015374,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "06bf48df614518598120a573b923556d",
+    "testCaseId": "173de306f86e6d1194cff7b9567c047f",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TypeTest::testGetPriceInfo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TypeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPriceInfo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

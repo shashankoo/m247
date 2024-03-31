@@ -1,0 +1,43 @@
+{
+    "uuid": "0f9ffde8-3122-48cb-aede-b8e45b5fcadd",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\FieldMapperResolverTest::testGetFieldNameEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023220,
+    "stop": 1711693023220,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "44d558e1b4c66b384c2db69231b4b56f",
+    "testCaseId": "4fb7350acb860c8140f75219bb1b18f6",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\FieldMapperResolverTest::testGetFieldNameEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\FieldMapperResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFieldNameEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

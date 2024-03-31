@@ -1,0 +1,43 @@
+{
+    "uuid": "dc28e845-667e-4017-94ea-45d9daa20c29",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Setup\\InstallConfigTest::testConfigureWithEmptyInput",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023591,
+    "stop": 1711693023591,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dfc9b3fc95e80139417c0828806d0ec8",
+    "testCaseId": "c2e5658275e7ab4ba55298bea5f8be1d",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Setup\\InstallConfigTest::testConfigureWithEmptyInput",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Setup\\InstallConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConfigureWithEmptyInput"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

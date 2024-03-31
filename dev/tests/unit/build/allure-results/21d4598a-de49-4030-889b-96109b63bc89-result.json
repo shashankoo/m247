@@ -1,0 +1,50 @@
+{
+    "uuid": "21d4598a-de49-4030-889b-96109b63bc89",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\SensitiveCookieMetadataTest::testGetSecure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076678,
+    "stop": 1711693076679,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"with secure\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "66286b6a4d55f8d51513acbcdbc3cb40",
+    "testCaseId": "1e198384c1dc7d040b41168c5cff8398",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\SensitiveCookieMetadataTest::testGetSecure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\Cookie\\SensitiveCookieMetadataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSecure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

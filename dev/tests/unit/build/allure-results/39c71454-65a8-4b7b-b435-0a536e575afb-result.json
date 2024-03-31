@@ -1,0 +1,50 @@
+{
+    "uuid": "39c71454-65a8-4b7b-b435-0a536e575afb",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\ErrorHandlerTest::testHandlerException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058113,
+    "stop": 1711693058113,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#15",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d4ffc3639ea30815f928c710e2529f6f",
+    "testCaseId": "c03cc4c7f1dd31ef8169152003af545d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\ErrorHandlerTest::testHandlerException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\ErrorHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testHandlerException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

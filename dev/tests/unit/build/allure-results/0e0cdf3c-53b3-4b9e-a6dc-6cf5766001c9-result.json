@@ -1,0 +1,43 @@
+{
+    "uuid": "0e0cdf3c-53b3-4b9e-a6dc-6cf5766001c9",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\StockStatusRepositoryTest::testSaveException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012149,
+    "stop": 1711693012150,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d373b1269f71fed7b5bb6e6d1b098aec",
+    "testCaseId": "d50bc5e6876f0ce95a3ee52ff5cf0ad2",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\StockStatusRepositoryTest::testSaveException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\StockStatusRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

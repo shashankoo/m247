@@ -1,0 +1,50 @@
+{
+    "uuid": "77454a1e-b358-474b-96c6-be685b2a448d",
+    "name": "Magento\\RemoteStorage\\Test\\Unit\\Plugin\\ImageTest::testAroundSaveWithNewName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033368,
+    "stop": 1711693033368,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"with_old_name\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "eac0f84019df60babb30174a35153ade",
+    "testCaseId": "83bede0bb9ae08540a7782c509433845",
+    "rerunOf": null,
+    "fullName": "Magento\\RemoteStorage\\Test\\Unit\\Plugin\\ImageTest::testAroundSaveWithNewName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\RemoteStorage\\Test\\Unit\\Plugin\\ImageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundSaveWithNewName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

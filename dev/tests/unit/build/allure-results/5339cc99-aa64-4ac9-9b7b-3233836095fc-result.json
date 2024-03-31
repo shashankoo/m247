@@ -1,0 +1,50 @@
+{
+    "uuid": "5339cc99-aa64-4ac9-9b7b-3233836095fc",
+    "name": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\CatalogEavValidationRulesTest::testBuild",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016250,
+    "stop": 1711693016250,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "732a16c36f8850ffc0f1b685ee5ba2bc",
+    "testCaseId": "efc4c6481073d2425cb9369461a0181f",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\CatalogEavValidationRulesTest::testBuild",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\CatalogEavValidationRulesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuild"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

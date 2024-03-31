@@ -1,0 +1,50 @@
+{
+    "uuid": "40d3176d-a86f-4362-a383-b61dc312f763",
+    "name": "Magento\\Payment\\Test\\Unit\\Model\\Checks\\CanUseForCountryTest::testIsApplicable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031616,
+    "stop": 1711693031616,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ae3a0e06a52627ce4587f7808ea38cd1",
+    "testCaseId": "42d6feaec3c45108a6c2940b68843626",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Model\\Checks\\CanUseForCountryTest::testIsApplicable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Model\\Checks\\CanUseForCountryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsApplicable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

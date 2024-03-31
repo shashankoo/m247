@@ -1,0 +1,43 @@
+{
+    "uuid": "4028ab68-7533-43f6-bc93-01236a29f0da",
+    "name": "Magento\\Checkout\\Test\\Unit\\CustomerData\\CartTest::testIsGuestCheckoutAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016763,
+    "stop": 1711693016764,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "aa768b3d96ea5d270a1f57fcc6f9fc43",
+    "testCaseId": "5b111c5116ce44deedc84b1bf78101f5",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\CustomerData\\CartTest::testIsGuestCheckoutAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\CustomerData\\CartTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsGuestCheckoutAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

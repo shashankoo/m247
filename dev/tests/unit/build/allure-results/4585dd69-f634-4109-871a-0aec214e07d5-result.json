@@ -1,0 +1,43 @@
+{
+    "uuid": "4585dd69-f634-4109-871a-0aec214e07d5",
+    "name": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\ConfigImportCommandTest::testExecuteWithDeploymentConfigNotAvailable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021219,
+    "stop": 1711693021219,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "900ecebb5642c236aee1811a1cd11c5e",
+    "testCaseId": "63c0a9579cd797525e08862a742db13a",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\ConfigImportCommandTest::testExecuteWithDeploymentConfigNotAvailable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\ConfigImportCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithDeploymentConfigNotAvailable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

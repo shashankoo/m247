@@ -1,0 +1,43 @@
+{
+    "uuid": "227f7976-78d3-4283-9a34-61c9e090781c",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\Validator\\SelectTest::testIsValidateWithEmptyValues",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015178,
+    "stop": 1711693015179,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "147b8a89aa265452935e442cc75f4909",
+    "testCaseId": "a79c2028821357fec967ef0f78411313",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\Validator\\SelectTest::testIsValidateWithEmptyValues",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\Validator\\SelectTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValidateWithEmptyValues"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

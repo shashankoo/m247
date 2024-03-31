@@ -1,0 +1,43 @@
+{
+    "uuid": "fa925b5a-d19b-40bb-8be9-fd28f41a48de",
+    "name": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\HttpTest::testFileOpenInvalidUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073263,
+    "stop": 1711693073263,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3f8b545a28f0ea0601e3c6a0dbe9905e",
+    "testCaseId": "046be540c9b6fce05aa82922820b01ec",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\HttpTest::testFileOpenInvalidUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFileOpenInvalidUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

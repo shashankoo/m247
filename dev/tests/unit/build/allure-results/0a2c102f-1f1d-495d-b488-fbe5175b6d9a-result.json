@@ -1,0 +1,43 @@
+{
+    "uuid": "0a2c102f-1f1d-495d-b488-fbe5175b6d9a",
+    "name": "Magento\\Cookie\\Test\\Unit\\Model\\Config\\Backend\\PathTest::testBeforeSaveException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018847,
+    "stop": 1711693018849,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c996a3f8a993378206afe4701a4d07da",
+    "testCaseId": "6d61e385fbb5d45faea6295da994abb1",
+    "rerunOf": null,
+    "fullName": "Magento\\Cookie\\Test\\Unit\\Model\\Config\\Backend\\PathTest::testBeforeSaveException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cookie\\Test\\Unit\\Model\\Config\\Backend\\PathTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSaveException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

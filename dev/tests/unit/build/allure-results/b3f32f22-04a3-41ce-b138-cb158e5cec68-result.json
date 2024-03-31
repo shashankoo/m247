@@ -1,0 +1,50 @@
+{
+    "uuid": "b3f32f22-04a3-41ce-b138-cb158e5cec68",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Setup\\ResourceConfigTest::testGetConnectionName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056046,
+    "stop": 1711693056046,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"blankResourceName\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8930b2e1c379620538e1c83fe59c12fd",
+    "testCaseId": "bf17432479fe2c1d2530311da114d5d1",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Setup\\ResourceConfigTest::testGetConnectionName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Setup\\ResourceConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConnectionName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

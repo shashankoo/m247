@@ -1,0 +1,50 @@
+{
+    "uuid": "962de0fa-3018-4b18-b096-e12b5057cd30",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\File\\Collector\\Override\\BaseTest::testGetFiles",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077776,
+    "stop": 1711693077777,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8ee04afd01501279fd4741cd44b39198",
+    "testCaseId": "b3cf156e97750da30ec6134b463076be",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\File\\Collector\\Override\\BaseTest::testGetFiles",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\File\\Collector\\Override\\BaseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFiles"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

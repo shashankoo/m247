@@ -1,0 +1,43 @@
+{
+    "uuid": "47f08002-3d09-4fd9-92c8-1890682e2b34",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\FormTest::testGetOrderDataJson",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036400,
+    "stop": 1711693036526,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "181ddefaf00deb2c5ae2eb5d800665ed",
+    "testCaseId": "41de6ef61f448faef1b3a8b86d4b1e7e",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\FormTest::testGetOrderDataJson",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\FormTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOrderDataJson"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "2fc28338-28ac-4d13-996b-d780be92c551",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\HeaderProvider\\HstsTest::testCanApply",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041865,
+    "stop": 1711693041865,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "320a88473b181fea53be8a6fa1e340ed",
+    "testCaseId": "0087bfb74a7f4895b72a0e89e0e8fe29",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\HeaderProvider\\HstsTest::testCanApply",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\HeaderProvider\\HstsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanApply"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

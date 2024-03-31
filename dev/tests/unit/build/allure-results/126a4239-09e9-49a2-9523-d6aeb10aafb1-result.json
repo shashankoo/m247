@@ -1,0 +1,50 @@
+{
+    "uuid": "126a4239-09e9-49a2-9523-d6aeb10aafb1",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\CategoryLinkTest::testSaveCategoryLinks",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015877,
+    "stop": 1711693015877,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b4c6c433ca0e609b5a0fb7b4013b236f",
+    "testCaseId": "7bdd74e51969050763799dbe04f64566",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\CategoryLinkTest::testSaveCategoryLinks",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\CategoryLinkTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveCategoryLinks"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

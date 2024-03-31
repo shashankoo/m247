@@ -1,0 +1,50 @@
+{
+    "uuid": "c7dd3919-8131-4e6e-bd0e-73b9c4f09af6",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\EditorTest::testIsEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071014,
+    "stop": 1711693071014,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Global enabled, attribute isnt set\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e168a011a707e04e59675668624e2d49",
+    "testCaseId": "1feeb3ce59f05c7d097e6f9270e31938",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\EditorTest::testIsEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\EditorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

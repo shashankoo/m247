@@ -1,0 +1,50 @@
+{
+    "uuid": "c8e98b0b-e526-463a-bcaf-9e9f1b1e2469",
+    "name": "Magento\\Framework\\Test\\Unit\\EscaperTest::testEscapeHtml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056600,
+    "stop": 1711693056600,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"text with allowed and not allowed tags, with allowed and not allowed attributes\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ab5f440bc7e77e0815483f524d34c048",
+    "testCaseId": "e0ca12445d3600351d471cfd029bac89",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\EscaperTest::testEscapeHtml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\EscaperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEscapeHtml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

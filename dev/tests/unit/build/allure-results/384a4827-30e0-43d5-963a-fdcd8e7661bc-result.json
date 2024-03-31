@@ -1,0 +1,50 @@
+{
+    "uuid": "384a4827-30e0-43d5-963a-fdcd8e7661bc",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Express\\LocaleResolverTest::testGetLocale",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032035,
+    "stop": 1711693032035,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3a1fd864386b349110a885f13057c990",
+    "testCaseId": "bff224c72682b4d668e8144b5682c490",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Express\\LocaleResolverTest::testGetLocale",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Express\\LocaleResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLocale"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "1d832860-8bb2-45fb-bcf8-3a1d0985197c",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testReloadPriceInfo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015690,
+    "stop": 1711693015691,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getStockItem\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "19f9570d2b5b679abfaf40880ec26428",
+    "testCaseId": "cf02dabe547402e3be665c411740e27c",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testReloadPriceInfo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReloadPriceInfo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

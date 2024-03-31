@@ -1,0 +1,50 @@
+{
+    "uuid": "483f138c-fed0-481f-8255-add3977b4ab2",
+    "name": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Type\\GroupedTest::testPrepareForCartAdvancedWithProductsStrictTrue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024399,
+    "stop": 1711693024401,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a544b0c71ef15e2a9504403a3d939212",
+    "testCaseId": "016072940bdffb350fa342a330243734",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Type\\GroupedTest::testPrepareForCartAdvancedWithProductsStrictTrue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Type\\GroupedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareForCartAdvancedWithProductsStrictTrue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "8bd922e1-60e2-440c-974b-0378e6b6a2b8",
+    "name": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleEnableDisableCommandTest::testExecuteDisableInvalidModule",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054868,
+    "stop": 1711693054868,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "39b7d99a2bf133cd60f1a0596713c6b4",
+    "testCaseId": "ba0ad9393639fb6b4ede2241b5c0c20b",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleEnableDisableCommandTest::testExecuteDisableInvalidModule",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleEnableDisableCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteDisableInvalidModule"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

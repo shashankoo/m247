@@ -1,0 +1,43 @@
+{
+    "uuid": "fca21984-5405-4ea9-9f1a-720bfa778bf5",
+    "name": "Magento\\ProductVideo\\Test\\Unit\\Model\\Product\\Attribute\\Media\\ExternalVideoEntryConverterTest::testConvertFrom",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032669,
+    "stop": 1711693032669,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"setVideoContent\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductAttributeMediaGalleryEntryExtension\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1eba9ef8c75d67217f511bf9ecf257eb",
+    "testCaseId": "a9390fec594a86e61eb5c92db7bbe8ab",
+    "rerunOf": null,
+    "fullName": "Magento\\ProductVideo\\Test\\Unit\\Model\\Product\\Attribute\\Media\\ExternalVideoEntryConverterTest::testConvertFrom",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ProductVideo\\Test\\Unit\\Model\\Product\\Attribute\\Media\\ExternalVideoEntryConverterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvertFrom"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

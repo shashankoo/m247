@@ -1,0 +1,43 @@
+{
+    "uuid": "c9d6ef45-efa2-45e3-b5c3-91dab8eecb8b",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Plugin\\ProductRepository\\TransactionWrapperTest::testAroundDeleteByIdRollBack",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014879,
+    "stop": 1711693014879,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "29c2d9e22f341cfa288321c2f9dafeb7",
+    "testCaseId": "d83f44f551e65b010d0e2275eb60d2ce",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Plugin\\ProductRepository\\TransactionWrapperTest::testAroundDeleteByIdRollBack",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Plugin\\ProductRepository\\TransactionWrapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundDeleteByIdRollBack"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

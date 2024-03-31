@@ -1,0 +1,50 @@
+{
+    "uuid": "c1058b6c-5299-4bc8-823d-a55b22c92d0d",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Api\\NvpTest::testCallGetExpressCheckoutDetails",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031950,
+    "stop": 1711693031950,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8c7644499be360e362cb6125568876fe",
+    "testCaseId": "02a2a6886b8728816b6570a09807c3aa",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Api\\NvpTest::testCallGetExpressCheckoutDetails",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Api\\NvpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCallGetExpressCheckoutDetails"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "a3449259-9ddd-402b-932c-d2e68312dfc0",
+    "name": "Magento\\Integration\\Test\\Unit\\Helper\\Oauth\\OauthTest::testGenerateVerifier",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029991,
+    "stop": 1711693029991,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c85f528812725513533acbd4da35cd78",
+    "testCaseId": "05f6a5fc61ad1f977014e06404d61ed5",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Helper\\Oauth\\OauthTest::testGenerateVerifier",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Helper\\Oauth\\OauthTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerateVerifier"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

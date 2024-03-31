@@ -1,0 +1,43 @@
+{
+    "uuid": "5ddadfb3-f21e-4f2c-9b1f-399f00f0e1a4",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\Sales\\Total\\Quote\\SubtotalTest::testCollectEmptyAddresses",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042730,
+    "stop": 1711693042732,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6cf70b6e8b3f8439c3826504a33a352c",
+    "testCaseId": "0c73e844a4e899b77fc4cb5ed1c9e761",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\Sales\\Total\\Quote\\SubtotalTest::testCollectEmptyAddresses",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\Sales\\Total\\Quote\\SubtotalTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectEmptyAddresses"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

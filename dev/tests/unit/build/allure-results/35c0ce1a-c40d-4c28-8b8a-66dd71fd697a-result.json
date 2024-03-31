@@ -1,0 +1,43 @@
+{
+    "uuid": "35c0ce1a-c40d-4c28-8b8a-66dd71fd697a",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Consumer\\Validator\\KeyLengthTest::testIsValidLong",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030095,
+    "stop": 1711693030095,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2ada5818a977c1cea211a7886f1c78b6",
+    "testCaseId": "2e65480f513bf91096e32b8cdd90b4f9",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Consumer\\Validator\\KeyLengthTest::testIsValidLong",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Consumer\\Validator\\KeyLengthTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValidLong"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

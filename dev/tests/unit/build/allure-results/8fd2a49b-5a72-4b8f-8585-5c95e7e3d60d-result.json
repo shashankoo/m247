@@ -1,0 +1,43 @@
+{
+    "uuid": "8fd2a49b-5a72-4b8f-8585-5c95e7e3d60d",
+    "name": "Magento\\Msrp\\Test\\Unit\\Observer\\Frontend\\Quote\\SetCanApplyMsrpObserverTest::testSetQuoteCanApplyMsrpIfMsrpDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030539,
+    "stop": 1711693030539,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dd5dd804ad905929afded9c6c7d4f89e",
+    "testCaseId": "865b526a6b06fb799fc83091e315b0f4",
+    "rerunOf": null,
+    "fullName": "Magento\\Msrp\\Test\\Unit\\Observer\\Frontend\\Quote\\SetCanApplyMsrpObserverTest::testSetQuoteCanApplyMsrpIfMsrpDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Msrp\\Test\\Unit\\Observer\\Frontend\\Quote\\SetCanApplyMsrpObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetQuoteCanApplyMsrpIfMsrpDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

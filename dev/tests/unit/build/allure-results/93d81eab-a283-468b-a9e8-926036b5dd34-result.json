@@ -1,0 +1,50 @@
+{
+    "uuid": "93d81eab-a283-468b-a9e8-926036b5dd34",
+    "name": "Magento\\Theme\\Test\\Unit\\Console\\Command\\ThemeUninstallCommandTest::testExecuteWrongThemeFormat",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042928,
+    "stop": 1711693042928,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#8",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8090b1f0b0a197882708cf556264b11a",
+    "testCaseId": "e055895a8c2a64669b915892bf786132",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Console\\Command\\ThemeUninstallCommandTest::testExecuteWrongThemeFormat",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Console\\Command\\ThemeUninstallCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWrongThemeFormat"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

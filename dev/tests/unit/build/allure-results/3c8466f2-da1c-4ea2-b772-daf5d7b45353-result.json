@@ -1,0 +1,50 @@
+{
+    "uuid": "3c8466f2-da1c-4ea2-b772-daf5d7b45353",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Renderer\\RegionTest::testRender",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020961,
+    "stop": 1711693020962,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"with no defined regions\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "535ca84c4f5a3149e3f52fe3cd22abe1",
+    "testCaseId": "1c9ed9744c4d8fc2c7953b9f7ddaa228",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Renderer\\RegionTest::testRender",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Renderer\\RegionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRender"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

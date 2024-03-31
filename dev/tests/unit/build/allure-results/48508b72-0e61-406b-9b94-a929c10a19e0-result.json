@@ -1,0 +1,50 @@
+{
+    "uuid": "48508b72-0e61-406b-9b94-a929c10a19e0",
+    "name": "Magento\\Cms\\Test\\Unit\\Helper\\Wysiwyg\\ImagesTest::testGetShortFilename",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017264,
+    "stop": 1711693017264,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6efeb85d452373b8d5463d4a5dfaa4a4",
+    "testCaseId": "d48b13fe07a78f7426e91514b447fc1b",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Helper\\Wysiwyg\\ImagesTest::testGetShortFilename",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Helper\\Wysiwyg\\ImagesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetShortFilename"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

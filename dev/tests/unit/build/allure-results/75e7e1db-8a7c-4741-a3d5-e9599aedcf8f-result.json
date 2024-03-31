@@ -1,0 +1,43 @@
+{
+    "uuid": "75e7e1db-8a7c-4741-a3d5-e9599aedcf8f",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\AttributeMetadataCacheTest::testLoadNoCache",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020624,
+    "stop": 1711693020625,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ae0b7cdf315c954b71aef9e083fd45bf",
+    "testCaseId": "22bf3ee4c8f26d6807ac3516f9017435",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\AttributeMetadataCacheTest::testLoadNoCache",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\AttributeMetadataCacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLoadNoCache"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

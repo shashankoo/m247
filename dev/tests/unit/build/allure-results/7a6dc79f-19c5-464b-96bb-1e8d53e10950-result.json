@@ -1,0 +1,43 @@
+{
+    "uuid": "7a6dc79f-19c5-464b-96bb-1e8d53e10950",
+    "name": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\ContextTest::testGetStockRegistry",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013569,
+    "stop": 1711693013570,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "985839a015b99b49526aa816f88e8abe",
+    "testCaseId": "536d0b41336781fe4ac3c2c0a343c38f",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\ContextTest::testGetStockRegistry",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\ContextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStockRegistry"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

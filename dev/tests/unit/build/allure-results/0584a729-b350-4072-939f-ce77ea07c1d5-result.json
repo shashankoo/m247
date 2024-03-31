@@ -1,0 +1,50 @@
+{
+    "uuid": "0584a729-b350-4072-939f-ce77ea07c1d5",
+    "name": "Magento\\ReCaptchaWebapiRest\\Test\\Unit\\Plugin\\SoapValidationPluginTest::testPlugin",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033333,
+    "stop": 1711693033334,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"protected-guest\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2be259fabbfcfb3bbc169fc4eea72e25",
+    "testCaseId": "217ce7cd3dcf4354abca7db5d7a02c91",
+    "rerunOf": null,
+    "fullName": "Magento\\ReCaptchaWebapiRest\\Test\\Unit\\Plugin\\SoapValidationPluginTest::testPlugin",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ReCaptchaWebapiRest\\Test\\Unit\\Plugin\\SoapValidationPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPlugin"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "6bc85c5c-4e1d-4ebb-b379-034b08cd4c77",
+    "name": "Magento\\Security\\Test\\Unit\\Block\\Adminhtml\\Session\\ActivityTest::testAreMultipleSessionsActive",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041242,
+    "stop": 1711693041242,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d50fb6180b800106ee46ac122e3a345d",
+    "testCaseId": "65475277f6bf16e022248b45a190f5f5",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Block\\Adminhtml\\Session\\ActivityTest::testAreMultipleSessionsActive",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Block\\Adminhtml\\Session\\ActivityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAreMultipleSessionsActive"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

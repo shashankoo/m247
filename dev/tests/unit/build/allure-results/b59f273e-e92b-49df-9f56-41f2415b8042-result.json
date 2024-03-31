@@ -1,0 +1,43 @@
+{
+    "uuid": "b59f273e-e92b-49df-9f56-41f2415b8042",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testPlaceActionAuthorizeInitializeNeeded",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038442,
+    "stop": 1711693038443,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2f25e4f13315be02fb0cf0d7a0483486",
+    "testCaseId": "5662410a5ae2f5419183b9dd1254902f",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testPlaceActionAuthorizeInitializeNeeded",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPlaceActionAuthorizeInitializeNeeded"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "684d78bb-c92d-49ac-9856-af7516e8a9d0",
+    "name": "Magento\\Elasticsearch7\\Test\\Unit\\Model\\DataProvider\\Base\\SuggestionsTest::testGetItemsException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023034,
+    "stop": 1711693023040,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "54dedc89556d6ff550e1cfb1d8e14d46",
+    "testCaseId": "7590178bc4d1c04f744ea4bfc660cc84",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch7\\Test\\Unit\\Model\\DataProvider\\Base\\SuggestionsTest::testGetItemsException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch7\\Test\\Unit\\Model\\DataProvider\\Base\\SuggestionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItemsException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

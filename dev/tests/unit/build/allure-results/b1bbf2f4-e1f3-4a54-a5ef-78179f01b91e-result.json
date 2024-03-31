@@ -1,0 +1,43 @@
+{
+    "uuid": "b1bbf2f4-e1f3-4a54-a5ef-78179f01b91e",
+    "name": "Magento\\Sitemap\\Test\\Unit\\Controller\\Adminhtml\\Sitemap\\SaveTest::testTryToSaveInvalidFileNameShouldFailWithErrors",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041660,
+    "stop": 1711693041661,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b118ccec8a514a331652bc19b7798f03",
+    "testCaseId": "3d84827d515fa674882cba81f831586b",
+    "rerunOf": null,
+    "fullName": "Magento\\Sitemap\\Test\\Unit\\Controller\\Adminhtml\\Sitemap\\SaveTest::testTryToSaveInvalidFileNameShouldFailWithErrors",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sitemap\\Test\\Unit\\Controller\\Adminhtml\\Sitemap\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testTryToSaveInvalidFileNameShouldFailWithErrors"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "20ab2245-2ec0-4cb2-ae9f-4c158452f153",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\Decorator\\DecoratorAbstractTest::testAllMethods",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059209,
+    "stop": 1711693059210,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"getMetadatas\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b6455c655868eeaf27e4533863cc58de",
+    "testCaseId": "5cdbc44156632c61cc4c5c0c0050881e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\Decorator\\DecoratorAbstractTest::testAllMethods",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\Decorator\\DecoratorAbstractTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAllMethods"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

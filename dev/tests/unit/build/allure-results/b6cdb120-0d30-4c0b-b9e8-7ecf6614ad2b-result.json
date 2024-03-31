@@ -1,0 +1,43 @@
+{
+    "uuid": "b6cdb120-0d30-4c0b-b9e8-7ecf6614ad2b",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\ForgotPasswordToken\\GetCustomerByTokenTest::testExecuteWithExpireException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020557,
+    "stop": 1711693020558,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d3fede03da161e70cffbbf206a4d5fc5",
+    "testCaseId": "f7a42f6a4059a49c0aeb1644e247e4c9",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\ForgotPasswordToken\\GetCustomerByTokenTest::testExecuteWithExpireException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\ForgotPasswordToken\\GetCustomerByTokenTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithExpireException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

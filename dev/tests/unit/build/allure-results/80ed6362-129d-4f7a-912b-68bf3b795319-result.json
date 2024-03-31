@@ -1,0 +1,43 @@
+{
+    "uuid": "80ed6362-129d-4f7a-912b-68bf3b795319",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Model\\Sample\\UpdateHandlerTest::testExecuteNonDownloadable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022107,
+    "stop": 1711693022107,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getDownloadableProductSamples\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6dd1c306aab11c15f46616bc61b7ae7a",
+    "testCaseId": "40e2649f0859aca51f8f8a20018a87b2",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Model\\Sample\\UpdateHandlerTest::testExecuteNonDownloadable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Model\\Sample\\UpdateHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteNonDownloadable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "eefcf817-6b27-471d-9625-62247e545273",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Address\\Total\\SubtotalTest::testCollectWithInvalidItems",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032806,
+    "stop": 1711693032809,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c7d88475dc436b3460dd280c1d831a60",
+    "testCaseId": "462667a179e3212bcef0cc8d985675c2",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Address\\Total\\SubtotalTest::testCollectWithInvalidItems",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Address\\Total\\SubtotalTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectWithInvalidItems"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

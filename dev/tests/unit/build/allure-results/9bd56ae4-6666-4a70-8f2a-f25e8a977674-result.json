@@ -1,0 +1,43 @@
+{
+    "uuid": "9bd56ae4-6666-4a70-8f2a-f25e8a977674",
+    "name": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\CreateTest::testCreateActionRegistrationDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019620,
+    "stop": 1711693019621,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b6b40b9fea7d3dbd88cca7a273428c5c",
+    "testCaseId": "9eb5904cff408dd6f7813970f2d2157c",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\CreateTest::testCreateActionRegistrationDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\CreateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateActionRegistrationDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

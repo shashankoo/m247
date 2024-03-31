@@ -1,0 +1,50 @@
+{
+    "uuid": "f8c087ee-8310-4375-9212-dc72c12f5f23",
+    "name": "Magento\\Catalog\\Test\\Unit\\Ui\\Component\\ColumnFactoryTest::testCreateWithNotFilterableInGridAttribute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016198,
+    "stop": 1711693016198,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"without\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b1a90e0150aa465ebf40f75b19e9279d",
+    "testCaseId": "842199ec070bc5f71258aa57a19426f6",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Ui\\Component\\ColumnFactoryTest::testCreateWithNotFilterableInGridAttribute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Ui\\Component\\ColumnFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateWithNotFilterableInGridAttribute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

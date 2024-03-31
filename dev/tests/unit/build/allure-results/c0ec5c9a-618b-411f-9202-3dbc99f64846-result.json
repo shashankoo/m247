@@ -1,0 +1,50 @@
+{
+    "uuid": "c0ec5c9a-618b-411f-9202-3dbc99f64846",
+    "name": "Magento\\AdobeStockImageAdminUi\\Test\\Unit\\Ui\\Component\\Listing\\Filter\\ColorTest::testPrepare",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008798,
+    "stop": 1711693008800,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "af8ebb3c3845789ea81f48da172b3ac2",
+    "testCaseId": "e321235d12030ac9eed2bccc523555db",
+    "rerunOf": null,
+    "fullName": "Magento\\AdobeStockImageAdminUi\\Test\\Unit\\Ui\\Component\\Listing\\Filter\\ColorTest::testPrepare",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdobeStockImageAdminUi\\Test\\Unit\\Ui\\Component\\Listing\\Filter\\ColorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepare"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

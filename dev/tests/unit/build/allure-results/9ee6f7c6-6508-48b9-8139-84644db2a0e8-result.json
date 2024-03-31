@@ -1,0 +1,50 @@
+{
+    "uuid": "9ee6f7c6-6508-48b9-8139-84644db2a0e8",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Attribute\\ConditionBuilderTest::testBuildExistingAttributeWebsiteScopeSuccess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015800,
+    "stop": 1711693015800,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4e84b2c930f541f72727f16ce52c63c9",
+    "testCaseId": "f62d96b8293462b13bd69c10a0056dc0",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Attribute\\ConditionBuilderTest::testBuildExistingAttributeWebsiteScopeSuccess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Attribute\\ConditionBuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildExistingAttributeWebsiteScopeSuccess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

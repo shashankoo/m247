@@ -1,0 +1,50 @@
+{
+    "uuid": "432c89a6-cbde-4a2f-834d-4a9734fc54ae",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\StructureTest::testGetFieldPathsByAttribute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018092,
+    "stop": 1711693018093,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "76ee6d8f26ccceb4bc7fc17b34e9b302",
+    "testCaseId": "ce40fd925cb12fb5c46ac55159aaad5f",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\StructureTest::testGetFieldPathsByAttribute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\StructureTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFieldPathsByAttribute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

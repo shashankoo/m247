@@ -1,0 +1,43 @@
+{
+    "uuid": "4ab091c1-75c9-42af-b2df-97ef4d8434ee",
+    "name": "Magento\\Framework\\Webapi\\Test\\Unit\\ErrorProcessorTest::testCriticalExceptionStackTrace",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078523,
+    "stop": 1711693078524,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3a4fbd875dfe348fc891db740f936196",
+    "testCaseId": "f166dc90608f5053a152cd488a5d30a1",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Webapi\\Test\\Unit\\ErrorProcessorTest::testCriticalExceptionStackTrace",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Webapi\\Test\\Unit\\ErrorProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCriticalExceptionStackTrace"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

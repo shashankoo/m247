@@ -1,0 +1,50 @@
+{
+    "uuid": "260333c1-5166-4a68-adb1-b59000a73e30",
+    "name": "Magento\\Payment\\Test\\Unit\\Block\\InfoTest::testGetIsSecureMode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031364,
+    "stop": 1711693031364,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a6581ae15a25ed7c531ceec9387b899f",
+    "testCaseId": "a75fa18f80f818cab0c228d049524af8",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Block\\InfoTest::testGetIsSecureMode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Block\\InfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIsSecureMode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

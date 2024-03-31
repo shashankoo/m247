@@ -1,0 +1,50 @@
+{
+    "uuid": "80f91aca-5aef-4680-9600-0d78492d7168",
+    "name": "Magento\\Framework\\Module\\Test\\Unit\\ManagerTest::testIsOutputEnabledCustomConfigPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074426,
+    "stop": 1711693074427,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"path literal, output enabled\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4546823265c2364813b58d291a1b0d69",
+    "testCaseId": "483dfcf491263d26b7bbadf6fcfd10b8",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Module\\Test\\Unit\\ManagerTest::testIsOutputEnabledCustomConfigPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Module\\Test\\Unit\\ManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsOutputEnabledCustomConfigPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

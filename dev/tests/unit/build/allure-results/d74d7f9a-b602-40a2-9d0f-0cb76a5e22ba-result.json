@@ -1,0 +1,50 @@
+{
+    "uuid": "d74d7f9a-b602-40a2-9d0f-0cb76a5e22ba",
+    "name": "Magento\\Newsletter\\Test\\Unit\\Block\\Adminhtml\\Template\\Grid\\Renderer\\SenderTest::testRender",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030928,
+    "stop": 1711693030928,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "31168bced26d41fc6b3d8c95b3ff0637",
+    "testCaseId": "a92a08a6af617907fcc8a404c76e451e",
+    "rerunOf": null,
+    "fullName": "Magento\\Newsletter\\Test\\Unit\\Block\\Adminhtml\\Template\\Grid\\Renderer\\SenderTest::testRender",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Newsletter\\Test\\Unit\\Block\\Adminhtml\\Template\\Grid\\Renderer\\SenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRender"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

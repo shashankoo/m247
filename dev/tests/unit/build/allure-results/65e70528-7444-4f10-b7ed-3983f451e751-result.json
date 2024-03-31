@@ -1,0 +1,43 @@
+{
+    "uuid": "65e70528-7444-4f10-b7ed-3983f451e751",
+    "name": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\ConfigImportCommandTest::testExecuteWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021217,
+    "stop": 1711693021217,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0b4b74b56f7a9489f548c03651c8f459",
+    "testCaseId": "9827f409cede88992c913015cc4d276e",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\ConfigImportCommandTest::testExecuteWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\ConfigImportCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

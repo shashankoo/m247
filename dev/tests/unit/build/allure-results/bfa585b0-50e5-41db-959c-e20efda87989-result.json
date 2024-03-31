@@ -1,0 +1,50 @@
+{
+    "uuid": "bfa585b0-50e5-41db-959c-e20efda87989",
+    "name": "Magento\\Catalog\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Tab\\AlertsTest::testCanShowTab",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013472,
+    "stop": 1711693013473,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"alert_price_is_unallowed_and_stock_is_allowed\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8f2242baab0525ca73da3a975f5f9d52",
+    "testCaseId": "54b76b653d26fb7dfe7ee4c712fac1a2",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Tab\\AlertsTest::testCanShowTab",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Tab\\AlertsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanShowTab"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

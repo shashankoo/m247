@@ -1,0 +1,43 @@
+{
+    "uuid": "7139d2c4-9c7f-4bca-a75b-93fbedc7e8a9",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\TextTest::testValidateValueStringWithDiacritics",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022471,
+    "stop": 1711693022473,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "020ad509f6872de4be9500aa7df2a393",
+    "testCaseId": "adba741dfdfdee683df0c2cfc8b7cd18",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\TextTest::testValidateValueStringWithDiacritics",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\TextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateValueStringWithDiacritics"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

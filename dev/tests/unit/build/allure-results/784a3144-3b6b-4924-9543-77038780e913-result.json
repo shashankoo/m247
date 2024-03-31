@@ -1,0 +1,43 @@
+{
+    "uuid": "784a3144-3b6b-4924-9543-77038780e913",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\Service\\Response\\Handler\\FraudHandlerTest::testHandleXXEXml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032284,
+    "stop": 1711693032285,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "368e079e9cd8065ccb0f439ea3f8d411",
+    "testCaseId": "8d2170e908f708127fb978ac2dc26506",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\Service\\Response\\Handler\\FraudHandlerTest::testHandleXXEXml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Payflow\\Service\\Response\\Handler\\FraudHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testHandleXXEXml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

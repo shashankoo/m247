@@ -1,0 +1,50 @@
+{
+    "uuid": "beb428b5-d5ae-4ce7-8f59-e516381ed70a",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\FileInfoTest::testIsBeginsWithMediaDirectoryPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014197,
+    "stop": 1711693014197,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e800da0f504753688a867b3a815658ab",
+    "testCaseId": "765f645fd53f54fca9a8ce0a1e802ce9",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\FileInfoTest::testIsBeginsWithMediaDirectoryPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\FileInfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsBeginsWithMediaDirectoryPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

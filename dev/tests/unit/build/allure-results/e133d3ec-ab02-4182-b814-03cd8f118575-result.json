@@ -1,0 +1,43 @@
+{
+    "uuid": "e133d3ec-ab02-4182-b814-03cd8f118575",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Model\\Layout\\MergeTest::testNoSaveToCacheWhenCachePresent",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078323,
+    "stop": 1711693078324,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1bc7f9205f0438c9f877662069bb4e88",
+    "testCaseId": "f560e7855b64bf6adcb0b2074e4b76b0",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Model\\Layout\\MergeTest::testNoSaveToCacheWhenCachePresent",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Model\\Layout\\MergeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testNoSaveToCacheWhenCachePresent"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "21ec214f-946c-4d50-921d-5eb3f9c8ce25",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\ConfigGeneratorTest::testCreateXFrameConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055086,
+    "stop": 1711693055090,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cee39963c2441e16c76bff5b985501bf",
+    "testCaseId": "264b941cd9279e43e3c8e0bfbb2d5c2c",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\ConfigGeneratorTest::testCreateXFrameConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\ConfigGeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateXFrameConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

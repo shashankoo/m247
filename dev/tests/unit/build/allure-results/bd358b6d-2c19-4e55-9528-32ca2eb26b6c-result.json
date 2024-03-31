@@ -1,0 +1,50 @@
+{
+    "uuid": "bd358b6d-2c19-4e55-9528-32ca2eb26b6c",
+    "name": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\BundleSelectionPriceTest::testGetValueTypeFixedWithSelectionPriceType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011145,
+    "stop": 1711693011146,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"notUseRegularPrice\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "da05f2a09826390508a1b2271e531731",
+    "testCaseId": "81302d36aaeabb4eeb8267b4ee187a71",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\BundleSelectionPriceTest::testGetValueTypeFixedWithSelectionPriceType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\BundleSelectionPriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValueTypeFixedWithSelectionPriceType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

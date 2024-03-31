@@ -1,0 +1,50 @@
+{
+    "uuid": "0b456a2f-e0fd-48f6-8b11-130b380e1e30",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testGetConfirmationStatus",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019983,
+    "stop": 1711693019985,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1d0252104790456daf9983cc1717d61e",
+    "testCaseId": "5ab7052156059b7a114f7256402e69a8",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testGetConfirmationStatus",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfirmationStatus"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

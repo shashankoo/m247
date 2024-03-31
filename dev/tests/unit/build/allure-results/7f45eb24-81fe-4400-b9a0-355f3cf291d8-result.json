@@ -1,0 +1,50 @@
+{
+    "uuid": "7f45eb24-81fe-4400-b9a0-355f3cf291d8",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Session\\QuoteTest::testGetQuoteWithQuoteId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010215,
+    "stop": 1711693010216,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"customer ids different\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2b64386b7fc4e106eb6afcb2d4e60d42",
+    "testCaseId": "c6df9b25e6e99dbd40c489a3f172aa30",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Session\\QuoteTest::testGetQuoteWithQuoteId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Session\\QuoteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetQuoteWithQuoteId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

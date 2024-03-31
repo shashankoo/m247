@@ -1,0 +1,43 @@
+{
+    "uuid": "46b40acf-3943-4730-bebb-d4e4e2d1f0cc",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testCreateAccountWithoutPassword",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019908,
+    "stop": 1711693019910,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4e1566dd7e2722b11cb121ffe8b90e1f",
+    "testCaseId": "d2f43e4ff77136798d48db21996854b5",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testCreateAccountWithoutPassword",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateAccountWithoutPassword"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

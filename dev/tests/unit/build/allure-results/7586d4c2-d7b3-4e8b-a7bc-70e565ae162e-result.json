@@ -1,0 +1,50 @@
+{
+    "uuid": "7586d4c2-d7b3-4e8b-a7bc-70e565ae162e",
+    "name": "Magento\\CatalogRule\\Test\\Unit\\Model\\Product\\PriceModifierTest::testModifyPriceIfPriceExists",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012333,
+    "stop": 1711693012334,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"resulted_price_not_exists\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ef008403be89d97066f7c4e7c4de2eca",
+    "testCaseId": "6e87499b2eed629beaf019dd61b0781d",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogRule\\Test\\Unit\\Model\\Product\\PriceModifierTest::testModifyPriceIfPriceExists",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogRule\\Test\\Unit\\Model\\Product\\PriceModifierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testModifyPriceIfPriceExists"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "e23dfa0a-98c9-4891-8323-da99e9c5e02c",
+    "name": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest::testCanSendCreditmemoCommentEmail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037358,
+    "stop": 1711693037359,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "15ba897b761943c0c427973e6404ae21",
+    "testCaseId": "5542fba61ce233f5cd25f97d0000c1f1",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest::testCanSendCreditmemoCommentEmail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanSendCreditmemoCommentEmail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

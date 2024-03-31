@@ -1,0 +1,50 @@
+{
+    "uuid": "4d6b346f-64ef-4cc0-922e-a7df450c7e7d",
+    "name": "Magento\\Reports\\Test\\Unit\\Observer\\CatalogProductCompareAddProductObserverTest::testCatalogProductCompareAddProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033782,
+    "stop": 1711693033783,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"not logged in\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8a766fadb1eb9631abbdcc82ff430d38",
+    "testCaseId": "c2edb3facad0d5e43ba706d3c5d7b55c",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Observer\\CatalogProductCompareAddProductObserverTest::testCatalogProductCompareAddProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Observer\\CatalogProductCompareAddProductObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCatalogProductCompareAddProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

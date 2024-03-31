@@ -1,0 +1,50 @@
+{
+    "uuid": "186d22d0-e50b-41eb-bb42-5e865b87a0da",
+    "name": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Relations\\RuntimeTest::testGetParents",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075112,
+    "stop": 1711693075112,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a68c56bfe190f5e672e2e4654a691868",
+    "testCaseId": "13062089aa9d7d8f3539e5910706b2cf",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Relations\\RuntimeTest::testGetParents",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Relations\\RuntimeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetParents"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

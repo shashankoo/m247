@@ -1,0 +1,50 @@
+{
+    "uuid": "0056d436-2440-43c2-80ae-f3b6304906b0",
+    "name": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Event\\CollectionTest::testAddStoreFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033494,
+    "stop": 1711693033496,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5a10c737c7b15a0ab269d7d182f67d23",
+    "testCaseId": "44769e0758ad8a46a4b0315937e8627a",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Event\\CollectionTest::testAddStoreFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Event\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddStoreFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

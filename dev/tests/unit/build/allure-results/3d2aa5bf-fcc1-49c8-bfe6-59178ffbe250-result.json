@@ -1,0 +1,50 @@
+{
+    "uuid": "3d2aa5bf-fcc1-49c8-bfe6-59178ffbe250",
+    "name": "Magento\\Wishlist\\Test\\Unit\\Model\\LocaleQuantityProcessorTest::testProcess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054483,
+    "stop": 1711693054483,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"negative\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b67c7c4f7c3ab7a06f69a177f8aa02f3",
+    "testCaseId": "1ef9e24f550f5b1ca73f4d438f543918",
+    "rerunOf": null,
+    "fullName": "Magento\\Wishlist\\Test\\Unit\\Model\\LocaleQuantityProcessorTest::testProcess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Wishlist\\Test\\Unit\\Model\\LocaleQuantityProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

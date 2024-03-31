@@ -1,0 +1,50 @@
+{
+    "uuid": "06eb3eba-24b6-4ef0-a197-19aab1d180b4",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\Coupon\\MassgeneratorTest::testGetDelimiter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693035985,
+    "stop": 1711693035985,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1310745a80d40f82445380ef3c0865d1",
+    "testCaseId": "49820eee0fd3eb4ba578f96d8de2c4d7",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\Coupon\\MassgeneratorTest::testGetDelimiter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\Coupon\\MassgeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDelimiter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

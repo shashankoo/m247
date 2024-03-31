@@ -1,0 +1,43 @@
+{
+    "uuid": "9565aa1a-3c79-4041-9fc0-54b8424eb04b",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Scanner\\PhpScannerTest::testCollectEntities",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055701,
+    "stop": 1711693055705,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4dfc5c93457e6c5f036801ccd2f89023",
+    "testCaseId": "f21b78d802d4c26c934da34e40960ad2",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Scanner\\PhpScannerTest::testCollectEntities",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Scanner\\PhpScannerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectEntities"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

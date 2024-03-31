@@ -9,10 +9,23 @@ return [
         ],
         'frontend' => [
             'default' => [
-                'id_prefix' => '106_'
+                'id_prefix' => '106_',
+                'backend' => 'Magento\\Framework\\Cache\\Backend\\Redis',
+                'backend_options' => [
+                    'server' => '127.0.0.1',
+                    'database' => '0',
+                    'port' => '6379'
+                ]
             ],
             'page_cache' => [
-                'id_prefix' => '106_'
+                'id_prefix' => '106_',
+                'backend' => 'Magento\\Framework\\Cache\\Backend\\Redis',
+                'backend_options' => [
+                    'server' => '127.0.0.1',
+                    'port' => '6379',
+                    'database' => '1',
+                    'compress_data' => '0'
+                ]
             ]
         ],
         'allow_parallel_generation' => false
@@ -81,5 +94,16 @@ return [
     ],
     'install' => [
         'date' => 'Mon, 18 Mar 2024 10:35:22 +0000'
+    ],
+    'system' => [
+        'default' => [
+            'catalog' => [
+                'search' => [
+                    'engine' => 'elasticsearch7',
+                    'elasticsearch5_server_hostname' => 'localhost',
+                    'elasticsearch7_server_port' => '9200'
+                ]
+            ]
+        ]
     ]
 ];

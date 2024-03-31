@@ -1,0 +1,50 @@
+{
+    "uuid": "8c7e4743-b883-44f4-b72d-441bde12a5bc",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\CouponRepositoryTest::testSaveWithExceptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036023,
+    "stop": 1711693036024,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6dc13e6abe36af7578803fd362996ebe",
+    "testCaseId": "d617a59c9a30b0a0801d6727d031f83a",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\CouponRepositoryTest::testSaveWithExceptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\CouponRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveWithExceptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

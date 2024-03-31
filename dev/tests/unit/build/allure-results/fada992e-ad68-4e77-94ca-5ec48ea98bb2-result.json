@@ -1,0 +1,50 @@
+{
+    "uuid": "fada992e-ad68-4e77-94ca-5ec48ea98bb2",
+    "name": "Magento\\Swatches\\Test\\Unit\\Model\\ConvertSwatchAttributeFrontendInputTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042232,
+    "stop": 1711693042232,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b0e947517c0a3200f0ab47e8e78530c8",
+    "testCaseId": "7a0466f2c456131ae1c4a7e89d497214",
+    "rerunOf": null,
+    "fullName": "Magento\\Swatches\\Test\\Unit\\Model\\ConvertSwatchAttributeFrontendInputTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Swatches\\Test\\Unit\\Model\\ConvertSwatchAttributeFrontendInputTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

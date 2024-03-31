@@ -1,0 +1,43 @@
+{
+    "uuid": "5de37c24-23d9-45f1-a65d-88b108d55016",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testGetIncrementId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038138,
+    "stop": 1711693038139,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "97036e003e80644d18a431404b7e02c0",
+    "testCaseId": "3f486776f7dabebf57bff0af26260280",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testGetIncrementId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIncrementId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "9e861ccc-6f70-4699-8297-6b85e4b5fa65",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\AbstractDataTest::testGetExtractedData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022352,
+    "stop": 1711693022353,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "71b20cde52825350401614ac33e75c84",
+    "testCaseId": "3eb0c3b06123f0ef5d1008fc0b40ffbb",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\AbstractDataTest::testGetExtractedData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\AbstractDataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetExtractedData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

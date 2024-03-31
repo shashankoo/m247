@@ -1,0 +1,43 @@
+{
+    "uuid": "711cccb4-dce9-41d1-95a9-4dc3d092ccb1",
+    "name": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\Provider\\Engine\\U2fKeyTest::testIsEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043941,
+    "stop": 1711693043942,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "19c7fa773c1068ca5c1fae47aa04d139",
+    "testCaseId": "aa848744cae5c23c62fa1ba21a28a202",
+    "rerunOf": null,
+    "fullName": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\Provider\\Engine\\U2fKeyTest::testIsEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\TwoFactorAuth\\Test\\Unit\\Model\\Provider\\Engine\\U2fKeyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

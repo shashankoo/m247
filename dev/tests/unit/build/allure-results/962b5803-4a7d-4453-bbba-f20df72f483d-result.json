@@ -1,0 +1,43 @@
+{
+    "uuid": "962b5803-4a7d-4453-bbba-f20df72f483d",
+    "name": "Magento\\MediaStorage\\Test\\Unit\\App\\MediaTest::testProcessRequestReturnsFileIfItsProperlySynchronized",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030416,
+    "stop": 1711693030417,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "132e6b75edc9a1cad6c11cee7f753791",
+    "testCaseId": "4da72a2aa0abcff1052d8e365862373a",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaStorage\\Test\\Unit\\App\\MediaTest::testProcessRequestReturnsFileIfItsProperlySynchronized",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaStorage\\Test\\Unit\\App\\MediaTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessRequestReturnsFileIfItsProperlySynchronized"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

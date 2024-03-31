@@ -1,0 +1,50 @@
+{
+    "uuid": "55c69f14-3c45-4f34-a296-2b162c3ff2d6",
+    "name": "Magento\\AdvancedPricingImportExport\\Test\\Unit\\Model\\Import\\AdvancedPricingTest::testDeleteProductTierPrices",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008906,
+    "stop": 1711693008907,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e862b5540a2abc8d57c0a75ae20dbd67",
+    "testCaseId": "4a629670fc33ee8f0cce5365d764ffb2",
+    "rerunOf": null,
+    "fullName": "Magento\\AdvancedPricingImportExport\\Test\\Unit\\Model\\Import\\AdvancedPricingTest::testDeleteProductTierPrices",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdvancedPricingImportExport\\Test\\Unit\\Model\\Import\\AdvancedPricingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteProductTierPrices"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

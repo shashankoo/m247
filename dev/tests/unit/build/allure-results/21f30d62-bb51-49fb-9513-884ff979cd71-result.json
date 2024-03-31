@@ -1,0 +1,50 @@
+{
+    "uuid": "21f30d62-bb51-49fb-9513-884ff979cd71",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Pack\\Writer\\File\\CsvTest::testWriteDictionaryWithRuntimeException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055979,
+    "stop": 1711693055979,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ca6c76b4eebafaa296a412b26b59fbb8",
+    "testCaseId": "53e20b676c837feb31e53ac43003ecea",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Pack\\Writer\\File\\CsvTest::testWriteDictionaryWithRuntimeException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Pack\\Writer\\File\\CsvTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWriteDictionaryWithRuntimeException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

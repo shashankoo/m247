@@ -1,0 +1,43 @@
+{
+    "uuid": "4cc95727-a84c-40c0-93eb-c5ffa2d788e8",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Indexer\\Stock\\Plugin\\ImportTest::testAfterImportSource",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011845,
+    "stop": 1711693011846,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "fcbcf7618fa952c0daa1b7f913c0b735",
+    "testCaseId": "a4fc8a6d82cecdd6e2dbcf1b82e64fc5",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Indexer\\Stock\\Plugin\\ImportTest::testAfterImportSource",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Indexer\\Stock\\Plugin\\ImportTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterImportSource"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

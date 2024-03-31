@@ -1,0 +1,43 @@
+{
+    "uuid": "7851ad57-e156-4742-b932-703c2bd5c4c8",
+    "name": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\UrlRewriteHandlerTest::testDeleteCategoryRewritesForChildren",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013199,
+    "stop": 1711693013200,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d177faf866c953028ae93869eb35aa6c",
+    "testCaseId": "d779f94b85ae522c4e0f2c6e8e339e16",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\UrlRewriteHandlerTest::testDeleteCategoryRewritesForChildren",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Observer\\UrlRewriteHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteCategoryRewritesForChildren"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

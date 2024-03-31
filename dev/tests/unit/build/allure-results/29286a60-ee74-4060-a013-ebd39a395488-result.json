@@ -1,0 +1,43 @@
+{
+    "uuid": "29286a60-ee74-4060-a013-ebd39a395488",
+    "name": "Magento\\Framework\\EntityManager\\Test\\Unit\\OperationPoolTest::testGetOperationUsesOverriddenDefaultValueForEntityThatDoesNotProvideCustomMapping",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693072963,
+    "stop": 1711693072963,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "30a9056c29a46ed2bebe7a53ae1ece83",
+    "testCaseId": "ac446cf1d9ac0e3b3ccec26cb2f5c6cb",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\EntityManager\\Test\\Unit\\OperationPoolTest::testGetOperationUsesOverriddenDefaultValueForEntityThatDoesNotProvideCustomMapping",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\EntityManager\\Test\\Unit\\OperationPoolTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOperationUsesOverriddenDefaultValueForEntityThatDoesNotProvideCustomMapping"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "b1cb1c26-6e16-40e5-aa08-08af9ae3e714",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\Description\\Mixin\\Helper\\WordWrapperTest::testWrapping",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055164,
+    "stop": 1711693055164,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3bbfe84b4a6c377a761dde4495d827c8",
+    "testCaseId": "e58047e6f860c8fb1bd0ec42a442d2e3",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\Description\\Mixin\\Helper\\WordWrapperTest::testWrapping",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\Description\\Mixin\\Helper\\WordWrapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWrapping"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

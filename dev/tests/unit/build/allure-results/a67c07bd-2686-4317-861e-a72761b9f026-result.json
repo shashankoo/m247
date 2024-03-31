@@ -1,0 +1,43 @@
+{
+    "uuid": "a67c07bd-2686-4317-861e-a72761b9f026",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\SkuProcessorTest::testGetOldSkusIfNotSet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011458,
+    "stop": 1711693011459,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "28770b05f0227c260547380c85f55b2b",
+    "testCaseId": "9ae8349c22d2394de1e0f5051616ca0f",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\SkuProcessorTest::testGetOldSkusIfNotSet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\SkuProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOldSkusIfNotSet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "5efc2f8c-35b6-43f0-a2d0-efaca66a9923",
+    "name": "Magento\\Paypal\\Test\\Unit\\Controller\\Express\\ReturnActionTest::testExecuteAuthorizationRetrial",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031830,
+    "stop": 1711693031830,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "64d8fa18e11197c10708d614211ec297",
+    "testCaseId": "d086d4144d199f11d83090ac21cc9783",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Controller\\Express\\ReturnActionTest::testExecuteAuthorizationRetrial",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Controller\\Express\\ReturnActionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteAuthorizationRetrial"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "c9067d74-d107-4be2-b93f-8e78d41643f7",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Controller\\Checkout\\Address\\NewShippingTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030713,
+    "stop": 1711693030714,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"shipping_address_exists\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6380785f764ac59cdc4af8b92950468d",
+    "testCaseId": "86b59ae7076004a311c010eb0a2c8796",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Controller\\Checkout\\Address\\NewShippingTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Controller\\Checkout\\Address\\NewShippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

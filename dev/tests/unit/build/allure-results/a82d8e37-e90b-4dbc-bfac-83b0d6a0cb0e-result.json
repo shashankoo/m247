@@ -1,0 +1,43 @@
+{
+    "uuid": "a82d8e37-e90b-4dbc-bfac-83b0d6a0cb0e",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Parser\\Adapter\\Php\\TokenizerTest::testIsEndOfLoop",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056031,
+    "stop": 1711693056031,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "PHP < 8.0 is required.",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "fb168b45b0012f480dc3587ca09f5f20",
+    "testCaseId": "904d1e9071865b0750c20cdb4da07a01",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Parser\\Adapter\\Php\\TokenizerTest::testIsEndOfLoop",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Parser\\Adapter\\Php\\TokenizerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsEndOfLoop"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

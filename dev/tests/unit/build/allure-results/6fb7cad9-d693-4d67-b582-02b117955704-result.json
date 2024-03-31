@@ -1,0 +1,50 @@
+{
+    "uuid": "6fb7cad9-d693-4d67-b582-02b117955704",
+    "name": "Magento\\Framework\\Module\\Test\\Unit\\StatusTest::testGetModulesToChange",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074476,
+    "stop": 1711693074477,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "14ecee50dcbb1e59c5aa30af28c3f746",
+    "testCaseId": "8056d9ab462259a868109e5c8a1af1bb",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Module\\Test\\Unit\\StatusTest::testGetModulesToChange",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Module\\Test\\Unit\\StatusTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetModulesToChange"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

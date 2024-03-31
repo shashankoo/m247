@@ -1,0 +1,43 @@
+{
+    "uuid": "c1a5b406-d529-4296-8e6f-f65eb5b4f9d8",
+    "name": "Magento\\Integration\\Test\\Unit\\Helper\\Oauth\\DataTest::testGetAdminTokenLifetimeNotEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029989,
+    "stop": 1711693029989,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "26bc6765ba6fc05a497ca0c2dc9cdf75",
+    "testCaseId": "eaf024d962931100a4f45a56c0cbec24",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Helper\\Oauth\\DataTest::testGetAdminTokenLifetimeNotEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Helper\\Oauth\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAdminTokenLifetimeNotEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

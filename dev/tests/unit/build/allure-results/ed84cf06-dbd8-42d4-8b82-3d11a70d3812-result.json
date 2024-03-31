@@ -1,0 +1,50 @@
+{
+    "uuid": "ed84cf06-dbd8-42d4-8b82-3d11a70d3812",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Item\\ValidatorTest::testValidateWithMissingRequiredParamThrowsException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010031,
+    "stop": 1711693010032,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1ab5b4b95d493b7cae2b5f6285419c2d",
+    "testCaseId": "b78d2d714d0b2a5fbc3517d976edf637",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Item\\ValidatorTest::testValidateWithMissingRequiredParamThrowsException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Item\\ValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateWithMissingRequiredParamThrowsException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

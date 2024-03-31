@@ -1,0 +1,50 @@
+{
+    "uuid": "55bf238e-ce17-4af5-9748-4b7da0937c3b",
+    "name": "Magento\\Ui\\Test\\Unit\\Component\\MassAction\\FilterTest::testApplySelectionOnTargetProvider",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693049727,
+    "stop": 1711693049727,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8b0f5f1331783374b7d41aabb7fb2227",
+    "testCaseId": "0c23d6aefdc8d44fd27e1b3b4b3cd5e2",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Component\\MassAction\\FilterTest::testApplySelectionOnTargetProvider",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Component\\MassAction\\FilterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testApplySelectionOnTargetProvider"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

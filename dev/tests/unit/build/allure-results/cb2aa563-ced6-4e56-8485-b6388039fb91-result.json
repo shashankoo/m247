@@ -1,0 +1,50 @@
+{
+    "uuid": "cb2aa563-ced6-4e56-8485-b6388039fb91",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Validator\\NameTest::testValidateCorrectPunctuationInNames",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021079,
+    "stop": 1711693021079,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fbca16fca50729e419e4a156504f4b23",
+    "testCaseId": "7f50781c8620abe69892e0f24ae00ad3",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Validator\\NameTest::testValidateCorrectPunctuationInNames",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Validator\\NameTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateCorrectPunctuationInNames"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

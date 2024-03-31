@@ -1,0 +1,43 @@
+{
+    "uuid": "e8737c69-18aa-4dec-a119-acb14e012d86",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Model\\CvvEmsCodeMapperTest::testGetCodeWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056358,
+    "stop": 1711693056358,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skip this test",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "475529afcd6b0ca59be57ca350c0d4a6",
+    "testCaseId": "32caa4c2bcfaf842f69b8aad0d996028",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Model\\CvvEmsCodeMapperTest::testGetCodeWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Model\\CvvEmsCodeMapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCodeWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

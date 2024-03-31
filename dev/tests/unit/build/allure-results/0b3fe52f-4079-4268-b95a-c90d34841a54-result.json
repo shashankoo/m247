@@ -1,0 +1,50 @@
+{
+    "uuid": "0b3fe52f-4079-4268-b95a-c90d34841a54",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\ScopeFallbackResolverTest::testGetFallbackScope",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041905,
+    "stop": 1711693041905,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#14",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b974d3c296deadcfb762493104f6a30c",
+    "testCaseId": "093b15e9709123d8046fb24c35832134",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\ScopeFallbackResolverTest::testGetFallbackScope",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\ScopeFallbackResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFallbackScope"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

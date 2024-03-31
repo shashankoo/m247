@@ -1,0 +1,43 @@
+{
+    "uuid": "8fad9f46-f373-4ca8-a0b0-9898789e93d3",
+    "name": "Magento\\PageCache\\Test\\Unit\\Controller\\Block\\RenderTest::testExecuteNotAjax",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031213,
+    "stop": 1711693031214,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1617a974fee1232d5f8e2c5ed6e18b90",
+    "testCaseId": "b25a518719e87a15e6e939308b00c0a6",
+    "rerunOf": null,
+    "fullName": "Magento\\PageCache\\Test\\Unit\\Controller\\Block\\RenderTest::testExecuteNotAjax",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\PageCache\\Test\\Unit\\Controller\\Block\\RenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteNotAjax"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

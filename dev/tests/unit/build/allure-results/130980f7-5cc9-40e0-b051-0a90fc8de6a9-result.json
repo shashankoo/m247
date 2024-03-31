@@ -1,0 +1,50 @@
+{
+    "uuid": "130980f7-5cc9-40e0-b051-0a90fc8de6a9",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowproTest::testSetTransStatus",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032374,
+    "stop": 1711693032374,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "11ae1f56a2c46cd69fc0778fcb0c4799",
+    "testCaseId": "490c44ce4e0e8fbe21962fc080366d7f",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowproTest::testSetTransStatus",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowproTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetTransStatus"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

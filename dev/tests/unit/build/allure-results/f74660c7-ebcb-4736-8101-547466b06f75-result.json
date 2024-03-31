@@ -1,0 +1,43 @@
+{
+    "uuid": "f74660c7-ebcb-4736-8101-547466b06f75",
+    "name": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\AbstractDbTest::testGetChecksumNegative",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074277,
+    "stop": 1711693074277,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c3224ee5fd2426d0b5ac56b95a883d6d",
+    "testCaseId": "efa536ec417a0d7c2b0c8ba7b2bb5ea5",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\AbstractDbTest::testGetChecksumNegative",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Db\\AbstractDbTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetChecksumNegative"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

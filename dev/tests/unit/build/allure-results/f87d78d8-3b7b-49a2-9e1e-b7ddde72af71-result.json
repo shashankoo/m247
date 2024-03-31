@@ -1,0 +1,43 @@
+{
+    "uuid": "f87d78d8-3b7b-49a2-9e1e-b7ddde72af71",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\StructurePluginTest::testGetPaypalConfigCountriesWithOther",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032000,
+    "stop": 1711693032001,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7e21a99ecd83a33bc89956098ffcfedf",
+    "testCaseId": "0bc0363531031699d7b0209a1783e419",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\StructurePluginTest::testGetPaypalConfigCountriesWithOther",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\StructurePluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPaypalConfigCountriesWithOther"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

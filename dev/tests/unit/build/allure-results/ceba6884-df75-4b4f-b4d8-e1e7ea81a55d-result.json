@@ -1,0 +1,43 @@
+{
+    "uuid": "ceba6884-df75-4b4f-b4d8-e1e7ea81a55d",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\Indexer\\Eav\\BatchSizeCalculatorTest::testEstimateBatchSize",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015949,
+    "stop": 1711693015949,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4d4fd66772fead4db079652da2d5a694",
+    "testCaseId": "f96bd1ba4a41c9a2a0766a1656623177",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\Indexer\\Eav\\BatchSizeCalculatorTest::testEstimateBatchSize",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\Indexer\\Eav\\BatchSizeCalculatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEstimateBatchSize"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

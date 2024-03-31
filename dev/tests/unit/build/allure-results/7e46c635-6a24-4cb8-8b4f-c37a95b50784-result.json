@@ -1,0 +1,50 @@
+{
+    "uuid": "7e46c635-6a24-4cb8-8b4f-c37a95b50784",
+    "name": "Magento\\Sales\\Test\\Unit\\Observer\\Backend\\CatalogProductSaveAfterObserverTest::testSaveProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041080,
+    "stop": 1711693041081,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8519e64114283f37ba95934a5a73d1bd",
+    "testCaseId": "ca2113cba51111dc3bdcc5d6c5ec9796",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Observer\\Backend\\CatalogProductSaveAfterObserverTest::testSaveProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Observer\\Backend\\CatalogProductSaveAfterObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

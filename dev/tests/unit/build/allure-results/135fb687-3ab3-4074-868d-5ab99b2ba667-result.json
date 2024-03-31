@@ -1,0 +1,50 @@
+{
+    "uuid": "135fb687-3ab3-4074-868d-5ab99b2ba667",
+    "name": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\FactoryTest::testCreate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075350,
+    "stop": 1711693075351,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Prefix and concrete type\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c2145f74224daf70b6939609c6adca03",
+    "testCaseId": "df731bd35ac8f2a9dc0aab06c44b06c9",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\FactoryTest::testCreate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\FactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "1b87cd48-3fa7-4c8e-b5ea-9414b5079f41",
+    "name": "Magento\\Directory\\Test\\Unit\\Helper\\DataTest::testGetRegionJson",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021654,
+    "stop": 1711693021655,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dfff4b945075120ac05eec64e3b7569d",
+    "testCaseId": "12bb960a9bb45e63955e7f554c6d3dc2",
+    "rerunOf": null,
+    "fullName": "Magento\\Directory\\Test\\Unit\\Helper\\DataTest::testGetRegionJson",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Directory\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRegionJson"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

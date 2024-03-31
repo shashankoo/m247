@@ -1,0 +1,50 @@
+{
+    "uuid": "04bb0aba-5a40-45bf-b87d-5ff88d25d994",
+    "name": "Magento\\ProductAlert\\Test\\Unit\\Block\\Email\\StockTest::testGetFilteredContent",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032604,
+    "stop": 1711693032604,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"malicious desc 1\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "09ba1c2c3f963dc52844d02bfd725ab2",
+    "testCaseId": "304cce78f2304e56dba0cd1437be81cb",
+    "rerunOf": null,
+    "fullName": "Magento\\ProductAlert\\Test\\Unit\\Block\\Email\\StockTest::testGetFilteredContent",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ProductAlert\\Test\\Unit\\Block\\Email\\StockTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFilteredContent"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "81512565-077d-4f5d-b4e2-9e22394dc808",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\StoreSwitcher\\RedirectDataPreprocessorTest::testProcess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021076,
+    "stop": 1711693021076,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3e256aef23342d107ae67f9cdfea0efd",
+    "testCaseId": "c6ada08fd76cf1ec6bacf24e81feba11",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\StoreSwitcher\\RedirectDataPreprocessorTest::testProcess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\StoreSwitcher\\RedirectDataPreprocessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

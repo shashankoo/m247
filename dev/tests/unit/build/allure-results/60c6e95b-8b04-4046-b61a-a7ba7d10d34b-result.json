@@ -1,0 +1,43 @@
+{
+    "uuid": "60c6e95b-8b04-4046-b61a-a7ba7d10d34b",
+    "name": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Observer\\ReportConcurrentAdminsTest::testReportConcurrentAdmins",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030883,
+    "stop": 1711693030884,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d74f169b3da5becb719dc7c53a1c2087",
+    "testCaseId": "1c0b8cbd71d49a01aef2e86766ee6c86",
+    "rerunOf": null,
+    "fullName": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Observer\\ReportConcurrentAdminsTest::testReportConcurrentAdmins",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Observer\\ReportConcurrentAdminsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReportConcurrentAdmins"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

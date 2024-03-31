@@ -1,0 +1,50 @@
+{
+    "uuid": "5ca38e17-fdde-4466-80c7-77471ecbf23b",
+    "name": "Magento\\UrlRewrite\\Test\\Unit\\Helper\\UrlRewriteTest::testValidateSuffixException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052863,
+    "stop": 1711693052863,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"three slashes\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "94602dc35f9052efd99b5875dd796980",
+    "testCaseId": "6874802829b58d48e4052bd74d9b2d00",
+    "rerunOf": null,
+    "fullName": "Magento\\UrlRewrite\\Test\\Unit\\Helper\\UrlRewriteTest::testValidateSuffixException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\UrlRewrite\\Test\\Unit\\Helper\\UrlRewriteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateSuffixException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

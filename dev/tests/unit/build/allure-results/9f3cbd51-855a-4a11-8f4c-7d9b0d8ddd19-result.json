@@ -1,0 +1,50 @@
+{
+    "uuid": "9f3cbd51-855a-4a11-8f4c-7d9b0d8ddd19",
+    "name": "Magento\\Tax\\Test\\Unit\\Pricing\\AdjustmentTest::testApplyAdjustment",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042841,
+    "stop": 1711693042841,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5e9cd32a813d7491284b0122d5eb98cc",
+    "testCaseId": "77c9e63e1232376dcbbd95b377b216c0",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Pricing\\AdjustmentTest::testApplyAdjustment",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Pricing\\AdjustmentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testApplyAdjustment"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

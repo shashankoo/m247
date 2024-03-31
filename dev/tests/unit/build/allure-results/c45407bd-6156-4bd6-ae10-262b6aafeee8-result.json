@@ -1,0 +1,50 @@
+{
+    "uuid": "c45407bd-6156-4bd6-ae10-262b6aafeee8",
+    "name": "Magento\\Catalog\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Tab\\InventoryTest::testGetBackordersOption",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013478,
+    "stop": 1711693013479,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "896402e2da0d13d11ada60570aceadd5",
+    "testCaseId": "59fbcdceadb6d941c271b113e4148ae7",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Tab\\InventoryTest::testGetBackordersOption",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Tab\\InventoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBackordersOption"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

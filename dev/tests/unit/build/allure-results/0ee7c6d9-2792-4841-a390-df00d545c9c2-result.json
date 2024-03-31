@@ -1,0 +1,43 @@
+{
+    "uuid": "0ee7c6d9-2792-4841-a390-df00d545c9c2",
+    "name": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\ProductScopeRewriteGeneratorTest::testGenerationForSpecificStore",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013059,
+    "stop": 1711693013060,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9b0ae0df65d2c3045d22ab4b51f1f9f9",
+    "testCaseId": "6b7e280746fc2fb03f0773948554ca6e",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\ProductScopeRewriteGeneratorTest::testGenerationForSpecificStore",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\ProductScopeRewriteGeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerationForSpecificStore"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

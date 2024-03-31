@@ -1,0 +1,43 @@
+{
+    "uuid": "7e6e76d7-ae91-4351-93b8-38a468b58737",
+    "name": "Magento\\Framework\\Module\\Test\\Unit\\DependencyCheckerTest::testCheckDependenciesWhenEnableModulesWithCurEnabledModules",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074398,
+    "stop": 1711693074398,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f642af92e30eccce0f81f23aef8b304b",
+    "testCaseId": "43493dcf5dfadaf37491ed0fd60c7425",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Module\\Test\\Unit\\DependencyCheckerTest::testCheckDependenciesWhenEnableModulesWithCurEnabledModules",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Module\\Test\\Unit\\DependencyCheckerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckDependenciesWhenEnableModulesWithCurEnabledModules"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

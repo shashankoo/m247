@@ -1,0 +1,50 @@
+{
+    "uuid": "fb3b1080-787c-4349-88f9-8d9783e86c35",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\CategoryTest::testReindexFlatEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014286,
+    "stop": 1711693014286,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"set 1\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "eb1d2ab5e4de1a211f521573c5b40e48",
+    "testCaseId": "2fa38d6ae40b1018b45dd6066ee012e4",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\CategoryTest::testReindexFlatEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\CategoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReindexFlatEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

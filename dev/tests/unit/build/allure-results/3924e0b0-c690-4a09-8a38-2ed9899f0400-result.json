@@ -1,0 +1,43 @@
+{
+    "uuid": "3924e0b0-c690-4a09-8a38-2ed9899f0400",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest::testGetFrontName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058608,
+    "stop": 1711693058609,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "84887ff78fe7b83f0811958a19558f22",
+    "testCaseId": "25eb671a046056ab13b880236067f1ec",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest::testGetFrontName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFrontName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

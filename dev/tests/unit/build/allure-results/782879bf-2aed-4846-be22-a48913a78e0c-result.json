@@ -1,0 +1,43 @@
+{
+    "uuid": "782879bf-2aed-4846-be22-a48913a78e0c",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Request\\AddressDataBuilderTest::testBuildReadPaymentException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056221,
+    "stop": 1711693056223,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2774ed38568fbccece14ffee93781be3",
+    "testCaseId": "9167e27dfbe09b558203f01ac29c4bf2",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Request\\AddressDataBuilderTest::testBuildReadPaymentException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Request\\AddressDataBuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildReadPaymentException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

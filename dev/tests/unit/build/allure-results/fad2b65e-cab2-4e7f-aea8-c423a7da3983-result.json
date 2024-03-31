@@ -1,0 +1,50 @@
+{
+    "uuid": "fad2b65e-cab2-4e7f-aea8-c423a7da3983",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Action\\Discount\\ByPercentTest::testFixQuantity",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036109,
+    "stop": 1711693036109,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7466d2f5264e7d9489526b0dbc70d45a",
+    "testCaseId": "f21cf4cfbe9db753147905a5883f2c46",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Action\\Discount\\ByPercentTest::testFixQuantity",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Action\\Discount\\ByPercentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFixQuantity"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

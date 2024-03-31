@@ -1,0 +1,50 @@
+{
+    "uuid": "59dc266c-62a1-4320-8b7a-b5f10398b674",
+    "name": "Magento\\Vault\\Test\\Unit\\Plugin\\PaymentVaultInformationManagementTest::testBeforeSavePaymentInformation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053384,
+    "stop": 1711693053385,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "17ad18dd12aa23557f6a4575b0762847",
+    "testCaseId": "1c053e3bea89163f9ea5c31f8ec73ac7",
+    "rerunOf": null,
+    "fullName": "Magento\\Vault\\Test\\Unit\\Plugin\\PaymentVaultInformationManagementTest::testBeforeSavePaymentInformation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Vault\\Test\\Unit\\Plugin\\PaymentVaultInformationManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSavePaymentInformation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

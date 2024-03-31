@@ -1,0 +1,43 @@
+{
+    "uuid": "a672fc54-9e31-44d6-8eb2-3a667c8cb36f",
+    "name": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Config\\ConfigTest::testExtendIgnoresFirstShashesOnVirtualTypes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074718,
+    "stop": 1711693074718,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f787c359e211bdca916e23902e080064",
+    "testCaseId": "e25a7d9ee7131351eb71b982d923c124",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Config\\ConfigTest::testExtendIgnoresFirstShashesOnVirtualTypes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Config\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExtendIgnoresFirstShashesOnVirtualTypes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

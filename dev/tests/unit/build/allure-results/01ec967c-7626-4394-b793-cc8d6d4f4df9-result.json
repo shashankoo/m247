@@ -1,0 +1,50 @@
+{
+    "uuid": "01ec967c-7626-4394-b793-cc8d6d4f4df9",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowproTest::testCaptureAmountRounding",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032387,
+    "stop": 1711693032388,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "32a33d8fe17d8332029b0f1f2a4fbc63",
+    "testCaseId": "0c14f0dc64ec9a48cb01a01144e84851",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowproTest::testCaptureAmountRounding",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowproTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCaptureAmountRounding"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

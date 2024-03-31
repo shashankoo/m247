@@ -1,0 +1,50 @@
+{
+    "uuid": "51a4bbac-1160-45ae-81a8-be7c73f7004c",
+    "name": "Magento\\Catalog\\Test\\Unit\\Plugin\\Model\\Attribute\\Backend\\AttributeValidationTest::testAroundValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016051,
+    "stop": 1711693016053,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "521c604587cfd9ee5565f1f3b1c0b928",
+    "testCaseId": "6c155789f20c189ca3e5a232afe66836",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Plugin\\Model\\Attribute\\Backend\\AttributeValidationTest::testAroundValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Plugin\\Model\\Attribute\\Backend\\AttributeValidationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "f60603bc-3fd1-4bff-8b74-4abc88de2a46",
+    "name": "Magento\\Integration\\Test\\Unit\\Oauth\\OauthTest::testGetAccessTokenVerifierInvalid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030172,
+    "stop": 1711693030172,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5b272e994c350813135874e6cc2fb57e",
+    "testCaseId": "b1f479939217333a6fa15711f46b72c3",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Oauth\\OauthTest::testGetAccessTokenVerifierInvalid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Oauth\\OauthTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAccessTokenVerifierInvalid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

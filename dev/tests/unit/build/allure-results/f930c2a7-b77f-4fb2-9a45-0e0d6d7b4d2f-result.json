@@ -1,0 +1,43 @@
+{
+    "uuid": "f930c2a7-b77f-4fb2-9a45-0e0d6d7b4d2f",
+    "name": "Magento\\Framework\\Translate\\Test\\Unit\\AdapterTest::testUnderscoresTranslation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076825,
+    "stop": 1711693076825,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "MAGETWO-1012: i18n Improvements - Localization\/Translations",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e2bf8c8479960b03bf0d3f170a18036f",
+    "testCaseId": "a0db770230d482bdfc0c1b17774e9524",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Translate\\Test\\Unit\\AdapterTest::testUnderscoresTranslation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Translate\\Test\\Unit\\AdapterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUnderscoresTranslation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

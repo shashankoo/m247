@@ -1,0 +1,43 @@
+{
+    "uuid": "25ad46bc-1fac-437f-81a6-7e505b1cc1bc",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\ApplyPersistentDataObserverTest::testExecuteWhenCustomerIsLoggedIn",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032535,
+    "stop": 1711693032535,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cde6b20ee8cd1dc9fece526600f214f5",
+    "testCaseId": "b34a8edb3c2fc114a4d2bb5e64d51b27",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\ApplyPersistentDataObserverTest::testExecuteWhenCustomerIsLoggedIn",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\ApplyPersistentDataObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenCustomerIsLoggedIn"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

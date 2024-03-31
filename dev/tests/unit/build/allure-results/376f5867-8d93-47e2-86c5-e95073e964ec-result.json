@@ -1,0 +1,43 @@
+{
+    "uuid": "376f5867-8d93-47e2-86c5-e95073e964ec",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\CategoryManagementTest::testMoveWithCouldNotMoveException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014260,
+    "stop": 1711693014262,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b75f19e748465387a377f32367d1c93b",
+    "testCaseId": "693581bb6dd80f276ea5874c77813269",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\CategoryManagementTest::testMoveWithCouldNotMoveException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\CategoryManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMoveWithCouldNotMoveException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

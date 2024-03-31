@@ -1,0 +1,50 @@
+{
+    "uuid": "90ef78d1-1c3b-4c17-af2c-5c4284263dc7",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\ShipmentFactoryTest::testCreate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039132,
+    "stop": 1711693039134,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9a4bdc9ca1bc58948abcbadbb2e191cb",
+    "testCaseId": "ea72aa3514da8e7618323a4ba2f2789c",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\ShipmentFactoryTest::testCreate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\ShipmentFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

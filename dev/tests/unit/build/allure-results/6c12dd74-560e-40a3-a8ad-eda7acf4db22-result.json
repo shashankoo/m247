@@ -1,0 +1,50 @@
+{
+    "uuid": "6c12dd74-560e-40a3-a8ad-eda7acf4db22",
+    "name": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\Form\\Field\\Select\\AllowspecificTest::testGetHtmlWhenValueIsEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017657,
+    "stop": 1711693017657,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"null\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8a142014113157d9c8789524e6b17c56",
+    "testCaseId": "18b276cf7b563ed8a198f8e215639171",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\Form\\Field\\Select\\AllowspecificTest::testGetHtmlWhenValueIsEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\Form\\Field\\Select\\AllowspecificTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetHtmlWhenValueIsEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

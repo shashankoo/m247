@@ -1,0 +1,50 @@
+{
+    "uuid": "2bdef696-3f93-464e-bce1-069093de1932",
+    "name": "Magento\\Customer\\Test\\Unit\\Ui\\Component\\Listing\\Column\\AccountLockTest::testPrepareDataSource",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021162,
+    "stop": 1711693021162,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "56afc8767a23d474ff1ed077d603be88",
+    "testCaseId": "716e345953273490d043733689371ba6",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Ui\\Component\\Listing\\Column\\AccountLockTest::testPrepareDataSource",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Ui\\Component\\Listing\\Column\\AccountLockTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareDataSource"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

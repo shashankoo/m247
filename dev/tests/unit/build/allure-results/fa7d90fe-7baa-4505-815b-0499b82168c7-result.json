@@ -1,0 +1,50 @@
+{
+    "uuid": "fa7d90fe-7baa-4505-815b-0499b82168c7",
+    "name": "Magento\\ReCaptchaWebapiRest\\Test\\Unit\\Plugin\\ValidationOverriderTest::testForUsers",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033338,
+    "stop": 1711693033338,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"integration\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f9cacbc5fd57b8be67740c761d3f632a",
+    "testCaseId": "61d00545f5c45aa2a1f14fc948b7b086",
+    "rerunOf": null,
+    "fullName": "Magento\\ReCaptchaWebapiRest\\Test\\Unit\\Plugin\\ValidationOverriderTest::testForUsers",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ReCaptchaWebapiRest\\Test\\Unit\\Plugin\\ValidationOverriderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testForUsers"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "518714de-514c-4303-8b06-8170b5332c98",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Customer\\DataProviderWithDefaultAddressesTest::testGetAttributesMetaWithOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020447,
+    "stop": 1711693020449,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "085459f662de3d4c34eb43168e10996d",
+    "testCaseId": "e68b32a15a369c228e8ef426b082442b",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Customer\\DataProviderWithDefaultAddressesTest::testGetAttributesMetaWithOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Customer\\DataProviderWithDefaultAddressesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAttributesMetaWithOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

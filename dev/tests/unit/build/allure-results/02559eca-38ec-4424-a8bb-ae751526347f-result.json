@@ -1,0 +1,43 @@
+{
+    "uuid": "02559eca-38ec-4424-a8bb-ae751526347f",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnSetTest::testSetFilterTypePropagatesFilterTypeToColumns",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009606,
+    "stop": 1711693009606,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b964b2e7cd91bacc355259df8a70a3c4",
+    "testCaseId": "a6f58c569033b7ea9ef537d26099c702",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnSetTest::testSetFilterTypePropagatesFilterTypeToColumns",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnSetTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetFilterTypePropagatesFilterTypeToColumns"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

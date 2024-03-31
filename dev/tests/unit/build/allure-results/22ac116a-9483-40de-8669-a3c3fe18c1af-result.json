@@ -1,0 +1,50 @@
+{
+    "uuid": "22ac116a-9483-40de-8669-a3c3fe18c1af",
+    "name": "Magento\\AdobeStockImageAdminUi\\Test\\Unit\\Controller\\Adminhtml\\License\\LicenseTest::testNotFoundAsset",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008756,
+    "stop": 1711693008756,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Test the thrown exception if the asset couldn't be found\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b6d0b1bc03d19044dbf52478a18fa26d",
+    "testCaseId": "8e1997f37fd27e769fffca9cf8f30374",
+    "rerunOf": null,
+    "fullName": "Magento\\AdobeStockImageAdminUi\\Test\\Unit\\Controller\\Adminhtml\\License\\LicenseTest::testNotFoundAsset",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdobeStockImageAdminUi\\Test\\Unit\\Controller\\Adminhtml\\License\\LicenseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testNotFoundAsset"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

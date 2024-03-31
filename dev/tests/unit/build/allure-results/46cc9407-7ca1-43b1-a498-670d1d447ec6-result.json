@@ -1,0 +1,43 @@
+{
+    "uuid": "46cc9407-7ca1-43b1-a498-670d1d447ec6",
+    "name": "Magento\\Paypal\\Test\\Unit\\Controller\\Billing\\Agreement\\CancelTest::testExecuteActionSuccess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031823,
+    "stop": 1711693031825,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4d147ccd33557f80248c29ed31229114",
+    "testCaseId": "5919208b0612b524fea3ba720d08ace4",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Controller\\Billing\\Agreement\\CancelTest::testExecuteActionSuccess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Controller\\Billing\\Agreement\\CancelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteActionSuccess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

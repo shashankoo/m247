@@ -1,0 +1,50 @@
+{
+    "uuid": "fe471170-aee3-4392-a182-58eaa78a9372",
+    "name": "Magento\\RemoteStorage\\Test\\Unit\\Setup\\ConfigOptionsListTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033374,
+    "stop": 1711693033375,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Local File Storage Before Deployment Config Exists\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dcded5d1e69f5c54717811e0b3d0bfe1",
+    "testCaseId": "44f15e5fed5fee6924d0ae7c6abf837b",
+    "rerunOf": null,
+    "fullName": "Magento\\RemoteStorage\\Test\\Unit\\Setup\\ConfigOptionsListTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\RemoteStorage\\Test\\Unit\\Setup\\ConfigOptionsListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

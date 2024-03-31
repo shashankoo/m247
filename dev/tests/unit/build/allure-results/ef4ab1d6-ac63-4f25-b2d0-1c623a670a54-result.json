@@ -1,0 +1,43 @@
+{
+    "uuid": "ef4ab1d6-ac63-4f25-b2d0-1c623a670a54",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Api\\SearchCriteria\\CollectionProcessor\\FilterProcessor\\AttributeGroupCodeFilterTest::testApply",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022337,
+    "stop": 1711693022338,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0b53d2cd517115fac18970f884eb04b2",
+    "testCaseId": "c63c796040ed4722848f40002808489f",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Api\\SearchCriteria\\CollectionProcessor\\FilterProcessor\\AttributeGroupCodeFilterTest::testApply",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Api\\SearchCriteria\\CollectionProcessor\\FilterProcessor\\AttributeGroupCodeFilterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testApply"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

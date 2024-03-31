@@ -1,0 +1,50 @@
+{
+    "uuid": "ac030d05-be70-48f4-a175-ec4ec493f366",
+    "name": "Magento\\Sitemap\\Test\\Unit\\Model\\SitemapTest::testGenerateXml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041718,
+    "stop": 1711693041720,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5093cb85ad7471f6d2f96aa7de362919",
+    "testCaseId": "561c02384d92a4f4046052cddeb2060d",
+    "rerunOf": null,
+    "fullName": "Magento\\Sitemap\\Test\\Unit\\Model\\SitemapTest::testGenerateXml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sitemap\\Test\\Unit\\Model\\SitemapTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerateXml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "82cba70f-7c6e-4394-8564-970beba12ba8",
+    "name": "Magento\\Framework\\Translate\\Test\\Unit\\InlineTest::testProcessResponseBodyStripInline",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076854,
+    "stop": 1711693076855,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cc8c27c64a230b29f63c2b8da5b6341f",
+    "testCaseId": "0ac91ad77ae46bb54cb6beed212aeac8",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Translate\\Test\\Unit\\InlineTest::testProcessResponseBodyStripInline",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Translate\\Test\\Unit\\InlineTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessResponseBodyStripInline"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

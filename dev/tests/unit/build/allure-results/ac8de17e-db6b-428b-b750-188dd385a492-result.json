@@ -1,0 +1,43 @@
+{
+    "uuid": "ac8de17e-db6b-428b-b750-188dd385a492",
+    "name": "Magento\\Payment\\Test\\Unit\\Gateway\\Command\\GatewayCommandTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031395,
+    "stop": 1711693031399,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "36a86eb4d9fe003c96a0dbf05002e902",
+    "testCaseId": "13471644e05d700aa9a4f90105fd8638",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Gateway\\Command\\GatewayCommandTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Gateway\\Command\\GatewayCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

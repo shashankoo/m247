@@ -1,0 +1,50 @@
+{
+    "uuid": "6ec263fd-e2bc-4c81-947d-1ad9a604f41a",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\MultiselectTest::testOutputValueHtml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020844,
+    "stop": 1711693020844,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"null\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "02fe7567c93f5004236fd81a8f147f3b",
+    "testCaseId": "f83bdcfce34cac2298fb1e41c3e74291",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\MultiselectTest::testOutputValueHtml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\MultiselectTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testOutputValueHtml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "c116221b-17c3-495f-857e-874fd7bcdac9",
+    "name": "Magento\\InventoryCatalog\\Test\\Unit\\Plugin\\Catalog\\Model\\ResourceModel\\Product\\CollectionPluginTest::testBeforeSetOrderWhenOutOfStockIsEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030207,
+    "stop": 1711693030207,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"verify no additional sort order when automatic_sorting is set to else\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "34497ca0e55c18d15da6ccc0a12c1db6",
+    "testCaseId": "6458537f9522d747de0f6f982ccb0b7f",
+    "rerunOf": null,
+    "fullName": "Magento\\InventoryCatalog\\Test\\Unit\\Plugin\\Catalog\\Model\\ResourceModel\\Product\\CollectionPluginTest::testBeforeSetOrderWhenOutOfStockIsEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\InventoryCatalog\\Test\\Unit\\Plugin\\Catalog\\Model\\ResourceModel\\Product\\CollectionPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSetOrderWhenOutOfStockIsEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

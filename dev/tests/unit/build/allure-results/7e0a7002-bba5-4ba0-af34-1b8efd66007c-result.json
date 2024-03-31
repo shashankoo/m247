@@ -1,0 +1,43 @@
+{
+    "uuid": "7e0a7002-bba5-4ba0-af34-1b8efd66007c",
+    "name": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\StandardTest::testDefaultConstructor",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075403,
+    "stop": 1711693075405,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skipped in #27500 due to testing protected\/private methods and properties",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c383687e432298c2092515dfe9ca66b9",
+    "testCaseId": "e9471bb805c09b14e7c5c85fc4d38431",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\StandardTest::testDefaultConstructor",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\StandardTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDefaultConstructor"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

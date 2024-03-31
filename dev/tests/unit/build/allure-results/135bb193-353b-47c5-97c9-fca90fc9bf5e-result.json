@@ -1,0 +1,50 @@
+{
+    "uuid": "135bb193-353b-47c5-97c9-fca90fc9bf5e",
+    "name": "Magento\\Backend\\Test\\Unit\\App\\ConfigTest::testIsSetFlag",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009470,
+    "stop": 1711693009470,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c6f78f8947d8a0a24f28a617be177550",
+    "testCaseId": "31f3e2618de32364179e2d97adbb573a",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\App\\ConfigTest::testIsSetFlag",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\App\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsSetFlag"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

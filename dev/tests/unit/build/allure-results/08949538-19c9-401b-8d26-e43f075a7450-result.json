@@ -1,0 +1,50 @@
+{
+    "uuid": "08949538-19c9-401b-8d26-e43f075a7450",
+    "name": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\Product\\Modifier\\PriceAttributesTest::testModifyData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016385,
+    "stop": 1711693016385,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e84a255845be46358513aa7a76e3f129",
+    "testCaseId": "bbc964dda3d6fa41d5a6b418c1b68c99",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\Product\\Modifier\\PriceAttributesTest::testModifyData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\Product\\Modifier\\PriceAttributesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testModifyData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "2a45af99-3db4-4936-a640-2c9a4a2869a4",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\EntityAbstractTest::testValidateDataColumnNameWithWhitespaces",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024712,
+    "stop": 1711693024713,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ae1b19fb8064308531d7c812ad6beda3",
+    "testCaseId": "53ec4234f66f7ee1dbcbfca0879d7432",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\EntityAbstractTest::testValidateDataColumnNameWithWhitespaces",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\EntityAbstractTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateDataColumnNameWithWhitespaces"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

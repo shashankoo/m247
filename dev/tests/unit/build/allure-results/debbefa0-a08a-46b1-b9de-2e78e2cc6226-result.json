@@ -1,0 +1,50 @@
+{
+    "uuid": "debbefa0-a08a-46b1-b9de-2e78e2cc6226",
+    "name": "Magento\\PageCache\\Test\\Unit\\Model\\Cache\\ServerTest::testGetUris",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031243,
+    "stop": 1711693031243,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"config\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0b52d27c31ab81c8b36f5f0faff1ad19",
+    "testCaseId": "5edf474dbb25cd0f7b6b4dd67fe5676d",
+    "rerunOf": null,
+    "fullName": "Magento\\PageCache\\Test\\Unit\\Model\\Cache\\ServerTest::testGetUris",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\PageCache\\Test\\Unit\\Model\\Cache\\ServerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUris"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

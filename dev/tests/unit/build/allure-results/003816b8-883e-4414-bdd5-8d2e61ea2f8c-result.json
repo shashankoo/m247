@@ -1,0 +1,50 @@
+{
+    "uuid": "003816b8-883e-4414-bdd5-8d2e61ea2f8c",
+    "name": "Magento\\Ui\\Test\\Unit\\Component\\Form\\Field\\MultilineTest::testPrepare",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693048481,
+    "stop": 1711693048482,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f2aff09e99024af6b1c9880cc426abb8",
+    "testCaseId": "46f7a0e2312769c6d44709e1a1e00d29",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Component\\Form\\Field\\MultilineTest::testPrepare",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Component\\Form\\Field\\MultilineTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepare"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

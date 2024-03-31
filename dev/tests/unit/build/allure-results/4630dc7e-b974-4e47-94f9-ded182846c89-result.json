@@ -1,0 +1,43 @@
+{
+    "uuid": "4630dc7e-b974-4e47-94f9-ded182846c89",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\ResourceModel\\Order\\Handler\\AddressTest::testProcessShippingAddress",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693040811,
+    "stop": 1711693040812,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dff060e51d9498ac73d36de147545c2b",
+    "testCaseId": "c7865032c771060c7b3f357a7e8bac28",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\ResourceModel\\Order\\Handler\\AddressTest::testProcessShippingAddress",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\ResourceModel\\Order\\Handler\\AddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessShippingAddress"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

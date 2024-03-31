@@ -1,0 +1,50 @@
+{
+    "uuid": "7d5ff002-88bb-44f3-8111-0ae916851a90",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Model\\Ui\\ConfigProviderTest::testGetClientToken",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056390,
+    "stop": 1711693056391,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4c7854a83674364619b8204fb5209eb7",
+    "testCaseId": "f544a1b819047c9c91e1ed9df20d25cd",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Model\\Ui\\ConfigProviderTest::testGetClientToken",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Model\\Ui\\ConfigProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetClientToken"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

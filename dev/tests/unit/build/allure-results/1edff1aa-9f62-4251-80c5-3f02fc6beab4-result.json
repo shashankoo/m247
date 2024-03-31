@@ -1,0 +1,43 @@
+{
+    "uuid": "1edff1aa-9f62-4251-80c5-3f02fc6beab4",
+    "name": "Magento\\Catalog\\Test\\Unit\\Block\\Ui\\ProductViewCounterTest::testGetCurrentProductDataWithNonEmptyProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013725,
+    "stop": 1711693013727,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0f112ff704d99dee6615c258fece13c0",
+    "testCaseId": "5fcbc181ac470aeb1afc9ac8283a3bef",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Block\\Ui\\ProductViewCounterTest::testGetCurrentProductDataWithNonEmptyProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Block\\Ui\\ProductViewCounterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCurrentProductDataWithNonEmptyProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "2af6c0e8-7f33-491a-a6e7-39b9d20741b8",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\AttributeAdapterTest::testIsComplexType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023239,
+    "stop": 1711693023239,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2810cbdcbf823fe4ce25ac3bc5b6145f",
+    "testCaseId": "e782992e567209e89222eeb0e619775d",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\AttributeAdapterTest::testIsComplexType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\AttributeAdapterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsComplexType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

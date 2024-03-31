@@ -1,0 +1,50 @@
+{
+    "uuid": "c512ab00-7c2b-402a-85b0-885710631b15",
+    "name": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\GeneralTest::testModifyDataOfExistingProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016326,
+    "stop": 1711693016327,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"With enable status value with empty modelId\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d3981da5f376c5c2addbbefa0eac3689",
+    "testCaseId": "df8c97d124e120917b23828f5b750fd7",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\GeneralTest::testModifyDataOfExistingProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\GeneralTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testModifyDataOfExistingProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

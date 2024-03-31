@@ -1,0 +1,43 @@
+{
+    "uuid": "822dca2c-a23d-4044-a19d-3ff0ded053c7",
+    "name": "Magento\\Email\\Test\\Unit\\Block\\Adminhtml\\Template\\Render\\TypeTest::testRenderWithUnsupportedTemplateType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023627,
+    "stop": 1711693023627,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cd0e92c6a4eb99ecba4b943fd9be6591",
+    "testCaseId": "288ae1965b609c40d2bb41d3a0ee1f2b",
+    "rerunOf": null,
+    "fullName": "Magento\\Email\\Test\\Unit\\Block\\Adminhtml\\Template\\Render\\TypeTest::testRenderWithUnsupportedTemplateType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Email\\Test\\Unit\\Block\\Adminhtml\\Template\\Render\\TypeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRenderWithUnsupportedTemplateType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

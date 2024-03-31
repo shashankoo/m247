@@ -1,0 +1,50 @@
+{
+    "uuid": "bbebbe27-88df-4e1f-a8cd-69d244a08fdb",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Backend\\PriceTest::testValidateForFailure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014908,
+    "stop": 1711693014909,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"negative US full\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e2852a57c722d622faf1cfe9e5b930ae",
+    "testCaseId": "4a22eae387b28e31cc5c0bc0110fd0dc",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Backend\\PriceTest::testValidateForFailure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Backend\\PriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateForFailure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

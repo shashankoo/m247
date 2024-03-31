@@ -1,0 +1,43 @@
+{
+    "uuid": "cd412ef4-6dd8-425f-a476-b5d730cf1bbb",
+    "name": "Magento\\Framework\\Mview\\Test\\Unit\\TriggerCleanerTest::testRemoveTriggersNoChanges",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074512,
+    "stop": 1711693074516,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3f24a3a9d5065337e8652b361794bef5",
+    "testCaseId": "1d7f99afe121316b807ea67060ebe9fb",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Mview\\Test\\Unit\\TriggerCleanerTest::testRemoveTriggersNoChanges",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Mview\\Test\\Unit\\TriggerCleanerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRemoveTriggersNoChanges"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

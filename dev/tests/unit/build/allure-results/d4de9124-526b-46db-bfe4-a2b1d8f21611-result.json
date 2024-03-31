@@ -1,0 +1,43 @@
+{
+    "uuid": "d4de9124-526b-46db-bfe4-a2b1d8f21611",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\ResourceModel\\Oauth\\TokenTest::testSelectTokenByAdminId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030150,
+    "stop": 1711693030150,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "fbf3b76f1833e21ab3f060be32b0a4cb",
+    "testCaseId": "d215103465242bea127508694fd62b7f",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\ResourceModel\\Oauth\\TokenTest::testSelectTokenByAdminId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\ResourceModel\\Oauth\\TokenTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSelectTokenByAdminId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

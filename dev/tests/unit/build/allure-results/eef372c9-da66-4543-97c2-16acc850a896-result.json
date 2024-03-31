@@ -1,0 +1,50 @@
+{
+    "uuid": "eef372c9-da66-4543-97c2-16acc850a896",
+    "name": "Magento\\Checkout\\Test\\Unit\\Block\\Checkout\\AttributeMergerTest::testMerge",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016668,
+    "stop": 1711693016668,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "02ad6c9c3450f296126a604dfd26422f",
+    "testCaseId": "716d531253a5e7e647c1319c3164d103",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Block\\Checkout\\AttributeMergerTest::testMerge",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Block\\Checkout\\AttributeMergerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMerge"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

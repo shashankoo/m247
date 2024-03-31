@@ -1,0 +1,50 @@
+{
+    "uuid": "c55bba78-7a85-4fd0-b6e6-756f3fe90725",
+    "name": "Magento\\MediaStorage\\Test\\Unit\\Helper\\File\\Storage\\DatabaseTest::testCheckDbUsage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030423,
+    "stop": 1711693030424,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"media database\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ae68f951a7586d8ebc77716abac4f25a",
+    "testCaseId": "5f7b4032a4e478c0894e4a520cd5c959",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaStorage\\Test\\Unit\\Helper\\File\\Storage\\DatabaseTest::testCheckDbUsage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaStorage\\Test\\Unit\\Helper\\File\\Storage\\DatabaseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckDbUsage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

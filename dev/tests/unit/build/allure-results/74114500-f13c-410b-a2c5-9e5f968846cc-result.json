@@ -1,0 +1,50 @@
+{
+    "uuid": "74114500-f13c-410b-a2c5-9e5f968846cc",
+    "name": "Magento\\Framework\\Url\\Test\\Unit\\Helper\\DataTest::testRemoveRequestParam",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076885,
+    "stop": 1711693076886,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"one match\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c0f7cf7ad44f3b820df36577a970f79f",
+    "testCaseId": "47604da5c309290cf96e8bbde73f0557",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Url\\Test\\Unit\\Helper\\DataTest::testRemoveRequestParam",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Url\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRemoveRequestParam"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

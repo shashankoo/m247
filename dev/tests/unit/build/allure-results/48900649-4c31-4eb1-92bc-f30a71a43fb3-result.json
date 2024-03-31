@@ -1,0 +1,50 @@
+{
+    "uuid": "48900649-4c31-4eb1-92bc-f30a71a43fb3",
+    "name": "Magento\\Security\\Test\\Unit\\Model\\ResourceModel\\PasswordResetRequestEvent\\CollectionFactoryTest::testCreate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041301,
+    "stop": 1711693041301,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "08b7ce627fb177f7792de53157accac1",
+    "testCaseId": "5129a0712c16cb638aecece64d36b995",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Model\\ResourceModel\\PasswordResetRequestEvent\\CollectionFactoryTest::testCreate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Model\\ResourceModel\\PasswordResetRequestEvent\\CollectionFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

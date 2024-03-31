@@ -1,0 +1,43 @@
+{
+    "uuid": "8c13d554-9280-4354-8257-8ccbdf84a8f7",
+    "name": "Magento\\CmsUrlRewrite\\Test\\Unit\\Plugin\\Cms\\Model\\Store\\ViewTest::testAfterSaveObjectIsNotNew",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017020,
+    "stop": 1711693017025,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "16225215c5c872c27bf5cd9634b67446",
+    "testCaseId": "58a4e8fb7d925ea3e23f449ca44320a0",
+    "rerunOf": null,
+    "fullName": "Magento\\CmsUrlRewrite\\Test\\Unit\\Plugin\\Cms\\Model\\Store\\ViewTest::testAfterSaveObjectIsNotNew",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CmsUrlRewrite\\Test\\Unit\\Plugin\\Cms\\Model\\Store\\ViewTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSaveObjectIsNotNew"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

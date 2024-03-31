@@ -1,0 +1,50 @@
+{
+    "uuid": "b1337736-c0ad-4641-8823-aa0ca3a0ed22",
+    "name": "Magento\\CatalogSearch\\Test\\Unit\\Model\\Layer\\Filter\\CategoryTest::testApplyWithEmptyRequest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012771,
+    "stop": 1711693012772,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6e981d0111e2f18b5765fc1380835885",
+    "testCaseId": "5ee8d8ec20627c6517e509be36e8fe09",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogSearch\\Test\\Unit\\Model\\Layer\\Filter\\CategoryTest::testApplyWithEmptyRequest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogSearch\\Test\\Unit\\Model\\Layer\\Filter\\CategoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testApplyWithEmptyRequest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

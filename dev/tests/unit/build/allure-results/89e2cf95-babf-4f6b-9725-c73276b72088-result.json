@@ -1,0 +1,43 @@
+{
+    "uuid": "89e2cf95-babf-4f6b-9725-c73276b72088",
+    "name": "Magento\\Framework\\Session\\Test\\Unit\\ConfigTest::testSettingInvalidCookieLifetime2",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076031,
+    "stop": 1711693076031,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c230e3b7e709711e421055c0a70a96a2",
+    "testCaseId": "14b9d5f18497809f0c2281a04aa7214e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Session\\Test\\Unit\\ConfigTest::testSettingInvalidCookieLifetime2",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Session\\Test\\Unit\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSettingInvalidCookieLifetime2"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

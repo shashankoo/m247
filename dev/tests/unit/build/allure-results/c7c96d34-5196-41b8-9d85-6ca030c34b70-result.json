@@ -1,0 +1,43 @@
+{
+    "uuid": "c7c96d34-5196-41b8-9d85-6ca030c34b70",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\StoreSwitcher\\HashProcessorTest::testShouldNotProcessIfDataIsNotPresentInTheRequest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041940,
+    "stop": 1711693041940,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "551cfd64415e2634448f844d7b60c8a6",
+    "testCaseId": "3befe2f76a5db4691053a0668784f21e",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\StoreSwitcher\\HashProcessorTest::testShouldNotProcessIfDataIsNotPresentInTheRequest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\StoreSwitcher\\HashProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testShouldNotProcessIfDataIsNotPresentInTheRequest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

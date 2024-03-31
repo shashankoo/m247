@@ -1,0 +1,50 @@
+{
+    "uuid": "2dff85ee-7bb2-4c0c-afa5-4fd14143e6d2",
+    "name": "Magento\\Framework\\Test\\Unit\\Validator\\HTML\\StyleAttributeValidatorTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057464,
+    "stop": 1711693057464,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"another invalid position style\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6cda701bff5702334dfe03e4e00347e4",
+    "testCaseId": "e8d06f99485629f3024ad55f9b1629b7",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\Validator\\HTML\\StyleAttributeValidatorTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\Validator\\HTML\\StyleAttributeValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

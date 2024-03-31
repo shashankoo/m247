@@ -1,0 +1,43 @@
+{
+    "uuid": "22826194-c4cd-432b-818b-1b86b0459314",
+    "name": "Magento\\AwsS3\\Test\\Unit\\Driver\\AwsS3Test::testFileCloseShouldReturnFalseIfTheArgumentIsNotAResource",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009416,
+    "stop": 1711693009416,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cc13bf96a917e60aa0334b04ac6cd952",
+    "testCaseId": "7d9dc97a1d06010f1670d716b1edb741",
+    "rerunOf": null,
+    "fullName": "Magento\\AwsS3\\Test\\Unit\\Driver\\AwsS3Test::testFileCloseShouldReturnFalseIfTheArgumentIsNotAResource",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AwsS3\\Test\\Unit\\Driver\\AwsS3Test"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFileCloseShouldReturnFalseIfTheArgumentIsNotAResource"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

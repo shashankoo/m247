@@ -1,0 +1,43 @@
+{
+    "uuid": "a16ba988-b8e8-4f2f-accc-6a58a99b0cae",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\ContextTest::testGetCacheState",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077232,
+    "stop": 1711693077232,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Testcase needs to be refactored.",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cee3a35d9c0c9026520bbcdd27b4f4b9",
+    "testCaseId": "b66aef3eb0bb52022d5a7f695949f336",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\ContextTest::testGetCacheState",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\ContextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCacheState"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

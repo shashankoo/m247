@@ -1,0 +1,43 @@
+{
+    "uuid": "7abfb8a1-3e1e-4346-afa3-a58d7348ec1c",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnSetTest::testGetRowUrlIfUrlPathNotSet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009606,
+    "stop": 1711693009607,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3e4c8dafd489c1a6e0cbc36883bcc960",
+    "testCaseId": "8102adf0c446ea7b7b1ebaf3bc107c38",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnSetTest::testGetRowUrlIfUrlPathNotSet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnSetTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRowUrlIfUrlPathNotSet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

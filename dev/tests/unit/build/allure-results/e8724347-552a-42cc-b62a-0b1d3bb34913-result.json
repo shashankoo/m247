@@ -1,0 +1,43 @@
+{
+    "uuid": "e8724347-552a-42cc-b62a-0b1d3bb34913",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\SuccessTest::testGetOrderIdsWithEmptyIdsArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030696,
+    "stop": 1711693030697,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "441b95372b68f6fe363be0198d58d920",
+    "testCaseId": "169dd0e4a42e2471c60f79290e99bee7",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\SuccessTest::testGetOrderIdsWithEmptyIdsArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\SuccessTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOrderIdsWithEmptyIdsArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

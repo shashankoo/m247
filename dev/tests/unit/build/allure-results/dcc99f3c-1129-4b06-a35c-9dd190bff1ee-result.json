@@ -1,0 +1,50 @@
+{
+    "uuid": "dcc99f3c-1129-4b06-a35c-9dd190bff1ee",
+    "name": "Magento\\Framework\\Encryption\\Test\\Unit\\Adapter\\McryptTest::testInitVectorNone",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071626,
+    "stop": 1711693071628,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"rijndael-256-cbc\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0405ec5a36f6693c8885866adb446d12",
+    "testCaseId": "f20bae8069319c053a9f08cfc7c2180e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Encryption\\Test\\Unit\\Adapter\\McryptTest::testInitVectorNone",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Encryption\\Test\\Unit\\Adapter\\McryptTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInitVectorNone"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

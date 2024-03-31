@@ -1,0 +1,50 @@
+{
+    "uuid": "b49429c9-ccbb-4ce8-b132-beb0f3d96c46",
+    "name": "Magento\\CardinalCommerce\\Test\\Unit\\Model\\Response\\JwtPayloadValidatorTest::testValidateSuccess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011380,
+    "stop": 1711693011381,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6ad27ab4e1ef22a2ecf075aaada136a6",
+    "testCaseId": "e9998551b99b66adf48782fb3efcf588",
+    "rerunOf": null,
+    "fullName": "Magento\\CardinalCommerce\\Test\\Unit\\Model\\Response\\JwtPayloadValidatorTest::testValidateSuccess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CardinalCommerce\\Test\\Unit\\Model\\Response\\JwtPayloadValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateSuccess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

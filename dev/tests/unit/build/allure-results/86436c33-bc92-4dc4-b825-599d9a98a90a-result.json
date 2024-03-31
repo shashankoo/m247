@@ -1,0 +1,50 @@
+{
+    "uuid": "86436c33-bc92-4dc4-b825-599d9a98a90a",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Cache\\Type\\AccessProxyTest::testProxyMethod",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057740,
+    "stop": 1711693057740,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4ef22e2a5a1d185074899abf0c8f73de",
+    "testCaseId": "fa1334b807040b0db37d4deff8ee886b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Cache\\Type\\AccessProxyTest::testProxyMethod",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Cache\\Type\\AccessProxyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProxyMethod"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

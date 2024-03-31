@@ -1,0 +1,50 @@
+{
+    "uuid": "8fc9dc2f-7062-4202-a8b6-64935c5342e0",
+    "name": "Magento\\Weee\\Test\\Unit\\Observer\\AddPaymentWeeeItemTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054033,
+    "stop": 1711693054035,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "610542eac24a95d3e2f5dbb6e52ac2e4",
+    "testCaseId": "02e69a026d12917f11d121e4d4391a56",
+    "rerunOf": null,
+    "fullName": "Magento\\Weee\\Test\\Unit\\Observer\\AddPaymentWeeeItemTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Weee\\Test\\Unit\\Observer\\AddPaymentWeeeItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

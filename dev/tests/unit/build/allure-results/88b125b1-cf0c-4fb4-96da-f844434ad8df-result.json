@@ -1,0 +1,43 @@
+{
+    "uuid": "88b125b1-cf0c-4fb4-96da-f844434ad8df",
+    "name": "Magento\\MediaStorage\\Test\\Unit\\Model\\File\\Storage\\FileTest::testSaveFileUnsuccessfullyWithoutMissingDirectory",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030467,
+    "stop": 1711693030467,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "144f192a4a2ed80e08e3af5d787c3721",
+    "testCaseId": "3d1527ef14abef2941b6b43060edf446",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaStorage\\Test\\Unit\\Model\\File\\Storage\\FileTest::testSaveFileUnsuccessfullyWithoutMissingDirectory",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaStorage\\Test\\Unit\\Model\\File\\Storage\\FileTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveFileUnsuccessfullyWithoutMissingDirectory"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

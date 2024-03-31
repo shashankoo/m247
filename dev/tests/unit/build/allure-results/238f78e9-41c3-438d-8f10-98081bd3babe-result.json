@@ -1,0 +1,50 @@
+{
+    "uuid": "238f78e9-41c3-438d-8f10-98081bd3babe",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\Filter\\DateTest::testFilterWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076745,
+    "stop": 1711693076745,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d7c0f53bd1bd7b2fec841345c8fa6706",
+    "testCaseId": "fa2c194037aef1eeb5b2fc93277baa41",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\Filter\\DateTest::testFilterWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\DateTime\\Filter\\DateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFilterWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

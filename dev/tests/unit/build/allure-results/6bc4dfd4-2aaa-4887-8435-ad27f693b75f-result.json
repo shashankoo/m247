@@ -1,0 +1,50 @@
+{
+    "uuid": "6bc4dfd4-2aaa-4887-8435-ad27f693b75f",
+    "name": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleUninstallCommandTest::testExecuteFailedDependencies",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054911,
+    "stop": 1711693054912,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3fb9c7163fc3b330850ba50dc539ddb5",
+    "testCaseId": "341c2ff912cc8ce182c8ceb76178dab7",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleUninstallCommandTest::testExecuteFailedDependencies",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleUninstallCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteFailedDependencies"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

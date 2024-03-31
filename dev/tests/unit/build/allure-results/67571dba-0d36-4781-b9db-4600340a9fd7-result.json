@@ -1,0 +1,50 @@
+{
+    "uuid": "67571dba-0d36-4781-b9db-4600340a9fd7",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\Attribute\\Backend\\SortbyTest::testValidateDefaultSortException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014167,
+    "stop": 1711693014167,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Due to MAGETWO-48956",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "03fe6a55c4a59747a41f305fdfc64a46",
+    "testCaseId": "8449ee7f59fc95b7bf7efbfea81eba37",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\Attribute\\Backend\\SortbyTest::testValidateDefaultSortException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\Attribute\\Backend\\SortbyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateDefaultSortException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

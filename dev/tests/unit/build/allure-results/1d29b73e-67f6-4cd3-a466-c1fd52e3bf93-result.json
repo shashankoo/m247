@@ -1,0 +1,50 @@
+{
+    "uuid": "1d29b73e-67f6-4cd3-a466-c1fd52e3bf93",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\LinkTypeProviderTest::testGetItemAttributes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015115,
+    "stop": 1711693015116,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7a02b2749022c85e118d9626eae78400",
+    "testCaseId": "fbbcec19e87d2096b0a33774c191947e",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\LinkTypeProviderTest::testGetItemAttributes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\LinkTypeProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItemAttributes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

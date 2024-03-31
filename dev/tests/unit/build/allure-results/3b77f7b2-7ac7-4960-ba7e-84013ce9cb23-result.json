@@ -1,0 +1,50 @@
+{
+    "uuid": "3b77f7b2-7ac7-4960-ba7e-84013ce9cb23",
+    "name": "Magento\\Framework\\Pricing\\Test\\Unit\\Helper\\DataTest::testCurrency",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075201,
+    "stop": 1711693075201,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "786e6f5b1feb7de991b1d4e81e63c719",
+    "testCaseId": "62361d7fff16251b96854167c38ec7cc",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Pricing\\Test\\Unit\\Helper\\DataTest::testCurrency",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Pricing\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCurrency"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "15028883-21fd-4b9e-9962-17bea3643bed",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Cache\\Frontend\\FactoryTest::testIdPrefix",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057706,
+    "stop": 1711693057706,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"id prefix in \"id_prefix\" option\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "90d2c0c7d5a7792c77752e03d7e4c3dc",
+    "testCaseId": "1f7afbf4c20531d93db0f72dfbcda21d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Cache\\Frontend\\FactoryTest::testIdPrefix",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Cache\\Frontend\\FactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIdPrefix"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "6ee6b97e-7419-4ed4-9c49-32985518652a",
+    "name": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\HttpTest::testIsExists",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073252,
+    "stop": 1711693073253,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2c65b7fdde6e0b6ecf34c047a599aee9",
+    "testCaseId": "c6dd7d704d31c3f35a09a261adb9244a",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\HttpTest::testIsExists",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsExists"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

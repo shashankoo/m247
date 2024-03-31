@@ -1,0 +1,43 @@
+{
+    "uuid": "ef3c46a2-33f9-4597-8e62-6a9281687579",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Validator\\MinimumOrderAmount\\ValidationMessageTest::testGetMessage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032950,
+    "stop": 1711693032950,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f6a2ba498d6ff7810723c86dee6ebc88",
+    "testCaseId": "536285d13681b13ae78af40b8399a952",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Validator\\MinimumOrderAmount\\ValidationMessageTest::testGetMessage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Validator\\MinimumOrderAmount\\ValidationMessageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMessage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

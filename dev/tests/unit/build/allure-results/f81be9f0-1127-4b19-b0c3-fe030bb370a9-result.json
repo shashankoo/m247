@@ -1,0 +1,50 @@
+{
+    "uuid": "f81be9f0-1127-4b19-b0c3-fe030bb370a9",
+    "name": "Magento\\CacheInvalidate\\Test\\Unit\\Model\\PurgeCacheTest::testSendPurgeRequest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011234,
+    "stop": 1711693011238,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f2379920cf4fb6519d822180c3ef1b1e",
+    "testCaseId": "ad74423cd87a1172d77728e9ec360cff",
+    "rerunOf": null,
+    "fullName": "Magento\\CacheInvalidate\\Test\\Unit\\Model\\PurgeCacheTest::testSendPurgeRequest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CacheInvalidate\\Test\\Unit\\Model\\PurgeCacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSendPurgeRequest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

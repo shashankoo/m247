@@ -1,0 +1,50 @@
+{
+    "uuid": "770aa06e-2924-4728-86ea-21b7288ce3cb",
+    "name": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\Fieldset\\PaymentTest::testIsPaymentEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031757,
+    "stop": 1711693031757,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#11",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9f6d7afceacafea81513b2dddc1e2d2d",
+    "testCaseId": "2b9e9c1e1cf9e32dd7a81ef545e5886e",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\Fieldset\\PaymentTest::testIsPaymentEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\Fieldset\\PaymentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsPaymentEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

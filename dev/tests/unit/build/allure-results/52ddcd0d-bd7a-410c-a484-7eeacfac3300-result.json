@@ -1,0 +1,43 @@
+{
+    "uuid": "52ddcd0d-bd7a-410c-a484-7eeacfac3300",
+    "name": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest::testRenderAmountMinimal",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016159,
+    "stop": 1711693016161,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "eff37fcd061caa63c5f657d30a5cd7be",
+    "testCaseId": "971f34f153e8a346021a4f807db166f5",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest::testRenderAmountMinimal",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\FinalPriceBoxTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRenderAmountMinimal"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

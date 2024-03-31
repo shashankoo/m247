@@ -1,0 +1,50 @@
+{
+    "uuid": "03e862a3-744e-407f-9767-0b5aec8dacf9",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\ResourceModel\\Db\\VersionControl\\AddressSnapshotTest::testIsModified",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021021,
+    "stop": 1711693021022,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2a6b25f1a533c2e21710e02103be4187",
+    "testCaseId": "296a48e2b79faea1556152f14e7a3716",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\ResourceModel\\Db\\VersionControl\\AddressSnapshotTest::testIsModified",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\ResourceModel\\Db\\VersionControl\\AddressSnapshotTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsModified"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

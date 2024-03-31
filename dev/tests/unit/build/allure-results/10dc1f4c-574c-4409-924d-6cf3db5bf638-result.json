@@ -1,0 +1,43 @@
+{
+    "uuid": "10dc1f4c-574c-4409-924d-6cf3db5bf638",
+    "name": "Magento\\GoogleAnalytics\\Test\\Unit\\Block\\GaTest::testIsCookieRestrictionModeEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024117,
+    "stop": 1711693024118,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b38e73d447fa301feb2e4fe503abb809",
+    "testCaseId": "3fce317ff6e798eeb677d5458b1d1bf5",
+    "rerunOf": null,
+    "fullName": "Magento\\GoogleAnalytics\\Test\\Unit\\Block\\GaTest::testIsCookieRestrictionModeEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GoogleAnalytics\\Test\\Unit\\Block\\GaTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsCookieRestrictionModeEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

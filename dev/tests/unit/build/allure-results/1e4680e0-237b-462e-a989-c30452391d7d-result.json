@@ -1,0 +1,50 @@
+{
+    "uuid": "1e4680e0-237b-462e-a989-c30452391d7d",
+    "name": "Magento\\Framework\\Crontab\\Test\\Unit\\CrontabManagerTest::testSaveTasks",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070503,
+    "stop": 1711693070503,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1c2630513d17f2cab4469a891165ac52",
+    "testCaseId": "1b12ed228f7d46085bf96d58b1861c9b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Crontab\\Test\\Unit\\CrontabManagerTest::testSaveTasks",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Crontab\\Test\\Unit\\CrontabManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveTasks"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

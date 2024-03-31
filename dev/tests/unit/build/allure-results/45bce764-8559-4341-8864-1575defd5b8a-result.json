@@ -1,0 +1,50 @@
+{
+    "uuid": "45bce764-8559-4341-8864-1575defd5b8a",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Export\\TypePoolTest::testIsPresent",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017894,
+    "stop": 1711693017894,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "32715d73dd32f5c3a06f862bba2d35da",
+    "testCaseId": "26aac01b93b7e17207dd631c606a5995",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Export\\TypePoolTest::testIsPresent",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Export\\TypePoolTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsPresent"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

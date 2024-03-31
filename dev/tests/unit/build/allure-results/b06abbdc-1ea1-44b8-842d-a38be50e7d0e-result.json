@@ -1,0 +1,43 @@
+{
+    "uuid": "b06abbdc-1ea1-44b8-842d-a38be50e7d0e",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Route\\ConfigTest::testGetRouteByFrontNameNoRoutes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058831,
+    "stop": 1711693058832,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c54ce965d9c7c9e31f448f885ac5aabe",
+    "testCaseId": "2ecd23e90286522c829c257dd214d829",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Route\\ConfigTest::testGetRouteByFrontNameNoRoutes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Route\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRouteByFrontNameNoRoutes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

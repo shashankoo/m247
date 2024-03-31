@@ -1,0 +1,50 @@
+{
+    "uuid": "70c7c253-e771-4366-ac04-f2dab4bb5220",
+    "name": "Magento\\Framework\\Test\\Unit\\DataObjectTest::testUnderscore",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056551,
+    "stop": 1711693056551,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Test 4\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "22b7f019a67806ff81d080d5cb4455bb",
+    "testCaseId": "2ed93d5dbb189c9da0d262b7feccd53a",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\DataObjectTest::testUnderscore",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\DataObjectTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUnderscore"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

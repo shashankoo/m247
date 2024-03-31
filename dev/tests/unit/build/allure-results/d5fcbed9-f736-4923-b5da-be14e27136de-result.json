@@ -1,0 +1,50 @@
+{
+    "uuid": "d5fcbed9-f736-4923-b5da-be14e27136de",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\FactoryTest::testCreatePositive",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071146,
+    "stop": 1711693071149,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"radios\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0add7de97cd55ac96ef1f89b548fac2e",
+    "testCaseId": "e12539cc3bdebdbd3dadac2fbbfabc83",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\FactoryTest::testCreatePositive",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\Form\\Element\\FactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreatePositive"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

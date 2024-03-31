@@ -1,0 +1,43 @@
+{
+    "uuid": "ce9a3dbf-baf4-42af-873c-4ef7b612d650",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Block\\Stockqty\\DefaultStockqtyTest::testGetThresholdQty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011894,
+    "stop": 1711693011894,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4f8c98c857e917f27072d06943b4aee3",
+    "testCaseId": "36043db2c4bf8f35d0c783043fe16eae",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Block\\Stockqty\\DefaultStockqtyTest::testGetThresholdQty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Block\\Stockqty\\DefaultStockqtyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetThresholdQty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

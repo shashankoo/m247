@@ -1,0 +1,43 @@
+{
+    "uuid": "3bb8022f-d274-4ca9-83bb-815a09f997e9",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ItemTest::testGetClickCallbackReturnsEmptyStringIfItemHasAction",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010056,
+    "stop": 1711693010056,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dc69347a9d5d25d6520d410fce8e448f",
+    "testCaseId": "8609e9f957bbe96c09001009d4bec5eb",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ItemTest::testGetClickCallbackReturnsEmptyStringIfItemHasAction",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetClickCallbackReturnsEmptyStringIfItemHasAction"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

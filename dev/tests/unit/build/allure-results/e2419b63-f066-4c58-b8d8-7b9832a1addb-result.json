@@ -1,0 +1,43 @@
+{
+    "uuid": "e2419b63-f066-4c58-b8d8-7b9832a1addb",
+    "name": "Magento\\Framework\\Module\\Test\\Unit\\ManagerTest::testIsOutputEnabledReturnsFalseForDisabledModule",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074422,
+    "stop": 1711693074422,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3270b67c13983989144c0bc44b548b40",
+    "testCaseId": "36b1f2b27cd5e6d761ae3ab23ead9e5b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Module\\Test\\Unit\\ManagerTest::testIsOutputEnabledReturnsFalseForDisabledModule",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Module\\Test\\Unit\\ManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsOutputEnabledReturnsFalseForDisabledModule"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

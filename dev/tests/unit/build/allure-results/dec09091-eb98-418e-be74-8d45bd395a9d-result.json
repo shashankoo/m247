@@ -1,0 +1,43 @@
+{
+    "uuid": "dec09091-eb98-418e-be74-8d45bd395a9d",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\Group\\ProxyTest::testProxyInitializesProxiedObjectOnFirstCall",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018029,
+    "stop": 1711693018029,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8293ff5d4a1bc99a40c4efc49cc4d077",
+    "testCaseId": "b2feb6bb589b54fd7f6b8b9af6083a16",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\Group\\ProxyTest::testProxyInitializesProxiedObjectOnFirstCall",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\Group\\ProxyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProxyInitializesProxiedObjectOnFirstCall"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "73b11d36-fe22-49ad-8dfb-d62ece95fd3f",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Dependency\\Report\\Dependency\\Data\\ModuleTest::testGetSoftDependenciesCount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055596,
+    "stop": 1711693055596,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1dcc345a329e6e0a5a5b4cbf69f7e08e",
+    "testCaseId": "8098a424f85464db602d510527604a14",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Dependency\\Report\\Dependency\\Data\\ModuleTest::testGetSoftDependenciesCount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Dependency\\Report\\Dependency\\Data\\ModuleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSoftDependenciesCount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

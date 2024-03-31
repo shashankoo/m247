@@ -1,0 +1,50 @@
+{
+    "uuid": "0283a54e-3e3b-475d-bf81-87785202a29d",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\DocRootLocatorTest::testIsPub",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058099,
+    "stop": 1711693058100,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "efbb9c065f65672dce16298c46c6be51",
+    "testCaseId": "e1b64cd4b9263bf21a925f83b6bab0e3",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\DocRootLocatorTest::testIsPub",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\DocRootLocatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsPub"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

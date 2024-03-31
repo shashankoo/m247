@@ -1,0 +1,50 @@
+{
+    "uuid": "a06256e2-ad69-4326-acf0-80e5dc87033e",
+    "name": "Magento\\PageCache\\Test\\Unit\\Model\\Layout\\LayoutPluginTest::testAfterGetOutput",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031284,
+    "stop": 1711693031284,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Cacheable layout with Builtin and esi\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9b550354e362f2d952f5bf8c3c75c6f7",
+    "testCaseId": "f8623f0d6a0f1a65523d10ee67005ebe",
+    "rerunOf": null,
+    "fullName": "Magento\\PageCache\\Test\\Unit\\Model\\Layout\\LayoutPluginTest::testAfterGetOutput",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\PageCache\\Test\\Unit\\Model\\Layout\\LayoutPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetOutput"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

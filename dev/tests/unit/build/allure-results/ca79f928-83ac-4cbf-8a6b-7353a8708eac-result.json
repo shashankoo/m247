@@ -1,0 +1,50 @@
+{
+    "uuid": "ca79f928-83ac-4cbf-8a6b-7353a8708eac",
+    "name": "Magento\\Framework\\Math\\Test\\Unit\\DivisionTest::testGetExactDivision",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074101,
+    "stop": 1711693074101,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1dc000ec430f36fc2fc4720ba8efa9d0",
+    "testCaseId": "3be793e4926fa6569878beef39c8b62b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Math\\Test\\Unit\\DivisionTest::testGetExactDivision",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Math\\Test\\Unit\\DivisionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetExactDivision"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

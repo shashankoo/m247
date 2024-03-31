@@ -1,0 +1,50 @@
+{
+    "uuid": "78f26448-f404-4b1b-9e2b-800964e8b949",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\Helper\\AbstractHelperTest::testEscapeLikeValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070721,
+    "stop": 1711693070722,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#7",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "41db41dc383e6c2c4c8415ad6f2a946a",
+    "testCaseId": "a15c456239df383ba0502286939b2bc0",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\Helper\\AbstractHelperTest::testEscapeLikeValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\Helper\\AbstractHelperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEscapeLikeValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

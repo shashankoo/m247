@@ -1,0 +1,43 @@
+{
+    "uuid": "34cb2e12-76a6-4225-b920-b93ae894264c",
+    "name": "Magento\\Persistent\\Test\\Unit\\Model\\QuoteManagerTest::testConvertCustomerCartToGuest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032517,
+    "stop": 1711693032518,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4b8f23c95cea2927182661df0b497c88",
+    "testCaseId": "2226f04b7efb4ad9ddb554fb47b44a8b",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Model\\QuoteManagerTest::testConvertCustomerCartToGuest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Model\\QuoteManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvertCustomerCartToGuest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

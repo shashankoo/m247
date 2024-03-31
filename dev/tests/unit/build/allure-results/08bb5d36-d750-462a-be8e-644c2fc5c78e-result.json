@@ -1,0 +1,50 @@
+{
+    "uuid": "08bb5d36-d750-462a-be8e-644c2fc5c78e",
+    "name": "Magento\\Analytics\\Test\\Unit\\Controller\\Adminhtml\\Reports\\ShowTest::testExecuteWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009005,
+    "stop": 1711693009006,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"ExecuteWithLocalizedException\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "692f55b7a51b42a5a45158f8f35f166d",
+    "testCaseId": "5b00626e5a1e8f6dfe64c56a397f617c",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Controller\\Adminhtml\\Reports\\ShowTest::testExecuteWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Controller\\Adminhtml\\Reports\\ShowTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

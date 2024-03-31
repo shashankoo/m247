@@ -1,0 +1,50 @@
+{
+    "uuid": "71042ab7-880e-49e1-a729-a8c811159d65",
+    "name": "Magento\\UrlRewrite\\Test\\Unit\\Model\\MergeDataProviderTest::testMerge",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052869,
+    "stop": 1711693052869,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "43fff9159029c55b087ba6c8a856cfbb",
+    "testCaseId": "0ed013ef647160d0ef355041ec4edd52",
+    "rerunOf": null,
+    "fullName": "Magento\\UrlRewrite\\Test\\Unit\\Model\\MergeDataProviderTest::testMerge",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\UrlRewrite\\Test\\Unit\\Model\\MergeDataProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMerge"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

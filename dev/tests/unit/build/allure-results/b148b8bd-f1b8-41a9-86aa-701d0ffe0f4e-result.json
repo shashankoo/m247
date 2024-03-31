@@ -1,0 +1,43 @@
+{
+    "uuid": "b148b8bd-f1b8-41a9-86aa-701d0ffe0f4e",
+    "name": "Magento\\Framework\\Filesystem\\Test\\Unit\\File\\WriteTest::testFlushException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073302,
+    "stop": 1711693073303,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0ad3ca75bc8f0c9d42266993bdcc4222",
+    "testCaseId": "b2a112af33480d474232073594440ffb",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filesystem\\Test\\Unit\\File\\WriteTest::testFlushException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filesystem\\Test\\Unit\\File\\WriteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFlushException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

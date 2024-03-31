@@ -1,0 +1,50 @@
+{
+    "uuid": "32106bb0-ba21-4ff3-b40a-16294ae9067d",
+    "name": "Magento\\Paypal\\Test\\Unit\\Helper\\BackendTest::testGetConfigurationCountryCodeFromConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031890,
+    "stop": 1711693031890,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "80693f7d590c8782264124621ef1f8b6",
+    "testCaseId": "7e7acb9e5100051e629a9045676f7ab2",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Helper\\BackendTest::testGetConfigurationCountryCodeFromConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Helper\\BackendTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfigurationCountryCodeFromConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

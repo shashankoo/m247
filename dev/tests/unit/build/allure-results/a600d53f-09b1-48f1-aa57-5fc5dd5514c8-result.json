@@ -1,0 +1,43 @@
+{
+    "uuid": "a600d53f-09b1-48f1-aa57-5fc5dd5514c8",
+    "name": "Magento\\GroupedProduct\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\SidebarTest::testAroundGetItemQtyWhenProductNotGrouped",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024275,
+    "stop": 1711693024276,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d427485ed9fb3c462ed4c13a8fc156f0",
+    "testCaseId": "acb1da8bd7cf4c7fd6c766edd4e470d7",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedProduct\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\SidebarTest::testAroundGetItemQtyWhenProductNotGrouped",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedProduct\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\SidebarTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundGetItemQtyWhenProductNotGrouped"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

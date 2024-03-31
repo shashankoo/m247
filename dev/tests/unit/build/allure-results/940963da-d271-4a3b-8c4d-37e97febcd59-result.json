@@ -1,0 +1,43 @@
+{
+    "uuid": "940963da-d271-4a3b-8c4d-37e97febcd59",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\SenderBuilderTest::testSendCopyTo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037866,
+    "stop": 1711693037866,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dfb1e0bacf5c9c30410e91bbba95895d",
+    "testCaseId": "f58d58cdebbd30011ae5583df49167e7",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\SenderBuilderTest::testSendCopyTo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\SenderBuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSendCopyTo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

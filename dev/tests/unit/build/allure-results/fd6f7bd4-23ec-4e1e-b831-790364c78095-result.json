@@ -1,0 +1,43 @@
+{
+    "uuid": "fd6f7bd4-23ec-4e1e-b831-790364c78095",
+    "name": "Magento\\CmsUrlRewrite\\Test\\Unit\\Model\\CmsPageUrlRewriteGeneratorTest::testGenerateForAllStores",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016998,
+    "stop": 1711693017006,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ff24bb9b04dfd59a910c47863a832b28",
+    "testCaseId": "227470d7ab9e7d7e80b6d7907623f7a4",
+    "rerunOf": null,
+    "fullName": "Magento\\CmsUrlRewrite\\Test\\Unit\\Model\\CmsPageUrlRewriteGeneratorTest::testGenerateForAllStores",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CmsUrlRewrite\\Test\\Unit\\Model\\CmsPageUrlRewriteGeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerateForAllStores"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

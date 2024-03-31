@@ -1,0 +1,50 @@
+{
+    "uuid": "5bf6aff9-d0ba-4395-97e5-745267acaae2",
+    "name": "Magento\\Payment\\Test\\Unit\\Block\\Info\\CcTest::testGetCcTypeName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031336,
+    "stop": 1711693031337,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cb40c27e276f3ba368be022f75d17db6",
+    "testCaseId": "2ec1cd0dbedc6ddd7dccef0f53547c8f",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Block\\Info\\CcTest::testGetCcTypeName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Block\\Info\\CcTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCcTypeName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "a2007972-6273-4b52-96bf-1c3c879bd573",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Layout\\Generator\\ContainerTest::testProcessWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077880,
+    "stop": 1711693077881,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"html_id_without_tag\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0743333bcc4058a2ccd076eb93f35549",
+    "testCaseId": "cb920e904a2f5369f7a7f74ddf1a3594",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Layout\\Generator\\ContainerTest::testProcessWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Layout\\Generator\\ContainerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

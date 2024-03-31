@@ -1,0 +1,50 @@
+{
+    "uuid": "fc4c3559-b40e-4116-b17f-b3b578618e6f",
+    "name": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Initialization\\HelperTest::testInitialize",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013903,
+    "stop": 1711693013904,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ae31ab443b1e1a5a9b916ad0196f5318",
+    "testCaseId": "cd9d6fb934e686c5576fccd877bf9f4b",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Initialization\\HelperTest::testInitialize",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Initialization\\HelperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInitialize"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

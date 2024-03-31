@@ -1,0 +1,43 @@
+{
+    "uuid": "d7f4ea97-e1e3-427b-9592-a91c926b9e11",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\OauthServiceTest::testCreateAccessTokenInvalidConsumerId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030123,
+    "stop": 1711693030123,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d67ac76e28141d2e281fc858dc6233b1",
+    "testCaseId": "7d666bf2087ac56a9b6e7421ea331fbe",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\OauthServiceTest::testCreateAccessTokenInvalidConsumerId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\OauthServiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateAccessTokenInvalidConsumerId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "bb5fdb12-db92-44ea-a443-68fa3f47327c",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Frontend\\Adapter\\ZendTest::testProxyMethod",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059286,
+    "stop": 1711693059287,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"getBackend\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4e93a14ed48a7c9fc4756ab647c9d564",
+    "testCaseId": "ce94bc41c65fcfc6cb0a915814793116",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Frontend\\Adapter\\ZendTest::testProxyMethod",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Frontend\\Adapter\\ZendTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProxyMethod"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

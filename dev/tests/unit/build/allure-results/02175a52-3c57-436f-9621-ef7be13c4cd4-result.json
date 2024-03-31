@@ -1,0 +1,43 @@
+{
+    "uuid": "02175a52-3c57-436f-9621-ef7be13c4cd4",
+    "name": "Magento\\User\\Test\\Unit\\Model\\UserTest::testSleep",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053000,
+    "stop": 1711693053001,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "66b1ac54ec5d3f9a1e389690a8f55293",
+    "testCaseId": "c03fa0eae002d13d0606a24da5b868e8",
+    "rerunOf": null,
+    "fullName": "Magento\\User\\Test\\Unit\\Model\\UserTest::testSleep",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\User\\Test\\Unit\\Model\\UserTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSleep"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

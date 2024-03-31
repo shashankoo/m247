@@ -1,0 +1,43 @@
+{
+    "uuid": "4958bfd0-a163-450e-abab-e2587cd50d4c",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\SessionTest::testSetCustomerRemovesFlagThatShowsIfCustomerIsEmulated",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021064,
+    "stop": 1711693021065,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5a77be325d99db32ea9d31740b030a83",
+    "testCaseId": "08e381a92d1c03cb96678d4e693d3d58",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\SessionTest::testSetCustomerRemovesFlagThatShowsIfCustomerIsEmulated",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\SessionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetCustomerRemovesFlagThatShowsIfCustomerIsEmulated"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "bba30531-2955-4e35-a38a-d19b99763f48",
+    "name": "Magento\\Ups\\Test\\Unit\\Model\\CarrierTest::testRequestToShipment",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052566,
+    "stop": 1711693052567,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "74045802c683be09f33aadfa1f9449ba",
+    "testCaseId": "7cd127d34621a8f00987c0e61a50e3f9",
+    "rerunOf": null,
+    "fullName": "Magento\\Ups\\Test\\Unit\\Model\\CarrierTest::testRequestToShipment",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ups\\Test\\Unit\\Model\\CarrierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRequestToShipment"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

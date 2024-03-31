@@ -1,0 +1,50 @@
+{
+    "uuid": "e04f1e19-e472-4f57-be84-9519265d6035",
+    "name": "Magento\\CardinalCommerce\\Test\\Unit\\Model\\Response\\JwtPayloadValidatorTest::testValidationEciFails",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011383,
+    "stop": 1711693011383,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "43eb79c7e81937866e4e6401d177606d",
+    "testCaseId": "6179a2c92cedd9c2c76abbfd89829fb1",
+    "rerunOf": null,
+    "fullName": "Magento\\CardinalCommerce\\Test\\Unit\\Model\\Response\\JwtPayloadValidatorTest::testValidationEciFails",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CardinalCommerce\\Test\\Unit\\Model\\Response\\JwtPayloadValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidationEciFails"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "a8cf1ab4-8ec8-4af5-b8de-c0d9c5386d12",
+    "name": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\Multiselect\\DisabledFundingOptionsTest::testIsPaypalCreditAvailable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031765,
+    "stop": 1711693031766,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9997859ace95cf610ca19d6ca05eae93",
+    "testCaseId": "8de1777bb006ba3d289f8b05369cc5bd",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\Multiselect\\DisabledFundingOptionsTest::testIsPaypalCreditAvailable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\Multiselect\\DisabledFundingOptionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsPaypalCreditAvailable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

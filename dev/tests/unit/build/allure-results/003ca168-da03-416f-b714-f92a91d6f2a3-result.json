@@ -1,0 +1,43 @@
+{
+    "uuid": "003ca168-da03-416f-b714-f92a91d6f2a3",
+    "name": "Magento\\Framework\\Session\\Test\\Unit\\ConfigTest::testCookieLifetimeIsMutable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076028,
+    "stop": 1711693076028,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a3cf05d3cb65506b985f22784e8c08c1",
+    "testCaseId": "1bbb9abd71e182a1f6a3ea45a0de70ac",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Session\\Test\\Unit\\ConfigTest::testCookieLifetimeIsMutable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Session\\Test\\Unit\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCookieLifetimeIsMutable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

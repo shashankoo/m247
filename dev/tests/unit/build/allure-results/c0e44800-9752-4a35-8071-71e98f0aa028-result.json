@@ -1,0 +1,43 @@
+{
+    "uuid": "c0e44800-9752-4a35-8071-71e98f0aa028",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\CatalogPriceTest::testGetCatalogPriceWhenPoolDoesNotContainPriceModelForGivenProductType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014998,
+    "stop": 1711693014998,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a1d9d00526213cd242873e50342a1225",
+    "testCaseId": "af97a1ca9a1eff99815afce1d3c7b75c",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\CatalogPriceTest::testGetCatalogPriceWhenPoolDoesNotContainPriceModelForGivenProductType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\CatalogPriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCatalogPriceWhenPoolDoesNotContainPriceModelForGivenProductType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

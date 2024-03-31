@@ -1,0 +1,50 @@
+{
+    "uuid": "d265bdc1-d1de-4c5c-bede-322abf6e5b8d",
+    "name": "Magento\\Catalog\\Test\\Unit\\Ui\\Component\\Product\\MassActionTest::testIsActionAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016243,
+    "stop": 1711693016244,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"delete-not-allowed\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "88927a8815ad415bd1b8a4cc16b138d1",
+    "testCaseId": "4a0e25743b52ef0257088149d1d8b125",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Ui\\Component\\Product\\MassActionTest::testIsActionAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Ui\\Component\\Product\\MassActionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsActionAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

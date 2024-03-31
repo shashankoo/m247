@@ -1,0 +1,43 @@
+{
+    "uuid": "304c90c8-6261-4e1c-a11a-33db3ca73850",
+    "name": "Magento\\GroupedProduct\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\SidebarTest::testAroundIsConfigurationRequiredWhenProductNotGrouped",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024277,
+    "stop": 1711693024277,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "62b0cf9db8851b2cf5eb2283eaaf88f5",
+    "testCaseId": "a671f6a4d9ca990dab145cb40ab4df6e",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedProduct\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\SidebarTest::testAroundIsConfigurationRequiredWhenProductNotGrouped",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedProduct\\Test\\Unit\\Block\\Adminhtml\\Order\\Create\\SidebarTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundIsConfigurationRequiredWhenProductNotGrouped"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

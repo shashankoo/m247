@@ -1,0 +1,50 @@
+{
+    "uuid": "18e87898-fa7f-485b-bbb6-b1d94daf24fb",
+    "name": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\Form\\FieldsetTest::testRenderWithoutStoredElements",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017682,
+    "stop": 1711693017685,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"expandedNestedExtra\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "453d69ee314b2f10aca276dcef66474d",
+    "testCaseId": "b466fc982b7c76d3be6b4d891a7363d0",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\Form\\FieldsetTest::testRenderWithoutStoredElements",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\Form\\FieldsetTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRenderWithoutStoredElements"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

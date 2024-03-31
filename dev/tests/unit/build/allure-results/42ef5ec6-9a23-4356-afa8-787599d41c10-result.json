@@ -1,0 +1,50 @@
+{
+    "uuid": "42ef5ec6-9a23-4356-afa8-787599d41c10",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\TimestampTest::testToDefinition",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076197,
+    "stop": 1711693076197,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "922d62cbaae64cd85f1f68c555b09bf4",
+    "testCaseId": "51c5dc0293900b168b77bdefc87713be",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\TimestampTest::testToDefinition",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Declaration\\Schema\\Db\\MySQL\\Definition\\Columns\\TimestampTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToDefinition"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

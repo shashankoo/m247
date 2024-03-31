@@ -1,0 +1,50 @@
+{
+    "uuid": "a45d8c7e-b5aa-49a8-97a2-49ed3bcfa7f3",
+    "name": "Magento\\Framework\\Convert\\Test\\Unit\\DataSizeTest::testConvertSizeToInteger",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070465,
+    "stop": 1711693070465,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "591a05d7f24241906b031abdbbc56a29",
+    "testCaseId": "933839c1137ef00b5e728dccfff2211e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Convert\\Test\\Unit\\DataSizeTest::testConvertSizeToInteger",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Convert\\Test\\Unit\\DataSizeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvertSizeToInteger"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

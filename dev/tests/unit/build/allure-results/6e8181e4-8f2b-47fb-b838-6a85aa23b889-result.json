@@ -1,0 +1,50 @@
+{
+    "uuid": "6e8181e4-8f2b-47fb-b838-6a85aa23b889",
+    "name": "Magento\\Store\\Test\\Unit\\App\\Request\\StorePathInfoValidatorTest::testGetValidStoreCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041779,
+    "stop": 1711693041779,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "409263c94058a4caf9ea68d6dacdf808",
+    "testCaseId": "9e0c7ec1ae9b2530d67211214b0d66f1",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\App\\Request\\StorePathInfoValidatorTest::testGetValidStoreCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\App\\Request\\StorePathInfoValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValidStoreCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

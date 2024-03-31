@@ -1,0 +1,50 @@
+{
+    "uuid": "fead526f-606e-416a-ab8e-37ad6ee7d98f",
+    "name": "Magento\\Contact\\Test\\Unit\\Controller\\Index\\PostTest::testExecutePostValidation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018781,
+    "stop": 1711693018781,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9f99e18f18f1be1363497797fc538e6b",
+    "testCaseId": "1d7b48d205ffbc2caef85a5381ea80fc",
+    "rerunOf": null,
+    "fullName": "Magento\\Contact\\Test\\Unit\\Controller\\Index\\PostTest::testExecutePostValidation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Contact\\Test\\Unit\\Controller\\Index\\PostTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecutePostValidation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "a48503b7-4d54-4984-bf48-2f05e840d2b4",
+    "name": "Magento\\Deploy\\Test\\Unit\\Model\\ModeTest::testGetMode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021305,
+    "stop": 1711693021306,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9a0a716ade2802798588b359d35a540f",
+    "testCaseId": "2d016158937fe437e5f8e4785bfe16bd",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Model\\ModeTest::testGetMode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Model\\ModeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

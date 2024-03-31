@@ -1,0 +1,43 @@
+{
+    "uuid": "b061d642-cd3a-4d15-941e-f9918572cd2e",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\UrlTest::testFindFirstAvailableMenu",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010230,
+    "stop": 1711693010231,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6e4e05cb8742c83296b747bdd9149ac7",
+    "testCaseId": "5d2747fecc37442ad4373330de8c30f2",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\UrlTest::testFindFirstAvailableMenu",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\UrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFindFirstAvailableMenu"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

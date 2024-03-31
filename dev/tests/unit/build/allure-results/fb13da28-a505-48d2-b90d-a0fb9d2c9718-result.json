@@ -1,0 +1,43 @@
+{
+    "uuid": "fb13da28-a505-48d2-b90d-a0fb9d2c9718",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsListTest::testValidateEmptyEncryptionKey",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055133,
+    "stop": 1711693055133,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "997b957ab6c76be29f9c589a4308510b",
+    "testCaseId": "41693f5e0c684ababb76d1baeed82a86",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsListTest::testValidateEmptyEncryptionKey",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\ConfigOptionsListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateEmptyEncryptionKey"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "17356041-0351-4795-b0a6-39512bb10af3",
+    "name": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\PriceBoxTest::testGetCanDisplayQty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016178,
+    "stop": 1711693016179,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"product is not of type grouped\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bb77b6e65cceefe128c91379bcec1a60",
+    "testCaseId": "ae74c829c6b89b55024056d549140eae",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\PriceBoxTest::testGetCanDisplayQty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Pricing\\Render\\PriceBoxTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCanDisplayQty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

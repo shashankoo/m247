@@ -1,0 +1,43 @@
+{
+    "uuid": "c6eba41a-d1f4-4aac-803c-70c64f19e581",
+    "name": "Magento\\Integration\\Test\\Unit\\Oauth\\OauthTest::testGetRequestTokenConsumerKeyRejected",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030158,
+    "stop": 1711693030159,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "520ee4863da88ac1f46bbfc8dddc5237",
+    "testCaseId": "c7fc3632ad979d2116fc91e1d5404bc6",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Oauth\\OauthTest::testGetRequestTokenConsumerKeyRejected",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Oauth\\OauthTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRequestTokenConsumerKeyRejected"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

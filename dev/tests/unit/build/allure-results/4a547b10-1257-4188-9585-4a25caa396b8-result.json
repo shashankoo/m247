@@ -1,0 +1,50 @@
+{
+    "uuid": "4a547b10-1257-4188-9585-4a25caa396b8",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Model\\Product\\TypeTransitionManager\\Plugin\\DownloadableTest::testAroundProcessProductWithProductThatCanBeTransformedToDownloadable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022045,
+    "stop": 1711693022045,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "890fe5f061a4ba10116eab0f361e35d5",
+    "testCaseId": "5879a7acfb92d388be5cc492ac4eb78e",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Model\\Product\\TypeTransitionManager\\Plugin\\DownloadableTest::testAroundProcessProductWithProductThatCanBeTransformedToDownloadable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Model\\Product\\TypeTransitionManager\\Plugin\\DownloadableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundProcessProductWithProductThatCanBeTransformedToDownloadable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

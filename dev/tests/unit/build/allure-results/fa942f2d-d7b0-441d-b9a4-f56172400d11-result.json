@@ -1,0 +1,50 @@
+{
+    "uuid": "fa942f2d-d7b0-441d-b9a4-f56172400d11",
+    "name": "Magento\\CatalogGraphQl\\Test\\Unit\\Model\\Resolver\\Products\\SearchCriteria\\CollectionProcessor\\FilterProcessor\\CategoryFilterTest::testApplyWithUnsupportedConditionTypes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011430,
+    "stop": 1711693011430,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "908979e184285f75e2140d92bce67c02",
+    "testCaseId": "222b7825732c74853492b8ea4212f530",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogGraphQl\\Test\\Unit\\Model\\Resolver\\Products\\SearchCriteria\\CollectionProcessor\\FilterProcessor\\CategoryFilterTest::testApplyWithUnsupportedConditionTypes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogGraphQl\\Test\\Unit\\Model\\Resolver\\Products\\SearchCriteria\\CollectionProcessor\\FilterProcessor\\CategoryFilterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testApplyWithUnsupportedConditionTypes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

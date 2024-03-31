@@ -1,0 +1,50 @@
+{
+    "uuid": "dc907ba2-d916-4ad2-8100-6d3d88d732f2",
+    "name": "Magento\\Dhl\\Test\\Unit\\Model\\CarrierTest::testPrepareShippingLabelContentException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021609,
+    "stop": 1711693021609,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bb10ee27d545ed00b44d701959390149",
+    "testCaseId": "46c3a5572b6dee81de24bc21af864f1c",
+    "rerunOf": null,
+    "fullName": "Magento\\Dhl\\Test\\Unit\\Model\\CarrierTest::testPrepareShippingLabelContentException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Dhl\\Test\\Unit\\Model\\CarrierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareShippingLabelContentException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

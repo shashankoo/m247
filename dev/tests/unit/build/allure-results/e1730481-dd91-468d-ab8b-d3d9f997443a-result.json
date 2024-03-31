@@ -1,0 +1,43 @@
+{
+    "uuid": "e1730481-dd91-468d-ab8b-d3d9f997443a",
+    "name": "Magento\\Elasticsearch7\\Test\\Unit\\Model\\Client\\ElasticsearchTest::testCreateIndexFailure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023020,
+    "stop": 1711693023021,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c8207c645771d3127d15d3c2390a5eb8",
+    "testCaseId": "d63a03736b56f0d5e1b95016a7d80117",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch7\\Test\\Unit\\Model\\Client\\ElasticsearchTest::testCreateIndexFailure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch7\\Test\\Unit\\Model\\Client\\ElasticsearchTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateIndexFailure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "5f97c4b7-3f70-49cf-abf7-75be1446bd03",
+    "name": "Magento\\Cron\\Test\\Unit\\Model\\DeadlockRetrierTest::testRetry",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018907,
+    "stop": 1711693018907,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dbeeb11b7b88feef0c22f6e102715743",
+    "testCaseId": "161a55918166923a39fedc7a6bb48294",
+    "rerunOf": null,
+    "fullName": "Magento\\Cron\\Test\\Unit\\Model\\DeadlockRetrierTest::testRetry",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cron\\Test\\Unit\\Model\\DeadlockRetrierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRetry"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

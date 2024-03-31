@@ -1,0 +1,43 @@
+{
+    "uuid": "b1b1495e-8e36-4250-9de1-c5536999f0af",
+    "name": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\CreateLabelTest::testExecuteSaveException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041389,
+    "stop": 1711693041390,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ed509a569ea5d9ffe8b4b1921e12f5f6",
+    "testCaseId": "1b339271f0bcefb4d00dd66b491b3c58",
+    "rerunOf": null,
+    "fullName": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\CreateLabelTest::testExecuteSaveException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\CreateLabelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteSaveException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

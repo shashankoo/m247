@@ -1,0 +1,50 @@
+{
+    "uuid": "f1e0c2d8-696b-4fe2-b295-e3ec1a7880c9",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest::testGetDistroBaseUrlPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058643,
+    "stop": 1711693058643,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#7",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ac6741d91dec7f5b2cd4babcc675306d",
+    "testCaseId": "d4033562d94d25d4bfbc894b59e8b3b7",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest::testGetDistroBaseUrlPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDistroBaseUrlPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

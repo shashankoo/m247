@@ -1,0 +1,50 @@
+{
+    "uuid": "c67925fb-b791-458e-9ecf-db87cbdc47e5",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Account\\AuthenticationPopupTest::testGetConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019233,
+    "stop": 1711693019233,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1d326e7bc657526d7d1bd888dc346980",
+    "testCaseId": "5238691c617f7721158bbad5aa69127e",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Account\\AuthenticationPopupTest::testGetConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Account\\AuthenticationPopupTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

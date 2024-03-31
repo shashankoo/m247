@@ -1,0 +1,50 @@
+{
+    "uuid": "e77ceb94-3f86-4cde-b054-c273c0383bdb",
+    "name": "Magento\\Analytics\\Test\\Unit\\Model\\System\\Message\\NotificationAboutFailedSubscriptionTest::testIsDisplayedWhenMessageShouldNotBeDisplayed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009169,
+    "stop": 1711693009169,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dce848e150a0cf94d9efd1f67c41f679",
+    "testCaseId": "0297947988c1ca35fee561e6b3173e67",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Model\\System\\Message\\NotificationAboutFailedSubscriptionTest::testIsDisplayedWhenMessageShouldNotBeDisplayed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Model\\System\\Message\\NotificationAboutFailedSubscriptionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsDisplayedWhenMessageShouldNotBeDisplayed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

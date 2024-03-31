@@ -1,0 +1,43 @@
+{
+    "uuid": "5027b90e-3a8b-4c48-91b6-3b4a9bdc07ce",
+    "name": "Magento\\Paypal\\Test\\Unit\\Observer\\AddBillingAgreementToSessionObserverTest::testAddBillingAgreementToSessionNoData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032451,
+    "stop": 1711693032452,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ad9defa16850490bfe2173ef07a3aa6a",
+    "testCaseId": "fc9ec19185fff98f074f9ea2b33828e9",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Observer\\AddBillingAgreementToSessionObserverTest::testAddBillingAgreementToSessionNoData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Observer\\AddBillingAgreementToSessionObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddBillingAgreementToSessionNoData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

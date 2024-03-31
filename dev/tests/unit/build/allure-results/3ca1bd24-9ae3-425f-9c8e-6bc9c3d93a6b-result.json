@@ -1,0 +1,43 @@
+{
+    "uuid": "3ca1bd24-9ae3-425f-9c8e-6bc9c3d93a6b",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Response\\HttpTest::testSetNoCacheHeaders",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058810,
+    "stop": 1711693058811,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b537cd30d100268e22449f804341280d",
+    "testCaseId": "bbede35985b0439b8edd654f74a47697",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Response\\HttpTest::testSetNoCacheHeaders",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Response\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetNoCacheHeaders"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

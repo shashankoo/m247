@@ -1,0 +1,50 @@
+{
+    "uuid": "69850c23-511b-4a5c-ac04-ebda9a5d5659",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\Dependency\\FieldTest::testGetValues",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017999,
+    "stop": 1711693017999,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d60b3407629bd89040cb34a2993dbe37",
+    "testCaseId": "dd54b3ced08a2861e36c5ebd61a8a086",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\Dependency\\FieldTest::testGetValues",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\Dependency\\FieldTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValues"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "3f48903b-2d62-43c0-a20c-e1d10cf11b95",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\QuoteRepository\\Plugin\\AccessChangeQuoteControlTest::testBeforeSaveForAdminUserRoleIsAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033095,
+    "stop": 1711693033095,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bceeaac43a2d783af0721168502108cf",
+    "testCaseId": "d47b0d9791fc1123f40df8d02792ffbb",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\QuoteRepository\\Plugin\\AccessChangeQuoteControlTest::testBeforeSaveForAdminUserRoleIsAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\QuoteRepository\\Plugin\\AccessChangeQuoteControlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSaveForAdminUserRoleIsAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

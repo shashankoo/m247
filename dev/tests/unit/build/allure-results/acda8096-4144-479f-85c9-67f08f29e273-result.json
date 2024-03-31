@@ -1,0 +1,50 @@
+{
+    "uuid": "acda8096-4144-479f-85c9-67f08f29e273",
+    "name": "Magento\\Persistent\\Test\\Unit\\Helper\\SessionTest::testIsRememberMeChecked",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032483,
+    "stop": 1711693032483,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"at_least_once_disabled\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "440ba1f82f1e9b6319d4cba95b7d516f",
+    "testCaseId": "144654170e3f6b5f8e3bf1c8eb67b361",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Helper\\SessionTest::testIsRememberMeChecked",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Helper\\SessionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsRememberMeChecked"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

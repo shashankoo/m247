@@ -1,0 +1,43 @@
+{
+    "uuid": "4104eec5-7271-42ea-b4c9-d22b02b24012",
+    "name": "Magento\\Inventory\\Test\\Unit\\Model\\SourceRepositoryTest::testSaveWithCouldNotSaveException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030317,
+    "stop": 1711693030318,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6763e085079967e98fe9b0d8e7ff22a9",
+    "testCaseId": "99f01aa8f7945c133f79f54475775076",
+    "rerunOf": null,
+    "fullName": "Magento\\Inventory\\Test\\Unit\\Model\\SourceRepositoryTest::testSaveWithCouldNotSaveException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Inventory\\Test\\Unit\\Model\\SourceRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveWithCouldNotSaveException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

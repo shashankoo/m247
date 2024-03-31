@@ -1,0 +1,43 @@
+{
+    "uuid": "8bf049e8-17ed-4cb9-a41c-8775dcf40c69",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnSetTest::testShouldRenderSubtotalWithEmptySubData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009617,
+    "stop": 1711693009617,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f241094239808bbb537117b86a8411ef",
+    "testCaseId": "bdec426002453803147ae9f8bc97f63d",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnSetTest::testShouldRenderSubtotalWithEmptySubData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\ColumnSetTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testShouldRenderSubtotalWithEmptySubData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

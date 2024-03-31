@@ -1,0 +1,50 @@
+{
+    "uuid": "2be8ba11-1efc-4d8c-8104-1c86562947f2",
+    "name": "Magento\\Deploy\\Test\\Unit\\Service\\DeployStaticContentTest::testDeploy",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021351,
+    "stop": 1711693021352,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0b7fc3930f31a8191161711c66fe40d1",
+    "testCaseId": "e97451eb6d21e6606ad038c857636bf9",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Service\\DeployStaticContentTest::testDeploy",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Service\\DeployStaticContentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeploy"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

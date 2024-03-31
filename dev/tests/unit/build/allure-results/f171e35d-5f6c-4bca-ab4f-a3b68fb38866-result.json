@@ -1,0 +1,43 @@
+{
+    "uuid": "f171e35d-5f6c-4bca-ab4f-a3b68fb38866",
+    "name": "Magento\\Inventory\\Test\\Unit\\Model\\SourceRepositoryTest::testGetWithNoSuchEntityException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030318,
+    "stop": 1711693030318,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "450c8ed149f434497ba0449825bc15fd",
+    "testCaseId": "934ec5782296709bd596e9e9ebabc93a",
+    "rerunOf": null,
+    "fullName": "Magento\\Inventory\\Test\\Unit\\Model\\SourceRepositoryTest::testGetWithNoSuchEntityException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Inventory\\Test\\Unit\\Model\\SourceRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetWithNoSuchEntityException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "adfc63cd-56a3-4882-826d-055d231fb01f",
+    "name": "Magento\\Framework\\Filesystem\\Test\\Unit\\Directory\\WriteTest::testRenameFile",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073189,
+    "stop": 1711693073192,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c6a3dfc34f77dc4cc98084f225b93e03",
+    "testCaseId": "8fa9e47ee546b6428ed350f52ede81e6",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filesystem\\Test\\Unit\\Directory\\WriteTest::testRenameFile",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filesystem\\Test\\Unit\\Directory\\WriteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRenameFile"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

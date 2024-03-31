@@ -1,0 +1,43 @@
+{
+    "uuid": "013c4e66-49bd-43e5-a469-4e53dbc351af",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\OverviewTest::testGetShippingAddressTotalsWithNotBillingAddress",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030671,
+    "stop": 1711693030671,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4499f2b1fade077e99cf8a5034e6d480",
+    "testCaseId": "a98dc33e90c180ee5d3d5bc6d3b06d44",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\OverviewTest::testGetShippingAddressTotalsWithNotBillingAddress",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Block\\Checkout\\OverviewTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetShippingAddressTotalsWithNotBillingAddress"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "f1ad29b5-cc30-4fa9-89ce-7ac48fea2203",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceQuantityValidatorTest::testValidateNoOrderItems",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038125,
+    "stop": 1711693038126,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "fd0a5e5a3b3a2968baf45d6fafed0f5d",
+    "testCaseId": "a41face475e6478536f32a2c4e2b1623",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceQuantityValidatorTest::testValidateNoOrderItems",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceQuantityValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateNoOrderItems"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

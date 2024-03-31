@@ -1,0 +1,43 @@
+{
+    "uuid": "e9ca29f9-b36a-4dd7-8cd6-88cee2e0b506",
+    "name": "Magento\\Checkout\\Test\\Unit\\Block\\Cart\\Item\\RendererTest::testGetProductForThumbnail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016546,
+    "stop": 1711693016549,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "90e8d03cb78c4fe2701bc21b08ff1139",
+    "testCaseId": "8938b49763e67f90bffe13e6774b2711",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Block\\Cart\\Item\\RendererTest::testGetProductForThumbnail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Block\\Cart\\Item\\RendererTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetProductForThumbnail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

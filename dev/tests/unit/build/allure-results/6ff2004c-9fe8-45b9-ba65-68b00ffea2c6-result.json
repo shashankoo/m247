@@ -1,0 +1,50 @@
+{
+    "uuid": "6ff2004c-9fe8-45b9-ba65-68b00ffea2c6",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest::testInstallDataFixtures",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055335,
+    "stop": 1711693055336,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"do not keep a cache\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "909b37da4b752d707baf075fd42b836a",
+    "testCaseId": "7e664d541148bf5d6f4e221f4492c472",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest::testInstallDataFixtures",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInstallDataFixtures"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

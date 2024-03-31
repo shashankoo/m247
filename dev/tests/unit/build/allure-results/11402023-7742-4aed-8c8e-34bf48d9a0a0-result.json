@@ -1,0 +1,50 @@
+{
+    "uuid": "11402023-7742-4aed-8c8e-34bf48d9a0a0",
+    "name": "Magento\\Amqp\\Test\\Unit\\Setup\\ConfigOptionsListTest::testCreateConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008977,
+    "stop": 1711693008978,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e1aa29493384fe1a387fcc2e7f1da39c",
+    "testCaseId": "524abe7c2dcd7d89e17bb103b86ecce2",
+    "rerunOf": null,
+    "fullName": "Magento\\Amqp\\Test\\Unit\\Setup\\ConfigOptionsListTest::testCreateConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Amqp\\Test\\Unit\\Setup\\ConfigOptionsListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

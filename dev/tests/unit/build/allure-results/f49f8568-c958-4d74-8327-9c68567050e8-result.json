@@ -1,0 +1,43 @@
+{
+    "uuid": "f49f8568-c958-4d74-8327-9c68567050e8",
+    "name": "Magento\\Reports\\Test\\Unit\\Observer\\CheckoutCartAddProductObserverTest::testExecuteWithQuoteParentItemIdSet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033895,
+    "stop": 1711693033896,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6bb1f0332290b959d3e03af50a7a18a3",
+    "testCaseId": "07f0bf65479ff81de94e2e3afd1c8030",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Observer\\CheckoutCartAddProductObserverTest::testExecuteWithQuoteParentItemIdSet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Observer\\CheckoutCartAddProductObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithQuoteParentItemIdSet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

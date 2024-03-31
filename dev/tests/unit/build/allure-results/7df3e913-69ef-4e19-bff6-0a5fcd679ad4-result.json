@@ -1,0 +1,50 @@
+{
+    "uuid": "7df3e913-69ef-4e19-bff6-0a5fcd679ad4",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Model\\Adminhtml\\System\\Config\\CountryTest::testIsCountryRestricted",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056323,
+    "stop": 1711693056323,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#6",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7f68d8c2a172fc878f086c37759a5623",
+    "testCaseId": "9e1fc7fd89cec2b68c40d4a2b2ca96c6",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Model\\Adminhtml\\System\\Config\\CountryTest::testIsCountryRestricted",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Model\\Adminhtml\\System\\Config\\CountryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsCountryRestricted"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

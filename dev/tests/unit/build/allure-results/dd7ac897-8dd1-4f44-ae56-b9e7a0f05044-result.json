@@ -1,0 +1,43 @@
+{
+    "uuid": "dd7ac897-8dd1-4f44-ae56-b9e7a0f05044",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\OrderRepositoryTest::testGet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039691,
+    "stop": 1711693039692,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getShippingAssignments\" with addMethods(), but it exists in class \"Magento\\Sales\\Api\\Data\\OrderExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8106de457d40d760215e8eb04e37cb6b",
+    "testCaseId": "5e0b2ce5e2a41ce8a22ed8a9ebf72d33",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\OrderRepositoryTest::testGet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\OrderRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

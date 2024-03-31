@@ -1,0 +1,43 @@
+{
+    "uuid": "f0ff73c5-fe14-4b3d-b628-48a0db5af9e1",
+    "name": "Magento\\Security\\Test\\Unit\\Model\\AdminSessionInfoTest::testIsLoggedInStatusExpired",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041251,
+    "stop": 1711693041251,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e445c17b70f7b17a80964af5a1953961",
+    "testCaseId": "3fd36faa18c50f2ff1a6e08a2862eb11",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Model\\AdminSessionInfoTest::testIsLoggedInStatusExpired",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Model\\AdminSessionInfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsLoggedInStatusExpired"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

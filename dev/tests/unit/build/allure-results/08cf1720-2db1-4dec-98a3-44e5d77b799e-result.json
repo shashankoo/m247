@@ -1,0 +1,50 @@
+{
+    "uuid": "08cf1720-2db1-4dec-98a3-44e5d77b799e",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Report\\Settlement\\RowTest::testGetReferenceType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032422,
+    "stop": 1711693032422,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c7f20cc60f23ea051bf70fad7c4923cb",
+    "testCaseId": "9530690f3b24d9295d07adf6a373e4f1",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Report\\Settlement\\RowTest::testGetReferenceType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Report\\Settlement\\RowTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetReferenceType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

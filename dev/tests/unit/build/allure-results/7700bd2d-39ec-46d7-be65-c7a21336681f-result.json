@@ -1,0 +1,43 @@
+{
+    "uuid": "7700bd2d-39ec-46d7-be65-c7a21336681f",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\Sales\\Total\\Quote\\ShippingTest::testCollect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042729,
+    "stop": 1711693042729,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Target code is not unit testable. Refactoring is required.",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9ae3165c25ab8ee3b7466b42ecdb44db",
+    "testCaseId": "d8653ee1cda9404f8c2d2e9377e5b25e",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\Sales\\Total\\Quote\\ShippingTest::testCollect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\Sales\\Total\\Quote\\ShippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

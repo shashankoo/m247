@@ -1,0 +1,43 @@
+{
+    "uuid": "01aad2b9-d7e4-4daf-b111-6e1bdb9fb3fa",
+    "name": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleUninstallCommandTest::testExecuteMediaBackup",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054920,
+    "stop": 1711693054921,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "26dd49c182fff8f333bfe848882066d1",
+    "testCaseId": "075fd7822ff6490c7d67b2c0c9058640",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleUninstallCommandTest::testExecuteMediaBackup",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleUninstallCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteMediaBackup"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

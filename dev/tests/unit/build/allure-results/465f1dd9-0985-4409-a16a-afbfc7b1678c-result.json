@@ -1,0 +1,50 @@
+{
+    "uuid": "465f1dd9-0985-4409-a16a-afbfc7b1678c",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\ItemTest::testDispatchEvents",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012112,
+    "stop": 1711693012113,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d7def548633e28563b43ab9c12eeca19",
+    "testCaseId": "c82cc22ba6b7a950aed2ddff860d26f2",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\ItemTest::testDispatchEvents",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDispatchEvents"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

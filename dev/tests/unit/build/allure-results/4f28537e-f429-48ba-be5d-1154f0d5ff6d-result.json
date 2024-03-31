@@ -1,0 +1,50 @@
+{
+    "uuid": "4f28537e-f429-48ba-be5d-1154f0d5ff6d",
+    "name": "Magento\\PageCache\\Test\\Unit\\Observer\\InvalidateCacheTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031302,
+    "stop": 1711693031303,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6674da7d29e25645a61a504c121a8960",
+    "testCaseId": "f166dd0f2c668e6ebb04e0b90a90702b",
+    "rerunOf": null,
+    "fullName": "Magento\\PageCache\\Test\\Unit\\Observer\\InvalidateCacheTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\PageCache\\Test\\Unit\\Observer\\InvalidateCacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

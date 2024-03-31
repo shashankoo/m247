@@ -1,0 +1,50 @@
+{
+    "uuid": "e3a62ee5-590e-4a4a-81fc-d144a058e15d",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\PaymentTest::testGetCcExpYearReturnsValidValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032930,
+    "stop": 1711693032931,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cab193c70cb4d0d5dcef5646f0843f90",
+    "testCaseId": "d72d76b4dddd94f64d4af422e34923f1",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\PaymentTest::testGetCcExpYearReturnsValidValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\PaymentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCcExpYearReturnsValidValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

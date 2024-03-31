@@ -1,0 +1,50 @@
+{
+    "uuid": "0dad45c9-7321-4f46-a186-6a65d30b8f36",
+    "name": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\SpecialPriceTest::testGetValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011177,
+    "stop": 1711693011178,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "053a0a5deeee351b3e43a6fa3f3dd8c7",
+    "testCaseId": "c79929f7270bf553792b061d6120c681",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\SpecialPriceTest::testGetValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\SpecialPriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

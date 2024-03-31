@@ -1,0 +1,43 @@
+{
+    "uuid": "7de105ac-d5ac-4e08-b642-354a404b776a",
+    "name": "Magento\\AdminAdobeIms\\Test\\Unit\\Model\\ImsWebapiRepositoryTest::testGetByAdminUserId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008416,
+    "stop": 1711693008419,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "49235b043d5d8bdf1c23967e29087c61",
+    "testCaseId": "1cc77dc8fe662238347a883d2953170a",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminAdobeIms\\Test\\Unit\\Model\\ImsWebapiRepositoryTest::testGetByAdminUserId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminAdobeIms\\Test\\Unit\\Model\\ImsWebapiRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetByAdminUserId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

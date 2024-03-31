@@ -1,0 +1,43 @@
+{
+    "uuid": "2e39b13d-2303-4d51-a923-07d6d5fd751a",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Token\\ProviderTest::testGetConsumerByKeyWrongConsumerKey",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030118,
+    "stop": 1711693030118,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4d5b40697107f0f8aaad7ddaac555e4e",
+    "testCaseId": "b983cd4f35bb1941874f74abbcce02ea",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Token\\ProviderTest::testGetConsumerByKeyWrongConsumerKey",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\Oauth\\Token\\ProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConsumerByKeyWrongConsumerKey"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

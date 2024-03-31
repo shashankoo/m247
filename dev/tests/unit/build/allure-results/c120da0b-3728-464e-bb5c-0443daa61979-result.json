@@ -1,0 +1,50 @@
+{
+    "uuid": "c120da0b-3728-464e-bb5c-0443daa61979",
+    "name": "Magento\\Wishlist\\Test\\Unit\\Controller\\Index\\UpdateTest::testUpdateRedirectWhenNoPostData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054359,
+    "stop": 1711693054360,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dae3c16b31e6f7df93b559a8c6156b00",
+    "testCaseId": "10cf50b683510012f882fc777a0a71f0",
+    "rerunOf": null,
+    "fullName": "Magento\\Wishlist\\Test\\Unit\\Controller\\Index\\UpdateTest::testUpdateRedirectWhenNoPostData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Wishlist\\Test\\Unit\\Controller\\Index\\UpdateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdateRedirectWhenNoPostData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

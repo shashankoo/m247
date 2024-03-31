@@ -1,0 +1,50 @@
+{
+    "uuid": "53d3c2dc-c7d7-46a5-8b4e-5ee47d984e2e",
+    "name": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleUninstallCommandTest::testExecuteFailedValidation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054894,
+    "stop": 1711693054895,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"two non-composer packages\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b1ba8a05eba78bab878650a355237e48",
+    "testCaseId": "c544e341a093e47ae53faeafe0ce8520",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleUninstallCommandTest::testExecuteFailedValidation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Console\\Command\\ModuleUninstallCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteFailedValidation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

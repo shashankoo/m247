@@ -1,0 +1,43 @@
+{
+    "uuid": "2a7f708c-80cf-4549-83eb-fcf262aa409f",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\QuoteRepositoryTest::testGetActiveWithExceptionById",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033112,
+    "stop": 1711693033112,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bd9c301adfb7bf50c0f4fce80573f61c",
+    "testCaseId": "f4c7dccb1a99e634db098ef8ef3d13d7",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\QuoteRepositoryTest::testGetActiveWithExceptionById",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\QuoteRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetActiveWithExceptionById"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

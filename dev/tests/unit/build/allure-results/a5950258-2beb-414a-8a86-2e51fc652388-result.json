@@ -1,0 +1,50 @@
+{
+    "uuid": "a5950258-2beb-414a-8a86-2e51fc652388",
+    "name": "Magento\\Checkout\\Test\\Unit\\Model\\TotalsInformationManagementTest::testCalculate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016952,
+    "stop": 1711693016953,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "90fb702abdee6d0fa8b159d2f90d41e2",
+    "testCaseId": "52830b2b832c0018f0e007a8b9722620",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Model\\TotalsInformationManagementTest::testCalculate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Model\\TotalsInformationManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCalculate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

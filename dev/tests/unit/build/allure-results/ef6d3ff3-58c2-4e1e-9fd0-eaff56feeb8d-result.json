@@ -1,0 +1,43 @@
+{
+    "uuid": "ef6d3ff3-58c2-4e1e-9fd0-eaff56feeb8d",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\ConfigTest::testGetTotals",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038634,
+    "stop": 1711693038634,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8f84b651d8b56ff75489793a6268dda1",
+    "testCaseId": "b6799409b671e3f97cb9e66f837c2b8d",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\ConfigTest::testGetTotals",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTotals"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "6560f1e0-883f-426f-92dc-ee3aacb34b7f",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\Collection\\DbTest::testPrintLogQueryPrinting",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070906,
+    "stop": 1711693070906,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "59c53a662986043c0178476b88c4bd2e",
+    "testCaseId": "7e0c9fa0bfec6bbf996d39621421b02f",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\Collection\\DbTest::testPrintLogQueryPrinting",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\Collection\\DbTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrintLogQueryPrinting"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

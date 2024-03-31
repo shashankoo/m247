@@ -1,0 +1,43 @@
+{
+    "uuid": "3bd26dbb-577f-44c9-9490-458303d75b09",
+    "name": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\ResponseTest::testClearHeaderAndHeaderNotExists",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073671,
+    "stop": 1711693073672,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7f7351be53270e0102a6e7ba131b5888",
+    "testCaseId": "fd3d6df1b24b135d227dd726e7b512b0",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\ResponseTest::testClearHeaderAndHeaderNotExists",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\HTTP\\Test\\Unit\\PhpEnvironment\\ResponseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testClearHeaderAndHeaderNotExists"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

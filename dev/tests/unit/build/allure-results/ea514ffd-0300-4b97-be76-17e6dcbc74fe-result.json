@@ -1,0 +1,50 @@
+{
+    "uuid": "ea514ffd-0300-4b97-be76-17e6dcbc74fe",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\Edit\\Tab\\View\\PersonalInfoTest::testGetCurrentStatus",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019439,
+    "stop": 1711693019439,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "34d597bc0ce8d7c46bbe47d1b88a5ee8",
+    "testCaseId": "e76c4477acdde318a00d19c7860a6475",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\Edit\\Tab\\View\\PersonalInfoTest::testGetCurrentStatus",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\Edit\\Tab\\View\\PersonalInfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCurrentStatus"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

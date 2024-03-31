@@ -1,0 +1,50 @@
+{
+    "uuid": "9ec2700a-f097-4875-b807-003a8610159c",
+    "name": "Magento\\Analytics\\Test\\Unit\\Model\\FileRecorderTest::testRecordNewFile",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009122,
+    "stop": 1711693009122,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Existing file into subdirectory\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "981882e5348457bfa335b59e6ef37cb3",
+    "testCaseId": "cb370f0d3a33db58d7a112df573bf9fc",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Model\\FileRecorderTest::testRecordNewFile",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Model\\FileRecorderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRecordNewFile"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

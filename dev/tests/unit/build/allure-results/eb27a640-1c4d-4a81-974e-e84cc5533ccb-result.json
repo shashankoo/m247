@@ -1,0 +1,43 @@
+{
+    "uuid": "eb27a640-1c4d-4a81-974e-e84cc5533ccb",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Cache\\InMemoryStateTest::enablesOnlySpecificCacheType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057716,
+    "stop": 1711693057716,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "08a1d129ff8df55efda59ac5ebbac072",
+    "testCaseId": "5bf8154bf285e652575a9612f24f390c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Cache\\InMemoryStateTest::enablesOnlySpecificCacheType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Cache\\InMemoryStateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "enablesOnlySpecificCacheType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

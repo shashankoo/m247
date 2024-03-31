@@ -1,0 +1,50 @@
+{
+    "uuid": "6c696196-cf85-4dbd-abde-cf8334a8c2f0",
+    "name": "Magento\\Payment\\Test\\Unit\\Model\\Checks\\TotalMinMaxTest::testIsApplicable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031623,
+    "stop": 1711693031624,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4ba45651f09949e98b2e2992de60073c",
+    "testCaseId": "b5d07fbaa5aebf5e9e729f510e0047b8",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Model\\Checks\\TotalMinMaxTest::testIsApplicable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Model\\Checks\\TotalMinMaxTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsApplicable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

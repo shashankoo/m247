@@ -1,0 +1,50 @@
+{
+    "uuid": "b90eac3e-7efe-4cf7-94c5-0716c260294c",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\LayoutTest::testAddGetRendererOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078288,
+    "stop": 1711693078289,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"set and get test\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "213b31be4c9997b5116c7b62be5429fe",
+    "testCaseId": "801a8195322e29b31fcef5f17b0d079e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\LayoutTest::testAddGetRendererOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\LayoutTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddGetRendererOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "90ed4c64-8cd1-4382-ac67-79d3ad8e95d9",
+    "name": "Magento\\Framework\\Module\\Test\\Unit\\Dir\\ReverseResolverTest::testGetModuleName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074410,
+    "stop": 1711693074410,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"module root dir backward slash\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "54ea11b5a891f70d0dc7ac0be613316a",
+    "testCaseId": "c7c279c92cef5895e0f0f19c4c5e5cea",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Module\\Test\\Unit\\Dir\\ReverseResolverTest::testGetModuleName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Module\\Test\\Unit\\Dir\\ReverseResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetModuleName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

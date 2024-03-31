@@ -1,0 +1,43 @@
+{
+    "uuid": "ee4cc301-c8ab-4a33-95ca-0cd7feac998d",
+    "name": "Magento\\GoogleAnalytics\\Test\\Unit\\Block\\GaTest::testOrderTrackingData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024120,
+    "stop": 1711693024122,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ae1b0e994910389bde540d5c70102b57",
+    "testCaseId": "9d3c397e2a1cf043dffa5d85efc99eb0",
+    "rerunOf": null,
+    "fullName": "Magento\\GoogleAnalytics\\Test\\Unit\\Block\\GaTest::testOrderTrackingData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GoogleAnalytics\\Test\\Unit\\Block\\GaTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testOrderTrackingData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

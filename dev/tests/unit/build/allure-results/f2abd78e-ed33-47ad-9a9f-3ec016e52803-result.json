@@ -1,0 +1,50 @@
+{
+    "uuid": "f2abd78e-ed33-47ad-9a9f-3ec016e52803",
+    "name": "Magento\\AdminAdobeIms\\Test\\Unit\\Service\\ImsCommandOptionServiceTest::testEmptyOrganizationIdThrowsException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008467,
+    "stop": 1711693008467,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8c98eb1dca1b11f438e3c0a3c8b71205",
+    "testCaseId": "17c1148be093bde6ac8850bf5b9301d5",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminAdobeIms\\Test\\Unit\\Service\\ImsCommandOptionServiceTest::testEmptyOrganizationIdThrowsException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminAdobeIms\\Test\\Unit\\Service\\ImsCommandOptionServiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEmptyOrganizationIdThrowsException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

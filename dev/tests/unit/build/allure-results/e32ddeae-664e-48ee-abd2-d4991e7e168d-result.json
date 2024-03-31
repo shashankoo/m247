@@ -1,0 +1,43 @@
+{
+    "uuid": "e32ddeae-664e-48ee-abd2-d4991e7e168d",
+    "name": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\Request\\Deserializer\\XmlTest::testHandleErrors",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078544,
+    "stop": 1711693078545,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skipped in #27500 due to testing protected\/private methods and properties",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a9aa63d4128025f5544aeb05f2fbd3d6",
+    "testCaseId": "a1f0aa7b9a63f8783c9a4ae72492b337",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\Request\\Deserializer\\XmlTest::testHandleErrors",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\Request\\Deserializer\\XmlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testHandleErrors"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

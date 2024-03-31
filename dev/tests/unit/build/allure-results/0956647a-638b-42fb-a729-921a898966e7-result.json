@@ -1,0 +1,43 @@
+{
+    "uuid": "0956647a-638b-42fb-a729-921a898966e7",
+    "name": "Magento\\Backend\\Test\\Unit\\Cron\\CleanCacheTest::testCleanCache",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009799,
+    "stop": 1711693009800,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b1959fe09e35e27b22a95f2e0a4ebf74",
+    "testCaseId": "0ef8b63b8cc4b717cb3bdffd577d6511",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Cron\\CleanCacheTest::testCleanCache",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Cron\\CleanCacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCleanCache"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

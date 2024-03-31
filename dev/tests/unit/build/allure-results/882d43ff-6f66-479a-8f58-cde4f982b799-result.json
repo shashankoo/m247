@@ -1,0 +1,50 @@
+{
+    "uuid": "882d43ff-6f66-479a-8f58-cde4f982b799",
+    "name": "Magento\\CatalogRuleConfigurable\\Test\\Unit\\Plugin\\CatalogRule\\Model\\Rule\\ValidationTest::testAfterValidateWithValidConfigurableProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012235,
+    "stop": 1711693012236,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a3df497e796f834bba7455bcede28770",
+    "testCaseId": "270982946edcd0c3ab4ef212e4fad951",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogRuleConfigurable\\Test\\Unit\\Plugin\\CatalogRule\\Model\\Rule\\ValidationTest::testAfterValidateWithValidConfigurableProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogRuleConfigurable\\Test\\Unit\\Plugin\\CatalogRule\\Model\\Rule\\ValidationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterValidateWithValidConfigurableProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

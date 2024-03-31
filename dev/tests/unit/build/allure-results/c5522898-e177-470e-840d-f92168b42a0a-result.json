@@ -1,0 +1,43 @@
+{
+    "uuid": "c5522898-e177-470e-840d-f92168b42a0a",
+    "name": "Magento\\User\\Test\\Unit\\Helper\\DataTest::testGetResetPasswordLinkExpirationPeriod",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052955,
+    "stop": 1711693052955,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "286fc4b7914672cec20e5afa4b11e24a",
+    "testCaseId": "dc7455553aca89a505aefa3819cdc5d7",
+    "rerunOf": null,
+    "fullName": "Magento\\User\\Test\\Unit\\Helper\\DataTest::testGetResetPasswordLinkExpirationPeriod",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\User\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetResetPasswordLinkExpirationPeriod"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "21452bcb-f42e-4c9a-b1e4-d33fa5fa8e34",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowproTest::testCanRefundPartialPerInvoice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032369,
+    "stop": 1711693032370,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "eed1a6d27720ed270843f2e6ded3b24c",
+    "testCaseId": "a8676896cdd10aede118040a220a61f3",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowproTest::testCanRefundPartialPerInvoice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowproTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanRefundPartialPerInvoice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

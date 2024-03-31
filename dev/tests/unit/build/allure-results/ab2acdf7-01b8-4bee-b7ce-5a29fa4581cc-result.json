@@ -1,0 +1,43 @@
+{
+    "uuid": "ab2acdf7-01b8-4bee-b7ce-5a29fa4581cc",
+    "name": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\RequestMethodValidatorTest::testValidateWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078554,
+    "stop": 1711693078556,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6778425a1d3dd353f54ea7881b75c8a1",
+    "testCaseId": "3706e3b8721bb8aeeadea87a654e6cd5",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\RequestMethodValidatorTest::testValidateWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Webapi\\Test\\Unit\\Rest\\RequestMethodValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

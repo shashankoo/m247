@@ -1,0 +1,43 @@
+{
+    "uuid": "173d8c02-ce3f-45b5-b2f7-e8fbccc7ea59",
+    "name": "Magento\\CatalogRuleConfigurable\\Test\\Unit\\Plugin\\CatalogRule\\Model\\Rule\\ConfigurableProductHandlerTest::testAroundGetMatchingProductIdsWithSimpleProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012213,
+    "stop": 1711693012221,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a92cb98b10525fca04a8e86232c8719d",
+    "testCaseId": "ddfdef3f1692c3eec839025de1f0e3fe",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogRuleConfigurable\\Test\\Unit\\Plugin\\CatalogRule\\Model\\Rule\\ConfigurableProductHandlerTest::testAroundGetMatchingProductIdsWithSimpleProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogRuleConfigurable\\Test\\Unit\\Plugin\\CatalogRule\\Model\\Rule\\ConfigurableProductHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundGetMatchingProductIdsWithSimpleProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "cd0337cb-4e14-4dbd-98f9-3b2f7f1407ba",
+    "name": "Magento\\Checkout\\Test\\Unit\\Controller\\Index\\IndexTest::testRegenerateSessionIdOnExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016747,
+    "stop": 1711693016748,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3b726bdc180453b53721d87d07abd546",
+    "testCaseId": "e116d7c5c6331a51e9d5380cf35af625",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Controller\\Index\\IndexTest::testRegenerateSessionIdOnExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Controller\\Index\\IndexTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRegenerateSessionIdOnExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

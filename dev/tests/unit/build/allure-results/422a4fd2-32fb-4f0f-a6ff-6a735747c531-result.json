@@ -1,0 +1,50 @@
+{
+    "uuid": "422a4fd2-32fb-4f0f-a6ff-6a735747c531",
+    "name": "Magento\\Framework\\Xml\\Test\\Unit\\SecurityTest::testScan",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078882,
+    "stop": 1711693078882,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e3e504e2b791c6f92b34339f1c0c914c",
+    "testCaseId": "f5359cd135965e6398312d632efeb278",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Xml\\Test\\Unit\\SecurityTest::testScan",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Xml\\Test\\Unit\\SecurityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testScan"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

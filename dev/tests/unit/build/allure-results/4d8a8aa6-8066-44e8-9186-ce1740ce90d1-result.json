@@ -1,0 +1,43 @@
+{
+    "uuid": "4d8a8aa6-8066-44e8-9186-ce1740ce90d1",
+    "name": "Magento\\Security\\Test\\Unit\\Block\\Adminhtml\\Session\\ActivityTest::testGetRemoteIp",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041243,
+    "stop": 1711693041243,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7807d84802ff5999d9f7541e830af760",
+    "testCaseId": "d16a709140e5ac36ba2d2587cf0f4baa",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Block\\Adminhtml\\Session\\ActivityTest::testGetRemoteIp",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Block\\Adminhtml\\Session\\ActivityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRemoteIp"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

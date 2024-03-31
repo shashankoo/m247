@@ -1,0 +1,43 @@
+{
+    "uuid": "20b41d46-0888-42c0-8f3a-afe81e7a5512",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\RepositoryTest::testSaveNoSuchEntityException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015130,
+    "stop": 1711693015130,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "53f87cc3efbd1669216d328c16ffd556",
+    "testCaseId": "c8bc97523940108923c2935e0de4a442",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\RepositoryTest::testSaveNoSuchEntityException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\RepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveNoSuchEntityException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

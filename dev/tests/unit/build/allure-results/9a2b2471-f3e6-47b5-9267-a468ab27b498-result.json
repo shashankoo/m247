@@ -1,0 +1,50 @@
+{
+    "uuid": "9a2b2471-f3e6-47b5-9267-a468ab27b498",
+    "name": "Magento\\Framework\\Indexer\\Test\\Unit\\ScopeResolver\\IndexScopeResolverTest::testResolve",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073765,
+    "stop": 1711693073765,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "14b3a87fb677ab17dac628897ae049db",
+    "testCaseId": "666d5300e80bf3af4eb3f5c94211cb17",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Indexer\\Test\\Unit\\ScopeResolver\\IndexScopeResolverTest::testResolve",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Indexer\\Test\\Unit\\ScopeResolver\\IndexScopeResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testResolve"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

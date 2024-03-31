@@ -1,0 +1,43 @@
+{
+    "uuid": "f177d95f-4adb-4fa4-8bad-b3f868216dfd",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\VersionControl\\AbstractEntityTest::testDuplicateExceptionProcessingOnSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022835,
+    "stop": 1711693022836,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d2b46ba2428a5108c4d1139a93d185bc",
+    "testCaseId": "791a358e2d5fddf447942ccf5fb6bbc1",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\VersionControl\\AbstractEntityTest::testDuplicateExceptionProcessingOnSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\VersionControl\\AbstractEntityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDuplicateExceptionProcessingOnSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

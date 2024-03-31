@@ -1,0 +1,50 @@
+{
+    "uuid": "0456d826-9fbe-4c9b-993f-d5625bed15db",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\Collection\\FilesystemTest::testFilterCallbackLike",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070924,
+    "stop": 1711693070924,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#9",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4af16518bfeb12bf1d09e301546939dd",
+    "testCaseId": "d2330ee9ce3ab130a7e3168b3384dcb1",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\Collection\\FilesystemTest::testFilterCallbackLike",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\Collection\\FilesystemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFilterCallbackLike"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

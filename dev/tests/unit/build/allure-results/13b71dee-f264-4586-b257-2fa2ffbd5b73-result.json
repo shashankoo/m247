@@ -1,0 +1,50 @@
+{
+    "uuid": "13b71dee-f264-4586-b257-2fa2ffbd5b73",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Element\\Message\\MessageConfigurationsPoolTest::testConstructNoRendererException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077668,
+    "stop": 1711693077668,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "11102a0e5df6183f1a26647acd5f9c3f",
+    "testCaseId": "1469cee4b262f834ff16acc7761856d9",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Element\\Message\\MessageConfigurationsPoolTest::testConstructNoRendererException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Element\\Message\\MessageConfigurationsPoolTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructNoRendererException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

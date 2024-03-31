@@ -1,0 +1,43 @@
+{
+    "uuid": "29813bb4-0f48-4a7f-af22-e043484e575a",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Webapi\\ParamOverriderCustomerStoreIdTest::testGetOverriddenValueIsCustomer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021090,
+    "stop": 1711693021091,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "54268ab1f96b109388d4b7403e908803",
+    "testCaseId": "86ee3a46de0096da9425ae54b2245b00",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Webapi\\ParamOverriderCustomerStoreIdTest::testGetOverriddenValueIsCustomer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Webapi\\ParamOverriderCustomerStoreIdTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOverriddenValueIsCustomer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

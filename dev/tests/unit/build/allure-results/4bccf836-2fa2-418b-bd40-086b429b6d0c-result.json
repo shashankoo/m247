@@ -1,0 +1,43 @@
+{
+    "uuid": "4bccf836-2fa2-418b-bd40-086b429b6d0c",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductLink\\ManagementTest::testSetProductLinksWithoutLinkTypeInLink",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015441,
+    "stop": 1711693015442,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bc65fc10953b57ee5b9d4c0a403e4ced",
+    "testCaseId": "5a4063cd09e6cd57d632666462626b1a",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductLink\\ManagementTest::testSetProductLinksWithoutLinkTypeInLink",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductLink\\ManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetProductLinksWithoutLinkTypeInLink"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

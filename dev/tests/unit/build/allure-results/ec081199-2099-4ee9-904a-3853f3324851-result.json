@@ -1,0 +1,43 @@
+{
+    "uuid": "ec081199-2099-4ee9-904a-3853f3324851",
+    "name": "Magento\\Review\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\ReviewTest::testModifyMetaDoesNotAddReviewSectionIfReviewModuleOutputIsDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693035539,
+    "stop": 1711693035540,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a01f0841fd9a7e6985df86f7053f3a8d",
+    "testCaseId": "fd9d4dc50ce150b99ea8b0c650a75114",
+    "rerunOf": null,
+    "fullName": "Magento\\Review\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\ReviewTest::testModifyMetaDoesNotAddReviewSectionIfReviewModuleOutputIsDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Review\\Test\\Unit\\Ui\\DataProvider\\Product\\Form\\Modifier\\ReviewTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testModifyMetaDoesNotAddReviewSectionIfReviewModuleOutputIsDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

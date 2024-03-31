@@ -1,0 +1,50 @@
+{
+    "uuid": "697a86f8-1de7-4987-8b33-9e4a17f7a163",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Sender\\EmailSenderTest::testSend",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038065,
+    "stop": 1711693038067,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Async sending\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f4c844e814cd1911b1df213f83a3019d",
+    "testCaseId": "5a926b87eb7a83e94783cb7fb841ca8b",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Sender\\EmailSenderTest::testSend",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Sender\\EmailSenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSend"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

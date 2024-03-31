@@ -1,0 +1,43 @@
+{
+    "uuid": "0c502bbe-478d-4aa2-89ba-441919d6c1c4",
+    "name": "Magento\\Security\\Test\\Unit\\Observer\\AfterAdminUserSaveTest::testExecuteWithoutUserExpiration",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041348,
+    "stop": 1711693041348,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a6ea8f9cd54785b2a1b6b829e5869575",
+    "testCaseId": "eaf33a5f5b5b37f8f32b9f52f7720a9a",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Observer\\AfterAdminUserSaveTest::testExecuteWithoutUserExpiration",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Observer\\AfterAdminUserSaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithoutUserExpiration"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

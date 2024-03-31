@@ -1,0 +1,43 @@
+{
+    "uuid": "a542c060-c35e-4b4d-a99e-ff0f12a432a6",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Container\\OrderIdentityTest::testGetStoreFromStoreManager",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037769,
+    "stop": 1711693037770,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d80c988c7bbc11a51a488a81a1bbfc82",
+    "testCaseId": "6be26a71fe449280d638d77974cf53c3",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Container\\OrderIdentityTest::testGetStoreFromStoreManager",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Container\\OrderIdentityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStoreFromStoreManager"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

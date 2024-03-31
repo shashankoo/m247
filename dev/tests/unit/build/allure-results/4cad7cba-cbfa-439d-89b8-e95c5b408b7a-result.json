@@ -1,0 +1,43 @@
+{
+    "uuid": "4cad7cba-cbfa-439d-89b8-e95c5b408b7a",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\MultishippingTest::testSetQuoteCustomerBillingAddress",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030757,
+    "stop": 1711693030758,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1069d0ad2cd2ce8896972e5bb2bf6a3c",
+    "testCaseId": "05227e248944b202f3f9d139239a3bf7",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\MultishippingTest::testSetQuoteCustomerBillingAddress",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\MultishippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetQuoteCustomerBillingAddress"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

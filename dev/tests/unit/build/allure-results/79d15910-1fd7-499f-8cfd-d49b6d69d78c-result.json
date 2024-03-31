@@ -1,0 +1,50 @@
+{
+    "uuid": "79d15910-1fd7-499f-8cfd-d49b6d69d78c",
+    "name": "Magento\\Backend\\Test\\Unit\\App\\Area\\FrontNameResolverTest::testIsHostBackend",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009453,
+    "stop": 1711693009453,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"withoutStandartPortInUrlWithPortInHost\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3d82f3d2d5099133cfacc7e7bb43c990",
+    "testCaseId": "8a16441e28db8e0f4f70d5ef4e280c5e",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\App\\Area\\FrontNameResolverTest::testIsHostBackend",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\App\\Area\\FrontNameResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsHostBackend"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

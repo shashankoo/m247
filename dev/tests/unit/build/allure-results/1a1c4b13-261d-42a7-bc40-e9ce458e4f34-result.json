@@ -1,0 +1,43 @@
+{
+    "uuid": "1a1c4b13-261d-42a7-bc40-e9ce458e4f34",
+    "name": "Magento\\User\\Test\\Unit\\Model\\Authorization\\AdminSessionUserContextTest::testGetUserIdExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052957,
+    "stop": 1711693052959,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e8b2a59ad1a78cf0630618828ff5fc8f",
+    "testCaseId": "6645536e009fbbebbafa8a074423ee7d",
+    "rerunOf": null,
+    "fullName": "Magento\\User\\Test\\Unit\\Model\\Authorization\\AdminSessionUserContextTest::testGetUserIdExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\User\\Test\\Unit\\Model\\Authorization\\AdminSessionUserContextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUserIdExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

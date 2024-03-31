@@ -1,0 +1,43 @@
+{
+    "uuid": "5a8a61e5-9d0f-4fc3-a184-08e7268113c5",
+    "name": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Type\\GroupedTest::testPrepareForCartAdvancedZeroQtyAndSoldOutOption",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024411,
+    "stop": 1711693024412,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "955308cadc9b21707c4b0ea6111d1ab3",
+    "testCaseId": "4035140e4ba4132328dd392184f77e6a",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Type\\GroupedTest::testPrepareForCartAdvancedZeroQtyAndSoldOutOption",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Type\\GroupedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareForCartAdvancedZeroQtyAndSoldOutOption"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

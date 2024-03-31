@@ -1,0 +1,43 @@
+{
+    "uuid": "7d40cda5-bffc-46fb-8816-588ab31ba64f",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductLink\\ManagementTest::testGetLinkedItemsByTypeWithWrongType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015438,
+    "stop": 1711693015438,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "59caa756786994b281d006cae72e4c04",
+    "testCaseId": "0366f07e024b4c459fbfa8a5dc93a601",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductLink\\ManagementTest::testGetLinkedItemsByTypeWithWrongType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductLink\\ManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLinkedItemsByTypeWithWrongType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

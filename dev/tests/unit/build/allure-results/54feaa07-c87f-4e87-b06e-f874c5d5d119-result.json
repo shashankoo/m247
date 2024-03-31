@@ -1,0 +1,43 @@
+{
+    "uuid": "54feaa07-c87f-4e87-b06e-f874c5d5d119",
+    "name": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Review\\Customer\\CollectionTest::testGetSelectCountSqlWithoutHavingClauses",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033577,
+    "stop": 1711693033580,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "457c2810b6555a7ed0c8f510d8fff53a",
+    "testCaseId": "2ece9b8219e006e98eabd1dd14bf7cf9",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Review\\Customer\\CollectionTest::testGetSelectCountSqlWithoutHavingClauses",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Review\\Customer\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSelectCountSqlWithoutHavingClauses"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

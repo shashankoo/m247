@@ -1,0 +1,50 @@
+{
+    "uuid": "75ab5fce-656b-4062-b2e8-c0394b38718e",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\LocalizedFileNameTest::testGetFileDisplayName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024766,
+    "stop": 1711693024766,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9e74d59bfe510c39b213063e9b891594",
+    "testCaseId": "00065bbfdf779f8cc760841163f46bcd",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\LocalizedFileNameTest::testGetFileDisplayName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\LocalizedFileNameTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFileDisplayName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

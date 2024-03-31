@@ -1,0 +1,43 @@
+{
+    "uuid": "b8da5c39-07d5-4999-bdbf-f48727e96820",
+    "name": "Magento\\CatalogGraphQl\\Test\\Unit\\Model\\Resolver\\Products\\SearchCriteria\\CollectionProcessor\\FilterProcessor\\CategoryFilterTest::testApplyWithConditionTypeEq",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011418,
+    "stop": 1711693011421,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2facf05f954f276ed6c735813993a8e6",
+    "testCaseId": "b9cf38067f8243d536ccc03dca51176e",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogGraphQl\\Test\\Unit\\Model\\Resolver\\Products\\SearchCriteria\\CollectionProcessor\\FilterProcessor\\CategoryFilterTest::testApplyWithConditionTypeEq",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogGraphQl\\Test\\Unit\\Model\\Resolver\\Products\\SearchCriteria\\CollectionProcessor\\FilterProcessor\\CategoryFilterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testApplyWithConditionTypeEq"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

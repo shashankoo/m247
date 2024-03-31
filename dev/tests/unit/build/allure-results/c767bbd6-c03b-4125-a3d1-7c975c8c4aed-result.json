@@ -1,0 +1,43 @@
+{
+    "uuid": "c767bbd6-c03b-4125-a3d1-7c975c8c4aed",
+    "name": "Magento\\Framework\\Locale\\Test\\Unit\\CurrencyTest::testGetCurrencyCached",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073891,
+    "stop": 1711693073900,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9b945e0833b972d1060286e0a66089d4",
+    "testCaseId": "b25d8caea732ca543d99772b9d595707",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Locale\\Test\\Unit\\CurrencyTest::testGetCurrencyCached",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Locale\\Test\\Unit\\CurrencyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCurrencyCached"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

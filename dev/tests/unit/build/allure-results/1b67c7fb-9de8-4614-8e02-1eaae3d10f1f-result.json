@@ -1,0 +1,50 @@
+{
+    "uuid": "1b67c7fb-9de8-4614-8e02-1eaae3d10f1f",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Gallery\\ProcessorTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015054,
+    "stop": 1711693015055,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0107f1adf692a58d69653ce83c1466ea",
+    "testCaseId": "9060a30c3124b6f3afd27760d2acfaf7",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Gallery\\ProcessorTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Gallery\\ProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "e3862f26-a048-40f6-8a30-a8b1e7a7d007",
+    "name": "Magento\\UrlRewrite\\Test\\Unit\\Controller\\RouterTest::testNoRewriteAfterStoreSwitcherWhenOldRewriteEqualsToNewOne",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052612,
+    "stop": 1711693052613,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "19c954c0a1e18f79976f679483ed7c51",
+    "testCaseId": "2d0056ea034b175609451f967bbcac6b",
+    "rerunOf": null,
+    "fullName": "Magento\\UrlRewrite\\Test\\Unit\\Controller\\RouterTest::testNoRewriteAfterStoreSwitcherWhenOldRewriteEqualsToNewOne",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\UrlRewrite\\Test\\Unit\\Controller\\RouterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testNoRewriteAfterStoreSwitcherWhenOldRewriteEqualsToNewOne"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

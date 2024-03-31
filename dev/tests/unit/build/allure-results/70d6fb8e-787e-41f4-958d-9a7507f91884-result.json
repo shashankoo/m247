@@ -1,0 +1,43 @@
+{
+    "uuid": "70d6fb8e-787e-41f4-958d-9a7507f91884",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Di\\App\\Task\\InterceptionCacheTest::testDoOperationEmptyData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055631,
+    "stop": 1711693055633,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e51c60709bf8ebcd092f08634f376fc7",
+    "testCaseId": "f1cbe32b3523e2c7b6759a9a67367f24",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Di\\App\\Task\\InterceptionCacheTest::testDoOperationEmptyData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Di\\App\\Task\\InterceptionCacheTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDoOperationEmptyData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

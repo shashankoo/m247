@@ -1,0 +1,50 @@
+{
+    "uuid": "b07bc7ff-9fc2-47f7-a7c2-0962b3e4fdb9",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\GraphTest::testConstructorError",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071456,
+    "stop": 1711693071456,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"broken reference \"from\"\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d8539a80a82918cc3eee68cf5db5957c",
+    "testCaseId": "16c91ec69a1425fef94fa1e5fcef4951",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\GraphTest::testConstructorError",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\GraphTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructorError"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

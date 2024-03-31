@@ -1,0 +1,43 @@
+{
+    "uuid": "27821ba4-8f26-4fb2-bfaf-58e415ca2ef8",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Controller\\Paypal\\SaveShippingMethodTest::testExecuteException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056142,
+    "stop": 1711693056143,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e7c75c9a5df885af77165252e47081a6",
+    "testCaseId": "b3780b5df187405b7ecc320ec9f65d82",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Controller\\Paypal\\SaveShippingMethodTest::testExecuteException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Controller\\Paypal\\SaveShippingMethodTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

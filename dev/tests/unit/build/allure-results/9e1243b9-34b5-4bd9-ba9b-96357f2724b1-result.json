@@ -1,0 +1,50 @@
+{
+    "uuid": "9e1243b9-34b5-4bd9-ba9b-96357f2724b1",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\Dependency\\MapperTest::testGetDependenciesWhenDependentIsInvisible",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018001,
+    "stop": 1711693018004,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4e8331e4c66dd62ed8c8f51a52ea0934",
+    "testCaseId": "cd12ce881b6d2d47eefc7562a8616250",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\Dependency\\MapperTest::testGetDependenciesWhenDependentIsInvisible",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\Dependency\\MapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDependenciesWhenDependentIsInvisible"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

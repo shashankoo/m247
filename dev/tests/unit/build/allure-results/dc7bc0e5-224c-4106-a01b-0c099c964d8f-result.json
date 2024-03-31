@@ -1,0 +1,50 @@
+{
+    "uuid": "dc7bc0e5-224c-4106-a01b-0c099c964d8f",
+    "name": "Magento\\Theme\\Test\\Unit\\Helper\\StorageTest::testGetCurrentPathCachesResult",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043255,
+    "stop": 1711693043256,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"non-existent directory should default to the base path\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c0be3a4740c1e3b962f00df2d7896d61",
+    "testCaseId": "650a60d88cda6d81a8621b55aa2462ed",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Helper\\StorageTest::testGetCurrentPathCachesResult",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Helper\\StorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCurrentPathCachesResult"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

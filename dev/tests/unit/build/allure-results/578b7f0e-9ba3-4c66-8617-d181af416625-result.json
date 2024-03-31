@@ -1,0 +1,50 @@
+{
+    "uuid": "578b7f0e-9ba3-4c66-8617-d181af416625",
+    "name": "Magento\\Directory\\Test\\Unit\\Model\\Currency\\Import\\ConfigTest::testGetServiceLabel",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021706,
+    "stop": 1711693021706,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"unknown\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fa5e8ec02e8f07e5363159b4dce1b765",
+    "testCaseId": "03cf6fb237105edf92da7407f12a5f5e",
+    "rerunOf": null,
+    "fullName": "Magento\\Directory\\Test\\Unit\\Model\\Currency\\Import\\ConfigTest::testGetServiceLabel",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Directory\\Test\\Unit\\Model\\Currency\\Import\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetServiceLabel"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

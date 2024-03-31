@@ -1,0 +1,43 @@
+{
+    "uuid": "46b38312-e961-4fa1-90c9-c2c0dea40062",
+    "name": "Magento\\Framework\\Code\\Test\\Unit\\Reader\\ArgumentsReaderTest::testGetParentCallWithWrongArgumentsOrder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069446,
+    "stop": 1711693069447,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9a4194b5e390a196d94018a5ed835354",
+    "testCaseId": "bf2f09b2ff09028f83d7c92e4fbc858a",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Code\\Test\\Unit\\Reader\\ArgumentsReaderTest::testGetParentCallWithWrongArgumentsOrder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Code\\Test\\Unit\\Reader\\ArgumentsReaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetParentCallWithWrongArgumentsOrder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

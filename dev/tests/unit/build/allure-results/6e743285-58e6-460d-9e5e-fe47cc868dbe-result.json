@@ -1,0 +1,50 @@
+{
+    "uuid": "6e743285-58e6-460d-9e5e-fe47cc868dbe",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\Edit\\Tab\\View\\PersonalInfoTest::testGetAccountLock",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019444,
+    "stop": 1711693019444,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6f1154f80b74998564651525e8cbe7c6",
+    "testCaseId": "b2aa73a8bc4c399452457b51c6244024",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\Edit\\Tab\\View\\PersonalInfoTest::testGetAccountLock",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\Edit\\Tab\\View\\PersonalInfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAccountLock"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

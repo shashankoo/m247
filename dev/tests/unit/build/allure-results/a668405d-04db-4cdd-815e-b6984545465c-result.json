@@ -1,0 +1,43 @@
+{
+    "uuid": "a668405d-04db-4cdd-815e-b6984545465c",
+    "name": "Magento\\Theme\\Test\\Unit\\Console\\Command\\ThemeUninstallCommandTest::testExecuteFailedDependencyCheck",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042920,
+    "stop": 1711693042920,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "914be8abfaf0ec48d2e7804337126d17",
+    "testCaseId": "c2fbc8fc9cb6bae4a28a50b369738e7c",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Console\\Command\\ThemeUninstallCommandTest::testExecuteFailedDependencyCheck",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Console\\Command\\ThemeUninstallCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteFailedDependencyCheck"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

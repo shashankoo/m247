@@ -1,0 +1,50 @@
+{
+    "uuid": "d5e7186f-fe14-45e9-9ed3-09c899d5bc41",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\CartConfigurationTest::testIsProductConfigured",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014995,
+    "stop": 1711693014995,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"some_option_type\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1ce047fd5e34705ad1fb0c959edefc29",
+    "testCaseId": "18a61579a9c50a988148aed139aaba66",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\CartConfigurationTest::testIsProductConfigured",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\CartConfigurationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsProductConfigured"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "862edd69-6e72-41ce-876b-4f96b3cba606",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\TextareaTest::testValidateValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020911,
+    "stop": 1711693020912,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"empty\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c21bba8e1dd7165a0b449218ddc26fe7",
+    "testCaseId": "f188ce4975683a3b8814963011f36518",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\TextareaTest::testValidateValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\TextareaTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

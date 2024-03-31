@@ -1,0 +1,50 @@
+{
+    "uuid": "df2551c7-6317-4c20-9124-a4387727504d",
+    "name": "Magento\\AdminNotification\\Test\\Unit\\Model\\System\\Message\\SecurityTest::testIsDisplayed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008549,
+    "stop": 1711693008549,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"accessible_file\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4221052116cc1ef3ec045d21f7516e35",
+    "testCaseId": "58dd0efb0270badcc13ab561df698a48",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminNotification\\Test\\Unit\\Model\\System\\Message\\SecurityTest::testIsDisplayed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminNotification\\Test\\Unit\\Model\\System\\Message\\SecurityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsDisplayed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

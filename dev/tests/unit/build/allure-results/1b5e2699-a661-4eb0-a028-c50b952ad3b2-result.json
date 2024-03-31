@@ -1,0 +1,50 @@
+{
+    "uuid": "1b5e2699-a661-4eb0-a028-c50b952ad3b2",
+    "name": "Magento\\MediaStorage\\Test\\Unit\\Helper\\File\\Storage\\DatabaseTest::testFileExists",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030435,
+    "stop": 1711693030436,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"non-media database\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "be88422737255a863f817dd4a3c6023b",
+    "testCaseId": "41dd3270f139292c2bdab2a49707da62",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaStorage\\Test\\Unit\\Helper\\File\\Storage\\DatabaseTest::testFileExists",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaStorage\\Test\\Unit\\Helper\\File\\Storage\\DatabaseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFileExists"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "f4f73e0f-85a0-473d-ae06-1c416f758b38",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Comments\\ViewTest::testEscapeHtml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036378,
+    "stop": 1711693036379,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a771cfb2952e317cbaa3c57d5430b783",
+    "testCaseId": "c2b38cdec0c92ae548896cf123d664ac",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Comments\\ViewTest::testEscapeHtml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Comments\\ViewTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEscapeHtml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

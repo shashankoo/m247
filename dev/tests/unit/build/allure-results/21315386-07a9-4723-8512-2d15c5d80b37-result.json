@@ -1,0 +1,43 @@
+{
+    "uuid": "21315386-07a9-4723-8512-2d15c5d80b37",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\StockRegistryTest::testGetLowStockItems",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012171,
+    "stop": 1711693012171,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4c7dd34633322b1f7bf64b428abd1463",
+    "testCaseId": "b0d1b1a68527efd8d1647f7180656699",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\StockRegistryTest::testGetLowStockItems",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\StockRegistryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLowStockItems"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

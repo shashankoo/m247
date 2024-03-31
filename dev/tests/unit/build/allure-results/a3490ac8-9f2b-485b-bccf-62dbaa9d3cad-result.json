@@ -1,0 +1,43 @@
+{
+    "uuid": "a3490ac8-9f2b-485b-bccf-62dbaa9d3cad",
+    "name": "Magento\\User\\Test\\Unit\\Model\\ResourceModel\\UserTest::testGetLatestPassword",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052994,
+    "stop": 1711693052995,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "af8aacbd619743d2d1b080cfb406dff0",
+    "testCaseId": "76d0d448c904b5d98113581b28a091b3",
+    "rerunOf": null,
+    "fullName": "Magento\\User\\Test\\Unit\\Model\\ResourceModel\\UserTest::testGetLatestPassword",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\User\\Test\\Unit\\Model\\ResourceModel\\UserTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLatestPassword"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

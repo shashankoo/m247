@@ -1,0 +1,50 @@
+{
+    "uuid": "f3f1f8d9-d93e-474b-bee5-257c05b398d5",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\AbstractWidgetTest::testGetFieldId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019496,
+    "stop": 1711693019497,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5a96f7314aea14b17112c1daa4f72cb4",
+    "testCaseId": "c8721527c279d18cbe05b6bac60ea50c",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\AbstractWidgetTest::testGetFieldId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\AbstractWidgetTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFieldId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

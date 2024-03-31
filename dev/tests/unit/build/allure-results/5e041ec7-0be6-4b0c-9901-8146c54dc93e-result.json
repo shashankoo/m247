@@ -1,0 +1,43 @@
+{
+    "uuid": "5e041ec7-0be6-4b0c-9901-8146c54dc93e",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ConfigTest::testGetMenuWithCachedObjectReturnsUnserializedObject",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010010,
+    "stop": 1711693010013,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bdfb4c1ddd04057a4bc89dda301b087b",
+    "testCaseId": "d94bc1f14be64c5ff1aff5028c0ea4f6",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ConfigTest::testGetMenuWithCachedObjectReturnsUnserializedObject",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMenuWithCachedObjectReturnsUnserializedObject"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

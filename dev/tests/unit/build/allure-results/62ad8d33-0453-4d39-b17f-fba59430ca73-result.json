@@ -1,0 +1,50 @@
+{
+    "uuid": "62ad8d33-0453-4d39-b17f-fba59430ca73",
+    "name": "Magento\\Indexer\\Test\\Unit\\App\\IndexerTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024778,
+    "stop": 1711693024779,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"set1\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "db8ef2284ec71f343988484ec4ccb41e",
+    "testCaseId": "80ea6dface7906d416d8b1ad0e64d1a0",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\App\\IndexerTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\App\\IndexerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

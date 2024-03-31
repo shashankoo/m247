@@ -1,0 +1,50 @@
+{
+    "uuid": "0527b355-ac74-4e7a-8a43-f137ed3f8d23",
+    "name": "Magento\\Reports\\Test\\Unit\\Block\\Adminhtml\\Sales\\Grid\\Column\\Renderer\\DateTest::testRender",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033413,
+    "stop": 1711693033416,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "54dc4f3b842207dc844df019568b1c5a",
+    "testCaseId": "0d6e5cc5086f5320fc94a978c10b9748",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Block\\Adminhtml\\Sales\\Grid\\Column\\Renderer\\DateTest::testRender",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Block\\Adminhtml\\Sales\\Grid\\Column\\Renderer\\DateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRender"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

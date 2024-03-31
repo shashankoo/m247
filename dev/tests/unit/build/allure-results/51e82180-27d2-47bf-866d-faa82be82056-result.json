@@ -1,0 +1,50 @@
+{
+    "uuid": "51e82180-27d2-47bf-866d-faa82be82056",
+    "name": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest::testProcessSimpleTypeException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075496,
+    "stop": 1711693075497,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"int type, string value\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "35baba9ec5c3701fb82e2324337030b5",
+    "testCaseId": "dd366c72eaba58c19248b31d4ffc65bc",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest::testProcessSimpleTypeException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Reflection\\Test\\Unit\\TypeProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessSimpleTypeException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

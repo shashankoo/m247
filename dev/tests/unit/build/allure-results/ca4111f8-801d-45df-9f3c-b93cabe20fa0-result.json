@@ -1,0 +1,43 @@
+{
+    "uuid": "ca4111f8-801d-45df-9f3c-b93cabe20fa0",
+    "name": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\BuilderTest::testBuildWhenProductExistAndPossibleToLoadProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013864,
+    "stop": 1711693013865,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "32e92d55fd76f1392c438431ddd9952e",
+    "testCaseId": "9501f6346fa44523f387a71ecb1bd744",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\BuilderTest::testBuildWhenProductExistAndPossibleToLoadProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\BuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBuildWhenProductExistAndPossibleToLoadProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

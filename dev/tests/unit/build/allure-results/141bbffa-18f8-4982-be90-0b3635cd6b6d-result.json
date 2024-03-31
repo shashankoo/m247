@@ -1,0 +1,50 @@
+{
+    "uuid": "141bbffa-18f8-4982-be90-0b3635cd6b6d",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\Argument\\XsdTest::testSchemaCorrectlyIdentifiesInvalidTypesXml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070886,
+    "stop": 1711693070887,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"null type should be empty\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "077092cb8a7e7f750027042edf1d54a7",
+    "testCaseId": "f2f76bf4923e622d1d9413a22ab90fdd",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\Argument\\XsdTest::testSchemaCorrectlyIdentifiesInvalidTypesXml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\Argument\\XsdTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSchemaCorrectlyIdentifiesInvalidTypesXml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

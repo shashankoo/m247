@@ -1,0 +1,43 @@
+{
+    "uuid": "b7156428-6426-43d3-ab70-0e3600abd6e9",
+    "name": "Magento\\Framework\\Jwt\\Test\\Unit\\Header\\X509ChainTest::testGetValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073854,
+    "stop": 1711693073854,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e186db20a0b12f8214f4c2f3b2dee5b8",
+    "testCaseId": "ea3d81962cc3afd7c93e42e421006093",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Jwt\\Test\\Unit\\Header\\X509ChainTest::testGetValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Jwt\\Test\\Unit\\Header\\X509ChainTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

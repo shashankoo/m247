@@ -1,0 +1,43 @@
+{
+    "uuid": "c892158a-db18-4529-85f5-4f5e4911898d",
+    "name": "Magento\\Integration\\Test\\Unit\\Helper\\Oauth\\DataTest::testConsumerPostMaxRedirectsNonZero",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029987,
+    "stop": 1711693029987,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2acbac1f4b1f68f6897d85c639487d64",
+    "testCaseId": "e7adb4840f4fdf7bb68ee8f2308bb4c2",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Helper\\Oauth\\DataTest::testConsumerPostMaxRedirectsNonZero",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Helper\\Oauth\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConsumerPostMaxRedirectsNonZero"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

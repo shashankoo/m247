@@ -1,0 +1,50 @@
+{
+    "uuid": "f884c6d4-c8ed-4bd2-b394-1a8f159a05d7",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\ScopeResolverPoolTest::testGetException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058882,
+    "stop": 1711693058882,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "14609063d5dff439e179400b0515514a",
+    "testCaseId": "861fe46aaa6f3f582e4c172b0d797ced",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\ScopeResolverPoolTest::testGetException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\ScopeResolverPoolTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

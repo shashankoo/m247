@@ -1,0 +1,50 @@
+{
+    "uuid": "573441d8-807f-4e95-aef5-76bf689fe345",
+    "name": "Magento\\Framework\\Pricing\\Test\\Unit\\Adjustment\\CollectionTest::testGetItemByCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075179,
+    "stop": 1711693075179,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bec8b7dcc4e34e14af7dbd0e81b677d2",
+    "testCaseId": "c3d547c38a6ae83d815883d7267bff50",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Pricing\\Test\\Unit\\Adjustment\\CollectionTest::testGetItemByCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Pricing\\Test\\Unit\\Adjustment\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItemByCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

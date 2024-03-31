@@ -1,0 +1,50 @@
+{
+    "uuid": "4cbc803b-85e1-4991-8b6d-25a32c43507f",
+    "name": "Magento\\AdvancedPricingImportExport\\Test\\Unit\\Model\\Import\\AdvancedPricing\\Validator\\WebsiteTest::testIsValidReturn",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008866,
+    "stop": 1711693008867,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bb080f83c1eac7faf911f0feb401888f",
+    "testCaseId": "d647579e9af12b0dad9f7e02389291e0",
+    "rerunOf": null,
+    "fullName": "Magento\\AdvancedPricingImportExport\\Test\\Unit\\Model\\Import\\AdvancedPricing\\Validator\\WebsiteTest::testIsValidReturn",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdvancedPricingImportExport\\Test\\Unit\\Model\\Import\\AdvancedPricing\\Validator\\WebsiteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValidReturn"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

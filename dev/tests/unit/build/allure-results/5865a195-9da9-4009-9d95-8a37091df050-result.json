@@ -1,0 +1,50 @@
+{
+    "uuid": "5865a195-9da9-4009-9d95-8a37091df050",
+    "name": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\LockEnvProcessorTest::testProcess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017777,
+    "stop": 1711693017777,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9f8811b19dc9a43b9f7d5953b827a81e",
+    "testCaseId": "85c9721b12d63593cc5f3bcfe9aef028",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\LockEnvProcessorTest::testProcess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Console\\Command\\ConfigSet\\LockEnvProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

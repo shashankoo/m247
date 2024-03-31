@@ -1,0 +1,50 @@
+{
+    "uuid": "75a3df9f-fac6-4f12-8d65-91804bba4356",
+    "name": "Magento\\Framework\\Test\\Unit\\EscaperTest::testEscapeHtmlAttributeWithInlineTranslateEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056616,
+    "stop": 1711693056616,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0b81f9f797cf0115c7f74a50eca02737",
+    "testCaseId": "de4e69b4e8827f7dcd6f9c9557bbe79c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\EscaperTest::testEscapeHtmlAttributeWithInlineTranslateEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\EscaperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEscapeHtmlAttributeWithInlineTranslateEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

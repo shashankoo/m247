@@ -1,0 +1,50 @@
+{
+    "uuid": "f9e56902-33e4-4e73-b912-b32da7310f75",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\ProductTest::testValidateRowCheckSpecifiedSku",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011766,
+    "stop": 1711693011768,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "62c8bae3877820866e8be0ca8df4f4b4",
+    "testCaseId": "0505e5704dbb359024f25ea2a853988b",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\ProductTest::testValidateRowCheckSpecifiedSku",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateRowCheckSpecifiedSku"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

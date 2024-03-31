@@ -1,0 +1,50 @@
+{
+    "uuid": "2291b97c-8a93-4c0c-bae2-a76266d05c01",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Layout\\GeneratorPoolTest::testProcess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077885,
+    "stop": 1711693077890,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "acb9ce266674fca2c3841250208aeb07",
+    "testCaseId": "3896f3030cdd1eec425492fc9926f4f2",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Layout\\GeneratorPoolTest::testProcess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Layout\\GeneratorPoolTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

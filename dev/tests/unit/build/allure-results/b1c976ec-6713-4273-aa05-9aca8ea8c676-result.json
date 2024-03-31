@@ -1,0 +1,43 @@
+{
+    "uuid": "b1c976ec-6713-4273-aa05-9aca8ea8c676",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testValidateResetPasswordTokenTokenExpired",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019952,
+    "stop": 1711693019957,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a8c68b718bd928afd6c79a60a4cb1e3f",
+    "testCaseId": "1c3a6adab30308532f0ec11044776eeb",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testValidateResetPasswordTokenTokenExpired",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateResetPasswordTokenTokenExpired"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

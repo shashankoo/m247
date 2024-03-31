@@ -1,0 +1,43 @@
+{
+    "uuid": "bb8e6709-db00-4e38-8878-d5dba358016d",
+    "name": "Magento\\Framework\\Filesystem\\Test\\Unit\\File\\ReadTest::testReadLine",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073285,
+    "stop": 1711693073286,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "14d8721d82b83f1bdaec9d164f79e61e",
+    "testCaseId": "3c675a53d547eab64cbbaf055a165eef",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filesystem\\Test\\Unit\\File\\ReadTest::testReadLine",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filesystem\\Test\\Unit\\File\\ReadTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReadLine"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "2c3d686e-c9f8-4829-96a9-1baa3ddb9eb1",
+    "name": "Magento\\Shipping\\Test\\Unit\\Model\\ConfigTest::testGetActiveCarriersWhenThereIsNoAvailable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041582,
+    "stop": 1711693041583,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6596dfafa4b35f8e2562483b608dcabf",
+    "testCaseId": "346e93b5304ff2587144e3a3063327e6",
+    "rerunOf": null,
+    "fullName": "Magento\\Shipping\\Test\\Unit\\Model\\ConfigTest::testGetActiveCarriersWhenThereIsNoAvailable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Shipping\\Test\\Unit\\Model\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetActiveCarriersWhenThereIsNoAvailable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

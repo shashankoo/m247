@@ -1,0 +1,50 @@
+{
+    "uuid": "a57acaec-59a6-429a-9e38-aa4c1b10f8ed",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Validator\\MediaTest::testIsValidAdditionalImagesPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011585,
+    "stop": 1711693011585,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"additional_images\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e37858bdd814b7d54ce5d0b3b3f42efc",
+    "testCaseId": "51952f2000622f2de939751749750f46",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Validator\\MediaTest::testIsValidAdditionalImagesPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\Validator\\MediaTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValidAdditionalImagesPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

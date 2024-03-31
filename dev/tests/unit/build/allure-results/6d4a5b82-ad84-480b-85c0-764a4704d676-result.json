@@ -1,0 +1,50 @@
+{
+    "uuid": "6d4a5b82-ad84-480b-85c0-764a4704d676",
+    "name": "Magento\\GoogleGtag\\Test\\Unit\\Model\\Config\\GtagConfigTest::testGetStoreConfigValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024147,
+    "stop": 1711693024148,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "881dc906f8713c1443eaed168a601d97",
+    "testCaseId": "ed76c1ce07976f0eb3b59bce8713d594",
+    "rerunOf": null,
+    "fullName": "Magento\\GoogleGtag\\Test\\Unit\\Model\\Config\\GtagConfigTest::testGetStoreConfigValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GoogleGtag\\Test\\Unit\\Model\\Config\\GtagConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStoreConfigValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

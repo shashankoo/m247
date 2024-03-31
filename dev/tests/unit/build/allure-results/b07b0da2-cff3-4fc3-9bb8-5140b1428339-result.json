@@ -1,0 +1,43 @@
+{
+    "uuid": "b07b0da2-cff3-4fc3-9bb8-5140b1428339",
+    "name": "Magento\\Theme\\Test\\Unit\\Model\\Indexer\\Design\\Config\\Plugin\\StoreTest::testAfterSaveWithExistentSubject",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043447,
+    "stop": 1711693043448,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e80ff141f3ac847f745f29af84070333",
+    "testCaseId": "1deaf3a8fd63e423e36674f57f2daa12",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Model\\Indexer\\Design\\Config\\Plugin\\StoreTest::testAfterSaveWithExistentSubject",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Model\\Indexer\\Design\\Config\\Plugin\\StoreTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSaveWithExistentSubject"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

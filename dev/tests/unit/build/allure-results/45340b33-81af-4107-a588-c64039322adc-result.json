@@ -1,0 +1,43 @@
+{
+    "uuid": "45340b33-81af-4107-a588-c64039322adc",
+    "name": "Magento\\Framework\\Event\\Test\\Unit\\Invoker\\InvokerDefaultTest::testDispatchWithNonSharedInstance",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073019,
+    "stop": 1711693073020,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "184e70fe610037aec3d3fd04e7e8c8df",
+    "testCaseId": "ae68b7eee49672aade09f232a083c23e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Event\\Test\\Unit\\Invoker\\InvokerDefaultTest::testDispatchWithNonSharedInstance",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Event\\Test\\Unit\\Invoker\\InvokerDefaultTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDispatchWithNonSharedInstance"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

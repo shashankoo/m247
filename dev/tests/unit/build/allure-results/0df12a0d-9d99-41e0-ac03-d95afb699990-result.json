@@ -1,0 +1,50 @@
+{
+    "uuid": "0df12a0d-9d99-41e0-ac03-d95afb699990",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\Config\\XsdMergedTest::testSchemaCorrectlyIdentifiesInvalidXml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024657,
+    "stop": 1711693024657,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"entity_without_required_model\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dc39c8d4e42fd7aba86acc2eeb3f6459",
+    "testCaseId": "40f6e5ff84bb539447b77aff2590be8f",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\Config\\XsdMergedTest::testSchemaCorrectlyIdentifiesInvalidXml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\Config\\XsdMergedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSchemaCorrectlyIdentifiesInvalidXml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

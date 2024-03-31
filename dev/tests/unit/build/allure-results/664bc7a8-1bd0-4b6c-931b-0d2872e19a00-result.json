@@ -1,0 +1,43 @@
+{
+    "uuid": "664bc7a8-1bd0-4b6c-931b-0d2872e19a00",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\ConnectionManagerTest::testGetConnectionSuccessfull",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023441,
+    "stop": 1711693023441,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cd43397a7582d41f64c0f91c0bd55e80",
+    "testCaseId": "bb6a53c42710df21fdd4ee18a9742ba4",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\ConnectionManagerTest::testGetConnectionSuccessfull",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\ConnectionManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConnectionSuccessfull"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

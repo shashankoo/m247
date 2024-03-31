@@ -1,0 +1,50 @@
+{
+    "uuid": "eeb63fcb-eab4-4b30-8de7-7c74bcb5f4b8",
+    "name": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Report\\Product\\ViewedTest::testAggregate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033565,
+    "stop": 1711693033569,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6ffea00ffbe6aef69541da08d8412997",
+    "testCaseId": "7cbe5e3dc2933de732e9633eb507d32d",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Report\\Product\\ViewedTest::testAggregate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Report\\Product\\ViewedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAggregate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

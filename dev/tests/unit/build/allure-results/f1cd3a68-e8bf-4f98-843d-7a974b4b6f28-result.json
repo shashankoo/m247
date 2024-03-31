@@ -1,0 +1,50 @@
+{
+    "uuid": "f1cd3a68-e8bf-4f98-843d-7a974b4b6f28",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\ResourceModel\\QuoteTest::testGetReservedOrderId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033230,
+    "stop": 1711693033230,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c1ce7a96b6ac8a98cf847129a497e1f3",
+    "testCaseId": "025854d7e69c56b1fa74b2b67d66ddb3",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\ResourceModel\\QuoteTest::testGetReservedOrderId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\ResourceModel\\QuoteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetReservedOrderId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

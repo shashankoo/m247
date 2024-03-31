@@ -1,0 +1,43 @@
+{
+    "uuid": "670b118e-2f79-4254-8bc4-77a05c1a76a8",
+    "name": "Magento\\Framework\\Module\\Test\\Unit\\Setup\\MigrationTest::testAppendClassAliasReplace",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074454,
+    "stop": 1711693074454,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skipped in #27500 due to testing protected\/private methods and properties",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8a2f0872692a8b6a1ad999ee2de87847",
+    "testCaseId": "31f7d7081bce1cbbf48dec39691ababb",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Module\\Test\\Unit\\Setup\\MigrationTest::testAppendClassAliasReplace",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Module\\Test\\Unit\\Setup\\MigrationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAppendClassAliasReplace"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

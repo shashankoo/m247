@@ -1,0 +1,43 @@
+{
+    "uuid": "0232173d-e5c0-40ae-8a16-574b627369ff",
+    "name": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\Form\\Field\\RegexceptionsTest::testRenderCellTemplateWrongColumnName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017649,
+    "stop": 1711693017650,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0e221ed6dde8ca9b108657a116064940",
+    "testCaseId": "d6c41e0393af3fb96248c41f01c36446",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\Form\\Field\\RegexceptionsTest::testRenderCellTemplateWrongColumnName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\Form\\Field\\RegexceptionsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRenderCellTemplateWrongColumnName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "1afe6917-1427-4351-93dd-1ac7b4b91a20",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Helper\\DataTest::testGetMaxUploadSizeMessage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024596,
+    "stop": 1711693024596,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Test with max image size = 0\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "72ab7c134dbdc5b73e9d040e96010e32",
+    "testCaseId": "ddae8319887b07a8a3e3407c03c8c96d",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Helper\\DataTest::testGetMaxUploadSizeMessage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMaxUploadSizeMessage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

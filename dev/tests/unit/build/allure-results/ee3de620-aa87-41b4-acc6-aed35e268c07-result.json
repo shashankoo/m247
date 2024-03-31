@@ -1,0 +1,43 @@
+{
+    "uuid": "ee3de620-aa87-41b4-acc6-aed35e268c07",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\BuilderTest::testGetResultSkipsRemovedItems",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009886,
+    "stop": 1711693009886,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "164ffdc23d62112005df1898d0981bb2",
+    "testCaseId": "b4681b61b7af26898a5297136ee656b4",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\BuilderTest::testGetResultSkipsRemovedItems",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\BuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetResultSkipsRemovedItems"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

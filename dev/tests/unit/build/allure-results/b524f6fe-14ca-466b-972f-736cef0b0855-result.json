@@ -1,0 +1,43 @@
+{
+    "uuid": "b524f6fe-14ca-466b-972f-736cef0b0855",
+    "name": "Magento\\Catalog\\Test\\Unit\\Controller\\Product\\Frontend\\Action\\SynchronizeTest::testExecuteActionException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013982,
+    "stop": 1711693013983,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "304dd8243f9df96a62845c6ee3e0a3be",
+    "testCaseId": "ac0f80cb41f211e7a2e581d1c3f3316f",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Controller\\Product\\Frontend\\Action\\SynchronizeTest::testExecuteActionException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Controller\\Product\\Frontend\\Action\\SynchronizeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteActionException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

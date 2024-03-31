@@ -1,0 +1,50 @@
+{
+    "uuid": "9e978c84-13dd-4693-83d2-01722b9d04c4",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\Config\\XsdTest::testFileSchemaByExemplar",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038627,
+    "stop": 1711693038628,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"valid totals display_zero true\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fa0e2786e77afea4e5f11900b7eb146e",
+    "testCaseId": "fdd47972616dc1c836ee5824b8fe9f23",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\Config\\XsdTest::testFileSchemaByExemplar",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\Config\\XsdTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFileSchemaByExemplar"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

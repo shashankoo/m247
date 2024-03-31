@@ -1,0 +1,43 @@
+{
+    "uuid": "9a4db0ad-5cf3-4479-a1ba-a01fbd2f53d5",
+    "name": "Magento\\Framework\\Setup\\Test\\Unit\\Patch\\PatchApplierTest::testNonTransactionablePatch",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076548,
+    "stop": 1711693076548,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b0d9e8593badb3d359a2ab541bc38579",
+    "testCaseId": "e0bbb248bc0f035203371e8ed500c04c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Setup\\Test\\Unit\\Patch\\PatchApplierTest::testNonTransactionablePatch",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Setup\\Test\\Unit\\Patch\\PatchApplierTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testNonTransactionablePatch"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

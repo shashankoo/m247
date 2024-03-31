@@ -1,0 +1,50 @@
+{
+    "uuid": "4d4db7f5-7094-4e16-a6c2-8eaf0c7c4d08",
+    "name": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Category\\SaveTest::testImagePreprocessing",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711692679895,
+    "stop": 1711692679897,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"categoryPostData contains image\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1e8b6513adf8457888b270cdc3a77e54",
+    "testCaseId": "350d9c6533540c2d69a842e1c2c8bacf",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Category\\SaveTest::testImagePreprocessing",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Category\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testImagePreprocessing"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

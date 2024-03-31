@@ -1,0 +1,43 @@
+{
+    "uuid": "432e2939-8220-4fd1-8e9e-020e49cabd29",
+    "name": "Magento\\Paypal\\Test\\Unit\\Controller\\Transparent\\RequestSecureTokenTest::testExecuteEmptyQuoteError",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031874,
+    "stop": 1711693031875,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "93ef23b41f9d7e391b3b56c309bc8011",
+    "testCaseId": "e1ea9c1ea19627a71352b8f3359fa0c0",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Controller\\Transparent\\RequestSecureTokenTest::testExecuteEmptyQuoteError",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Controller\\Transparent\\RequestSecureTokenTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteEmptyQuoteError"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

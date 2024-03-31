@@ -1,0 +1,50 @@
+{
+    "uuid": "8f9ce1eb-f196-401a-835d-14b6b89b2ed3",
+    "name": "Magento\\AdobeStockImageAdminUi\\Test\\Unit\\Model\\SignInConfigProviderTest::testGettingUserQuotaOnExceptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008789,
+    "stop": 1711693008789,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b12186039f17eede8ecaf71183551237",
+    "testCaseId": "89ef1087e3d6e3380b57bfaf5d550b54",
+    "rerunOf": null,
+    "fullName": "Magento\\AdobeStockImageAdminUi\\Test\\Unit\\Model\\SignInConfigProviderTest::testGettingUserQuotaOnExceptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdobeStockImageAdminUi\\Test\\Unit\\Model\\SignInConfigProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGettingUserQuotaOnExceptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

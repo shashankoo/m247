@@ -1,0 +1,50 @@
+{
+    "uuid": "4ac70739-5526-4328-b144-a4b4209af014",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\SetupInfoTest::testIsAvailable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058898,
+    "stop": 1711693058898,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"root outside of doc root, existent sub-directory\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "70c360a8f365a039bea1956d7bc83614",
+    "testCaseId": "2851783e6a902e59ccd8cb3d90373c96",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\SetupInfoTest::testIsAvailable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\SetupInfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAvailable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "c6ddb461-c509-4be9-88f8-ebaf0a161a50",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\CustomerTest::testIsCustomerLocked",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020498,
+    "stop": 1711693020498,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a72103f4ea0cae2707c726bb71844b56",
+    "testCaseId": "cd94d25e43fa5a2a92d991482d889aff",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\CustomerTest::testIsCustomerLocked",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\CustomerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsCustomerLocked"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "d4879735-a24b-4e96-94a9-bde5318a8e83",
+    "name": "Magento\\Framework\\Archive\\Test\\Unit\\ZipTest::testPack",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059053,
+    "stop": 1711693059054,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Method pack contains dependency on \\ZipArchive object",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "136c02be95e44b00b869eb61fe6ab77e",
+    "testCaseId": "03a5556d6872130622c4b6502876ba48",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Archive\\Test\\Unit\\ZipTest::testPack",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Archive\\Test\\Unit\\ZipTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPack"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

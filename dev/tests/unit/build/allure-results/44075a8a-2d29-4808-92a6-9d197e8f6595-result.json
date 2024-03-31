@@ -1,0 +1,43 @@
+{
+    "uuid": "44075a8a-2d29-4808-92a6-9d197e8f6595",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\FieldTest::testGetOptionsUsesOptionsInterfaceIfNoMethodIsProvided",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018024,
+    "stop": 1711693018024,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2e503b72fde434ec9ee58f429bb1e201",
+    "testCaseId": "0793740f40f855607556262bb64feda3",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\FieldTest::testGetOptionsUsesOptionsInterfaceIfNoMethodIsProvided",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\FieldTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOptionsUsesOptionsInterfaceIfNoMethodIsProvided"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

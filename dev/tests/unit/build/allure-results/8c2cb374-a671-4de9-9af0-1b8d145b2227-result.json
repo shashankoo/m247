@@ -1,0 +1,43 @@
+{
+    "uuid": "8c2cb374-a671-4de9-9af0-1b8d145b2227",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testSetCategoryCollection",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015634,
+    "stop": 1711693015635,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getStockItem\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3b198d442b6ef4f3273f77db7b6f5c6a",
+    "testCaseId": "469c9f0b30eb9d56b8686ceee2768074",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testSetCategoryCollection",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetCategoryCollection"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

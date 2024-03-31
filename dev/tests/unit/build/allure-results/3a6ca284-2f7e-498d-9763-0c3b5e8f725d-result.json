@@ -1,0 +1,43 @@
+{
+    "uuid": "3a6ca284-2f7e-498d-9763-0c3b5e8f725d",
+    "name": "Magento\\Persistent\\Test\\Unit\\Model\\QuoteManagerTest::testSetGuestWithEmptyQuoteId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032514,
+    "stop": 1711693032514,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c5346acf5ec3821b35de4819b2933ea9",
+    "testCaseId": "b75ac143eb38a7e7bcf2cab0dac2f34b",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Model\\QuoteManagerTest::testSetGuestWithEmptyQuoteId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Model\\QuoteManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetGuestWithEmptyQuoteId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

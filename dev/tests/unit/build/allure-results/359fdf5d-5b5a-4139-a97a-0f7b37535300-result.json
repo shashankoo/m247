@@ -1,0 +1,50 @@
+{
+    "uuid": "359fdf5d-5b5a-4139-a97a-0f7b37535300",
+    "name": "Magento\\Catalog\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Tab\\InventoryTest::testGetConfigFieldValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013489,
+    "stop": 1711693013492,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e5ab55825957520f38a8590518a29ca8",
+    "testCaseId": "9fc39f737a05dbf1837ddeb452eb5d8c",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Tab\\InventoryTest::testGetConfigFieldValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Tab\\InventoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfigFieldValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

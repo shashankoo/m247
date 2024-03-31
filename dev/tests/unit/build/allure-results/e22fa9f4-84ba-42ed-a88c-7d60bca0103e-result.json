@@ -1,0 +1,50 @@
+{
+    "uuid": "e22fa9f4-84ba-42ed-a88c-7d60bca0103e",
+    "name": "Magento\\AdvancedPricingImportExport\\Test\\Unit\\Model\\Import\\AdvancedPricing\\Validator\\TierPriceTest::testIsValidAddMessagesCall",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008857,
+    "stop": 1711693008857,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "668f53d5f053168a98d0aff6dae28895",
+    "testCaseId": "5774bd9f278fb3e9a1321e7ccc471b4f",
+    "rerunOf": null,
+    "fullName": "Magento\\AdvancedPricingImportExport\\Test\\Unit\\Model\\Import\\AdvancedPricing\\Validator\\TierPriceTest::testIsValidAddMessagesCall",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdvancedPricingImportExport\\Test\\Unit\\Model\\Import\\AdvancedPricing\\Validator\\TierPriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValidAddMessagesCall"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

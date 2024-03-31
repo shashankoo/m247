@@ -1,0 +1,50 @@
+{
+    "uuid": "dbf86084-95ad-40d8-baf4-bdea07de48ee",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\PathConfigTest::testShouldBeSecureUnsecureBaseUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041881,
+    "stop": 1711693041881,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "308d3c5c9a7d97a5a9da3874eb1ab5c1",
+    "testCaseId": "7f762308361d7d35efe5f29535318acb",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\PathConfigTest::testShouldBeSecureUnsecureBaseUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\PathConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testShouldBeSecureUnsecureBaseUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "45d357de-d2a9-406b-b53c-07a7e25cd879",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\FileTest::testExtractValueNoRequestScope",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020713,
+    "stop": 1711693020713,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"file_delete\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "02fa185cc76a45e8d75405427660aabc",
+    "testCaseId": "4e72d084bb9a03cc1108a5611ba4ab98",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\FileTest::testExtractValueNoRequestScope",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\FileTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExtractValueNoRequestScope"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

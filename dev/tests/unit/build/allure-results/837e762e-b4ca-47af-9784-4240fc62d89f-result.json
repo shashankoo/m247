@@ -1,0 +1,43 @@
+{
+    "uuid": "837e762e-b4ca-47af-9784-4240fc62d89f",
+    "name": "Magento\\Theme\\Test\\Unit\\Model\\Theme\\Plugin\\RegistrationTest::testBeforeDispatchWithProductionMode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043552,
+    "stop": 1711693043553,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d002f200c47e4d77683e828153170f26",
+    "testCaseId": "a067576d454c6b169231f6be808a1ce8",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Model\\Theme\\Plugin\\RegistrationTest::testBeforeDispatchWithProductionMode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Model\\Theme\\Plugin\\RegistrationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeDispatchWithProductionMode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

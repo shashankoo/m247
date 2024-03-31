@@ -1,0 +1,50 @@
+{
+    "uuid": "0b7e6829-7a90-49ec-9700-60464e5b2df2",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Action\\Discount\\ByFixedTest::testCalculate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036100,
+    "stop": 1711693036101,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "208b704dd94d8626fe0bfb20b37c054a",
+    "testCaseId": "3d3a9b37041707cbb740cad33f94d353",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Action\\Discount\\ByFixedTest::testCalculate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Action\\Discount\\ByFixedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCalculate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

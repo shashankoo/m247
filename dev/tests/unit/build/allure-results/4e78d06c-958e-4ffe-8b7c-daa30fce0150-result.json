@@ -1,0 +1,43 @@
+{
+    "uuid": "4e78d06c-958e-4ffe-8b7c-daa30fce0150",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\ResourceModel\\Report\\CollectionTest::testApplyAggregatedTableIsSubTotals",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036076,
+    "stop": 1711693036076,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "17a1b431e509afd835de9c27d762a36a",
+    "testCaseId": "9a80d6f5e329dea98b9b195df2847a83",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\ResourceModel\\Report\\CollectionTest::testApplyAggregatedTableIsSubTotals",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\ResourceModel\\Report\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testApplyAggregatedTableIsSubTotals"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

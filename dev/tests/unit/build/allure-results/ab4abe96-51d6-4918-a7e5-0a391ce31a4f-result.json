@@ -1,0 +1,43 @@
+{
+    "uuid": "ab4abe96-51d6-4918-a7e5-0a391ce31a4f",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Quote\\Item\\QuantityValidator\\Initializer\\QtyProcessorTest::testGetQtyForCheckNoParentItem",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012016,
+    "stop": 1711693012016,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e4ba1c06e112c7efe10ad952b655131f",
+    "testCaseId": "fa32a8ff54461417618eb7764c8441f8",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Quote\\Item\\QuantityValidator\\Initializer\\QtyProcessorTest::testGetQtyForCheckNoParentItem",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Quote\\Item\\QuantityValidator\\Initializer\\QtyProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetQtyForCheckNoParentItem"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

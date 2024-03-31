@@ -1,0 +1,50 @@
+{
+    "uuid": "ae0cd72d-af58-4cea-8152-4f0c21bfee8c",
+    "name": "Magento\\Analytics\\Test\\Unit\\ReportXml\\SelectHydratorTest::testRecreateWithExpression",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009214,
+    "stop": 1711693009214,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Select without expressions\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8aadb9f50dd3ea44388872e7c55794da",
+    "testCaseId": "69ea385a9617998c0d752239f00a3f07",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\ReportXml\\SelectHydratorTest::testRecreateWithExpression",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\ReportXml\\SelectHydratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRecreateWithExpression"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

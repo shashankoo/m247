@@ -1,0 +1,50 @@
+{
+    "uuid": "0fd1efbb-8e25-43b3-a5ba-07981751fdbc",
+    "name": "Magento\\GroupedProduct\\Test\\Unit\\Block\\Adminhtml\\Product\\Composite\\Fieldset\\GroupedTest::testGetIsLastFieldsetNegative",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024291,
+    "stop": 1711693024292,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"case2\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3df8a0f661f9b4a78a9586540421ddbc",
+    "testCaseId": "181d92b8913e4a8c09b25fef6aea2c0b",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedProduct\\Test\\Unit\\Block\\Adminhtml\\Product\\Composite\\Fieldset\\GroupedTest::testGetIsLastFieldsetNegative",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedProduct\\Test\\Unit\\Block\\Adminhtml\\Product\\Composite\\Fieldset\\GroupedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIsLastFieldsetNegative"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

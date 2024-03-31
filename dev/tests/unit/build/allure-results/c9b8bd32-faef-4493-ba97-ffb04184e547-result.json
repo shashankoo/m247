@@ -1,0 +1,50 @@
+{
+    "uuid": "c9b8bd32-faef-4493-ba97-ffb04184e547",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\ResourceModel\\CalculationTest::testCreateSearchPostCodeTemplates",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042709,
+    "stop": 1711693042711,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"USA basic\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "934c67c193ddb5924a632c042cb5dc2e",
+    "testCaseId": "2eff677f229849f016a7b2705aedb7d8",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\ResourceModel\\CalculationTest::testCreateSearchPostCodeTemplates",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\ResourceModel\\CalculationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateSearchPostCodeTemplates"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

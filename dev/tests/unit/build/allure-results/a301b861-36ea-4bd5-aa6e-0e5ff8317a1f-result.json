@@ -1,0 +1,50 @@
+{
+    "uuid": "a301b861-36ea-4bd5-aa6e-0e5ff8317a1f",
+    "name": "Magento\\ReCaptchaWebapiRest\\Test\\Unit\\Plugin\\RestValidationPluginTest::testPlugin",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033326,
+    "stop": 1711693033327,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"protected-endpoint-no-token\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "16d762201699586abfb3ad1d5d3afd84",
+    "testCaseId": "6f875a25c616b333388b1f66ee1d8aeb",
+    "rerunOf": null,
+    "fullName": "Magento\\ReCaptchaWebapiRest\\Test\\Unit\\Plugin\\RestValidationPluginTest::testPlugin",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ReCaptchaWebapiRest\\Test\\Unit\\Plugin\\RestValidationPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPlugin"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

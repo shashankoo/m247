@@ -1,0 +1,50 @@
+{
+    "uuid": "2d3e49a3-27af-4973-9579-723e771c92d8",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\CustomerTest::testIsConfirmationRequired",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020498,
+    "stop": 1711693020499,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d4cba9600e49c9a7878ec511bf2fa024",
+    "testCaseId": "d31c60c2691daf82301a8c7dbc5059ea",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\CustomerTest::testIsConfirmationRequired",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\CustomerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsConfirmationRequired"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

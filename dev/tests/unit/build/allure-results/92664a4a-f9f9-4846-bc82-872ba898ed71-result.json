@@ -1,0 +1,50 @@
+{
+    "uuid": "92664a4a-f9f9-4846-bc82-872ba898ed71",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\Transaction\\ManagerTest::testGetAuthorizationTransaction",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038401,
+    "stop": 1711693038401,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"withParentId\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "64a0e1446ba7b25ee9c3c258b6f17a55",
+    "testCaseId": "02716ab95eefa0c13da141eba4730c7f",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\Transaction\\ManagerTest::testGetAuthorizationTransaction",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\Transaction\\ManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAuthorizationTransaction"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

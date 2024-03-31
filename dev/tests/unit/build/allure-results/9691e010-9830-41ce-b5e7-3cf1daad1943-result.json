@@ -1,0 +1,50 @@
+{
+    "uuid": "9691e010-9830-41ce-b5e7-3cf1daad1943",
+    "name": "Magento\\Dhl\\Test\\Unit\\Model\\Validator\\XmlValidatorTest::testValidateInvalidXml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021642,
+    "stop": 1711693021642,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "52ee572e00f3b440b2ad6111055765eb",
+    "testCaseId": "c7e211ba21ec04cdc6a498ff46ad28de",
+    "rerunOf": null,
+    "fullName": "Magento\\Dhl\\Test\\Unit\\Model\\Validator\\XmlValidatorTest::testValidateInvalidXml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Dhl\\Test\\Unit\\Model\\Validator\\XmlValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateInvalidXml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

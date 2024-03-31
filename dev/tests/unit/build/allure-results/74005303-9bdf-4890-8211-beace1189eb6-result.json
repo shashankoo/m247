@@ -1,0 +1,43 @@
+{
+    "uuid": "74005303-9bdf-4890-8211-beace1189eb6",
+    "name": "Magento\\Vault\\Test\\Unit\\Plugin\\PaymentVaultAttributesLoadTest::testAfterGetExtensionAttributesWhenPaymentTokenIsNull",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053380,
+    "stop": 1711693053380,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5ed391b50798fd7447689491bde8e318",
+    "testCaseId": "7788ab0b43c2ecaf4ff90be4f110fe09",
+    "rerunOf": null,
+    "fullName": "Magento\\Vault\\Test\\Unit\\Plugin\\PaymentVaultAttributesLoadTest::testAfterGetExtensionAttributesWhenPaymentTokenIsNull",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Vault\\Test\\Unit\\Plugin\\PaymentVaultAttributesLoadTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetExtensionAttributesWhenPaymentTokenIsNull"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

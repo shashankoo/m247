@@ -1,0 +1,43 @@
+{
+    "uuid": "61f46417-72d0-44ec-a634-03c2d2a874b9",
+    "name": "Magento\\CheckoutAgreements\\Test\\Unit\\Model\\Checkout\\Plugin\\GuestValidationTest::testBeforeSavePaymentInformationAndPlaceOrderIfAgreementsNotValid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016461,
+    "stop": 1711693016461,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getAgreementIds\" with addMethods(), but it exists in class \"Magento\\Quote\\Api\\Data\\PaymentExtension\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bcb73e16de8369552c3215b70d432a52",
+    "testCaseId": "cfed6fcd1c1f4d98e3a5b2cfc7f71696",
+    "rerunOf": null,
+    "fullName": "Magento\\CheckoutAgreements\\Test\\Unit\\Model\\Checkout\\Plugin\\GuestValidationTest::testBeforeSavePaymentInformationAndPlaceOrderIfAgreementsNotValid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CheckoutAgreements\\Test\\Unit\\Model\\Checkout\\Plugin\\GuestValidationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSavePaymentInformationAndPlaceOrderIfAgreementsNotValid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

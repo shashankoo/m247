@@ -1,0 +1,50 @@
+{
+    "uuid": "52d524b2-8d9b-4391-b92a-ca6e1fca8a06",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Backend\\WeightTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014921,
+    "stop": 1711693014922,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"US full\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "731781c2af02c60efb2a09e405b2c03f",
+    "testCaseId": "ae6a24b03a59971b76f8649a58e25ab1",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Backend\\WeightTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Backend\\WeightTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

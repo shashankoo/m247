@@ -1,0 +1,43 @@
+{
+    "uuid": "fa5833bc-18e5-460c-b975-b6623e7b338f",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\ResourceModel\\Oauth\\ConsumerTest::testGetTimeInSecondsSinceCreation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030138,
+    "stop": 1711693030138,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "11d203c7d3f36ccc5191c40252892768",
+    "testCaseId": "0991de5f1dfd60bf6dd43d05f1c1c202",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\ResourceModel\\Oauth\\ConsumerTest::testGetTimeInSecondsSinceCreation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\ResourceModel\\Oauth\\ConsumerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTimeInSecondsSinceCreation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

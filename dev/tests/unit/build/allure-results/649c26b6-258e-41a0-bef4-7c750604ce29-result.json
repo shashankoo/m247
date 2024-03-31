@@ -1,0 +1,50 @@
+{
+    "uuid": "649c26b6-258e-41a0-bef4-7c750604ce29",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\StructureTest::testGetElementReturnsEmptyElementIfNotExistingElementIsRequested",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018082,
+    "stop": 1711693018082,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d50c06d6e9b3cfc95f736c493f5588ab",
+    "testCaseId": "08869632c48cc69cef041b2c6717539d",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\StructureTest::testGetElementReturnsEmptyElementIfNotExistingElementIsRequested",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\StructureTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetElementReturnsEmptyElementIfNotExistingElementIsRequested"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

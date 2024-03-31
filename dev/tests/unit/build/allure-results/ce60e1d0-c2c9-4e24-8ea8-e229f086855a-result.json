@@ -1,0 +1,50 @@
+{
+    "uuid": "ce60e1d0-c2c9-4e24-8ea8-e229f086855a",
+    "name": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\AbstractProductTest::testGetMinimalQty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013557,
+    "stop": 1711693013558,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "81f7ff77e470652842338e98c53f2ca6",
+    "testCaseId": "95a9e4452365b33597df8c1a3a27b8c5",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\AbstractProductTest::testGetMinimalQty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Block\\Product\\AbstractProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMinimalQty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

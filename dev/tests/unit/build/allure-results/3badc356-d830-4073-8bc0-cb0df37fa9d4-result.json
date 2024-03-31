@@ -1,0 +1,43 @@
+{
+    "uuid": "3badc356-d830-4073-8bc0-cb0df37fa9d4",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\GroupTest::testGetDependenciesWithoutDependencies",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018032,
+    "stop": 1711693018033,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "19beb2bd53952614e75d51e7cddc535c",
+    "testCaseId": "587c7d9159c4e1aa87d45c902b52354b",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\GroupTest::testGetDependenciesWithoutDependencies",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\Element\\GroupTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDependenciesWithoutDependencies"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

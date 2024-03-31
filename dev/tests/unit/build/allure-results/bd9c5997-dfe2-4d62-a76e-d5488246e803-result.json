@@ -1,0 +1,43 @@
+{
+    "uuid": "bd9c5997-dfe2-4d62-a76e-d5488246e803",
+    "name": "Magento\\Framework\\Filesystem\\Test\\Unit\\File\\WriteTest::testInstanceFileAlreadyExists",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073298,
+    "stop": 1711693073299,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "816fdd209a07f251f0e3539d1d3cc219",
+    "testCaseId": "b731f0dd99d6f591233c9d8d61e8be9b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filesystem\\Test\\Unit\\File\\WriteTest::testInstanceFileAlreadyExists",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filesystem\\Test\\Unit\\File\\WriteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInstanceFileAlreadyExists"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

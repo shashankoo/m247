@@ -1,0 +1,43 @@
+{
+    "uuid": "e9a68497-8dbf-40fe-854a-500f8977733e",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Reorder\\UnavailableProductsProviderTest::testGetForOrderEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038704,
+    "stop": 1711693038704,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c0e49aca5eedaca94401763215474ef7",
+    "testCaseId": "313c1197f238caaaf83491bfcd2c3e57",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Reorder\\UnavailableProductsProviderTest::testGetForOrderEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Reorder\\UnavailableProductsProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetForOrderEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

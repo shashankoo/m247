@@ -1,0 +1,50 @@
+{
+    "uuid": "b49c0e01-2370-4f56-b5f9-1bd6265d6bcf",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest::testIsSecure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058652,
+    "stop": 1711693058653,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Test 7\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "61c14bb2429d02100af2629f55e7b761",
+    "testCaseId": "e1fd39974314d89eee99c51137a7782a",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest::testIsSecure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsSecure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

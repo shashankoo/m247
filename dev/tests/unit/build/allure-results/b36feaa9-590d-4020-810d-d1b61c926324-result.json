@@ -1,0 +1,43 @@
+{
+    "uuid": "b36feaa9-590d-4020-810d-d1b61c926324",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Parser\\Adapter\\Php\\TokenizerTest::testIsMatchingClass",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056024,
+    "stop": 1711693056025,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "550267f36548fc932ac199d244e2f157",
+    "testCaseId": "13f3ed060bb2fe10cdd90a09ee20de4b",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Parser\\Adapter\\Php\\TokenizerTest::testIsMatchingClass",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Parser\\Adapter\\Php\\TokenizerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsMatchingClass"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

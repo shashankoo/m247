@@ -1,0 +1,43 @@
+{
+    "uuid": "2cc4dfb9-f813-48df-a4b4-c85dde92d021",
+    "name": "Magento\\Framework\\DataObject\\Test\\Unit\\MapperTest::testAccumulateByMapWhenToIsArrayFromIsObject",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071568,
+    "stop": 1711693071569,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "24bf31abe0565d2ea0bfa1f29f9423fa",
+    "testCaseId": "9fbac7cfdb0e8edf02c734efcb231e49",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DataObject\\Test\\Unit\\MapperTest::testAccumulateByMapWhenToIsArrayFromIsObject",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DataObject\\Test\\Unit\\MapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAccumulateByMapWhenToIsArrayFromIsObject"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

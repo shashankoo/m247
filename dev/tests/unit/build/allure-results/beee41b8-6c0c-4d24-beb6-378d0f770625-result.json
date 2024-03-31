@@ -1,0 +1,43 @@
+{
+    "uuid": "beee41b8-6c0c-4d24-beb6-378d0f770625",
+    "name": "Magento\\Cms\\Test\\Unit\\Controller\\Adminhtml\\Wysiwyg\\DirectiveTest::testExecuteWithDeletedImage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017183,
+    "stop": 1711693017184,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a377c25d94b0e43b9a9f0471f5303485",
+    "testCaseId": "507eb658933e45337d2ac9ba317f2bfc",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Controller\\Adminhtml\\Wysiwyg\\DirectiveTest::testExecuteWithDeletedImage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Controller\\Adminhtml\\Wysiwyg\\DirectiveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithDeletedImage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

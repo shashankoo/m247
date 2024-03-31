@@ -1,0 +1,43 @@
+{
+    "uuid": "d4ede80e-9b4b-44c9-b6b9-b0b961daf247",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest::testGetRouteName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058611,
+    "stop": 1711693058611,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ce2531c70c5c48a359d9446937c95f72",
+    "testCaseId": "db7f00e473a1902acc7174319aba9068",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest::testGetRouteName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetRouteName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

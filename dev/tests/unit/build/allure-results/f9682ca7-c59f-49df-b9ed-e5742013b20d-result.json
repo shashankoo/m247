@@ -1,0 +1,50 @@
+{
+    "uuid": "f9682ca7-c59f-49df-b9ed-e5742013b20d",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Address\\AbstractAddressTest::testSetDataStreetAlwaysConvertedToString",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020055,
+    "stop": 1711693020056,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bb4e9d11e11d8f22378e72c7d7ac4567",
+    "testCaseId": "3c7285cfa29f93737d6588bade86f874",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Address\\AbstractAddressTest::testSetDataStreetAlwaysConvertedToString",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Address\\AbstractAddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetDataStreetAlwaysConvertedToString"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

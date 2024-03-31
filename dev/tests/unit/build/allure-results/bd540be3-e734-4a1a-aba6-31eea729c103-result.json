@@ -1,0 +1,50 @@
+{
+    "uuid": "bd540be3-e734-4a1a-aba6-31eea729c103",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Url\\CssResolverTest::testReplaceRelativeUrls",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078509,
+    "stop": 1711693078510,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"data without patterns\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d719215516e511510fb4f39f55638501",
+    "testCaseId": "cdfbcbea80fd8b49deca8354a5b1bc61",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Url\\CssResolverTest::testReplaceRelativeUrls",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Url\\CssResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReplaceRelativeUrls"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

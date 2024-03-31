@@ -1,0 +1,50 @@
+{
+    "uuid": "7a73f624-5016-46ce-b5d0-c87c49c04f6d",
+    "name": "Magento\\PageBuilder\\Test\\Unit\\Model\\Session\\RandomKeyTest::testGetValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031183,
+    "stop": 1711693031184,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4a3852ec0e57394a2c5aae31d6b41fbc",
+    "testCaseId": "173450e057759ae92af5024b6aecbe7b",
+    "rerunOf": null,
+    "fullName": "Magento\\PageBuilder\\Test\\Unit\\Model\\Session\\RandomKeyTest::testGetValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\PageBuilder\\Test\\Unit\\Model\\Session\\RandomKeyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

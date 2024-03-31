@@ -1,0 +1,50 @@
+{
+    "uuid": "63f8b74d-b7f1-456d-adb6-4a52e91ad0ec",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\Attribute\\Backend\\ImageTest::testBeforeSaveWithoutAdditionalData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014156,
+    "stop": 1711693014156,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e162f0759737879c1abf4f51251a294c",
+    "testCaseId": "053e3dc2243f0a7329d1fff3aa49a033",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\Attribute\\Backend\\ImageTest::testBeforeSaveWithoutAdditionalData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Category\\Attribute\\Backend\\ImageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSaveWithoutAdditionalData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

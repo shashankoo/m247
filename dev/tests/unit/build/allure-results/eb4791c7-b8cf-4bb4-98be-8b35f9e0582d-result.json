@@ -1,0 +1,50 @@
+{
+    "uuid": "eb4791c7-b8cf-4bb4-98be-8b35f9e0582d",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest::testImportExceptionElementNotFound",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071481,
+    "stop": 1711693071481,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"non-existing parent\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "01a35bd2d830faab8410b85ebf725782",
+    "testCaseId": "11641c422937f77a4e8f4460e7276c91",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest::testImportExceptionElementNotFound",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testImportExceptionElementNotFound"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

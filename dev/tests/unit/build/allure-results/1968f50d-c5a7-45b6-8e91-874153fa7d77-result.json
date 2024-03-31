@@ -1,0 +1,50 @@
+{
+    "uuid": "1968f50d-c5a7-45b6-8e91-874153fa7d77",
+    "name": "Magento\\Vault\\Test\\Unit\\Model\\Method\\VaultTest::testCanUseInternal",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053166,
+    "stop": 1711693053166,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8b4ea563e1a39ebc13b7619de3c5bb41",
+    "testCaseId": "f7831b79b9124191adaaf5941212bdd8",
+    "rerunOf": null,
+    "fullName": "Magento\\Vault\\Test\\Unit\\Model\\Method\\VaultTest::testCanUseInternal",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Vault\\Test\\Unit\\Model\\Method\\VaultTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanUseInternal"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

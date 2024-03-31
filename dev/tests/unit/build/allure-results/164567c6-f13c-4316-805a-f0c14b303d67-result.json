@@ -1,0 +1,50 @@
+{
+    "uuid": "164567c6-f13c-4316-805a-f0c14b303d67",
+    "name": "Magento\\Framework\\Url\\Test\\Unit\\SecurityInfoTest::testIsSecureChecksIfUrlIsInSecureList",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076907,
+    "stop": 1711693076907,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#6",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "679c9f6b3e2467b34c621588f33a9611",
+    "testCaseId": "43abb48c4ed62609bee1a6bbb3230808",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Url\\Test\\Unit\\SecurityInfoTest::testIsSecureChecksIfUrlIsInSecureList",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Url\\Test\\Unit\\SecurityInfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsSecureChecksIfUrlIsInSecureList"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

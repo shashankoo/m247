@@ -1,0 +1,50 @@
+{
+    "uuid": "f6104e6b-8c09-40a7-afd1-07993258a430",
+    "name": "Magento\\Webapi\\Test\\Unit\\ExceptionTest::testConstructInvalidHttpCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053522,
+    "stop": 1711693053523,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e92b5bbc34f55989471842258e474d00",
+    "testCaseId": "a2a9ca9aae416b7228fbe83cd71c050a",
+    "rerunOf": null,
+    "fullName": "Magento\\Webapi\\Test\\Unit\\ExceptionTest::testConstructInvalidHttpCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Webapi\\Test\\Unit\\ExceptionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructInvalidHttpCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "3885d12b-376d-44ac-bd54-c708cc6613b2",
+    "name": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest::testCanSendShipmentCommentEmail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037346,
+    "stop": 1711693037347,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b8ec33cda0c634d912ffbbba0b9ee434",
+    "testCaseId": "151c8f0e12a31e96d78a00ac7e78e1b2",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest::testCanSendShipmentCommentEmail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanSendShipmentCommentEmail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

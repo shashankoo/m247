@@ -1,0 +1,50 @@
+{
+    "uuid": "c7797ed3-7b85-4620-9593-343428cda02b",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\State\\CaptureCommandTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038255,
+    "stop": 1711693038257,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7c905b0ff05bb095864c7da17ae5e8b1",
+    "testCaseId": "aab17b7055d2364187e0fca2d3025896",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\State\\CaptureCommandTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\State\\CaptureCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "d161627c-c2a4-425c-ae24-d9a2aa87dba5",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\QueryResolverTest::testIsSingleQueryWhenDataNotCached",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032780,
+    "stop": 1711693032781,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "baf5d634f2a5bf8ca25c4595e7befadc",
+    "testCaseId": "899b7cc00261658be1e411b068a9eda4",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\QueryResolverTest::testIsSingleQueryWhenDataNotCached",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\QueryResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsSingleQueryWhenDataNotCached"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

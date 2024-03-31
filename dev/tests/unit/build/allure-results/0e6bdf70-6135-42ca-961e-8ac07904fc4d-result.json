@@ -1,0 +1,43 @@
+{
+    "uuid": "0e6bdf70-6135-42ca-961e-8ac07904fc4d",
+    "name": "Magento\\ReleaseNotification\\Test\\Unit\\Controller\\Notification\\MarkUserNotifiedTest::testExecuteSuccess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033340,
+    "stop": 1711693033342,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "cefe010ad8d4890919542897924132bb",
+    "testCaseId": "370d42a6a4a70ee263b3634126746710",
+    "rerunOf": null,
+    "fullName": "Magento\\ReleaseNotification\\Test\\Unit\\Controller\\Notification\\MarkUserNotifiedTest::testExecuteSuccess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ReleaseNotification\\Test\\Unit\\Controller\\Notification\\MarkUserNotifiedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteSuccess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

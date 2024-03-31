@@ -1,0 +1,50 @@
+{
+    "uuid": "39487398-59fa-4c75-8a8a-2b490a1d4eec",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\Transaction\\ManagerTest::testIsTransactionExists",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038404,
+    "stop": 1711693038404,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"withTransactionIdAndWithoutTransaction\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "405e835e917fee016f1c49f60e8450a7",
+    "testCaseId": "de4499d2e3aa61cb2786c9e7ac03e797",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\Transaction\\ManagerTest::testIsTransactionExists",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\Transaction\\ManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsTransactionExists"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

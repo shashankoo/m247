@@ -1,0 +1,43 @@
+{
+    "uuid": "591cea5f-f7c2-4595-a7fb-870fc7c034f6",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Reader\\FileClassScannerTest::testInvalidFileThrowsException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055667,
+    "stop": 1711693055668,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5573e6e8372563cb94304e967672b095",
+    "testCaseId": "e0e163177b1fb9bd563c8cdaafde3007",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Reader\\FileClassScannerTest::testInvalidFileThrowsException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Reader\\FileClassScannerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInvalidFileThrowsException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

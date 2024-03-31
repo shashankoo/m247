@@ -1,0 +1,50 @@
+{
+    "uuid": "8b76792e-723b-43a1-8542-fab8eef01179",
+    "name": "Magento\\Analytics\\Test\\Unit\\Model\\FileInfoManagerTest::testSaveWithLocalizedException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009117,
+    "stop": 1711693009117,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"FileInfo without IV\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0ebc9cffa307cec9c9cafebfe3e73c46",
+    "testCaseId": "7aa120439bdb145b34ccb5b66fd55b6f",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Model\\FileInfoManagerTest::testSaveWithLocalizedException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Model\\FileInfoManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveWithLocalizedException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

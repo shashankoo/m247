@@ -1,0 +1,43 @@
+{
+    "uuid": "db8fcf0b-8189-4975-a6ec-ff0311ea124c",
+    "name": "Magento\\Framework\\Session\\Test\\Unit\\ConfigTest::testCookieSecureIsMutable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076035,
+    "stop": 1711693076036,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4e1a27f6be3afce965d34654940adf50",
+    "testCaseId": "13cb0fad835523a93d9e44457f1c2b36",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Session\\Test\\Unit\\ConfigTest::testCookieSecureIsMutable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Session\\Test\\Unit\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCookieSecureIsMutable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

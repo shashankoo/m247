@@ -1,0 +1,50 @@
+{
+    "uuid": "27137a52-a4b3-4369-a891-b8ba659ed5af",
+    "name": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest::testReorderToSibling",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071515,
+    "stop": 1711693071515,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5fec05b459d6e378865f37ec3079ba95",
+    "testCaseId": "5c5fc2be693511c24f0a096c3ef75c87",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest::testReorderToSibling",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Data\\Test\\Unit\\StructureTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReorderToSibling"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

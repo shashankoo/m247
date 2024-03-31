@@ -1,0 +1,50 @@
+{
+    "uuid": "42d0cc5c-77bc-4515-9db5-688d53dbf051",
+    "name": "Magento\\Framework\\Math\\Test\\Unit\\FloatComparatorTest::testGt",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074114,
+    "stop": 1711693074114,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "03fb1bd612f2f2ed9592b906590d780b",
+    "testCaseId": "c2a5fc8ec4aae096ffac1fa398d7957d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Math\\Test\\Unit\\FloatComparatorTest::testGt",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Math\\Test\\Unit\\FloatComparatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGt"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

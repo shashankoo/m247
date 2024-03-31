@@ -1,0 +1,43 @@
+{
+    "uuid": "0326f392-8c9a-4929-b1e6-38fa3e8d0218",
+    "name": "Magento\\Framework\\DataObject\\Test\\Unit\\CopyTest::testGetCopyFieldsetToTargetWhenTargetIsAbstractSimpleObject",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071556,
+    "stop": 1711693071557,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "56144ae3880843ec47a030756f74e8f8",
+    "testCaseId": "063b62c0683944887604f5a06a307480",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DataObject\\Test\\Unit\\CopyTest::testGetCopyFieldsetToTargetWhenTargetIsAbstractSimpleObject",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DataObject\\Test\\Unit\\CopyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCopyFieldsetToTargetWhenTargetIsAbstractSimpleObject"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

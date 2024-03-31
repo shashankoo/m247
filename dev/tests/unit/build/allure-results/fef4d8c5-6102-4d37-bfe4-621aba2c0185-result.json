@@ -1,0 +1,43 @@
+{
+    "uuid": "fef4d8c5-6102-4d37-bfe4-621aba2c0185",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\EmulateCustomerObserverTest::testExecuteWhenShoppingCartNotPersist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032554,
+    "stop": 1711693032554,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0dd94b9beb196e05b8e631292ffd93c6",
+    "testCaseId": "f5bef34815e9174af6e3422dc4916a0c",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\EmulateCustomerObserverTest::testExecuteWhenShoppingCartNotPersist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\EmulateCustomerObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenShoppingCartNotPersist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

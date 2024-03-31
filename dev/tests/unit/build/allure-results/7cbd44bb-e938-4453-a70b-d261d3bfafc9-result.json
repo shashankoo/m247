@@ -1,0 +1,50 @@
+{
+    "uuid": "7cbd44bb-e938-4453-a70b-d261d3bfafc9",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\HeaderProvider\\UpgradeInsecureTest::testCanApply",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041871,
+    "stop": 1711693041871,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6e7162087961e2475a69a5248c4262b8",
+    "testCaseId": "14345035d3b24cbdc999de3c5c4d725b",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\HeaderProvider\\UpgradeInsecureTest::testCanApply",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\HeaderProvider\\UpgradeInsecureTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanApply"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

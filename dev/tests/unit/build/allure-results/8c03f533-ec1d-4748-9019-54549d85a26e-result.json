@@ -1,0 +1,50 @@
+{
+    "uuid": "8c03f533-ec1d-4748-9019-54549d85a26e",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\AbstractMapperTest::testMap",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070581,
+    "stop": 1711693070585,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a426d355382de1a6d7e1f33a3122a7d9",
+    "testCaseId": "7567b036c8dd49a18e25b48a67c15cf8",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\AbstractMapperTest::testMap",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\AbstractMapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMap"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

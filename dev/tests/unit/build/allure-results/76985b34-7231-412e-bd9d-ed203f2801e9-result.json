@@ -1,0 +1,43 @@
+{
+    "uuid": "76985b34-7231-412e-bd9d-ed203f2801e9",
+    "name": "Magento\\Catalog\\Test\\Unit\\Plugin\\Model\\ResourceModel\\ConfigTest::testGetAttributesUsedForSortByOnCacheDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016084,
+    "stop": 1711693016084,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4e890b1d4dc215e4f073161688166b03",
+    "testCaseId": "698cbf7060728cc5e908ee4bae3ec23d",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Plugin\\Model\\ResourceModel\\ConfigTest::testGetAttributesUsedForSortByOnCacheDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Plugin\\Model\\ResourceModel\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAttributesUsedForSortByOnCacheDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

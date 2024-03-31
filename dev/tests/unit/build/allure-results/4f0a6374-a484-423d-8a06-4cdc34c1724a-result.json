@@ -1,0 +1,43 @@
+{
+    "uuid": "4f0a6374-a484-423d-8a06-4cdc34c1724a",
+    "name": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\ApplicationDumpCommandTest::testExport",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021239,
+    "stop": 1711693021240,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "197d5e4a84acda0b028afe63265309fc",
+    "testCaseId": "a8e14a779a4fa736ec7b91565bdab456",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\ApplicationDumpCommandTest::testExport",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\ApplicationDumpCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExport"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

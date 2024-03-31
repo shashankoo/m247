@@ -1,0 +1,43 @@
+{
+    "uuid": "4a047df2-847d-408a-91a9-693faa5f91fe",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Response\\HttpTest::testSetPrivateHeadersWithoutTtl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058810,
+    "stop": 1711693058810,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "49765f8177b16195055632336e362791",
+    "testCaseId": "006bb7db5acefe5ce90b2372d6530cb9",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Response\\HttpTest::testSetPrivateHeadersWithoutTtl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Response\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetPrivateHeadersWithoutTtl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

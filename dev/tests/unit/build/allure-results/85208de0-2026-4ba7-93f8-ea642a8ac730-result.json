@@ -1,0 +1,50 @@
+{
+    "uuid": "85208de0-2026-4ba7-93f8-ea642a8ac730",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Di\\App\\Task\\OperationFactoryTest::testCreateSuccess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055635,
+    "stop": 1711693055635,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e359d7a8060eca25a609f0172b9d56d9",
+    "testCaseId": "09a065e5378fb823285a8607a26d173b",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Di\\App\\Task\\OperationFactoryTest::testCreateSuccess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Di\\App\\Task\\OperationFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateSuccess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

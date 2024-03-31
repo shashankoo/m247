@@ -1,0 +1,50 @@
+{
+    "uuid": "75ab3928-162b-4fda-b584-5b821f01e827",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Grid\\Row\\UrlGeneratorTest::testGetUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037888,
+    "stop": 1711693037889,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ad4dad813f56bb2cb842bcf5fcb955d3",
+    "testCaseId": "5bdff7d800e606480d9679155c482cae",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Grid\\Row\\UrlGeneratorTest::testGetUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Invoice\\Grid\\Row\\UrlGeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "fbf01b65-28f9-4b94-9333-a8dfa7443ae2",
+    "name": "Magento\\Sales\\Test\\Unit\\Plugin\\Model\\Export\\OrderGridExportFilterColumnTest::testAfterGetFields",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041098,
+    "stop": 1711693041098,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"test case when namespace is not `sales_order_grid`\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2195b2d3a9fe3d9e0d71caa9ef54faac",
+    "testCaseId": "b2f18c692942c60a8fc466351c90d39b",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Plugin\\Model\\Export\\OrderGridExportFilterColumnTest::testAfterGetFields",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Plugin\\Model\\Export\\OrderGridExportFilterColumnTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetFields"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

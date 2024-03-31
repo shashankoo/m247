@@ -1,0 +1,43 @@
+{
+    "uuid": "950d3a0a-4a45-4414-987d-c4df8bf7ddc3",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Controller\\Adminhtml\\Product\\Builder\\PluginTest::testAfterBuildWhenProductNotHaveAttributeAndRequiredParameters",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018370,
+    "stop": 1711693018371,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dccbca15952c19f9729b63a66db93c43",
+    "testCaseId": "f56cca15280332cf0d1b47fc9a572163",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Controller\\Adminhtml\\Product\\Builder\\PluginTest::testAfterBuildWhenProductNotHaveAttributeAndRequiredParameters",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Controller\\Adminhtml\\Product\\Builder\\PluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterBuildWhenProductNotHaveAttributeAndRequiredParameters"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "d37bd01d-3d93-48da-926a-865615052d98",
+    "name": "Magento\\Theme\\Test\\Unit\\Model\\Design\\Backend\\FileTest::testBeforeSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043354,
+    "stop": 1711693043355,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Vulnerable file name\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "09d6232a04f91537be5b2eb55d86aa92",
+    "testCaseId": "b60d5fcf877b9a92216980a4c604b44f",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Model\\Design\\Backend\\FileTest::testBeforeSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Model\\Design\\Backend\\FileTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

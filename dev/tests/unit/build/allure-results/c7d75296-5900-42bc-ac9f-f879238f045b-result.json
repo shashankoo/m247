@@ -1,0 +1,43 @@
+{
+    "uuid": "c7d75296-5900-42bc-ac9f-f879238f045b",
+    "name": "Magento\\Framework\\Encryption\\Test\\Unit\\EncryptorTest::testUpgradedValidation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693072516,
+    "stop": 1711693072918,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "451927fc42ec0a75769a5d49a00cd75f",
+    "testCaseId": "d92f0701ae66221463cebde5b1f1b1ac",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Encryption\\Test\\Unit\\EncryptorTest::testUpgradedValidation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Encryption\\Test\\Unit\\EncryptorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpgradedValidation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

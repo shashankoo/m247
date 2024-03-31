@@ -1,0 +1,50 @@
+{
+    "uuid": "b97a6b00-75a2-431e-9aac-760102124a53",
+    "name": "Magento\\Review\\Test\\Unit\\Model\\ReviewTest::testIsAvailableOnStore",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693035477,
+    "stop": 1711693035478,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"store id is not set\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "52da5b2a5e71b421e74da23998428987",
+    "testCaseId": "b6e5030e1059f62ac8eaa04c945f76c8",
+    "rerunOf": null,
+    "fullName": "Magento\\Review\\Test\\Unit\\Model\\ReviewTest::testIsAvailableOnStore",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Review\\Test\\Unit\\Model\\ReviewTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAvailableOnStore"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

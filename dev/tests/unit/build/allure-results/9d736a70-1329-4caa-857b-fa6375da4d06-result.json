@@ -1,0 +1,50 @@
+{
+    "uuid": "9d736a70-1329-4caa-857b-fa6375da4d06",
+    "name": "Magento\\Bundle\\Test\\Unit\\Model\\Sales\\Order\\Pdf\\Items\\AbstractItemsTest::testGetChildrenEmptyItems",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010990,
+    "stop": 1711693010990,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f450b84b5d02a1a3fabade8fbb592e4a",
+    "testCaseId": "ac3f6205526bf94c5247c677d6b7271f",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Model\\Sales\\Order\\Pdf\\Items\\AbstractItemsTest::testGetChildrenEmptyItems",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Model\\Sales\\Order\\Pdf\\Items\\AbstractItemsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetChildrenEmptyItems"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

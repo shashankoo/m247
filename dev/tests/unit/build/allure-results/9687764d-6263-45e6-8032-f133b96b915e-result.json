@@ -1,0 +1,50 @@
+{
+    "uuid": "9687764d-6263-45e6-8032-f133b96b915e",
+    "name": "Magento\\Framework\\Test\\Unit\\ValidatorTest::testIsValid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057471,
+    "stop": 1711693057472,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3641180d6aaca5a983536ad70dffb215",
+    "testCaseId": "7e74b688e5f2ea284ea2d58a4f72fdd0",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\ValidatorTest::testIsValid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\ValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

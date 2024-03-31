@@ -1,0 +1,43 @@
+{
+    "uuid": "80a5ff78-149e-45dd-96f4-2a12bbfe6f01",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\QuoteValidatorTest::testCheckQuoteAmountExistingError",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033212,
+    "stop": 1711693033214,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "26a35ee5b00d9195e9d3de76ddc75b5e",
+    "testCaseId": "7e8856d0094c10ded7934b0c3b7704b0",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\QuoteValidatorTest::testCheckQuoteAmountExistingError",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\QuoteValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckQuoteAmountExistingError"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

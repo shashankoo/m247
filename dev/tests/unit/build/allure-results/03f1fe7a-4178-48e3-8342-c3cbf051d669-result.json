@@ -1,0 +1,43 @@
+{
+    "uuid": "03f1fe7a-4178-48e3-8342-c3cbf051d669",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\CollectionTest::testAddTierPriceDataByGroupId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015896,
+    "stop": 1711693015898,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f5f116216f9071e1e5b86e039f9226f6",
+    "testCaseId": "fa573a9f52a25246259493a5284bb6e6",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\CollectionTest::testAddTierPriceDataByGroupId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddTierPriceDataByGroupId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

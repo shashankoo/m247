@@ -1,0 +1,43 @@
+{
+    "uuid": "8bb3c7ac-0200-43ae-b937-4b37cbdfc874",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\ResourceModel\\Order\\Shipment\\CommentTest::testSaveValidationFailed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693040972,
+    "stop": 1711693040972,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "09901d6b70aa65ddbfde6597b29cbf7b",
+    "testCaseId": "bed8b4bcc0d284d8672daa938fa6ee09",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\ResourceModel\\Order\\Shipment\\CommentTest::testSaveValidationFailed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\ResourceModel\\Order\\Shipment\\CommentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveValidationFailed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

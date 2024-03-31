@@ -1,0 +1,50 @@
+{
+    "uuid": "9f438479-b0dc-46a3-8e3a-a35ac613a272",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\SdkUrlTest::testGetConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032436,
+    "stop": 1711693032437,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"paypal_guest_checkout_disabled\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d8a0fa1d8e9e2bad23898e6f30d28704",
+    "testCaseId": "6d290bb55a47ee30b5818094ce919402",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\SdkUrlTest::testGetConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\SdkUrlTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "4439a189-cb8b-441c-aee8-551cf35e02fb",
+    "name": "Magento\\InventoryCache\\Test\\Unit\\Model\\FlushCacheByCacheTagTest::testExecuteWithEmptyEntityIds",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030184,
+    "stop": 1711693030186,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "670c730c1100cd373e23f51475311557",
+    "testCaseId": "9384ad10eab8ec6e47138b396f71aa31",
+    "rerunOf": null,
+    "fullName": "Magento\\InventoryCache\\Test\\Unit\\Model\\FlushCacheByCacheTagTest::testExecuteWithEmptyEntityIds",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\InventoryCache\\Test\\Unit\\Model\\FlushCacheByCacheTagTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithEmptyEntityIds"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

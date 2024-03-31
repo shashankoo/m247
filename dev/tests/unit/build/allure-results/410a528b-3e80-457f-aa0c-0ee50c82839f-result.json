@@ -1,0 +1,50 @@
+{
+    "uuid": "410a528b-3e80-457f-aa0c-0ee50c82839f",
+    "name": "Magento\\Checkout\\Test\\Unit\\Model\\DefaultConfigProviderTest::testGetConfigQuoteAddressData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016862,
+    "stop": 1711693016863,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "121ca3cd54f24eb04ce7a8f29e59dae0",
+    "testCaseId": "9f86ec58b624f37b50b54483068a2585",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Model\\DefaultConfigProviderTest::testGetConfigQuoteAddressData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Model\\DefaultConfigProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfigQuoteAddressData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

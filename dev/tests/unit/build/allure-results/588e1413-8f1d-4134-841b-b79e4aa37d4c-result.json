@@ -1,0 +1,43 @@
+{
+    "uuid": "588e1413-8f1d-4134-841b-b79e4aa37d4c",
+    "name": "Magento\\Indexer\\Test\\Unit\\Model\\ResourceModel\\AbstractResourceTest::testSyncDataException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693028846,
+    "stop": 1711693028847,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "99dcb58a42d8309d813a689be47b1cdf",
+    "testCaseId": "ff588c98c19734afda48728b635920c4",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Model\\ResourceModel\\AbstractResourceTest::testSyncDataException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Model\\ResourceModel\\AbstractResourceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSyncDataException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

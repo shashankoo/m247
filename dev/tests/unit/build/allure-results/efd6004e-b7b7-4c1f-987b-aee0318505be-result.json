@@ -1,0 +1,50 @@
+{
+    "uuid": "efd6004e-b7b7-4c1f-987b-aee0318505be",
+    "name": "Magento\\Framework\\Validator\\Test\\Unit\\ConfigTest::testValidateInvalidConfigFiles",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076983,
+    "stop": 1711693076985,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "12676da9e27a064cd3907ddce922049d",
+    "testCaseId": "7f53e5e2173c3618138f0410b3d1e1bc",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Validator\\Test\\Unit\\ConfigTest::testValidateInvalidConfigFiles",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Validator\\Test\\Unit\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateInvalidConfigFiles"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

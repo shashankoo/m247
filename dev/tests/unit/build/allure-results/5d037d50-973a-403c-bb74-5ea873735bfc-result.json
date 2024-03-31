@@ -1,0 +1,43 @@
+{
+    "uuid": "5d037d50-973a-403c-bb74-5ea873735bfc",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Indexer\\Plugin\\DependencyUpdaterPluginTest::testAfterGetIndexerIdsToRunBefore",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023358,
+    "stop": 1711693023361,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "36d5b6cc645004b29397811d3332c0dd",
+    "testCaseId": "2ef14874ac325a2d3c19fa8a38539626",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Indexer\\Plugin\\DependencyUpdaterPluginTest::testAfterGetIndexerIdsToRunBefore",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Indexer\\Plugin\\DependencyUpdaterPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetIndexerIdsToRunBefore"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

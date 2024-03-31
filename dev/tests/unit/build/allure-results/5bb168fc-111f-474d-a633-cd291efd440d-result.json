@@ -1,0 +1,50 @@
+{
+    "uuid": "5bb168fc-111f-474d-a633-cd291efd440d",
+    "name": "Magento\\Framework\\Validator\\Test\\Unit\\Constraint\\Option\\CallbackTest::testSetArguments",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077028,
+    "stop": 1711693077028,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skipped in #27500 due to testing protected\/private methods and properties",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ac47b9129c033c5d710e01480a87d976",
+    "testCaseId": "442306ccf95841d66c2656fed589898d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Validator\\Test\\Unit\\Constraint\\Option\\CallbackTest::testSetArguments",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Validator\\Test\\Unit\\Constraint\\Option\\CallbackTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetArguments"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

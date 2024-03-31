@@ -1,0 +1,43 @@
+{
+    "uuid": "ea7ea7d9-7f5e-41ac-b94e-d01aa311f7b0",
+    "name": "Magento\\AdobeStockClient\\Test\\Unit\\Model\\ConfigTest::testGetTargetEnvironment",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008702,
+    "stop": 1711693008703,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1485438a272d1e333cbfffcda80749dd",
+    "testCaseId": "787fb910afeca8672fee64508680875c",
+    "rerunOf": null,
+    "fullName": "Magento\\AdobeStockClient\\Test\\Unit\\Model\\ConfigTest::testGetTargetEnvironment",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdobeStockClient\\Test\\Unit\\Model\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTargetEnvironment"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

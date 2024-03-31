@@ -1,0 +1,43 @@
+{
+    "uuid": "7df7169c-f332-4dc0-936d-7fccabd28998",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\Edit\\Tab\\View\\PersonalInfoTest::testGetStoreLastLoginDateTimezone",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019432,
+    "stop": 1711693019436,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4128c234d122099dbf26a8f0da4f8499",
+    "testCaseId": "afa667efe9b10e9c264533dfcda492bd",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\Edit\\Tab\\View\\PersonalInfoTest::testGetStoreLastLoginDateTimezone",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Adminhtml\\Edit\\Tab\\View\\PersonalInfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStoreLastLoginDateTimezone"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "3edae048-dc56-41c8-af40-f882f1cd9953",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Source\\CountryofmanufactureTest::testGetAllOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014979,
+    "stop": 1711693014980,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ae6a4bc115c5266705285288cf89b113",
+    "testCaseId": "df7eec2d73b504691777e6834c049c62",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Source\\CountryofmanufactureTest::testGetAllOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Attribute\\Source\\CountryofmanufactureTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAllOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

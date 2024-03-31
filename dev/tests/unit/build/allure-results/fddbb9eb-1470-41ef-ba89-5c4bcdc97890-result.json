@@ -1,0 +1,43 @@
+{
+    "uuid": "fddbb9eb-1470-41ef-ba89-5c4bcdc97890",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\CreditmemoCommentSenderTest::testSendTrueWithoutCustomerCopy",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037789,
+    "stop": 1711693037790,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "714658c7ae451adc4efb78ae8df5457e",
+    "testCaseId": "f85f687d717f3371553dc1a495d9e733",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\CreditmemoCommentSenderTest::testSendTrueWithoutCustomerCopy",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Sender\\CreditmemoCommentSenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSendTrueWithoutCustomerCopy"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

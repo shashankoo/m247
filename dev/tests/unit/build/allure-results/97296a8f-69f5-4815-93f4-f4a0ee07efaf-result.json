@@ -1,0 +1,50 @@
+{
+    "uuid": "97296a8f-69f5-4815-93f4-f4a0ee07efaf",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Item\\ValidatorTest::testValidateWithDuplicateIdsThrowsException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010047,
+    "stop": 1711693010047,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5fcd42f216a1b144d947f3713b5eefca",
+    "testCaseId": "6a2038b18eddf7a2ef9f3127188ac26d",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Item\\ValidatorTest::testValidateWithDuplicateIdsThrowsException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Item\\ValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateWithDuplicateIdsThrowsException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

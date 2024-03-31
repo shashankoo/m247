@@ -1,0 +1,50 @@
+{
+    "uuid": "4d7e63fa-8a64-4a86-865f-4e30c50c7b1e",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Item\\ValidatorTest::testValidateWithNonValidPrimitivesThrowsException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010033,
+    "stop": 1711693010035,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "584c57c15ab38c117c6c7dbe5c1f7f6b",
+    "testCaseId": "720ef5d3599b935aefe14ea85d5f37c3",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Item\\ValidatorTest::testValidateWithNonValidPrimitivesThrowsException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Item\\ValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateWithNonValidPrimitivesThrowsException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

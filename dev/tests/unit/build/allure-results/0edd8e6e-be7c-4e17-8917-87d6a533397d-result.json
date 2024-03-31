@@ -1,0 +1,50 @@
+{
+    "uuid": "0edd8e6e-be7c-4e17-8917-87d6a533397d",
+    "name": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\BundleSelectionPriceTest::testGetValueTypeDynamic",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011139,
+    "stop": 1711693011141,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"notUseRegularPrice\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9726223a99f4c04c83956384723b0101",
+    "testCaseId": "37d2902e528a921cd28efe12d719175e",
+    "rerunOf": null,
+    "fullName": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\BundleSelectionPriceTest::testGetValueTypeDynamic",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Bundle\\Test\\Unit\\Pricing\\Price\\BundleSelectionPriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetValueTypeDynamic"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

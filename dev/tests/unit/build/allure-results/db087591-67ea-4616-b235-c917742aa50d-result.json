@@ -1,0 +1,43 @@
+{
+    "uuid": "db087591-67ea-4616-b235-c917742aa50d",
+    "name": "Magento\\Framework\\Crontab\\Test\\Unit\\CrontabManagerTest::testSaveTasksWithEmptyTasksList",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070500,
+    "stop": 1711693070500,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ad6965e73b2147274f03a1b0f910cad0",
+    "testCaseId": "c02f60dd0821f2016634ebfc29619f98",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Crontab\\Test\\Unit\\CrontabManagerTest::testSaveTasksWithEmptyTasksList",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Crontab\\Test\\Unit\\CrontabManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveTasksWithEmptyTasksList"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

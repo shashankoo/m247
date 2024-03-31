@@ -1,0 +1,50 @@
+{
+    "uuid": "6b46b20b-5afc-48d4-a64f-79e62e7c4acc",
+    "name": "Magento\\Quote\\Test\\Unit\\Plugin\\Webapi\\Controller\\Rest\\ValidateQuoteDataTest::testValidateInputData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033297,
+    "stop": 1711693033298,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bc4b8d03894343fc12c9be3730d67d7e",
+    "testCaseId": "742cd5a71b2b2f92cf352c8826df14a8",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Plugin\\Webapi\\Controller\\Rest\\ValidateQuoteDataTest::testValidateInputData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Plugin\\Webapi\\Controller\\Rest\\ValidateQuoteDataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateInputData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

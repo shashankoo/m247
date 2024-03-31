@@ -1,0 +1,43 @@
+{
+    "uuid": "818d9b12-7d99-40a2-b3d2-859182180754",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Elasticsearch5\\Model\\Adapter\\Index\\IndexNameResolverTest::testGetIndexNameWithPreparedIndex",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023085,
+    "stop": 1711693023086,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d4f1fe6d0e7cfcf830dd10fa0655753f",
+    "testCaseId": "9f898e54ac05652b2c0a340c2f64bd46",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Elasticsearch5\\Model\\Adapter\\Index\\IndexNameResolverTest::testGetIndexNameWithPreparedIndex",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Elasticsearch5\\Model\\Adapter\\Index\\IndexNameResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIndexNameWithPreparedIndex"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

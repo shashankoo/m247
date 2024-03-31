@@ -1,0 +1,50 @@
+{
+    "uuid": "b82d6137-7dca-48ac-b128-92917b41145f",
+    "name": "Magento\\InstantPurchase\\Test\\Unit\\Block\\ButtonTest::testIsEnabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029027,
+    "stop": 1711693029028,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Store With ID = 1 and disable module\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "af42b6fa26586b4af3b68634ee013755",
+    "testCaseId": "5f15b26c2173dbc34780742480294a80",
+    "rerunOf": null,
+    "fullName": "Magento\\InstantPurchase\\Test\\Unit\\Block\\ButtonTest::testIsEnabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\InstantPurchase\\Test\\Unit\\Block\\ButtonTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsEnabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "f877815a-5938-49c1-851b-32101ece4eb9",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\ElementVisibility\\ConcealInProductionTest::testCheckVisibility",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018045,
+    "stop": 1711693018045,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#6",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8005f6f410cbc841162f2748301d5de8",
+    "testCaseId": "25b050cb4fe8aa601ff2ed975d218ae2",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\ElementVisibility\\ConcealInProductionTest::testCheckVisibility",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\ElementVisibility\\ConcealInProductionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckVisibility"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

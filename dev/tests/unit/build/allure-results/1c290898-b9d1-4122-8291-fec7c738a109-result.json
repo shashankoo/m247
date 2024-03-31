@@ -1,0 +1,43 @@
+{
+    "uuid": "1c290898-b9d1-4122-8291-fec7c738a109",
+    "name": "Magento\\Catalog\\Test\\Unit\\Cron\\SynchronizeWebsiteAttributesTest::testExecuteWithNoSyncRequired",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014011,
+    "stop": 1711693014011,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "788511c62bf1fd895ca09c6940ae68fd",
+    "testCaseId": "f05af6387cebb6605c3057cb3ba7e085",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Cron\\SynchronizeWebsiteAttributesTest::testExecuteWithNoSyncRequired",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Cron\\SynchronizeWebsiteAttributesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithNoSyncRequired"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

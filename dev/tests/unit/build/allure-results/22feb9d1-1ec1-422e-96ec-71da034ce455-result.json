@@ -1,0 +1,43 @@
+{
+    "uuid": "22feb9d1-1ec1-422e-96ec-71da034ce455",
+    "name": "Magento\\Store\\Test\\Unit\\Url\\Plugin\\RouteParamsResolverTest::testBeforeSetRouteParamsNoScopeInParams",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042011,
+    "stop": 1711693042011,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "af38c71b001de709a93aa7a65157d32b",
+    "testCaseId": "c448745e7ecc910ae4f8e417b0c91861",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Url\\Plugin\\RouteParamsResolverTest::testBeforeSetRouteParamsNoScopeInParams",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Url\\Plugin\\RouteParamsResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSetRouteParamsNoScopeInParams"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

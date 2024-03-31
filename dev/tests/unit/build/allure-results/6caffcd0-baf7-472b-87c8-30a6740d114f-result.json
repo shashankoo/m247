@@ -1,0 +1,50 @@
+{
+    "uuid": "6caffcd0-baf7-472b-87c8-30a6740d114f",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Element\\UiComponent\\DataProvider\\SanitizerTest::testSanitize",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077752,
+    "stop": 1711693077752,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"simpleSet\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d8bc7ebf4b4e84e2c182cfe9266bf2fb",
+    "testCaseId": "455955d7e1a5f10c83d99915d3d73d40",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Element\\UiComponent\\DataProvider\\SanitizerTest::testSanitize",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Element\\UiComponent\\DataProvider\\SanitizerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSanitize"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

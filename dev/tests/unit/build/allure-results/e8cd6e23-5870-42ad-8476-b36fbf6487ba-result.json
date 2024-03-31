@@ -1,0 +1,50 @@
+{
+    "uuid": "e8cd6e23-5870-42ad-8476-b36fbf6487ba",
+    "name": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\ResolutionRulesTest::testGetJson",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031767,
+    "stop": 1711693031769,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "db544964d33c89de6eb570f7810c4b08",
+    "testCaseId": "227eadf103dd92d2886e921acc406c98",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\ResolutionRulesTest::testGetJson",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\System\\Config\\ResolutionRulesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetJson"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

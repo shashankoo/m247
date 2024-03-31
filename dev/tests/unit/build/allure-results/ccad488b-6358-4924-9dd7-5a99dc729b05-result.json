@@ -1,0 +1,43 @@
+{
+    "uuid": "ccad488b-6358-4924-9dd7-5a99dc729b05",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Reorder\\OrderProductAvailabilityCheckerTest::testIsAvailableFalse",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038701,
+    "stop": 1711693038701,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f6b86a38feeeda4af8ac98dcf56c69cd",
+    "testCaseId": "fb624178bb94cb096bc958e1b409579f",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Reorder\\OrderProductAvailabilityCheckerTest::testIsAvailableFalse",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Reorder\\OrderProductAvailabilityCheckerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAvailableFalse"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

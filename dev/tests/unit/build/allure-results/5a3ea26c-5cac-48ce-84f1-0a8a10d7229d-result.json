@@ -1,0 +1,50 @@
+{
+    "uuid": "5a3ea26c-5cac-48ce-84f1-0a8a10d7229d",
+    "name": "Magento\\AdobeStockImageAdminUi\\Test\\Unit\\Model\\Listing\\DataProviderTest::testGetData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008783,
+    "stop": 1711693008785,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "aa1efe08a1b9e467a9f924f91a5994b3",
+    "testCaseId": "4e18bfe92817635b24881dcf1a21c2f9",
+    "rerunOf": null,
+    "fullName": "Magento\\AdobeStockImageAdminUi\\Test\\Unit\\Model\\Listing\\DataProviderTest::testGetData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdobeStockImageAdminUi\\Test\\Unit\\Model\\Listing\\DataProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

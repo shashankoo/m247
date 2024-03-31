@@ -1,0 +1,50 @@
+{
+    "uuid": "02bc84e9-9bec-480b-ac10-58f8f2f7a8da",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\FileProcessorTest::testGetViewUrlTest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020534,
+    "stop": 1711693020534,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2f2a6fda7befefe248e98af9f0acc097",
+    "testCaseId": "4e2dea63e1bf2e42d7b9ed377f2f759d",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\FileProcessorTest::testGetViewUrlTest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\FileProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetViewUrlTest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

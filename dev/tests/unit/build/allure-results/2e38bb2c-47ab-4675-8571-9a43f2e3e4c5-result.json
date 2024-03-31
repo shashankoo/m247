@@ -1,0 +1,43 @@
+{
+    "uuid": "2e38bb2c-47ab-4675-8571-9a43f2e3e4c5",
+    "name": "Magento\\Security\\Test\\Unit\\Model\\AdminSessionInfoTest::testIsLoggedInStatus",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041250,
+    "stop": 1711693041250,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bb422c1ad748fb0e2cf44bf4390a490d",
+    "testCaseId": "b3956ff1cca17ccd599f748a41f5170a",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Model\\AdminSessionInfoTest::testIsLoggedInStatus",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Model\\AdminSessionInfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsLoggedInStatus"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

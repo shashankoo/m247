@@ -1,0 +1,43 @@
+{
+    "uuid": "d17d87eb-6dfc-4ba3-b944-23d7d0075d5b",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfig\\CommentParserTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057873,
+    "stop": 1711693057874,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "dc77c131a624a2427c1272c625bbac31",
+    "testCaseId": "c725dc870a9d90e6647adea99afb62bf",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfig\\CommentParserTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfig\\CommentParserTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

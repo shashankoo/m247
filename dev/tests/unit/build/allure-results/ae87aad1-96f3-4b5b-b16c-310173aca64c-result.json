@@ -1,0 +1,50 @@
+{
+    "uuid": "ae87aad1-96f3-4b5b-b16c-310173aca64c",
+    "name": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Config\\Mapper\\DomTest::testMapThrowsExceptionWhenXmlHasWrongFormat",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074731,
+    "stop": 1711693074731,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e3c34c50468086efb85a7cc422b7c74e",
+    "testCaseId": "8fb02844831bfbf6e170656c529f64dd",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Config\\Mapper\\DomTest::testMapThrowsExceptionWhenXmlHasWrongFormat",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Config\\Mapper\\DomTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMapThrowsExceptionWhenXmlHasWrongFormat"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

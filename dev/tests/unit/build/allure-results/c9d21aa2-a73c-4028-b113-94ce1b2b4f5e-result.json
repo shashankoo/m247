@@ -1,0 +1,43 @@
+{
+    "uuid": "c9d21aa2-a73c-4028-b113-94ce1b2b4f5e",
+    "name": "Magento\\GroupedProduct\\Test\\Unit\\Block\\Adminhtml\\Product\\Composite\\Fieldset\\GroupedTest::testGetProductNegative",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024283,
+    "stop": 1711693024284,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b23ce2181a722caf0970edaf62d16497",
+    "testCaseId": "9a69e347f401f0480ccd937a88a7869e",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedProduct\\Test\\Unit\\Block\\Adminhtml\\Product\\Composite\\Fieldset\\GroupedTest::testGetProductNegative",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedProduct\\Test\\Unit\\Block\\Adminhtml\\Product\\Composite\\Fieldset\\GroupedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetProductNegative"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

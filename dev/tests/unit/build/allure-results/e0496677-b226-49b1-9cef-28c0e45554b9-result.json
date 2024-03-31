@@ -1,0 +1,50 @@
+{
+    "uuid": "e0496677-b226-49b1-9cef-28c0e45554b9",
+    "name": "Magento\\AdminNotification\\Test\\Unit\\Model\\System\\Message\\CacheOutdatedTest::testIsDisplayed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008532,
+    "stop": 1711693008532,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4f4a14d925cf34168497b1375768be44",
+    "testCaseId": "6a7c35019babc4195f88cb83824b6c57",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminNotification\\Test\\Unit\\Model\\System\\Message\\CacheOutdatedTest::testIsDisplayed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminNotification\\Test\\Unit\\Model\\System\\Message\\CacheOutdatedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsDisplayed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

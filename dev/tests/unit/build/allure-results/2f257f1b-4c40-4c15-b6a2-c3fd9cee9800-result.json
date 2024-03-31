@@ -1,0 +1,50 @@
+{
+    "uuid": "2f257f1b-4c40-4c15-b6a2-c3fd9cee9800",
+    "name": "Magento\\Framework\\Test\\Unit\\ProfilerTest::testParseConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056692,
+    "stop": 1711693056692,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Full configuration\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8ea1d32eabd1c83787f19d42b4958d4d",
+    "testCaseId": "4dcbe747d09b6c062e4f87168a275777",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\ProfilerTest::testParseConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\ProfilerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testParseConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

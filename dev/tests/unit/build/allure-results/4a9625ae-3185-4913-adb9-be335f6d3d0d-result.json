@@ -1,0 +1,43 @@
+{
+    "uuid": "4a9625ae-3185-4913-adb9-be335f6d3d0d",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\Indexer\\TemporaryTableStrategyTest::testGetTableName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015974,
+    "stop": 1711693015975,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3bcecb2cc3f5b2ebfafc7b3f68690c0f",
+    "testCaseId": "b337a8b88e4c2ce5dea688fe02ea4527",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\Indexer\\TemporaryTableStrategyTest::testGetTableName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\Indexer\\TemporaryTableStrategyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTableName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

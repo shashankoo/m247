@@ -1,0 +1,50 @@
+{
+    "uuid": "ea94da49-028a-4a7f-a6e4-dfe90ce4ea5c",
+    "name": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\ConfigImport\\ProcessorTest::testImport",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021202,
+    "stop": 1711693021204,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "33cac4529b6f880d4805034727d4ff92",
+    "testCaseId": "133bd138d5ce4cb5b55070180bca53b5",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\ConfigImport\\ProcessorTest::testImport",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\ConfigImport\\ProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testImport"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

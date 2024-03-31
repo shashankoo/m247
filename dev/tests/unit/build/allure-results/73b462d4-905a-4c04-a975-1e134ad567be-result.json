@@ -1,0 +1,43 @@
+{
+    "uuid": "73b462d4-905a-4c04-a975-1e134ad567be",
+    "name": "Magento\\Framework\\Authorization\\Test\\Unit\\Policy\\AclTest::testIsAllowedReturnsFalseIfRoleDoesntExist",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059089,
+    "stop": 1711693059090,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8f27f69d4a370b02cefa4595f43272bf",
+    "testCaseId": "61702308e33752134dac542edb5f3663",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Authorization\\Test\\Unit\\Policy\\AclTest::testIsAllowedReturnsFalseIfRoleDoesntExist",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Authorization\\Test\\Unit\\Policy\\AclTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAllowedReturnsFalseIfRoleDoesntExist"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "7518876f-e559-47db-9b83-1d0cb49e8080",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\InfoTest::testImportToPayment",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032186,
+    "stop": 1711693032187,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "da6849e0b47e93971bf7a55489bf3927",
+    "testCaseId": "bc9cda8a822bc23b5a1b314613d89652",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\InfoTest::testImportToPayment",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\InfoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testImportToPayment"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "77a4431a-d44c-4cb5-bbe7-03e44e39a8fc",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Dictionary\\Writer\\Csv\\StdoTest::testThatHandlerIsRight",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055928,
+    "stop": 1711693055928,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skipped in #27500 due to testing protected\/private methods and properties",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b374050248fcacbb30847778e1361d4e",
+    "testCaseId": "d851a3ca78ec1a13d267ae27d81015fc",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Dictionary\\Writer\\Csv\\StdoTest::testThatHandlerIsRight",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\I18n\\Dictionary\\Writer\\Csv\\StdoTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testThatHandlerIsRight"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "3b22522e-a853-41e1-9156-f2d1afb523a3",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\ProcessorTest::testPrepareWithResetCountAndStick",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032865,
+    "stop": 1711693032866,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "76ef049a934057da3c650cdc8b26d254",
+    "testCaseId": "8eee0c1736c20028e6f180b28d8b1ffc",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\ProcessorTest::testPrepareWithResetCountAndStick",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\Item\\ProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareWithResetCountAndStick"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

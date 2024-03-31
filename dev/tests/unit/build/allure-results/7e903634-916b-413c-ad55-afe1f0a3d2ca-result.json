@@ -1,0 +1,43 @@
+{
+    "uuid": "7e903634-916b-413c-ad55-afe1f0a3d2ca",
+    "name": "Magento\\AdminAdobeIms\\Test\\Unit\\Model\\ImsConnectionTest::testAuthThrowsExceptionWhenResponseContainsError",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008403,
+    "stop": 1711693008404,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "fdc3b6d5443f2fe8f03b7c79b771d7a9",
+    "testCaseId": "73a970b226d587a1a5000456b455998f",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminAdobeIms\\Test\\Unit\\Model\\ImsConnectionTest::testAuthThrowsExceptionWhenResponseContainsError",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminAdobeIms\\Test\\Unit\\Model\\ImsConnectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAuthThrowsExceptionWhenResponseContainsError"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

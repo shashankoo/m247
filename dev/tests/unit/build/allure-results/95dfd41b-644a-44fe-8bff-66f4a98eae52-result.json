@@ -1,0 +1,50 @@
+{
+    "uuid": "95dfd41b-644a-44fe-8bff-66f4a98eae52",
+    "name": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\File\\MimeTest::testGetMimeType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073221,
+    "stop": 1711693073223,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"tmp file mime type\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2722e35a136a655613c475e07e3a50f4",
+    "testCaseId": "d1154c58691c3e7e519373785ff4e127",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\File\\MimeTest::testGetMimeType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filesystem\\Test\\Unit\\Driver\\File\\MimeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMimeType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "e98d954e-c325-4eb2-a92d-c30fddf9871f",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\Configuration\\Item\\ItemProductResolverTest::testGetFinalProductChild",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018577,
+    "stop": 1711693018578,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "364d3ed97ba2696ebe2de49944c8886c",
+    "testCaseId": "efd5144c19661c1659c937a640363300",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\Configuration\\Item\\ItemProductResolverTest::testGetFinalProductChild",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\Configuration\\Item\\ItemProductResolverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFinalProductChild"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

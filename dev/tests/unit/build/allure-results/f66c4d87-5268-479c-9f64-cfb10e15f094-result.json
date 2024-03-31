@@ -1,0 +1,43 @@
+{
+    "uuid": "f66c4d87-5268-479c-9f64-cfb10e15f094",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\MenuTest::testMoveNonExistentItemThrowsException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010167,
+    "stop": 1711693010167,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4a3d4421d7d1c30b3d65404ba6678e07",
+    "testCaseId": "c1e89d419aae5ba31111015cda0beb6d",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\MenuTest::testMoveNonExistentItemThrowsException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\MenuTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testMoveNonExistentItemThrowsException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

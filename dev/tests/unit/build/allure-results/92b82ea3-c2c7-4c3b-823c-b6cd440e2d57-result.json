@@ -1,0 +1,43 @@
+{
+    "uuid": "92b82ea3-c2c7-4c3b-823c-b6cd440e2d57",
+    "name": "Magento\\MediaGallery\\Test\\Unit\\Plugin\\Wysiwyg\\Images\\StorageTest::testAfterDeleteFileWhenTargetIsNotString",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030407,
+    "stop": 1711693030407,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f295ade4e55847a58b4d8eeea48f2e6c",
+    "testCaseId": "68ff2b9adeb36e1288c6979165b9531a",
+    "rerunOf": null,
+    "fullName": "Magento\\MediaGallery\\Test\\Unit\\Plugin\\Wysiwyg\\Images\\StorageTest::testAfterDeleteFileWhenTargetIsNotString",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MediaGallery\\Test\\Unit\\Plugin\\Wysiwyg\\Images\\StorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterDeleteFileWhenTargetIsNotString"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

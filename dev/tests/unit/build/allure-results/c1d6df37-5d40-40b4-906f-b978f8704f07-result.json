@@ -1,0 +1,43 @@
+{
+    "uuid": "c1d6df37-5d40-40b4-906f-b978f8704f07",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\TaxClassProcessorTest::testUpsertTaxClassExistCaseInsensitive",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011467,
+    "stop": 1711693011468,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "89a05b3ee14c42e4eb39523c395f7b94",
+    "testCaseId": "2dc6f4008c136684e69dcf9728092e71",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\TaxClassProcessorTest::testUpsertTaxClassExistCaseInsensitive",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\TaxClassProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpsertTaxClassExistCaseInsensitive"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

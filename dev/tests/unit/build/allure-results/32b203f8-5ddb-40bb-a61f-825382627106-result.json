@@ -1,0 +1,50 @@
+{
+    "uuid": "32b203f8-5ddb-40bb-a61f-825382627106",
+    "name": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\ConfirmTest::testNoCustomerIdInRequest",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019596,
+    "stop": 1711693019597,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f7bbfb8712c3e58effb6e0ca9b8658f6",
+    "testCaseId": "4a0a832dfe6ab8bdc7bee70aceeb03a2",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\ConfirmTest::testNoCustomerIdInRequest",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\ConfirmTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testNoCustomerIdInRequest"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

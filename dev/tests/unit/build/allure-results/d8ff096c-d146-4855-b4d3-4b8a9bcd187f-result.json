@@ -1,0 +1,50 @@
+{
+    "uuid": "d8ff096c-d146-4855-b4d3-4b8a9bcd187f",
+    "name": "Magento\\Captcha\\Test\\Unit\\Model\\Checkout\\ConfigProviderTest::testGetConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011283,
+    "stop": 1711693011284,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7b10001c62cd3b89b2b6e9210525760c",
+    "testCaseId": "c11d189a98bbdb857cd932751aea3fd8",
+    "rerunOf": null,
+    "fullName": "Magento\\Captcha\\Test\\Unit\\Model\\Checkout\\ConfigProviderTest::testGetConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Captcha\\Test\\Unit\\Model\\Checkout\\ConfigProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

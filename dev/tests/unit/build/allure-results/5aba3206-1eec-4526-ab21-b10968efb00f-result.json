@@ -1,0 +1,50 @@
+{
+    "uuid": "5aba3206-1eec-4526-ab21-b10968efb00f",
+    "name": "Magento\\Theme\\Test\\Unit\\Helper\\StorageTest::testGetCurrentPathCachesResult",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043253,
+    "stop": 1711693043254,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"requested path \"root\" should short-circuit\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6d797a5f55b953fe87791d66f56e6dec",
+    "testCaseId": "650a60d88cda6d81a8621b55aa2462ed",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Helper\\StorageTest::testGetCurrentPathCachesResult",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Helper\\StorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCurrentPathCachesResult"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

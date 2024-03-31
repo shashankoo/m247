@@ -1,0 +1,50 @@
+{
+    "uuid": "840596b8-6d02-4a65-b601-d13d0c59f79c",
+    "name": "Magento\\Paypal\\Test\\Unit\\Block\\Express\\ReviewTest::testGetViewFileUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031807,
+    "stop": 1711693031808,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9a3659501f8320308cb4da3c9628c9af",
+    "testCaseId": "50958c1ad927d3673fab02b39e4761b8",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Block\\Express\\ReviewTest::testGetViewFileUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Block\\Express\\ReviewTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetViewFileUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

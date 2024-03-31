@@ -1,0 +1,50 @@
+{
+    "uuid": "5500ecc6-5d95-431f-aa90-1238ebab8bd6",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\Converter\\ToModelTest::testFormattingDate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693035978,
+    "stop": 1711693035978,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"yymmdd to yyyy-mm-dd\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "36243f9de708f105edd9767f3908660a",
+    "testCaseId": "65a960c3b2dd22b2eaab884d7aeef888",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\Converter\\ToModelTest::testFormattingDate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\Converter\\ToModelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFormattingDate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

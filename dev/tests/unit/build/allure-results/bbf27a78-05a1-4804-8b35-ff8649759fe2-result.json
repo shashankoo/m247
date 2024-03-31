@@ -1,0 +1,43 @@
+{
+    "uuid": "bbf27a78-05a1-4804-8b35-ff8649759fe2",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\ResourceModel\\Group\\Grid\\ServiceCollectionTest::testGetSearchCriteriaImplicitEq",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021028,
+    "stop": 1711693021031,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ec5742ede27bb1bd73a987b983164e25",
+    "testCaseId": "5fbfbcd32a3f070e3e34c6b67d37e221",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\ResourceModel\\Group\\Grid\\ServiceCollectionTest::testGetSearchCriteriaImplicitEq",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\ResourceModel\\Group\\Grid\\ServiceCollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSearchCriteriaImplicitEq"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

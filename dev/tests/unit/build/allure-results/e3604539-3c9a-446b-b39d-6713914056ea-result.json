@@ -1,0 +1,50 @@
+{
+    "uuid": "e3604539-3c9a-446b-b39d-6713914056ea",
+    "name": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\DwstreeTest::testInitTabs",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017602,
+    "stop": 1711693017604,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"matchStore\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c43d5c2f27ca0596511b1489dbf39b89",
+    "testCaseId": "e49237915f412b1f34e7c1bdd89714cb",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\DwstreeTest::testInitTabs",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Block\\System\\Config\\DwstreeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInitTabs"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

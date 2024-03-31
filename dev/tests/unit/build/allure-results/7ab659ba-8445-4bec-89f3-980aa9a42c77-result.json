@@ -1,0 +1,43 @@
+{
+    "uuid": "7ab659ba-8445-4bec-89f3-980aa9a42c77",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\QuoteTest::testGetCustomerTaxClassId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033147,
+    "stop": 1711693033148,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4e573e202a04d6211383936f88767be3",
+    "testCaseId": "cfcfb30c52afac6e0badbe823cd72398",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\QuoteTest::testGetCustomerTaxClassId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\QuoteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCustomerTaxClassId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

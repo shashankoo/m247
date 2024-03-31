@@ -1,0 +1,43 @@
+{
+    "uuid": "359c8315-869b-46b0-81b7-421a40e6cffe",
+    "name": "Magento\\Customer\\Test\\Unit\\Controller\\Section\\LoadTest::testExecuteWithThrowException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019795,
+    "stop": 1711693019795,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5bfdc3a06d71c016cc3a4073779ef189",
+    "testCaseId": "3652ed130d97664421552b2739ab4109",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Controller\\Section\\LoadTest::testExecuteWithThrowException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Controller\\Section\\LoadTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithThrowException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

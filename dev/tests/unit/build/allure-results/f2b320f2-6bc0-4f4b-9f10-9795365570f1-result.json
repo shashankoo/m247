@@ -1,0 +1,43 @@
+{
+    "uuid": "f2b320f2-6bc0-4f4b-9f10-9795365570f1",
+    "name": "Magento\\GiftMessage\\Test\\Unit\\Model\\ItemRepositoryTest::testGetWithNoSuchEntityException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024009,
+    "stop": 1711693024009,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e58ed7c285a0438e929a059498839df6",
+    "testCaseId": "fbf51bb580193a3d694b9dfd4083dc08",
+    "rerunOf": null,
+    "fullName": "Magento\\GiftMessage\\Test\\Unit\\Model\\ItemRepositoryTest::testGetWithNoSuchEntityException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GiftMessage\\Test\\Unit\\Model\\ItemRepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetWithNoSuchEntityException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

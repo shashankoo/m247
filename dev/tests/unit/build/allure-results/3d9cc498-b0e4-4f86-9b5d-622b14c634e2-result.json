@@ -1,0 +1,50 @@
+{
+    "uuid": "3d9cc498-b0e4-4f86-9b5d-622b14c634e2",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\EmailSenderHandlerTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037476,
+    "stop": 1711693037478,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7d27536eb7f0a76ccc453c22c8ced686",
+    "testCaseId": "f237b15f7bfb3798f137f227a915abd0",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\EmailSenderHandlerTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\EmailSenderHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

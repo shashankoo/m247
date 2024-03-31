@@ -1,0 +1,43 @@
+{
+    "uuid": "1b3a828d-944c-4d5c-badb-8bd605e587a3",
+    "name": "Magento\\Customer\\Test\\Unit\\Helper\\Session\\CurrentCustomerAddressTest::testGetDefaultBillingAddress",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019848,
+    "stop": 1711693019848,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "827249431d643281aec6bcc9f0eb3ff6",
+    "testCaseId": "4ce74023a5c6cbac817a58dd37d076d6",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Helper\\Session\\CurrentCustomerAddressTest::testGetDefaultBillingAddress",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Helper\\Session\\CurrentCustomerAddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDefaultBillingAddress"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

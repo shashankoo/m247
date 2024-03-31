@@ -1,0 +1,43 @@
+{
+    "uuid": "a6779f0c-6c84-4570-89bf-cc7abe4c0315",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Invoice\\AbstractInvoice\\EmailTest::testEmailNoInvoiceId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036767,
+    "stop": 1711693036767,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a60d15402fdce03af1bdcd5e0bd7df2e",
+    "testCaseId": "9767eab3ff0dd57f707241a06eccfb17",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Invoice\\AbstractInvoice\\EmailTest::testEmailNoInvoiceId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Invoice\\AbstractInvoice\\EmailTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEmailNoInvoiceId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

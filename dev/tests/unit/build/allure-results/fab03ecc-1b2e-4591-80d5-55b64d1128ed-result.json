@@ -1,0 +1,50 @@
+{
+    "uuid": "fab03ecc-1b2e-4591-80d5-55b64d1128ed",
+    "name": "Magento\\Framework\\TestFramework\\Test\\Unit\\Unit\\Helper\\ProxyTestingTest::testInvokeWithExpectations",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076811,
+    "stop": 1711693076811,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"proxied method and params are to be set from proxy method and params\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "80960494f1c3dfdbd2b94889d8e7998e",
+    "testCaseId": "1b95e7303819aad61100ca0f6faf6637",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\TestFramework\\Test\\Unit\\Unit\\Helper\\ProxyTestingTest::testInvokeWithExpectations",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\TestFramework\\Test\\Unit\\Unit\\Helper\\ProxyTestingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInvokeWithExpectations"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

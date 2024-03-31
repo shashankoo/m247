@@ -1,0 +1,50 @@
+{
+    "uuid": "4cb0cf82-0bd6-438e-aecf-46418a61d7c2",
+    "name": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Order\\CollectionTest::testSetStoreIds",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033539,
+    "stop": 1711693033539,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "56f0b6bb7b68bc6a223b0c801fff0acb",
+    "testCaseId": "7ad56b1cc6bd6d27b4cc7cbdf108a3e0",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Order\\CollectionTest::testSetStoreIds",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Order\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetStoreIds"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

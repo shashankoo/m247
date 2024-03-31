@@ -1,0 +1,43 @@
+{
+    "uuid": "c13128a1-daa4-4951-bf6a-99e66cedd4a3",
+    "name": "Magento\\Directory\\Test\\Unit\\Model\\Currency\\Import\\FixerIoApiLayerTest::testFetchRates",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021713,
+    "stop": 1711693021714,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bb00bb31e777389ee43d1d60469e131d",
+    "testCaseId": "9da21ed4cd414470726215ae03f2e7ba",
+    "rerunOf": null,
+    "fullName": "Magento\\Directory\\Test\\Unit\\Model\\Currency\\Import\\FixerIoApiLayerTest::testFetchRates",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Directory\\Test\\Unit\\Model\\Currency\\Import\\FixerIoApiLayerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFetchRates"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

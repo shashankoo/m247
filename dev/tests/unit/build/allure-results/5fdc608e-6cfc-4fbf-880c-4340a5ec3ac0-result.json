@@ -1,0 +1,50 @@
+{
+    "uuid": "5fdc608e-6cfc-4fbf-880c-4340a5ec3ac0",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\Validator\\DefaultValidatorTest::testIsValidFail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015163,
+    "stop": 1711693015163,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6e175fe0f557031994773ab435edc9fa",
+    "testCaseId": "96c5002c0ac08b24220593a21a421eb2",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\Validator\\DefaultValidatorTest::testIsValidFail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\Option\\Validator\\DefaultValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValidFail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

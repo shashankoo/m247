@@ -1,0 +1,50 @@
+{
+    "uuid": "86699b89-c0ec-44a6-a106-51fb1247efcd",
+    "name": "Magento\\Framework\\Image\\Test\\Unit\\Adapter\\AbstractTest::testAdaptResizeValues",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073679,
+    "stop": 1711693073680,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "44f6a453ec778d2ed620fc768ebc9d9d",
+    "testCaseId": "98617379f6ab7acb1fecbf0b702748c1",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Image\\Test\\Unit\\Adapter\\AbstractTest::testAdaptResizeValues",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Image\\Test\\Unit\\Adapter\\AbstractTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAdaptResizeValues"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

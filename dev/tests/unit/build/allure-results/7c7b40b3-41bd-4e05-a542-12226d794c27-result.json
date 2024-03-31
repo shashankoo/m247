@@ -1,0 +1,43 @@
+{
+    "uuid": "7c7b40b3-41bd-4e05-a542-12226d794c27",
+    "name": "Magento\\Theme\\Test\\Unit\\Console\\Command\\ThemeUninstallCommandTest::testExecuteFailedValidationMixed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042917,
+    "stop": 1711693042918,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a0a3780fbcfa5f79e6d5352f531f1800",
+    "testCaseId": "482d0b2a103e42cb6bb23e641c9108c1",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Console\\Command\\ThemeUninstallCommandTest::testExecuteFailedValidationMixed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Console\\Command\\ThemeUninstallCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteFailedValidationMixed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

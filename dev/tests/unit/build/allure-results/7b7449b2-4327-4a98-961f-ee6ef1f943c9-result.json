@@ -1,0 +1,43 @@
+{
+    "uuid": "7b7449b2-4327-4a98-961f-ee6ef1f943c9",
+    "name": "Magento\\Checkout\\Test\\Unit\\Plugin\\ResetQuoteAddressesTest::testRemovingTheAddressesFromNonEmptyQuote",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016981,
+    "stop": 1711693016982,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6969aa9d724198af6dee8470e9004643",
+    "testCaseId": "6808feecb0a7fdefad086d857ad427b3",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Plugin\\ResetQuoteAddressesTest::testRemovingTheAddressesFromNonEmptyQuote",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Plugin\\ResetQuoteAddressesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRemovingTheAddressesFromNonEmptyQuote"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

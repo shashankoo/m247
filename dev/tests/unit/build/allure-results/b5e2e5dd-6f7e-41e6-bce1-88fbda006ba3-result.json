@@ -1,0 +1,50 @@
+{
+    "uuid": "b5e2e5dd-6f7e-41e6-bce1-88fbda006ba3",
+    "name": "Magento\\Theme\\Test\\Unit\\Model\\Theme\\ThemeDependencyCheckerTest::testExecuteFailedChildThemeCheck",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043586,
+    "stop": 1711693043586,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f51e6035b08e30f2338c40fab797e46e",
+    "testCaseId": "e2986b5866f385791f1d412d4d980c4b",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Model\\Theme\\ThemeDependencyCheckerTest::testExecuteFailedChildThemeCheck",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Model\\Theme\\ThemeDependencyCheckerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteFailedChildThemeCheck"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

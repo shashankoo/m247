@@ -1,0 +1,43 @@
+{
+    "uuid": "85e0199e-3cf3-48fa-8e89-552013dd0b03",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Observer\\HideUnsupportedAttributeTypesTest::testExecuteWhenBlockNotPassed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018689,
+    "stop": 1711693018690,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9616e1aed7e388597420adc428097cf1",
+    "testCaseId": "29b3c043f64b563dd337e882331be5dc",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Observer\\HideUnsupportedAttributeTypesTest::testExecuteWhenBlockNotPassed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Observer\\HideUnsupportedAttributeTypesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenBlockNotPassed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "3a49951b-6636-4df6-822f-fa78a5d4e5d1",
+    "name": "Magento\\PageCache\\Test\\Unit\\Model\\System\\Config\\Backend\\AccessListTest::testBeforeSaveInvalid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031291,
+    "stop": 1711693031292,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b0005495a49c4f2993d2abc090af9fdf",
+    "testCaseId": "471d71c45d456fcdcbfe9a4840d59bef",
+    "rerunOf": null,
+    "fullName": "Magento\\PageCache\\Test\\Unit\\Model\\System\\Config\\Backend\\AccessListTest::testBeforeSaveInvalid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\PageCache\\Test\\Unit\\Model\\System\\Config\\Backend\\AccessListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSaveInvalid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

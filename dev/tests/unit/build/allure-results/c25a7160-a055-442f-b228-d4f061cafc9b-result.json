@@ -1,0 +1,50 @@
+{
+    "uuid": "c25a7160-a055-442f-b228-d4f061cafc9b",
+    "name": "Magento\\Framework\\Test\\Unit\\Validator\\HTML\\ConfigurableWYSIWYGValidatorTest::testConfigurations",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057442,
+    "stop": 1711693057444,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"no-html\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "58a84a67d78ca202bff17efd2db52fde",
+    "testCaseId": "2f106273f2f6cf50d26938e19f5792e8",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\Validator\\HTML\\ConfigurableWYSIWYGValidatorTest::testConfigurations",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\Validator\\HTML\\ConfigurableWYSIWYGValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConfigurations"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

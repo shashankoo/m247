@@ -1,0 +1,43 @@
+{
+    "uuid": "2cf6145d-e947-4a5e-891f-40d953d8a877",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Export\\ProductTest::testUpdateDataWithCategoryColumnsNoCategoriesAssigned",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011434,
+    "stop": 1711693011434,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ec672e523ca15f2e5bb1d3269f53b353",
+    "testCaseId": "6f45aa2bd380cdca0d21220c01d85e34",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Export\\ProductTest::testUpdateDataWithCategoryColumnsNoCategoriesAssigned",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Export\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdateDataWithCategoryColumnsNoCategoriesAssigned"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

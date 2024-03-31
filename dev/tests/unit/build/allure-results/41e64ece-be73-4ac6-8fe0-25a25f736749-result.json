@@ -1,0 +1,50 @@
+{
+    "uuid": "41e64ece-be73-4ac6-8fe0-25a25f736749",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Backend\\ArrayBackendTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022615,
+    "stop": 1711693022615,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#5",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4798f5ff88789a508f7f03c5c46f2250",
+    "testCaseId": "fd04eb192baaca95c48a58f79c9f3c43",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Backend\\ArrayBackendTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Attribute\\Backend\\ArrayBackendTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

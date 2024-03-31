@@ -1,0 +1,43 @@
+{
+    "uuid": "08c4aa59-4575-45d8-bfa6-16bb770bc33a",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\AdminOrder\\EmailSenderTest::testSendFailure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037424,
+    "stop": 1711693037425,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "97ac8bc901f0fb8d9923691fdb9076f6",
+    "testCaseId": "79e4d30125731baf70b88eb90a5613a2",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\AdminOrder\\EmailSenderTest::testSendFailure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\AdminOrder\\EmailSenderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSendFailure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

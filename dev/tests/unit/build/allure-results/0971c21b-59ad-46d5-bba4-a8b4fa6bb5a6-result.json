@@ -1,0 +1,50 @@
+{
+    "uuid": "0971c21b-59ad-46d5-bba4-a8b4fa6bb5a6",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Design\\Theme\\Image\\UploaderTest::testUploadPreviewImage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077526,
+    "stop": 1711693077532,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4d9548581d0bb91a81045857d25b0e50",
+    "testCaseId": "0fec025b57c01528d84dea53c5d814ba",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Design\\Theme\\Image\\UploaderTest::testUploadPreviewImage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Design\\Theme\\Image\\UploaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUploadPreviewImage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

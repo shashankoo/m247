@@ -1,0 +1,50 @@
+{
+    "uuid": "c5a71e9b-00ae-44a2-919d-f89331bceb10",
+    "name": "Magento\\Framework\\TestFramework\\Test\\Unit\\Autoloader\\ExtensionAttributesInterfaceGeneratorTest::testGenerateNonExtensionAttributesInterface",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076801,
+    "stop": 1711693076801,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"non-extension attribute interface\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1a054ca1ae3e95009fc7088ef01d17a1",
+    "testCaseId": "f1248c863ea25a3fb7213daec8f84b79",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\TestFramework\\Test\\Unit\\Autoloader\\ExtensionAttributesInterfaceGeneratorTest::testGenerateNonExtensionAttributesInterface",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\TestFramework\\Test\\Unit\\Autoloader\\ExtensionAttributesInterfaceGeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerateNonExtensionAttributesInterface"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "868cf0c5-0ac8-48cb-ab35-93e29634e001",
+    "name": "Magento\\Captcha\\Test\\Unit\\Model\\Config\\FontTest::testToOptionArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011285,
+    "stop": 1711693011286,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Empty get font\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3354b0914a2bb50943281c08f00284fc",
+    "testCaseId": "609ee58f7b94491ac9505071d4933a78",
+    "rerunOf": null,
+    "fullName": "Magento\\Captcha\\Test\\Unit\\Model\\Config\\FontTest::testToOptionArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Captcha\\Test\\Unit\\Model\\Config\\FontTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testToOptionArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

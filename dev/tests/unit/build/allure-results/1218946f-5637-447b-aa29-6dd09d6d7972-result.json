@@ -1,0 +1,50 @@
+{
+    "uuid": "1218946f-5637-447b-aa29-6dd09d6d7972",
+    "name": "Magento\\Theme\\Test\\Unit\\Model\\Url\\Plugin\\SignatureTest::testAfterGetBaseUrlInactive",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043773,
+    "stop": 1711693043774,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"enabled in config, irrelevant URL type\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a8c61134cb86b9fc804b2f0090c86e25",
+    "testCaseId": "0ada2500505e3478f7b95b4b47cea57c",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Model\\Url\\Plugin\\SignatureTest::testAfterGetBaseUrlInactive",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Model\\Url\\Plugin\\SignatureTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetBaseUrlInactive"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

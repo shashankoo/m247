@@ -1,0 +1,50 @@
+{
+    "uuid": "d2dee730-9036-42e5-aa5c-243ab7bb5f80",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Export\\Config\\XsdTest::testSchemaCorrectlyIdentifiesValidXml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024623,
+    "stop": 1711693024624,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"product_options_merged\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1cedd400e078b95d14ab22ddbd2185e4",
+    "testCaseId": "d24abe363cd0b111501dedb35494d511",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Export\\Config\\XsdTest::testSchemaCorrectlyIdentifiesValidXml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Export\\Config\\XsdTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSchemaCorrectlyIdentifiesValidXml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "1171ec55-4978-4bba-abbb-cca89a05da5f",
+    "name": "Magento\\Sales\\Test\\Unit\\Helper\\AdminTest::testDisplayPriceAttribute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037191,
+    "stop": 1711693037192,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b6db5770344a353e761b1db4a5bb22bd",
+    "testCaseId": "4367e3f867b354825025eae15d9ceb14",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Helper\\AdminTest::testDisplayPriceAttribute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Helper\\AdminTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDisplayPriceAttribute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

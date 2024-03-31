@@ -1,0 +1,43 @@
+{
+    "uuid": "e916abcc-431c-445e-8fbb-75b281c11e8c",
+    "name": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\Category\\Plugin\\Category\\UpdateUrlPathTest::testAroundSaveWithRootCategory",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012964,
+    "stop": 1711693012965,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "17dd36c44a1953278f0bf73b3ae113ee",
+    "testCaseId": "12affa676d3d56ba0d4fe98cfe1c8551",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\Category\\Plugin\\Category\\UpdateUrlPathTest::testAroundSaveWithRootCategory",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\Category\\Plugin\\Category\\UpdateUrlPathTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundSaveWithRootCategory"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

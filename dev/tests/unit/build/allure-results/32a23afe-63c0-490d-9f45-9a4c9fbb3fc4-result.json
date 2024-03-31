@@ -1,0 +1,43 @@
+{
+    "uuid": "32a23afe-63c0-490d-9f45-9a4c9fbb3fc4",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\CategoryProcessorTest::testClearFailedCategories",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011448,
+    "stop": 1711693011449,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "523929fd3690d0b8dfb2bd9c3e4669f4",
+    "testCaseId": "8c3338a2c98198fc008e3cb128dd482e",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\CategoryProcessorTest::testClearFailedCategories",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\CategoryProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testClearFailedCategories"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

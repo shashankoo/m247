@@ -1,0 +1,50 @@
+{
+    "uuid": "a69b790b-d9ca-4f92-a344-f09b261a6671",
+    "name": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\Order\\ViewTest::testIsOrderAuthorizationAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031711,
+    "stop": 1711693031712,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "64f39ae4013db2b88766fe979793b0e8",
+    "testCaseId": "e7585ec3976fcfd0288a9a407f665555",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\Order\\ViewTest::testIsOrderAuthorizationAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Block\\Adminhtml\\Order\\ViewTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsOrderAuthorizationAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

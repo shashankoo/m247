@@ -1,0 +1,50 @@
+{
+    "uuid": "2526244c-7585-458c-a93b-4dd6c873148a",
+    "name": "Magento\\Framework\\Oauth\\Test\\Unit\\Helper\\RequestTest::testPrepareRequestOAuthHeader",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074668,
+    "stop": 1711693074669,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c8564a7fbed6a03cbc82bc9acb9e4b51",
+    "testCaseId": "52a33501ee5b8b0f2b96b45aaf926326",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Oauth\\Test\\Unit\\Helper\\RequestTest::testPrepareRequestOAuthHeader",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Oauth\\Test\\Unit\\Helper\\RequestTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareRequestOAuthHeader"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

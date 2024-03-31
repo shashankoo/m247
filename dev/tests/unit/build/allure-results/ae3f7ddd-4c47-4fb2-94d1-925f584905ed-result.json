@@ -1,0 +1,50 @@
+{
+    "uuid": "ae3f7ddd-4c47-4fb2-94d1-925f584905ed",
+    "name": "Magento\\Payment\\Test\\Unit\\Model\\Method\\FreeTest::testIsAvailable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031661,
+    "stop": 1711693031661,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "16d300b4f215ea0114c4e6a0818ce38c",
+    "testCaseId": "7dcd9c527f466c9a4d5db466048228a2",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Model\\Method\\FreeTest::testIsAvailable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Model\\Method\\FreeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAvailable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

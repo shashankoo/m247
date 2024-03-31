@@ -1,0 +1,50 @@
+{
+    "uuid": "0eb88286-043d-4456-8a40-1e0df71c8ccb",
+    "name": "Magento\\Framework\\Filter\\Test\\Unit\\Template\\Tokenizer\\ParameterTest::testTokenize",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073365,
+    "stop": 1711693073365,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6b1fdf1ed760571d8f4dc56b35f3516c",
+    "testCaseId": "291206c40f7478dac993e844bf32d367",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Filter\\Test\\Unit\\Template\\Tokenizer\\ParameterTest::testTokenize",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Filter\\Test\\Unit\\Template\\Tokenizer\\ParameterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testTokenize"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

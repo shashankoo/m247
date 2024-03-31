@@ -1,0 +1,43 @@
+{
+    "uuid": "c67df10f-72e1-4615-b4a1-6abda4cf9d30",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\Column\\Filter\\PriceTest::testGetCondition",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009570,
+    "stop": 1711693009572,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "eb2b8b12a5387e4abdf74ad7b073ce8b",
+    "testCaseId": "1c130f5ffe8fca5451f530509340cbe8",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\Column\\Filter\\PriceTest::testGetCondition",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\Column\\Filter\\PriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCondition"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

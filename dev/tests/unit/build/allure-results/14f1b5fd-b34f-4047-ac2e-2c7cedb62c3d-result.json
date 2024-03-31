@@ -1,0 +1,43 @@
+{
+    "uuid": "14f1b5fd-b34f-4047-ac2e-2c7cedb62c3d",
+    "name": "Magento\\Framework\\Controller\\Test\\Unit\\Controller\\NorouteTest::testIndexActionWhenStatusNotInstanceofMagentoObject",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070433,
+    "stop": 1711693070434,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "44fd16e34f1f683d57a94cda7eaba153",
+    "testCaseId": "c1956b9fcb9aaf49918957e5386645c4",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Controller\\Test\\Unit\\Controller\\NorouteTest::testIndexActionWhenStatusNotInstanceofMagentoObject",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Controller\\Test\\Unit\\Controller\\NorouteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIndexActionWhenStatusNotInstanceofMagentoObject"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

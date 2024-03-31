@@ -1,0 +1,50 @@
+{
+    "uuid": "d379f89f-759d-4f09-86c5-03882e0d2d3b",
+    "name": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\OutputAbstractTest::testRenderColumnValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075374,
+    "stop": 1711693075374,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "03a616cfd1dbbcf912283f744f7779c9",
+    "testCaseId": "e09274d8f784ae643dc66e5ec7b67786",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\OutputAbstractTest::testRenderColumnValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\OutputAbstractTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRenderColumnValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "45120cdc-1067-442d-93bf-30eb4e347db5",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\Column\\Filter\\DateTest::testGetHtmlSuccessfulTimestamp",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009562,
+    "stop": 1711693009566,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b2b4c667f1c2a035e701847eb2ebcac9",
+    "testCaseId": "83d5a18b9b7a6c62222c47de39811dd0",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\Column\\Filter\\DateTest::testGetHtmlSuccessfulTimestamp",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\Column\\Filter\\DateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetHtmlSuccessfulTimestamp"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

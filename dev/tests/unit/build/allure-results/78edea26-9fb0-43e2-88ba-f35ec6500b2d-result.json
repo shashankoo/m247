@@ -1,0 +1,50 @@
+{
+    "uuid": "78edea26-9fb0-43e2-88ba-f35ec6500b2d",
+    "name": "Magento\\Ui\\Test\\Unit\\Component\\Filters\\Type\\DateRangeTest::testPrepare",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693046417,
+    "stop": 1711693046421,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3c5296fc56fcce73fa8ff57f996f1eee",
+    "testCaseId": "0593a7ca0f55be867fb36d82e7dc748b",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Component\\Filters\\Type\\DateRangeTest::testPrepare",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Component\\Filters\\Type\\DateRangeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepare"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

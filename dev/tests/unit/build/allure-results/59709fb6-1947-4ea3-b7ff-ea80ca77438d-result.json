@@ -1,0 +1,50 @@
+{
+    "uuid": "59709fb6-1947-4ea3-b7ff-ea80ca77438d",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\UtilityTest::testDeltaRoundignFix",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036219,
+    "stop": 1711693036219,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "13c5dae495c0536c26ff7bad67ade030",
+    "testCaseId": "b47d4fc77ceb58968a2fdf23df39860b",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\UtilityTest::testDeltaRoundignFix",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\UtilityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeltaRoundignFix"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

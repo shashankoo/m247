@@ -1,0 +1,50 @@
+{
+    "uuid": "8de96eec-6efe-4e1f-abc7-067ffa198fb2",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\TaxTest::testCollect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037662,
+    "stop": 1711693037663,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"last_partial_creditmemo_with_partial_shipping_refund\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3b4e9204714d9a9114e82d6158470a42",
+    "testCaseId": "417b1372c13c9b3458f6a2923559f8fa",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\TaxTest::testCollect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Creditmemo\\Total\\TaxTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

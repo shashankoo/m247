@@ -1,0 +1,50 @@
+{
+    "uuid": "ae12af13-e3ae-46ff-bbc2-de86b9582847",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\TextTest::testAlphanumericValidation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022460,
+    "stop": 1711693022461,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "baa142aff5ac309dd7cd305a6058fe58",
+    "testCaseId": "40b7772a69efa7f3d7ec6c451f0343da",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\TextTest::testAlphanumericValidation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Attribute\\Data\\TextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAlphanumericValidation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

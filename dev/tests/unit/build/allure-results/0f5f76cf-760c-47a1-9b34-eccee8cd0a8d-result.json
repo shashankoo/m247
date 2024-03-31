@@ -1,0 +1,50 @@
+{
+    "uuid": "0f5f76cf-760c-47a1-9b34-eccee8cd0a8d",
+    "name": "Magento\\Customer\\Test\\Unit\\Controller\\Plugin\\AccountTest::testAroundExecuteInterruptsOriginalCallWhenNotAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019790,
+    "stop": 1711693019790,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3475403dd34bbc08df35b8bf96827411",
+    "testCaseId": "10b5984a7eca15eb0adfed04c6a04916",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Controller\\Plugin\\AccountTest::testAroundExecuteInterruptsOriginalCallWhenNotAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Controller\\Plugin\\AccountTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundExecuteInterruptsOriginalCallWhenNotAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "a3b22d51-6500-4379-9649-a276db1873c6",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\BatchDataMapper\\ProductDataMapperTest::testGetMap",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023180,
+    "stop": 1711693023181,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"array excluded from merge\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5e05793e878a53f403693f8363f75ef6",
+    "testCaseId": "7d0d62185a60f1b229371318b1537f93",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\BatchDataMapper\\ProductDataMapperTest::testGetMap",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\BatchDataMapper\\ProductDataMapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetMap"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "383e6213-c561-47df-9dc2-2e34bedb3196",
+    "name": "Magento\\Sales\\Test\\Unit\\Helper\\ReorderTest::testCanReorderCustomerLoggedInAndOrderCanReorder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037380,
+    "stop": 1711693037380,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "12f052f74b969459cf6b5927ec782d38",
+    "testCaseId": "9ff6e13e1340b9bc2b48ee9b6ac13e0c",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Helper\\ReorderTest::testCanReorderCustomerLoggedInAndOrderCanReorder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Helper\\ReorderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanReorderCustomerLoggedInAndOrderCanReorder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

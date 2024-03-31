@@ -1,0 +1,43 @@
+{
+    "uuid": "644f69ee-029d-437c-bce4-e0649c43465e",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Order\\Item\\Renderer\\DefaultRendererTest::testGetItemRowTotalAfterDiscountHtml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036735,
+    "stop": 1711693036735,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "25af96159ec656775e2d2415df4292cf",
+    "testCaseId": "afbc9ebc396f367a9982bcad6bf3baf7",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Order\\Item\\Renderer\\DefaultRendererTest::testGetItemRowTotalAfterDiscountHtml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Order\\Item\\Renderer\\DefaultRendererTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItemRowTotalAfterDiscountHtml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

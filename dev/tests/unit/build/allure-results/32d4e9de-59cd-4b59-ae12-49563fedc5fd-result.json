@@ -1,0 +1,43 @@
+{
+    "uuid": "32d4e9de-59cd-4b59-ae12-49563fedc5fd",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Elasticsearch5\\SearchAdapter\\Query\\BuilderTest::testInitQuery",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023160,
+    "stop": 1711693023162,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "995d3f24b195575c6b4f5bf1376cb5f0",
+    "testCaseId": "b8afb205f018b798b644f88678cc63eb",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Elasticsearch5\\SearchAdapter\\Query\\BuilderTest::testInitQuery",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Elasticsearch5\\SearchAdapter\\Query\\BuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInitQuery"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

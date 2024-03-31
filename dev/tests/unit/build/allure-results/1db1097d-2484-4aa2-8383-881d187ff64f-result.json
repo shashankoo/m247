@@ -1,0 +1,50 @@
+{
+    "uuid": "1db1097d-2484-4aa2-8383-881d187ff64f",
+    "name": "Magento\\CatalogWidget\\Test\\Unit\\Model\\Rule\\Condition\\ProductTest::testGetBindArgumentValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013377,
+    "stop": 1711693013379,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e184be51d18904d401b6c89cb4f38b3d",
+    "testCaseId": "80c257a6603e03d4a59925b50b59f27f",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogWidget\\Test\\Unit\\Model\\Rule\\Condition\\ProductTest::testGetBindArgumentValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogWidget\\Test\\Unit\\Model\\Rule\\Condition\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBindArgumentValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

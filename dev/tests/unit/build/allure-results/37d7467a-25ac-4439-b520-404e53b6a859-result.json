@@ -1,0 +1,43 @@
+{
+    "uuid": "37d7467a-25ac-4439-b520-404e53b6a859",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\ContextTest::testGetEventManager",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077228,
+    "stop": 1711693077229,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Testcase needs to be refactored.",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d69128c20ec61098c6cafff3a9b4e2a0",
+    "testCaseId": "41abe520ce14c39c384ba11e3cfa3b43",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\ContextTest::testGetEventManager",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\ContextTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetEventManager"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

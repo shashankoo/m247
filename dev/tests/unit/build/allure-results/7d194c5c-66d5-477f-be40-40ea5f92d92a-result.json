@@ -1,0 +1,43 @@
+{
+    "uuid": "7d194c5c-66d5-477f-be40-40ea5f92d92a",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest::testGetBasePathWithPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058601,
+    "stop": 1711693058602,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7bbb49e67ef83299ee0d45890aae3b45",
+    "testCaseId": "99f08c16772f8eecfee3b13339b51573",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest::testGetBasePathWithPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Request\\HttpTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBasePathWithPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

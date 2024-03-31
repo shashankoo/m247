@@ -1,0 +1,50 @@
+{
+    "uuid": "08626646-44df-4926-affe-9abae4a50213",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\System\\Message\\NotificationsTest::testIsDisplayed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042754,
+    "stop": 1711693042755,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ab84037e99e4a7a94ff92c77f23c89dd",
+    "testCaseId": "48f3ff908a52c77e7d3d71cd5b2c8f35",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\System\\Message\\NotificationsTest::testIsDisplayed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\System\\Message\\NotificationsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsDisplayed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

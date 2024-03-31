@@ -1,0 +1,43 @@
+{
+    "uuid": "adf427cb-f2bd-4127-bc95-a90127c5fee3",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Address\\Validator\\CustomerTest::testValidateExistingCustomerWithQuoteAddress",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020240,
+    "stop": 1711693020241,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5c52adf2b5e135b73f85e2a7f8e582fd",
+    "testCaseId": "9b19f538310a5f759498ef9aab936eef",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Address\\Validator\\CustomerTest::testValidateExistingCustomerWithQuoteAddress",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Address\\Validator\\CustomerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateExistingCustomerWithQuoteAddress"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

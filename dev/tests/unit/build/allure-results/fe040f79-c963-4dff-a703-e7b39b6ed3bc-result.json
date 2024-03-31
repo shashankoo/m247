@@ -1,0 +1,50 @@
+{
+    "uuid": "fe040f79-c963-4dff-a703-e7b39b6ed3bc",
+    "name": "Magento\\RemoteStorage\\Test\\Unit\\Setup\\ConfigOptionsListTest::testValidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033377,
+    "stop": 1711693033378,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Valid Remote Storage Config with Successful Test Connection\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "efff7041046f5e103805cf5033d802ad",
+    "testCaseId": "44f15e5fed5fee6924d0ae7c6abf837b",
+    "rerunOf": null,
+    "fullName": "Magento\\RemoteStorage\\Test\\Unit\\Setup\\ConfigOptionsListTest::testValidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\RemoteStorage\\Test\\Unit\\Setup\\ConfigOptionsListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

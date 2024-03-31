@@ -1,0 +1,50 @@
+{
+    "uuid": "0ad534c7-98c2-4bcf-851a-159fdfe542ae",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Dependency\\Report\\Writer\\Csv\\AbstractWriterTest::testWriteWithWrongOptionReportFilename",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055612,
+    "stop": 1711693055613,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "40295fa274af2aced21e710d16519fa2",
+    "testCaseId": "90716865363f3cc9e75edc0f31423de1",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Dependency\\Report\\Writer\\Csv\\AbstractWriterTest::testWriteWithWrongOptionReportFilename",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Dependency\\Report\\Writer\\Csv\\AbstractWriterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWriteWithWrongOptionReportFilename"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "80211227-30f8-47ff-8dfc-b3dda4ec7801",
+    "name": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\Category\\Plugin\\Store\\ViewTest::testAfterSaveWhenNoGroupId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012980,
+    "stop": 1711693012981,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "28602703d75c9ce4a4088a43d4785d32",
+    "testCaseId": "ac34738db240175dbb72b25e703d836e",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\Category\\Plugin\\Store\\ViewTest::testAfterSaveWhenNoGroupId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Model\\Category\\Plugin\\Store\\ViewTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSaveWhenNoGroupId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

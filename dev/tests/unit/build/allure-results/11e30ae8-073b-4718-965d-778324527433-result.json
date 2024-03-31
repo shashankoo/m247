@@ -1,0 +1,50 @@
+{
+    "uuid": "11e30ae8-073b-4718-965d-778324527433",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Layout\\Argument\\Interpreter\\HelperMethodTest::testEvaluateException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077826,
+    "stop": 1711693077826,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"wrong method format\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f0915bc25bd13f099ae0753f15f85771",
+    "testCaseId": "6a85e482be7ec94d6653d573046dbc28",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Layout\\Argument\\Interpreter\\HelperMethodTest::testEvaluateException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Layout\\Argument\\Interpreter\\HelperMethodTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEvaluateException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

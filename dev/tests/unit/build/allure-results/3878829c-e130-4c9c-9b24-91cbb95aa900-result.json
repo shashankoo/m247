@@ -1,0 +1,43 @@
+{
+    "uuid": "3878829c-e130-4c9c-9b24-91cbb95aa900",
+    "name": "Magento\\AdminNotification\\Test\\Unit\\Observer\\PredispatchAdminActionControllerObserverTest::testPredispatchObserverWhenAdminIsNotLoggedIn",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008555,
+    "stop": 1711693008555,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f8808ca09a0159dab3dc1361dd8bf6d5",
+    "testCaseId": "a6e7dabfed8be2031d34abb5e66671fd",
+    "rerunOf": null,
+    "fullName": "Magento\\AdminNotification\\Test\\Unit\\Observer\\PredispatchAdminActionControllerObserverTest::testPredispatchObserverWhenAdminIsNotLoggedIn",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdminNotification\\Test\\Unit\\Observer\\PredispatchAdminActionControllerObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPredispatchObserverWhenAdminIsNotLoggedIn"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

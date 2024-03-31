@@ -1,0 +1,50 @@
+{
+    "uuid": "c6e7ea1b-9254-4aed-a859-e3e8400143d1",
+    "name": "Magento\\OfflinePayments\\Test\\Unit\\Model\\InstructionsConfigProviderTest::testGetConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031043,
+    "stop": 1711693031043,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "fbdf5d39c55df53c67022be163d41513",
+    "testCaseId": "ad961d7cf3b42517f091b01640dcec62",
+    "rerunOf": null,
+    "fullName": "Magento\\OfflinePayments\\Test\\Unit\\Model\\InstructionsConfigProviderTest::testGetConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\OfflinePayments\\Test\\Unit\\Model\\InstructionsConfigProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

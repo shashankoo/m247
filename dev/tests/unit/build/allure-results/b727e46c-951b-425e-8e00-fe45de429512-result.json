@@ -1,0 +1,50 @@
+{
+    "uuid": "b727e46c-951b-425e-8e00-fe45de429512",
+    "name": "Magento\\Framework\\Image\\Test\\Unit\\Adapter\\ImageMagickTest::testWatermark",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073690,
+    "stop": 1711693073690,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "873cd434612ddd5d5d9c9350198cfde6",
+    "testCaseId": "77ea06083173568e34e69c10919af112",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Image\\Test\\Unit\\Adapter\\ImageMagickTest::testWatermark",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Image\\Test\\Unit\\Adapter\\ImageMagickTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWatermark"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

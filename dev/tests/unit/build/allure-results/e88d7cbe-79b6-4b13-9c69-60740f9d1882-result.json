@@ -1,0 +1,50 @@
+{
+    "uuid": "e88d7cbe-79b6-4b13-9c69-60740f9d1882",
+    "name": "Magento\\Framework\\Module\\Test\\Unit\\ManagerTest::testIsOutputEnabledGenericConfigPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074423,
+    "stop": 1711693074423,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"output disabled\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3c593948f75db56b7b8f1c522512805c",
+    "testCaseId": "336d4d8fbd91995e598488cc6d8bb269",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Module\\Test\\Unit\\ManagerTest::testIsOutputEnabledGenericConfigPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Module\\Test\\Unit\\ManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsOutputEnabledGenericConfigPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

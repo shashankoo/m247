@@ -1,0 +1,43 @@
+{
+    "uuid": "a2d2f5e2-955c-4761-84e9-532cbe8893bf",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Http\\TransferFactoryTest::testCreate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056217,
+    "stop": 1711693056219,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2a0159a5ced823068ce5c0f2998c6bcd",
+    "testCaseId": "568099cf36b7629f1e3579c0bd3ba82b",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Http\\TransferFactoryTest::testCreate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Http\\TransferFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

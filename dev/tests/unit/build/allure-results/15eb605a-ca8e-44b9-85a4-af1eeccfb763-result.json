@@ -1,0 +1,43 @@
+{
+    "uuid": "15eb605a-ca8e-44b9-85a4-af1eeccfb763",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductIdLocatorTest::testRetrieveProductIdsWithNumericSkus",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015433,
+    "stop": 1711693015434,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c4a03495902561ac978cb0ba192dd0f9",
+    "testCaseId": "1b747ac6036f39097854173be2c47703",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductIdLocatorTest::testRetrieveProductIdsWithNumericSkus",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductIdLocatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRetrieveProductIdsWithNumericSkus"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

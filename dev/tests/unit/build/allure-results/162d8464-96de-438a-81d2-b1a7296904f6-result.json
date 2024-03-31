@@ -1,0 +1,50 @@
+{
+    "uuid": "162d8464-96de-438a-81d2-b1a7296904f6",
+    "name": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\AddressTest::testValidateRowForUpdate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019184,
+    "stop": 1711693019187,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"empty address id\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "77366b6e68250fb2965effa2e32e7744",
+    "testCaseId": "bfe5f74d43d550250e83a7da7b51f81a",
+    "rerunOf": null,
+    "fullName": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\AddressTest::testValidateRowForUpdate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\AddressTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateRowForUpdate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

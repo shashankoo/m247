@@ -1,0 +1,50 @@
+{
+    "uuid": "b8309001-2968-49e4-99d0-781bccf4fe54",
+    "name": "Magento\\Catalog\\Test\\Unit\\Helper\\Product\\ProductListTest::testGetDefaultLimitPerPageValueReturnsOneOfAvailableLimits",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014073,
+    "stop": 1711693014073,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"limit-available\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d2feb917bfed66ed5e34ae8f00cb0ee7",
+    "testCaseId": "54d0a23da3ffb8429c97a4263c393a39",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Helper\\Product\\ProductListTest::testGetDefaultLimitPerPageValueReturnsOneOfAvailableLimits",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Helper\\Product\\ProductListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDefaultLimitPerPageValueReturnsOneOfAvailableLimits"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "3fae23c2-9b38-4f36-a394-f03071801c07",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testCreateAccountWithPasswordHashWithAddressException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019903,
+    "stop": 1711693019905,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "924631c862c1a539573644432cb12ee5",
+    "testCaseId": "a13c3c158e34b3be59fc32499f3bd2ea",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testCreateAccountWithPasswordHashWithAddressException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateAccountWithPasswordHashWithAddressException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

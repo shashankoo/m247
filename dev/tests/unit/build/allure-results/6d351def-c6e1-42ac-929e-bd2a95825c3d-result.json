@@ -1,0 +1,43 @@
+{
+    "uuid": "6d351def-c6e1-42ac-929e-bd2a95825c3d",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testCancel",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038430,
+    "stop": 1711693038435,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8c43bc459601bfd81a0a5403e6452d4a",
+    "testCaseId": "b8dceab8c94acd2636d3dc0eb70567b3",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testCancel",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCancel"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

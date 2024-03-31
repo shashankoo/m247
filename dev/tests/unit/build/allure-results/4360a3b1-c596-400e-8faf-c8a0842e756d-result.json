@@ -1,0 +1,43 @@
+{
+    "uuid": "4360a3b1-c596-400e-8faf-c8a0842e756d",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\ConfigTest::testGetStateLabelByStateAndStatus",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037550,
+    "stop": 1711693037550,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1562ee687dcbb5acad99131b23405927",
+    "testCaseId": "6f8ad7be94b3a6f46124ff0221309b74",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\ConfigTest::testGetStateLabelByStateAndStatus",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStateLabelByStateAndStatus"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

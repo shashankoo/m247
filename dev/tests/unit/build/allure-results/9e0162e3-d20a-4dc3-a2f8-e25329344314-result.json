@@ -1,0 +1,50 @@
+{
+    "uuid": "9e0162e3-d20a-4dc3-a2f8-e25329344314",
+    "name": "Magento\\Cms\\Test\\Unit\\Helper\\Wysiwyg\\ImagesTest::testGetImageHtmlDeclarationRenderingAsTag",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017293,
+    "stop": 1711693017293,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c6ec6f81457eccb567e91e0d775245a4",
+    "testCaseId": "96abe46bddc7f6fcc81579668a124639",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Helper\\Wysiwyg\\ImagesTest::testGetImageHtmlDeclarationRenderingAsTag",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Helper\\Wysiwyg\\ImagesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetImageHtmlDeclarationRenderingAsTag"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

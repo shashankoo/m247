@@ -1,0 +1,43 @@
+{
+    "uuid": "efd860f3-61c8-4321-aeea-7ebdeb35419d",
+    "name": "Magento\\Captcha\\Test\\Unit\\Observer\\CheckContactUsFormObserverTest::testCheckContactUsFormRedirectsCustomerWithWarningMessageWhenCaptchaIsRequiredAndInvalid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011332,
+    "stop": 1711693011333,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "600dbd7459c7e37f0fc63bb7879f61f0",
+    "testCaseId": "699796fe6854571816dfd76cb5802b46",
+    "rerunOf": null,
+    "fullName": "Magento\\Captcha\\Test\\Unit\\Observer\\CheckContactUsFormObserverTest::testCheckContactUsFormRedirectsCustomerWithWarningMessageWhenCaptchaIsRequiredAndInvalid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Captcha\\Test\\Unit\\Observer\\CheckContactUsFormObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckContactUsFormRedirectsCustomerWithWarningMessageWhenCaptchaIsRequiredAndInvalid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

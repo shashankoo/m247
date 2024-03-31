@@ -1,0 +1,50 @@
+{
+    "uuid": "68311c55-5847-4498-9747-622f5ba405f4",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\ImageTest::testClearCache",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015091,
+    "stop": 1711693015093,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c1144baa87ac87a52d73bfd2057db33f",
+    "testCaseId": "9a250c36397fec8c605897ab2f3d532c",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\ImageTest::testClearCache",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\ImageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testClearCache"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

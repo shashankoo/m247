@@ -1,0 +1,50 @@
+{
+    "uuid": "a3fca72e-c276-4e3c-a546-4e9af5078682",
+    "name": "Magento\\Sitemap\\Test\\Unit\\Model\\Config\\Backend\\PriorityTest::testBeforeSaveIsChainable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041662,
+    "stop": 1711693041663,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "075b0b25b15e09f1babc8d75bf09f6f9",
+    "testCaseId": "9b7bd7a3122e0f22bfa5e2099b329949",
+    "rerunOf": null,
+    "fullName": "Magento\\Sitemap\\Test\\Unit\\Model\\Config\\Backend\\PriorityTest::testBeforeSaveIsChainable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sitemap\\Test\\Unit\\Model\\Config\\Backend\\PriorityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSaveIsChainable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

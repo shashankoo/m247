@@ -1,0 +1,43 @@
+{
+    "uuid": "e327d565-94c4-4d54-bfaa-8f20b5f629e3",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testGetOrder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038134,
+    "stop": 1711693038135,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d5f4cb50465b92402909ca460fcce8a5",
+    "testCaseId": "77d2eeb699e58ee3cc3f9b367be999f8",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest::testGetOrder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\InvoiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetOrder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "7b250daf-cae5-4a39-8eb3-e62a562c95c0",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Container\\OrderCommentIdentityTest::testGetEmailCopyToWithSpaceEmail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037761,
+    "stop": 1711693037762,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "441d3a1de868422e3edc0195f4f1cd13",
+    "testCaseId": "403c4c3362b0b8f020509bc055b210f2",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Container\\OrderCommentIdentityTest::testGetEmailCopyToWithSpaceEmail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Email\\Container\\OrderCommentIdentityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetEmailCopyToWithSpaceEmail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

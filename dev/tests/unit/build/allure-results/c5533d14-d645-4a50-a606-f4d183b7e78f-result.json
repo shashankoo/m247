@@ -1,0 +1,50 @@
+{
+    "uuid": "c5533d14-d645-4a50-a606-f4d183b7e78f",
+    "name": "Magento\\Email\\Test\\Unit\\Model\\Template\\FilterTest::testApplyInlineCss",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023731,
+    "stop": 1711693023732,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"CSS with error does not get inlined\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "46f835d752a496239b27f003b1f4606d",
+    "testCaseId": "f671c42ea2ede18b8eb6c250d072b076",
+    "rerunOf": null,
+    "fullName": "Magento\\Email\\Test\\Unit\\Model\\Template\\FilterTest::testApplyInlineCss",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Email\\Test\\Unit\\Model\\Template\\FilterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testApplyInlineCss"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

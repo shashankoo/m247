@@ -1,0 +1,43 @@
+{
+    "uuid": "bde2fbd6-3521-4866-9fd3-b7380128eaf8",
+    "name": "Magento\\ProductAlert\\Test\\Unit\\Helper\\DataTest::testIsStockAlertAllowedWithYesSettings",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032635,
+    "stop": 1711693032636,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "5af3682a07314f68552c728fc36cc12e",
+    "testCaseId": "3d953414b97dc4aaecc04ef8dfb0c2c1",
+    "rerunOf": null,
+    "fullName": "Magento\\ProductAlert\\Test\\Unit\\Helper\\DataTest::testIsStockAlertAllowedWithYesSettings",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ProductAlert\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsStockAlertAllowedWithYesSettings"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

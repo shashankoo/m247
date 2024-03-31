@@ -1,0 +1,50 @@
+{
+    "uuid": "11adbd21-66f8-4d0e-ae2b-2c76ee27bc7a",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Method\\Checks\\SpecificationPluginTest::testAfterIsApplicable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032220,
+    "stop": 1711693032221,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9acc3651fa93a3c658cbb6c135abbb7e",
+    "testCaseId": "cdb5f92ce33ffac96aae318a35c313d0",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Method\\Checks\\SpecificationPluginTest::testAfterIsApplicable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Method\\Checks\\SpecificationPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterIsApplicable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

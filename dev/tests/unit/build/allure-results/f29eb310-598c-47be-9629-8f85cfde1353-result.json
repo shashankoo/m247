@@ -1,0 +1,43 @@
+{
+    "uuid": "f29eb310-598c-47be-9629-8f85cfde1353",
+    "name": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Type\\GroupedTest::testGetChildrenMsrpWhenNoChildrenWithMsrp",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024377,
+    "stop": 1711693024377,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "29c89f339029c2e73a1c95bdb594d986",
+    "testCaseId": "9ccd4b6dcec4f11a225a997edc66f405",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Type\\GroupedTest::testGetChildrenMsrpWhenNoChildrenWithMsrp",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedProduct\\Test\\Unit\\Model\\Product\\Type\\GroupedTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetChildrenMsrpWhenNoChildrenWithMsrp"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

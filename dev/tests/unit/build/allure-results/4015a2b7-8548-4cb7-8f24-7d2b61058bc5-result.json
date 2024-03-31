@@ -1,0 +1,43 @@
+{
+    "uuid": "4015a2b7-8548-4cb7-8f24-7d2b61058bc5",
+    "name": "Magento\\AwsS3\\Test\\Unit\\Driver\\AwsS3Test::testSearchFiles",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009407,
+    "stop": 1711693009407,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "97b7fe9408176879c7a629baf169efd8",
+    "testCaseId": "ff65587c4d574ef720f2f78c1eac6dfd",
+    "rerunOf": null,
+    "fullName": "Magento\\AwsS3\\Test\\Unit\\Driver\\AwsS3Test::testSearchFiles",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AwsS3\\Test\\Unit\\Driver\\AwsS3Test"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSearchFiles"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

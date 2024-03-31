@@ -1,0 +1,50 @@
+{
+    "uuid": "0544c5bc-98c8-42ac-a708-b59915e9b382",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Cache\\Type\\FrontendPoolTest::testGet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057748,
+    "stop": 1711693057749,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"retrieval from config\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "afda430e197bc3ca214d0872dae0ec51",
+    "testCaseId": "5a90b797480ef6b0729e924327afd7be",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Cache\\Type\\FrontendPoolTest::testGet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Cache\\Type\\FrontendPoolTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

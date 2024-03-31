@@ -1,0 +1,50 @@
+{
+    "uuid": "77f54a2f-dedd-446f-a147-9b9905ec5352",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\FieldDataConverterTest::testConvertBatchSizeFromEnvInvalid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070702,
+    "stop": 1711693070703,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "08231e9668c5b7f7735280a0445bad11",
+    "testCaseId": "f1995991f58c1172f66e977d5fbe6649",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\FieldDataConverterTest::testConvertBatchSizeFromEnvInvalid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\FieldDataConverterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvertBatchSizeFromEnvInvalid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

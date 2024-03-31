@@ -1,0 +1,50 @@
+{
+    "uuid": "7ce92d57-0872-4f19-bb9b-b582f949e5e8",
+    "name": "Magento\\Indexer\\Test\\Unit\\Console\\Command\\IndexerShowDimensionsModeCommandTest::testExecuteWithAttributes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024827,
+    "stop": 1711693024828,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"get_by_index\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "04445d0368a4865bbe9a45aaa8fba180",
+    "testCaseId": "31ed259b3ef040de20c856e557e76ff9",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Console\\Command\\IndexerShowDimensionsModeCommandTest::testExecuteWithAttributes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Console\\Command\\IndexerShowDimensionsModeCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithAttributes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

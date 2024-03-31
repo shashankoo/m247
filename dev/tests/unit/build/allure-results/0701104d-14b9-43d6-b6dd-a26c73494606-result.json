@@ -1,0 +1,43 @@
+{
+    "uuid": "0701104d-14b9-43d6-b6dd-a26c73494606",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testSaveIfAreaEmulated",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015698,
+    "stop": 1711693015699,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getStockItem\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0d29765b38a96aeb08f0d7ada2cbe093",
+    "testCaseId": "88e8a107ff410c64f38cc7b20e9ba206",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testSaveIfAreaEmulated",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveIfAreaEmulated"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

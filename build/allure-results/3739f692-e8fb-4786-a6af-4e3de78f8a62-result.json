@@ -1,0 +1,43 @@
+{
+    "uuid": "3739f692-e8fb-4786-a6af-4e3de78f8a62",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Api\\StockStateTest::testSuggestQty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1710850415036,
+    "stop": 1710850415037,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f2ee89a34095b193473fa973ee7d9c48",
+    "testCaseId": "51c180816eaf41474f45a6d3ad8baa2a",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Api\\StockStateTest::testSuggestQty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Api\\StockStateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSuggestQty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

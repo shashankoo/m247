@@ -1,0 +1,43 @@
+{
+    "uuid": "8d2e90ba-82a0-420c-b347-2479ef94cd62",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\AddressMetadataTest::testGetCustomAttributesMetadataWithSystemAttribute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020619,
+    "stop": 1711693020620,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b0eae5c8cc2ad87d6b2a11d9774d26be",
+    "testCaseId": "1351c74aea8860236a0768e996e4696d",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\AddressMetadataTest::testGetCustomAttributesMetadataWithSystemAttribute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\AddressMetadataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCustomAttributesMetadataWithSystemAttribute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

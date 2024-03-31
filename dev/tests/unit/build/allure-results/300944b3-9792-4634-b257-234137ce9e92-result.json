@@ -1,0 +1,43 @@
+{
+    "uuid": "300944b3-9792-4634-b257-234137ce9e92",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Model\\Ui\\Adminhtml\\TokenUiComponentProviderTest::testGetComponentForToken",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056385,
+    "stop": 1711693056386,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3927aa4b1f860cd151233af7bc495c80",
+    "testCaseId": "d7a4a537f55cb933d89135f70e50db36",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Model\\Ui\\Adminhtml\\TokenUiComponentProviderTest::testGetComponentForToken",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Model\\Ui\\Adminhtml\\TokenUiComponentProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetComponentForToken"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

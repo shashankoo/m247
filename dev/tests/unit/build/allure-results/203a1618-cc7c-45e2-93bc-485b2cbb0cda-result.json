@@ -1,0 +1,50 @@
+{
+    "uuid": "203a1618-cc7c-45e2-93bc-485b2cbb0cda",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\Structure\\Element\\FieldPluginTest::testAroundGetConfigPath",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031988,
+    "stop": 1711693031988,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "69f6b1241672989f26f2443b6df956df",
+    "testCaseId": "0f27286b764e9b0778f19ed71ecf6d9c",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\Structure\\Element\\FieldPluginTest::testAroundGetConfigPath",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Config\\Structure\\Element\\FieldPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundGetConfigPath"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

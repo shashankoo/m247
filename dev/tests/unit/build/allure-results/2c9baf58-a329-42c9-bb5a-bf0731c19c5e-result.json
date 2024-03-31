@@ -1,0 +1,50 @@
+{
+    "uuid": "2c9baf58-a329-42c9-bb5a-bf0731c19c5e",
+    "name": "Magento\\Translation\\Test\\Unit\\Model\\Js\\DataProviderTest::testGetDataThrowingException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043867,
+    "stop": 1711693043868,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d0693a39ff37039a5ad7f35c5576b485",
+    "testCaseId": "28f1e72c4d6195d8176a57727d831c86",
+    "rerunOf": null,
+    "fullName": "Magento\\Translation\\Test\\Unit\\Model\\Js\\DataProviderTest::testGetDataThrowingException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Translation\\Test\\Unit\\Model\\Js\\DataProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDataThrowingException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

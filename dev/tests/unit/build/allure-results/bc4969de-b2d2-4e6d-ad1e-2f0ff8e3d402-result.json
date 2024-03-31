@@ -1,0 +1,50 @@
+{
+    "uuid": "bc4969de-b2d2-4e6d-ad1e-2f0ff8e3d402",
+    "name": "Magento\\Cookie\\Test\\Unit\\Model\\Config\\Backend\\DomainTest::testBeforeSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018832,
+    "stop": 1711693018834,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"not string\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dae6f6f6cc83f71bc5bfa2f728ecdad8",
+    "testCaseId": "92460011355ee1de9f02601da5f7cde2",
+    "rerunOf": null,
+    "fullName": "Magento\\Cookie\\Test\\Unit\\Model\\Config\\Backend\\DomainTest::testBeforeSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cookie\\Test\\Unit\\Model\\Config\\Backend\\DomainTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

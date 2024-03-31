@@ -1,0 +1,50 @@
+{
+    "uuid": "fec86edf-3e9d-4eea-9c9b-b79f9e8a36a9",
+    "name": "Magento\\Variable\\Test\\Unit\\Model\\VariableTest::testBeforeSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053111,
+    "stop": 1711693053112,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"no-html-value-with-exception\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "892d68f8271987fb3c20ea097d502861",
+    "testCaseId": "5e5d456c1fdcb769a84659efa6cbeb4d",
+    "rerunOf": null,
+    "fullName": "Magento\\Variable\\Test\\Unit\\Model\\VariableTest::testBeforeSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Variable\\Test\\Unit\\Model\\VariableTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

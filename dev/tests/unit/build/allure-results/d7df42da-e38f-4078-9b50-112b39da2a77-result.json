@@ -1,0 +1,50 @@
+{
+    "uuid": "d7df42da-e38f-4078-9b50-112b39da2a77",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\PageCache\\KernelTest::testProcessSaveCache",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058549,
+    "stop": 1711693058553,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f8290c24b89a50fa75a6dd7738ac2779",
+    "testCaseId": "1a2490896d9c080a6cd72502b7b0fb66",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\PageCache\\KernelTest::testProcessSaveCache",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\PageCache\\KernelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessSaveCache"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

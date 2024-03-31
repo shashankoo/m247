@@ -1,0 +1,50 @@
+{
+    "uuid": "e5561f23-4e74-4a52-9f6e-c44953bc6784",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Query\\Builder\\SortTest::testGetSort",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023545,
+    "stop": 1711693023548,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5a4d468301313dd9e2f83a53cf9a6fd6",
+    "testCaseId": "f2398830366ae98f6a454de3f1205ed6",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Query\\Builder\\SortTest::testGetSort",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\SearchAdapter\\Query\\Builder\\SortTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSort"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "f7913aaf-734e-4e60-95c9-ca376eb30c29",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\EmailNotificationTest::testPasswordReminder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020525,
+    "stop": 1711693020525,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4ac27493b247ee2f610c7bd945f7a118",
+    "testCaseId": "bdc2f1ff5af45bba4b47b99545e7f8aa",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\EmailNotificationTest::testPasswordReminder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\EmailNotificationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPasswordReminder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

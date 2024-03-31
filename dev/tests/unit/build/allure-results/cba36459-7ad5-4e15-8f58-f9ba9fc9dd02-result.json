@@ -1,0 +1,43 @@
+{
+    "uuid": "cba36459-7ad5-4e15-8f58-f9ba9fc9dd02",
+    "name": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\CustomerCompositeTest::testPrepareRowForDb",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019213,
+    "stop": 1711693019215,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "8e9e23bdc9532f5d59f26d02edc950ff",
+    "testCaseId": "0ecf968e4401c9ae0b60500f5cb62fae",
+    "rerunOf": null,
+    "fullName": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\CustomerCompositeTest::testPrepareRowForDb",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CustomerImportExport\\Test\\Unit\\Model\\Import\\CustomerCompositeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareRowForDb"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

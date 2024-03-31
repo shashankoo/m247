@@ -1,0 +1,50 @@
+{
+    "uuid": "a4cca09c-dfa7-45ca-ab48-f6dc3046ce46",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Asset\\RepositoryTest::testUpdateDesignParams",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077204,
+    "stop": 1711693077204,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7f7368462bb2c88569b96887a06dd324",
+    "testCaseId": "5cee014eab9f77bacfd35dde2119f6f5",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Asset\\RepositoryTest::testUpdateDesignParams",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Asset\\RepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdateDesignParams"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

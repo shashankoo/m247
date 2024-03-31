@@ -1,0 +1,43 @@
+{
+    "uuid": "8b77a9f7-0fab-4a7f-b0ce-c9598feb3bd5",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\ValidatorTest::testProcessShippingAmountProcessDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036239,
+    "stop": 1711693036240,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getShippingAssignments\" with addMethods(), but it exists in class \"Magento\\Quote\\Api\\Data\\CartExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e4fe93c296b2d5c8d8be183f93266182",
+    "testCaseId": "ee160325583aa8286b3388f61e3ea043",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\ValidatorTest::testProcessShippingAmountProcessDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\ValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessShippingAmountProcessDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

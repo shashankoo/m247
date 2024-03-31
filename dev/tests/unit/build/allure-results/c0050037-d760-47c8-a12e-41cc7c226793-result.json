@@ -1,0 +1,50 @@
+{
+    "uuid": "c0050037-d760-47c8-a12e-41cc7c226793",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Reader\\InstancesNamesList\\DirectoryTest::testGetListException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055685,
+    "stop": 1711693055686,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e2cc0a0b60bb45634911dde2fa4a0645",
+    "testCaseId": "3fdcd625cb6094e5af4a63b9d9695604",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Reader\\InstancesNamesList\\DirectoryTest::testGetListException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Di\\Code\\Reader\\InstancesNamesList\\DirectoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetListException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

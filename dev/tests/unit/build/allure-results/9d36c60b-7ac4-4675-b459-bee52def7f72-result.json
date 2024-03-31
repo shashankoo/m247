@@ -1,0 +1,50 @@
+{
+    "uuid": "9d36c60b-7ac4-4675-b459-bee52def7f72",
+    "name": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\NameTest::testGetStoreLabel",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019584,
+    "stop": 1711693019584,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4cf842863555c4302ea60b59c123aade",
+    "testCaseId": "d531ce4f6321e2ce5dc121fc485b763b",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\NameTest::testGetStoreLabel",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Block\\Widget\\NameTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStoreLabel"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

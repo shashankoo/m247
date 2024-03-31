@@ -1,0 +1,50 @@
+{
+    "uuid": "5b464401-a4ec-41c9-b431-6695b0869604",
+    "name": "Magento\\Framework\\Code\\Test\\Unit\\Reader\\ArgumentsReaderTest::testIsCompatibleType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693069451,
+    "stop": 1711693069451,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dd5832eb8b7f2c401503a82d96e03e8c",
+    "testCaseId": "631ab676b73d75b195ffba905c2e6f75",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Code\\Test\\Unit\\Reader\\ArgumentsReaderTest::testIsCompatibleType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Code\\Test\\Unit\\Reader\\ArgumentsReaderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsCompatibleType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

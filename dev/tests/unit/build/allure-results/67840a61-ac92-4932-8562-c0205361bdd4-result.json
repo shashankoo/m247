@@ -1,0 +1,50 @@
+{
+    "uuid": "67840a61-ac92-4932-8562-c0205361bdd4",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Action\\Discount\\ByPercentTest::testFixQuantity",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036110,
+    "stop": 1711693036110,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "87320998f4fb52b55545e56b8543c1a2",
+    "testCaseId": "f21cf4cfbe9db753147905a5883f2c46",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Action\\Discount\\ByPercentTest::testFixQuantity",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\Rule\\Action\\Discount\\ByPercentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFixQuantity"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "5dd03495-e9a8-478d-90b8-8fc40da58526",
+    "name": "Magento\\Framework\\Event\\Test\\Unit\\Invoker\\InvokerDefaultTest::testDispatchWithDisabledObserver",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073016,
+    "stop": 1711693073019,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "17bf77ff35ad074fef4dea5771bad24e",
+    "testCaseId": "d51595a419c04dc4b08a5a6a532be190",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Event\\Test\\Unit\\Invoker\\InvokerDefaultTest::testDispatchWithDisabledObserver",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Event\\Test\\Unit\\Invoker\\InvokerDefaultTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDispatchWithDisabledObserver"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

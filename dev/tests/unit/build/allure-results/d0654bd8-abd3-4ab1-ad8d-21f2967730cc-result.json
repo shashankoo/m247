@@ -1,0 +1,50 @@
+{
+    "uuid": "d0654bd8-abd3-4ab1-ad8d-21f2967730cc",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\Coupon\\Usage\\ProcessorTest::testProcess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036014,
+    "stop": 1711693036014,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d92104ec5758b71176f13ce71a05e4c9",
+    "testCaseId": "b89d185b5afadde492b2f6c68d59f7c9",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\Coupon\\Usage\\ProcessorTest::testProcess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\Coupon\\Usage\\ProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

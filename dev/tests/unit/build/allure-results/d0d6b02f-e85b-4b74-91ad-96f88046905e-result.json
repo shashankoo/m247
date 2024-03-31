@@ -1,0 +1,43 @@
+{
+    "uuid": "d0d6b02f-e85b-4b74-91ad-96f88046905e",
+    "name": "Magento\\Framework\\ObjectManager\\Test\\Unit\\ObjectManagerTest::testGetIgnoresFirstSlash",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075104,
+    "stop": 1711693075104,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1a1f19f39170cd1976a4cb6331fb334f",
+    "testCaseId": "7717c04e1e26ef01868fb11034baaaab",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\ObjectManager\\Test\\Unit\\ObjectManagerTest::testGetIgnoresFirstSlash",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\ObjectManager\\Test\\Unit\\ObjectManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetIgnoresFirstSlash"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "cf62e116-4db9-4e79-8314-f2dedfcbc08a",
+    "name": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\Multishipping\\PlaceOrderPoolTest::testGet",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030741,
+    "stop": 1711693030741,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"no code in pool\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "bdb2a729176033d5af63e1644d74991a",
+    "testCaseId": "f0afe411d89c7bb03aaf8fa2df16f45e",
+    "rerunOf": null,
+    "fullName": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\Multishipping\\PlaceOrderPoolTest::testGet",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Multishipping\\Test\\Unit\\Model\\Checkout\\Type\\Multishipping\\PlaceOrderPoolTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGet"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

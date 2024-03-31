@@ -1,0 +1,43 @@
+{
+    "uuid": "241bbb9f-2f67-43ee-91e1-988539801a2b",
+    "name": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\LoginPostTest::testExecuteEmptyLoginData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019632,
+    "stop": 1711693019632,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d2a7e9be43583c7ec7a508a50d3319bd",
+    "testCaseId": "49264decaa51ce3c020e53324ed7d5e4",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\LoginPostTest::testExecuteEmptyLoginData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Controller\\Account\\LoginPostTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteEmptyLoginData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

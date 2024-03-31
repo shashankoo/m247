@@ -1,0 +1,43 @@
+{
+    "uuid": "40f0b0fa-b33a-496b-bd59-a8a500b50d84",
+    "name": "Magento\\Customer\\Test\\Unit\\Controller\\Adminhtml\\Index\\SaveTest::testExecuteWithNewCustomerAndValidationException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019757,
+    "stop": 1711693019758,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "11abaaaf104b79caf726c977a11f2c2e",
+    "testCaseId": "21ca8d6052f0ec672a13aba3a3a3ef78",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Controller\\Adminhtml\\Index\\SaveTest::testExecuteWithNewCustomerAndValidationException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Controller\\Adminhtml\\Index\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithNewCustomerAndValidationException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "30b3beab-bf9d-4224-adf9-bbf836852b26",
+    "name": "Magento\\Framework\\Encryption\\Test\\Unit\\KeyValidatorTest::testIsValid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693072932,
+    "stop": 1711693072932,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"leading space\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "689eda03ed0cafe2b9298e90cbc42512",
+    "testCaseId": "049aee3f98f3461a506dde243633afe4",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Encryption\\Test\\Unit\\KeyValidatorTest::testIsValid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Encryption\\Test\\Unit\\KeyValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

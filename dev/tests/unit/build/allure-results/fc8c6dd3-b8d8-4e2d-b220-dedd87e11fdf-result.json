@@ -1,0 +1,50 @@
+{
+    "uuid": "fc8c6dd3-b8d8-4e2d-b220-dedd87e11fdf",
+    "name": "Magento\\Security\\Test\\Unit\\Model\\AdminSessionsManagerTest::testGetLogoutReasonMessage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041261,
+    "stop": 1711693041261,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a8f2b04df7513c2971acc13ae1e07a48",
+    "testCaseId": "2d8d9ffcc3adb928e815802984eb21c9",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Model\\AdminSessionsManagerTest::testGetLogoutReasonMessage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Model\\AdminSessionsManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLogoutReasonMessage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

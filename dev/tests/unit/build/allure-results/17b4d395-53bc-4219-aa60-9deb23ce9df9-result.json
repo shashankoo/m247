@@ -1,0 +1,50 @@
+{
+    "uuid": "17b4d395-53bc-4219-aa60-9deb23ce9df9",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\TemporaryTableServiceTest::testDropTableWhenCreatedTablesArrayNotEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070837,
+    "stop": 1711693070837,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "493a0e4db28be8007ce68847441e2f06",
+    "testCaseId": "e32d221d62a22d4909ba4e64ec323dcb",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\TemporaryTableServiceTest::testDropTableWhenCreatedTablesArrayNotEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\TemporaryTableServiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDropTableWhenCreatedTablesArrayNotEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

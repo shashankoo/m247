@@ -1,0 +1,50 @@
+{
+    "uuid": "e531eecf-92de-44c4-b79c-3d02a22bed25",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\QuoteTest::testGetAddressByCustomerAddressId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033159,
+    "stop": 1711693033160,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2e4ccd12eed17e32253f8ddbdacf1861",
+    "testCaseId": "0862cbfa6beda2aa0e5bab96eec485a5",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\QuoteTest::testGetAddressByCustomerAddressId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\QuoteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAddressByCustomerAddressId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

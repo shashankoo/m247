@@ -1,0 +1,43 @@
+{
+    "uuid": "3060aef0-7c6e-4ea6-8591-7df7804df47c",
+    "name": "Magento\\Framework\\ObjectManager\\Test\\Unit\\ObjectManagerTest::testGetCreatesPreferredImplementation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075095,
+    "stop": 1711693075095,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a4e362a9ec5b97e394ed45e77d81de2c",
+    "testCaseId": "fcb55987b9c20283afe16781a6745fb8",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\ObjectManager\\Test\\Unit\\ObjectManagerTest::testGetCreatesPreferredImplementation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\ObjectManager\\Test\\Unit\\ObjectManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCreatesPreferredImplementation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "3ff4c3e4-dc94-4437-bd67-d3894b176b7e",
+    "name": "Magento\\OfflineShipping\\Test\\Unit\\Model\\Carrier\\FreeshippingTest::testCollectRatesFreeShippingWithTaxOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031104,
+    "stop": 1711693031104,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cc376eea2d45366c765b3425cf1957a0",
+    "testCaseId": "261ed86f54af79f444a5bf49014f5864",
+    "rerunOf": null,
+    "fullName": "Magento\\OfflineShipping\\Test\\Unit\\Model\\Carrier\\FreeshippingTest::testCollectRatesFreeShippingWithTaxOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\OfflineShipping\\Test\\Unit\\Model\\Carrier\\FreeshippingTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectRatesFreeShippingWithTaxOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

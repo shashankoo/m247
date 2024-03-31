@@ -1,0 +1,50 @@
+{
+    "uuid": "780bab24-5508-4f53-9e9c-1931f593f7b2",
+    "name": "Magento\\NewRelicReporting\\Test\\Unit\\Plugin\\StatePluginTest::testSuccessfullySettingAreaCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030917,
+    "stop": 1711693030917,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Application name is not configured\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "952b1660b29d64050f66f9d9e845b37a",
+    "testCaseId": "3b4df410f528be1896cd6fe5b818fe14",
+    "rerunOf": null,
+    "fullName": "Magento\\NewRelicReporting\\Test\\Unit\\Plugin\\StatePluginTest::testSuccessfullySettingAreaCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\NewRelicReporting\\Test\\Unit\\Plugin\\StatePluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSuccessfullySettingAreaCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

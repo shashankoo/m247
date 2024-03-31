@@ -1,0 +1,43 @@
+{
+    "uuid": "95074f3d-3d7a-472d-a07f-c108289c9e4c",
+    "name": "Magento\\MessageQueue\\Test\\Unit\\Console\\PoisonPillApplyDuringSetupUpgradeTest::testChangeVersion",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030484,
+    "stop": 1711693030500,
+    "status": "failed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Expectation failed for method name is \"put\" when invoked 1 time(s).\nMethod was expected to be called 1 times, actually called 0 times.\n",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a873c688605eeea1a215ed1d2335ab1d",
+    "testCaseId": "e9edf9a3bee6dd222817cd8c217d475b",
+    "rerunOf": null,
+    "fullName": "Magento\\MessageQueue\\Test\\Unit\\Console\\PoisonPillApplyDuringSetupUpgradeTest::testChangeVersion",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MessageQueue\\Test\\Unit\\Console\\PoisonPillApplyDuringSetupUpgradeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testChangeVersion"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

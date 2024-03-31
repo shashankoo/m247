@@ -1,0 +1,43 @@
+{
+    "uuid": "68faa269-0b63-47e7-9e96-27327deb2593",
+    "name": "Magento\\SalesRule\\Test\\Unit\\Model\\Quote\\Address\\Total\\ShippingDiscountTest::testCollectNoShippingAmount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036049,
+    "stop": 1711693036050,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c0b64a396db838f216c99b925cf16806",
+    "testCaseId": "8a3c66ba076254185b11bf35cf00519f",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesRule\\Test\\Unit\\Model\\Quote\\Address\\Total\\ShippingDiscountTest::testCollectNoShippingAmount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesRule\\Test\\Unit\\Model\\Quote\\Address\\Total\\ShippingDiscountTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCollectNoShippingAmount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

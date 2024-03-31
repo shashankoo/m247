@@ -1,0 +1,43 @@
+{
+    "uuid": "ea44514c-58aa-438e-b6dd-63d5481fe5f4",
+    "name": "Magento\\SendFriend\\Test\\Unit\\Model\\CaptchaValidatorTest::testWrongCaptcha",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041366,
+    "stop": 1711693041367,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0c9dd5d148e8d1aec02b62f7164f4479",
+    "testCaseId": "a0f86b4ef5f7ac51f0a2e3377e1aafba",
+    "rerunOf": null,
+    "fullName": "Magento\\SendFriend\\Test\\Unit\\Model\\CaptchaValidatorTest::testWrongCaptcha",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SendFriend\\Test\\Unit\\Model\\CaptchaValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWrongCaptcha"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "069b3e83-1675-4dd3-bc51-6d4ee9480bac",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Billing\\AbstractAgreementTest::testGetPaymentMethodInstance",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031958,
+    "stop": 1711693031959,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "203b377be013047c4c3fb11aae65f801",
+    "testCaseId": "edbf07e3781a43cafa528c26f12f678a",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Billing\\AbstractAgreementTest::testGetPaymentMethodInstance",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Billing\\AbstractAgreementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPaymentMethodInstance"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

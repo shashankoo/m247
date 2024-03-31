@@ -1,0 +1,50 @@
+{
+    "uuid": "8a74604b-5226-4ba0-8699-be8578e27574",
+    "name": "Magento\\Setup\\Test\\Unit\\Module\\Dependency\\Parser\\CodeTest::testParseWithWrongOptionFilesForParse",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055550,
+    "stop": 1711693055552,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d76d327c062eb1bff10a8fc8e12d42bf",
+    "testCaseId": "8eca1f5cc05063ff6ad26ff97dd8115f",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Module\\Dependency\\Parser\\CodeTest::testParseWithWrongOptionFilesForParse",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Module\\Dependency\\Parser\\CodeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testParseWithWrongOptionFilesForParse"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "72ed8c40-0264-4157-a431-9b35e00c0a6e",
+    "name": "Magento\\Integration\\Test\\Unit\\Helper\\Oauth\\DataTest::testGetCustomerTokenLifetimeEmpty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693029989,
+    "stop": 1711693029989,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "afb0b654bd5d85347bc323da25a0516a",
+    "testCaseId": "59a012351ae55dcc7f95a3b74ab01279",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Helper\\Oauth\\DataTest::testGetCustomerTokenLifetimeEmpty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Helper\\Oauth\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCustomerTokenLifetimeEmpty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

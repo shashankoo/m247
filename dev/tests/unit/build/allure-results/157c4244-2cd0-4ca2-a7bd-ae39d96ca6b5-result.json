@@ -1,0 +1,43 @@
+{
+    "uuid": "157c4244-2cd0-4ca2-a7bd-ae39d96ca6b5",
+    "name": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\EmailTest::testEmail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041502,
+    "stop": 1711693041504,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1b0bc8743d80ca293a7840b401e80cbe",
+    "testCaseId": "c87bb266c72f69b56c275ae1a2c23a79",
+    "rerunOf": null,
+    "fullName": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\EmailTest::testEmail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\EmailTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEmail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

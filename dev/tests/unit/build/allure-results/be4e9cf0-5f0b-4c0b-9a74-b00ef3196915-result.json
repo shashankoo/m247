@@ -1,0 +1,50 @@
+{
+    "uuid": "be4e9cf0-5f0b-4c0b-9a74-b00ef3196915",
+    "name": "Magento\\Indexer\\Test\\Unit\\Console\\Command\\IndexerSetModeCommandTest::testExecuteWithIndex",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024822,
+    "stop": 1711693024823,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "22c6559134808b27b832e6b4dcb15d8a",
+    "testCaseId": "96282e8c637bd8955f7491e3d77b1457",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Console\\Command\\IndexerSetModeCommandTest::testExecuteWithIndex",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Console\\Command\\IndexerSetModeCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithIndex"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

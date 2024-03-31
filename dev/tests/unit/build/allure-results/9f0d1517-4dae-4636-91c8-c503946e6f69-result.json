@@ -1,0 +1,50 @@
+{
+    "uuid": "9f0d1517-4dae-4636-91c8-c503946e6f69",
+    "name": "Magento\\Newsletter\\Test\\Unit\\Model\\Plugin\\CustomerPluginTest::testAfterSave",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030939,
+    "stop": 1711693030943,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"missing_previous_and_new_status\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9239f082355b0c79d927b2e6ed0aa329",
+    "testCaseId": "0f129bc628060d23372946b52a9ac9c0",
+    "rerunOf": null,
+    "fullName": "Magento\\Newsletter\\Test\\Unit\\Model\\Plugin\\CustomerPluginTest::testAfterSave",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Newsletter\\Test\\Unit\\Model\\Plugin\\CustomerPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterSave"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "8873181f-1ccf-454c-a06d-93e3cef356e9",
+    "name": "Magento\\Tax\\Test\\Unit\\App\\Action\\ContextPluginTest::testBeforeExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042337,
+    "stop": 1711693042340,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9fb945c14f7ef81375f7766fa6f853a9",
+    "testCaseId": "c188f060f52b160ede45568824de2852",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\App\\Action\\ContextPluginTest::testBeforeExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\App\\Action\\ContextPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

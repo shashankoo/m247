@@ -1,0 +1,50 @@
+{
+    "uuid": "21501e0c-211c-494a-93ce-e48f61d75593",
+    "name": "Magento\\BundleImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\BundleTest::testSaveData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010383,
+    "stop": 1711693010384,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Import without bundle values\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a2d3e4d791fa9cb22ac10dc2f2e28698",
+    "testCaseId": "ef04b52bf58fdec9c7aa92dbd16958d2",
+    "rerunOf": null,
+    "fullName": "Magento\\BundleImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\BundleTest::testSaveData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\BundleImportExport\\Test\\Unit\\Model\\Import\\Product\\Type\\BundleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

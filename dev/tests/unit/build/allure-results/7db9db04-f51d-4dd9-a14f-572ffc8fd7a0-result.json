@@ -1,0 +1,50 @@
+{
+    "uuid": "7db9db04-f51d-4dd9-a14f-572ffc8fd7a0",
+    "name": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\AttributeAdapterTest::testIsIntegerType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693023230,
+    "stop": 1711693023230,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8f1d9d02daed30d7076dad8af7072bec",
+    "testCaseId": "b4fe118ea118ca711595a4642ffea8a9",
+    "rerunOf": null,
+    "fullName": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\AttributeAdapterTest::testIsIntegerType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Elasticsearch\\Test\\Unit\\Model\\Adapter\\FieldMapper\\Product\\AttributeAdapterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsIntegerType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

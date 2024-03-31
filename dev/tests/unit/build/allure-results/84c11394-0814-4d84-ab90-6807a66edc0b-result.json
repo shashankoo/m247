@@ -1,0 +1,43 @@
+{
+    "uuid": "84c11394-0814-4d84-ab90-6807a66edc0b",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testCreateAccountWithPasswordHashWithCustomerWithoutStoreId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019896,
+    "stop": 1711693019898,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b631b1de08d369a08c9f4339d5667fc7",
+    "testCaseId": "cbf078b198b4882847726814471ab18f",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testCreateAccountWithPasswordHashWithCustomerWithoutStoreId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateAccountWithPasswordHashWithCustomerWithoutStoreId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

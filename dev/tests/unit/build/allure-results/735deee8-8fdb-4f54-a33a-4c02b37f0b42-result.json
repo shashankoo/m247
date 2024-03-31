@@ -1,0 +1,43 @@
+{
+    "uuid": "735deee8-8fdb-4f54-a33a-4c02b37f0b42",
+    "name": "Magento\\Framework\\Webapi\\Test\\Unit\\InputLimit\\DefaultPageSizeSetterTest::testPageSizeIsSetWithPreferredFallbackValue",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078529,
+    "stop": 1711693078529,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "13fc6040b57f49841cdc2c7edd9f7eee",
+    "testCaseId": "048d04ec0755bb9c7bfe907792dc2073",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Webapi\\Test\\Unit\\InputLimit\\DefaultPageSizeSetterTest::testPageSizeIsSetWithPreferredFallbackValue",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Webapi\\Test\\Unit\\InputLimit\\DefaultPageSizeSetterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPageSizeIsSetWithPreferredFallbackValue"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

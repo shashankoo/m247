@@ -1,0 +1,43 @@
+{
+    "uuid": "0592fd9e-7e85-4d1d-b36a-d9b57f1c179a",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductLink\\RepositoryTest::testDeleteWithInvalidDataException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015459,
+    "stop": 1711693015460,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a29eb0bc9a64a55ea759edabc00d2249",
+    "testCaseId": "2871a50ee9a48888152c73aadd582b20",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductLink\\RepositoryTest::testDeleteWithInvalidDataException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductLink\\RepositoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteWithInvalidDataException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

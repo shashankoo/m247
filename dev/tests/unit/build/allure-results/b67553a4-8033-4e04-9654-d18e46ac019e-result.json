@@ -1,0 +1,43 @@
+{
+    "uuid": "b67553a4-8033-4e04-9654-d18e46ac019e",
+    "name": "Magento\\CatalogRule\\Test\\Unit\\Pricing\\Price\\CatalogRulePriceTest::testGetAmountNoBaseAmount",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012545,
+    "stop": 1711693012545,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "eee2a8dc9259568077c153a9bda6358f",
+    "testCaseId": "1e59700dd1fc16de61783bb6e8fc0366",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogRule\\Test\\Unit\\Pricing\\Price\\CatalogRulePriceTest::testGetAmountNoBaseAmount",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogRule\\Test\\Unit\\Pricing\\Price\\CatalogRulePriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAmountNoBaseAmount"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

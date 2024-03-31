@@ -1,0 +1,43 @@
+{
+    "uuid": "81e1bf8c-ebf5-4ba6-94f9-f07856f51668",
+    "name": "Magento\\Catalog\\Test\\Unit\\Cron\\RefreshSpecialPricesTest::testRefreshSpecialPrices",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014005,
+    "stop": 1711693014009,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e8eb25013dd43e189db58af031ed9f89",
+    "testCaseId": "b0da14da49bbc224d50ec7eb889bec54",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Cron\\RefreshSpecialPricesTest::testRefreshSpecialPrices",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Cron\\RefreshSpecialPricesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRefreshSpecialPrices"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

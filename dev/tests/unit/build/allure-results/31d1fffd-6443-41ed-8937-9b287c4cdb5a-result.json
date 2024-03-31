@@ -1,0 +1,43 @@
+{
+    "uuid": "31d1fffd-6443-41ed-8937-9b287c4cdb5a",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\StockItemCheckerTest::testIsModifiedWhenModelIsNew",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012115,
+    "stop": 1711693012116,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3efc21cd811c1ee5d567342b29debc98",
+    "testCaseId": "d60819622ed45fe06df48ba89b57daac",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\StockItemCheckerTest::testIsModifiedWhenModelIsNew",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Stock\\StockItemCheckerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsModifiedWhenModelIsNew"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "391b9711-e0cb-4a86-b329-ed8b58e7cec0",
+    "name": "Magento\\InventoryInStorePickupQuote\\Test\\Unit\\Plugin\\Quote\\AddressCollection\\GetPickupLocationInformationPluginTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030239,
+    "stop": 1711693030244,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e9d019b9b5407e3c0eb43374d1a581c7",
+    "testCaseId": "bb6c2a7c93f23750a2276e3363b7a8f3",
+    "rerunOf": null,
+    "fullName": "Magento\\InventoryInStorePickupQuote\\Test\\Unit\\Plugin\\Quote\\AddressCollection\\GetPickupLocationInformationPluginTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\InventoryInStorePickupQuote\\Test\\Unit\\Plugin\\Quote\\AddressCollection\\GetPickupLocationInformationPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

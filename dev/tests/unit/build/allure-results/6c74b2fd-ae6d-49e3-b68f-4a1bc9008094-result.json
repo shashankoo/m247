@@ -1,0 +1,43 @@
+{
+    "uuid": "6c74b2fd-ae6d-49e3-b68f-4a1bc9008094",
+    "name": "Magento\\Framework\\Event\\Test\\Unit\\Config\\ConverterTest::testConvertThrowsExceptionWhenDomIsInvalid",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693072987,
+    "stop": 1711693072987,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "c8b32c897105fcda3c28e02f056627ed",
+    "testCaseId": "3d1a238065a67ab068c519c5c5b6b575",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Event\\Test\\Unit\\Config\\ConverterTest::testConvertThrowsExceptionWhenDomIsInvalid",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Event\\Test\\Unit\\Config\\ConverterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvertThrowsExceptionWhenDomIsInvalid"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

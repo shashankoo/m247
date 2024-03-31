@@ -1,0 +1,50 @@
+{
+    "uuid": "4513b22d-d6ae-4612-ae7f-83c99cfa1136",
+    "name": "Magento\\GroupedCatalogInventory\\Test\\Unit\\Plugin\\OutOfStockFilterTest::testFilterRemovesOutOfStockProducts",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024247,
+    "stop": 1711693024247,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "285c0fb341fbc5ff57491d0ba76f6044",
+    "testCaseId": "1f864311ef6680054058665d73877a63",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedCatalogInventory\\Test\\Unit\\Plugin\\OutOfStockFilterTest::testFilterRemovesOutOfStockProducts",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedCatalogInventory\\Test\\Unit\\Plugin\\OutOfStockFilterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFilterRemovesOutOfStockProducts"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

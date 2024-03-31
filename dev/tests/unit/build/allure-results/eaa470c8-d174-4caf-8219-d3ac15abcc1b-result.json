@@ -1,0 +1,50 @@
+{
+    "uuid": "eaa470c8-d174-4caf-8219-d3ac15abcc1b",
+    "name": "Magento\\Catalog\\Test\\Unit\\Ui\\AllowedProductTypesTest::testIsAllowedProductType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016195,
+    "stop": 1711693016195,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ba9c539e7ba6a33d004d03af68da96a4",
+    "testCaseId": "d84828a06fa4dc760c815a18237641c8",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Ui\\AllowedProductTypesTest::testIsAllowedProductType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Ui\\AllowedProductTypesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAllowedProductType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

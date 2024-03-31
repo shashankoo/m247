@@ -1,0 +1,50 @@
+{
+    "uuid": "839952a1-b586-408b-a612-4406f029b8a7",
+    "name": "Magento\\Security\\Test\\Unit\\Model\\SecurityChecker\\FrequencyTest::testCheckException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041322,
+    "stop": 1711693041322,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e62391b14791fe229f579cfdd96c7eaa",
+    "testCaseId": "22b7d1e054b100bce14e2101b15d20d7",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Model\\SecurityChecker\\FrequencyTest::testCheckException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Model\\SecurityChecker\\FrequencyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCheckException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

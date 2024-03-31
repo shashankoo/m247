@@ -1,0 +1,43 @@
+{
+    "uuid": "796908f7-c7c0-4cab-bcf7-a1d1dd0446c6",
+    "name": "Magento\\Developer\\Test\\Unit\\Console\\Command\\SourceThemeDeployCommandTest::testExecuteIncorrectThemeFormat",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021405,
+    "stop": 1711693021406,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "105d54536bcd8126fbf9f9e2afa5f5b2",
+    "testCaseId": "aeffc6620595e9f4c3012b80575ff3f4",
+    "rerunOf": null,
+    "fullName": "Magento\\Developer\\Test\\Unit\\Console\\Command\\SourceThemeDeployCommandTest::testExecuteIncorrectThemeFormat",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Developer\\Test\\Unit\\Console\\Command\\SourceThemeDeployCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteIncorrectThemeFormat"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

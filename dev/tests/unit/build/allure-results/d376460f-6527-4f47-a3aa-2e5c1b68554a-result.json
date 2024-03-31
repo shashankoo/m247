@@ -1,0 +1,43 @@
+{
+    "uuid": "d376460f-6527-4f47-a3aa-2e5c1b68554a",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\ExceptionHandlerTest::testHandleDeveloperModeNotInstalled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693058114,
+    "stop": 1711693058115,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "3181a9dd5771a46013500d5d969d4429",
+    "testCaseId": "221ae74acb8937af3319865a4e1c2ad3",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\ExceptionHandlerTest::testHandleDeveloperModeNotInstalled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\ExceptionHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testHandleDeveloperModeNotInstalled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

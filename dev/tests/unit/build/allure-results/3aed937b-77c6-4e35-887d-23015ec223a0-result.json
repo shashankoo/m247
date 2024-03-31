@@ -1,0 +1,43 @@
+{
+    "uuid": "3aed937b-77c6-4e35-887d-23015ec223a0",
+    "name": "Magento\\MysqlMq\\Test\\Unit\\Model\\ResourceModel\\QueueTest::testSaveMessage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030832,
+    "stop": 1711693030835,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "65262a5637536fe2a1cc65e86bc49d2f",
+    "testCaseId": "47c2e473d74d5e20ecc1ae3a7b05a38b",
+    "rerunOf": null,
+    "fullName": "Magento\\MysqlMq\\Test\\Unit\\Model\\ResourceModel\\QueueTest::testSaveMessage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MysqlMq\\Test\\Unit\\Model\\ResourceModel\\QueueTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveMessage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

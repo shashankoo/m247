@@ -1,0 +1,50 @@
+{
+    "uuid": "fc359391-5a46-4287-808a-ef3f60b70ca4",
+    "name": "Magento\\Indexer\\Test\\Unit\\Console\\Command\\IndexerReindexCommandTest::testExecuteWithIndex",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024806,
+    "stop": 1711693024807,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"With dependencies and some indexers is invalid\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a003f29c48b327dee3df15b69f04f1d7",
+    "testCaseId": "ea6979d48a29f31719a648fb94876017",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Console\\Command\\IndexerReindexCommandTest::testExecuteWithIndex",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Console\\Command\\IndexerReindexCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithIndex"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

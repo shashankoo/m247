@@ -1,0 +1,50 @@
+{
+    "uuid": "0c98c984-bf3b-46f5-acab-9ba81704fb3f",
+    "name": "Magento\\Ui\\Test\\Unit\\Component\\Filters\\Type\\RangeTest::testPrepare",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693046454,
+    "stop": 1711693046454,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "31c27627f13a4b45d0d538b5cfb060b1",
+    "testCaseId": "8b26a454e7c2c5c8457dda324fe98665",
+    "rerunOf": null,
+    "fullName": "Magento\\Ui\\Test\\Unit\\Component\\Filters\\Type\\RangeTest::testPrepare",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Ui\\Test\\Unit\\Component\\Filters\\Type\\RangeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepare"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

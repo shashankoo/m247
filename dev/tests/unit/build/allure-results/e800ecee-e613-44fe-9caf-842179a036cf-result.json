@@ -1,0 +1,50 @@
+{
+    "uuid": "e800ecee-e613-44fe-9caf-842179a036cf",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\UiComponent\\Argument\\Interpreter\\ConfigurableObjectTest::testInvalidCombinations",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693078494,
+    "stop": 1711693078494,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f1248715e5396e09ef01f50c1132b7a4",
+    "testCaseId": "c1aeea546e4da9a097da6373965f7431",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\UiComponent\\Argument\\Interpreter\\ConfigurableObjectTest::testInvalidCombinations",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\UiComponent\\Argument\\Interpreter\\ConfigurableObjectTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInvalidCombinations"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

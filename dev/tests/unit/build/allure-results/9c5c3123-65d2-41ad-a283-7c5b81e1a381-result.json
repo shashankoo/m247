@@ -1,0 +1,43 @@
+{
+    "uuid": "9c5c3123-65d2-41ad-a283-7c5b81e1a381",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Quote\\Item\\QuantityValidator\\Initializer\\QuantityValidatorTest::testValidateAndRemoveErrorsFromQuote",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012032,
+    "stop": 1711693012033,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "54236d6a823b5fe4e5b905f9ea86e652",
+    "testCaseId": "55449e29f9fcb814080bcbcd5ce483a7",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Quote\\Item\\QuantityValidator\\Initializer\\QuantityValidatorTest::testValidateAndRemoveErrorsFromQuote",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Quote\\Item\\QuantityValidator\\Initializer\\QuantityValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateAndRemoveErrorsFromQuote"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

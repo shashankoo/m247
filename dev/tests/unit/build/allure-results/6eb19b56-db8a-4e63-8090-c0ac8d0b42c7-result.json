@@ -1,0 +1,50 @@
+{
+    "uuid": "6eb19b56-db8a-4e63-8090-c0ac8d0b42c7",
+    "name": "Magento\\Framework\\View\\Test\\Unit\\Design\\Theme\\Customization\\AbstractFileTest::testPrepareFile",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693077495,
+    "stop": 1711693077496,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"second_condition\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "eeda18a00709fe13fa4343a60f1c3465",
+    "testCaseId": "564c9f5e8d1127fb94021bc00deef46c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\View\\Test\\Unit\\Design\\Theme\\Customization\\AbstractFileTest::testPrepareFile",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\View\\Test\\Unit\\Design\\Theme\\Customization\\AbstractFileTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareFile"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

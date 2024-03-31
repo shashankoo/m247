@@ -1,0 +1,50 @@
+{
+    "uuid": "b0919efb-bec0-45a8-867f-63bf8f9d66e7",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Auth\\SessionTest::testIsAllowed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009834,
+    "stop": 1711693009834,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Negative: User not defined\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9f75ac653d39bfbefd12d8371ba8d099",
+    "testCaseId": "d42600734e4444ec8fbc75183ee2653f",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Auth\\SessionTest::testIsAllowed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Auth\\SessionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAllowed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "8cd27774-d792-455b-8e7b-c0245d521fc8",
+    "name": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Cron\\ReportNewRelicCronTest::testReportNewRelicCronModuleDisabledFromConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030861,
+    "stop": 1711693030863,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9da954a09beff10945fef2aa4db62d6c",
+    "testCaseId": "7de1c062c8cffd57e46db8828aff9f3d",
+    "rerunOf": null,
+    "fullName": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Cron\\ReportNewRelicCronTest::testReportNewRelicCronModuleDisabledFromConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Cron\\ReportNewRelicCronTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReportNewRelicCronModuleDisabledFromConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

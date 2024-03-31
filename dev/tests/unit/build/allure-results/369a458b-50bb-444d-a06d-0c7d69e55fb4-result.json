@@ -1,0 +1,43 @@
+{
+    "uuid": "369a458b-50bb-444d-a06d-0c7d69e55fb4",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\SetCheckoutSessionPersistentDataObserverTest::testExecuteWhenSessionIsNotPersistent",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032584,
+    "stop": 1711693032585,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6c2afcd8c631534fd6b4ce505877392f",
+    "testCaseId": "54cf8ea559b39456584c36251b719a52",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\SetCheckoutSessionPersistentDataObserverTest::testExecuteWhenSessionIsNotPersistent",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\SetCheckoutSessionPersistentDataObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenSessionIsNotPersistent"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "664a1ae3-84e6-48ae-8fda-1665d726dc35",
+    "name": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Invoice\\ViewTest::testIsPaymentReview",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693036579,
+    "stop": 1711693036579,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "cf2e9be5cc7554dba4b06f25a107891e",
+    "testCaseId": "89ed8468ceba114cc8969a27e4fd8891",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Invoice\\ViewTest::testIsPaymentReview",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Block\\Adminhtml\\Order\\Invoice\\ViewTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsPaymentReview"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

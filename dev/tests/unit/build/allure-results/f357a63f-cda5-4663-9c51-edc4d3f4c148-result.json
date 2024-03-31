@@ -1,0 +1,43 @@
+{
+    "uuid": "f357a63f-cda5-4663-9c51-edc4d3f4c148",
+    "name": "Magento\\Backup\\Test\\Unit\\Controller\\Adminhtml\\Index\\RollbackTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010320,
+    "stop": 1711693010321,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9c341321415f5fa8f20d9af2a80a0532",
+    "testCaseId": "deeef33d51a3fcac89ed8ebd714b5f03",
+    "rerunOf": null,
+    "fullName": "Magento\\Backup\\Test\\Unit\\Controller\\Adminhtml\\Index\\RollbackTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backup\\Test\\Unit\\Controller\\Adminhtml\\Index\\RollbackTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

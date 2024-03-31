@@ -1,0 +1,50 @@
+{
+    "uuid": "6d34603d-0e29-4d6f-8980-46d745568ed7",
+    "name": "Magento\\MessageQueue\\Test\\Unit\\Model\\Cron\\ConsumersRunnerTest::testRun",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030513,
+    "stop": 1711693030515,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "97aaa01ec9a8e038eae1e224c866e286",
+    "testCaseId": "6f5ca852536ad7f9446250a4e9f98eb9",
+    "rerunOf": null,
+    "fullName": "Magento\\MessageQueue\\Test\\Unit\\Model\\Cron\\ConsumersRunnerTest::testRun",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MessageQueue\\Test\\Unit\\Model\\Cron\\ConsumersRunnerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRun"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

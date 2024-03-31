@@ -1,0 +1,50 @@
+{
+    "uuid": "c10152b7-953b-4f03-a283-48b5c06b7d45",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\VersionControl\\AbstractEntityTest::testCompareAttributes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022830,
+    "stop": 1711693022830,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"attribute1 bigger than attribute2\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8c7f361939da9605ab96842ab1442467",
+    "testCaseId": "23f66842678d351343508a0671ef2135",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\VersionControl\\AbstractEntityTest::testCompareAttributes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\VersionControl\\AbstractEntityTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCompareAttributes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

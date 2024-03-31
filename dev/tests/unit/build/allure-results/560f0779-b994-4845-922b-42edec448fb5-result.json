@@ -1,0 +1,43 @@
+{
+    "uuid": "560f0779-b994-4845-922b-42edec448fb5",
+    "name": "Magento\\MysqlMq\\Test\\Unit\\Model\\ResourceModel\\QueueTest::testDeleteMarkedMessages",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030840,
+    "stop": 1711693030840,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "53c810ab4949c819b61fb298c457ff12",
+    "testCaseId": "34d467285baa344e361fbf22cd7aab2f",
+    "rerunOf": null,
+    "fullName": "Magento\\MysqlMq\\Test\\Unit\\Model\\ResourceModel\\QueueTest::testDeleteMarkedMessages",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\MysqlMq\\Test\\Unit\\Model\\ResourceModel\\QueueTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteMarkedMessages"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

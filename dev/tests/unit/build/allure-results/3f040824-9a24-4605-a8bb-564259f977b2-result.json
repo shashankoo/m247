@@ -1,0 +1,43 @@
+{
+    "uuid": "3f040824-9a24-4605-a8bb-564259f977b2",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Indexer\\Stock\\Action\\FullTest::testExecuteWithAdapterErrorThrowsException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011962,
+    "stop": 1711693011967,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "73b769ae7978d10149a7f4b8205ef2a4",
+    "testCaseId": "e1af8ff32013309279b8c6c15ce67648",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Indexer\\Stock\\Action\\FullTest::testExecuteWithAdapterErrorThrowsException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Indexer\\Stock\\Action\\FullTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithAdapterErrorThrowsException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

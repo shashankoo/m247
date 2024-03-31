@@ -1,0 +1,43 @@
+{
+    "uuid": "ca85505f-7cd8-4377-b471-c20929e220e2",
+    "name": "Magento\\Paypal\\Test\\Unit\\Helper\\DataTest::testGetHtmlTransactionMethodNotInPaymentList",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031899,
+    "stop": 1711693031899,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "271e07fdd39273336040e3297f61285e",
+    "testCaseId": "7236c90550556657f41e63638018597d",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Helper\\DataTest::testGetHtmlTransactionMethodNotInPaymentList",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetHtmlTransactionMethodNotInPaymentList"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

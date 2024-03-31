@@ -1,0 +1,43 @@
+{
+    "uuid": "abad62bf-a24d-4261-86c5-3e99910fcd70",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfigTest::testGettersReloadConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057896,
+    "stop": 1711693057897,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b35c592ec992b90709dbfb13988080b3",
+    "testCaseId": "7fb6187836ce0175708161e8f64f8e39",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfigTest::testGettersReloadConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGettersReloadConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

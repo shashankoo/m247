@@ -1,0 +1,50 @@
+{
+    "uuid": "c047144f-6c3e-4d5c-b13c-ee15c108779a",
+    "name": "Magento\\Theme\\Test\\Unit\\Ui\\Component\\Listing\\Column\\EditActionTest::testPrepareDataSource",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043825,
+    "stop": 1711693043825,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3105045800c1b312eb047b10229944ea",
+    "testCaseId": "23a9cd9300e0bb885bf1ab87ac9471e4",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Ui\\Component\\Listing\\Column\\EditActionTest::testPrepareDataSource",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Ui\\Component\\Listing\\Column\\EditActionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareDataSource"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

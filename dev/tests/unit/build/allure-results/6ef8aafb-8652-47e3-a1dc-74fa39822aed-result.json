@@ -1,0 +1,50 @@
+{
+    "uuid": "6ef8aafb-8652-47e3-a1dc-74fa39822aed",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Model\\Report\\TransactionMapTest::testGetCustomAttributes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056372,
+    "stop": 1711693056374,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ac180bceaad35fa2edf88368cc760ecf",
+    "testCaseId": "6f1d4813777771d29808e0ea054c8a71",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Model\\Report\\TransactionMapTest::testGetCustomAttributes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Model\\Report\\TransactionMapTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCustomAttributes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

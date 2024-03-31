@@ -1,0 +1,43 @@
+{
+    "uuid": "3c7e44ed-08e0-4ff8-90c5-7fc812cc0e26",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testPlaceActionOrder",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038440,
+    "stop": 1711693038441,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "44436d8e686e3f3184e7a225ad181fdc",
+    "testCaseId": "bda0a8dc409b12b65dabdc56d9b79f54",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest::testPlaceActionOrder",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\PaymentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPlaceActionOrder"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

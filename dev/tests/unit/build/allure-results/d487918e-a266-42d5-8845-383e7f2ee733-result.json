@@ -1,0 +1,43 @@
+{
+    "uuid": "d487918e-a266-42d5-8845-383e7f2ee733",
+    "name": "Magento\\Store\\Test\\Unit\\App\\Request\\PathInfoProcessorTest::testProcessIfStoreExistsAndDirectAccessToFrontName",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041774,
+    "stop": 1711693041775,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b57aa6a631701140f673e3f0f79e0ea3",
+    "testCaseId": "232dbb8d23caa6df669ee56176b6d8b9",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\App\\Request\\PathInfoProcessorTest::testProcessIfStoreExistsAndDirectAccessToFrontName",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\App\\Request\\PathInfoProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessIfStoreExistsAndDirectAccessToFrontName"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "2aba1a53-1310-4166-b589-ba045ff1851d",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Spi\\StockRegistryProviderTest::testGetStockItem",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012065,
+    "stop": 1711693012066,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "7e2162665ece47e877721b375f81ad86",
+    "testCaseId": "79a9b423139381aaf07611ccabc9da74",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Spi\\StockRegistryProviderTest::testGetStockItem",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Spi\\StockRegistryProviderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStockItem"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

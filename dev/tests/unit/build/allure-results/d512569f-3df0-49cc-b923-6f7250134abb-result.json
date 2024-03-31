@@ -1,0 +1,50 @@
+{
+    "uuid": "d512569f-3df0-49cc-b923-6f7250134abb",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\Calculation\\CalculatorFactoryTest::testCreate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042608,
+    "stop": 1711693042609,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Total HasShipping\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "45670927a2afc30e25f98add9016f8df",
+    "testCaseId": "0b593b72d0b98272fc495ffa1a320da5",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\Calculation\\CalculatorFactoryTest::testCreate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\Calculation\\CalculatorFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "400259cf-58b8-40ce-a713-fec12c921e42",
+    "name": "Magento\\Framework\\Stdlib\\Test\\Unit\\ArrayUtilsTest::testFlatten",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693076633,
+    "stop": 1711693076633,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7aa643cfc5e4ae8254f49f5f1b0b37d8",
+    "testCaseId": "692b3577b78f7884770f4cd14b5e928c",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Stdlib\\Test\\Unit\\ArrayUtilsTest::testFlatten",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Stdlib\\Test\\Unit\\ArrayUtilsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFlatten"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

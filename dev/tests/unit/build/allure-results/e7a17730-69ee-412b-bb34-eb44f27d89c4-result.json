@@ -1,0 +1,43 @@
+{
+    "uuid": "e7a17730-69ee-412b-bb34-eb44f27d89c4",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testSaveWithoutTypeOptions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015701,
+    "stop": 1711693015702,
+    "status": "broken",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Trying to configure method \"getStockItem\" with addMethods(), but it exists in class \"Magento\\Catalog\\Api\\Data\\ProductExtensionInterface\". Use onlyMethods() for methods that exist in the class",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2f51c007491567b2a029ed9193cc8236",
+    "testCaseId": "035eff7f18c55acf50d9bc1ea0252ed9",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest::testSaveWithoutTypeOptions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveWithoutTypeOptions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

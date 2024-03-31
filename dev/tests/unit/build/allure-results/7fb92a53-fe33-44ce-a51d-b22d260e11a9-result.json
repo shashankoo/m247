@@ -1,0 +1,43 @@
+{
+    "uuid": "7fb92a53-fe33-44ce-a51d-b22d260e11a9",
+    "name": "Magento\\Framework\\Lock\\Test\\Unit\\ProxyTest::testIsLocked",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074034,
+    "stop": 1711693074035,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ebc522078443b721caf871a858344513",
+    "testCaseId": "120f5e9bf036b494633a70f78d89c114",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Lock\\Test\\Unit\\ProxyTest::testIsLocked",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Lock\\Test\\Unit\\ProxyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsLocked"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

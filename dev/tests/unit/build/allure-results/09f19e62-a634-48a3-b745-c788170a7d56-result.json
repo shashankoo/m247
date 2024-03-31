@@ -1,0 +1,50 @@
+{
+    "uuid": "09f19e62-a634-48a3-b745-c788170a7d56",
+    "name": "Magento\\Payment\\Test\\Unit\\Block\\Transparent\\FormTest::testGetCgiUrl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031377,
+    "stop": 1711693031378,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "002dc17953ca3831c229b3c38c04241b",
+    "testCaseId": "55bd3bb64c113a036a9a3d5998b0f4a7",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Block\\Transparent\\FormTest::testGetCgiUrl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Block\\Transparent\\FormTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCgiUrl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

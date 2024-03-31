@@ -1,0 +1,43 @@
+{
+    "uuid": "9d6b7dbd-14e4-42cd-af79-8209a51d88e0",
+    "name": "Magento\\Checkout\\Test\\Unit\\Helper\\DataTest::testGetBasePriceInclTaxWithoutQty",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016801,
+    "stop": 1711693016802,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bee60d799b3c9ebaf5fcab36105f17a9",
+    "testCaseId": "f5239274abdf1e047d08b67d15b0e975",
+    "rerunOf": null,
+    "fullName": "Magento\\Checkout\\Test\\Unit\\Helper\\DataTest::testGetBasePriceInclTaxWithoutQty",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Checkout\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetBasePriceInclTaxWithoutQty"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

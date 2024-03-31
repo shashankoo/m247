@@ -1,0 +1,50 @@
+{
+    "uuid": "1c1d8efa-6259-4b3d-90bf-12b64b05088f",
+    "name": "Magento\\AdobeIms\\Test\\Unit\\Block\\Adminhtml\\SignInTest::testGetComponentJsonConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008556,
+    "stop": 1711693008558,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Existing authorized user\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "83c78028fca9aa8623722a9791925750",
+    "testCaseId": "b068f3bceefc078131930f09b36993cf",
+    "rerunOf": null,
+    "fullName": "Magento\\AdobeIms\\Test\\Unit\\Block\\Adminhtml\\SignInTest::testGetComponentJsonConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdobeIms\\Test\\Unit\\Block\\Adminhtml\\SignInTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetComponentJsonConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

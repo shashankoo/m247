@@ -1,0 +1,43 @@
+{
+    "uuid": "6d8a7178-6a6b-4c37-b7ee-be6b8555cc65",
+    "name": "Magento\\Downloadable\\Test\\Unit\\Model\\File\\ContentValidatorTest::testIsValidThrowsExceptionIfProvidedContentIsNotBase64Encoded",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021959,
+    "stop": 1711693021959,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6bbe746551dc1bc320fe52dca7dce788",
+    "testCaseId": "1ae8fa16ac9cda11f2bef19dd4dbc2c9",
+    "rerunOf": null,
+    "fullName": "Magento\\Downloadable\\Test\\Unit\\Model\\File\\ContentValidatorTest::testIsValidThrowsExceptionIfProvidedContentIsNotBase64Encoded",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Downloadable\\Test\\Unit\\Model\\File\\ContentValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsValidThrowsExceptionIfProvidedContentIsNotBase64Encoded"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

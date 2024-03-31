@@ -1,0 +1,50 @@
+{
+    "uuid": "bd548d5c-4024-4ef6-8b35-dddeaa55b8a7",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Model\\Report\\TransactionsCollectionTest::testAddToFilter",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056380,
+    "stop": 1711693056380,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ce869970bc39e81f6646b1700211993b",
+    "testCaseId": "7d28a2b2347c35602f8432386094b253",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Model\\Report\\TransactionsCollectionTest::testAddToFilter",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Model\\Report\\TransactionsCollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddToFilter"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

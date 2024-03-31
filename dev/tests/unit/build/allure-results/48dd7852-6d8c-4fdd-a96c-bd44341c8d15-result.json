@@ -1,0 +1,50 @@
+{
+    "uuid": "48dd7852-6d8c-4fdd-a96c-bd44341c8d15",
+    "name": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Attribute\\ValidateTest::testUniqueValidation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013843,
+    "stop": 1711693013844,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"duplicate and deleted\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6550cc3d7b7990287332ed3f7b519c48",
+    "testCaseId": "d6b8b147de8da32b455e7a6775b6443a",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Attribute\\ValidateTest::testUniqueValidation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Attribute\\ValidateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUniqueValidation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

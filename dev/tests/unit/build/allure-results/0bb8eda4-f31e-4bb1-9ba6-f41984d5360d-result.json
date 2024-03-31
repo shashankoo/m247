@@ -1,0 +1,50 @@
+{
+    "uuid": "0bb8eda4-f31e-4bb1-9ba6-f41984d5360d",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Tab\\Variations\\Config\\MatrixTest::testGetVariationWizard",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018321,
+    "stop": 1711693018322,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "78ade4499301364348f89866b6618403",
+    "testCaseId": "d22b3b1723dc66e9196ac11fb0298421",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Tab\\Variations\\Config\\MatrixTest::testGetVariationWizard",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Block\\Adminhtml\\Product\\Edit\\Tab\\Variations\\Config\\MatrixTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetVariationWizard"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

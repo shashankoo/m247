@@ -1,0 +1,50 @@
+{
+    "uuid": "3f5a3d80-9470-4694-97eb-fdd9e23fa80a",
+    "name": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest::testInstallWithInvalidRemoteStorageConfiguration",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693055318,
+    "stop": 1711693055319,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d0d0239ebf88eeb239948aba8065349e",
+    "testCaseId": "9d9898dfd3123ec5d9e3486cb169a57a",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest::testInstallWithInvalidRemoteStorageConfiguration",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Model\\InstallerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInstallWithInvalidRemoteStorageConfiguration"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

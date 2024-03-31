@@ -1,0 +1,50 @@
+{
+    "uuid": "b4f5efe5-541a-4666-891a-9e268c33ff92",
+    "name": "Magento\\Customer\\Test\\Unit\\CustomerData\\Plugin\\SessionCheckerTest::testBeforeStart",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019803,
+    "stop": 1711693019803,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4dea9e9aa5ba0a2a71d4b623374242ff",
+    "testCaseId": "795ab2972d7b271732433e020ba30531",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\CustomerData\\Plugin\\SessionCheckerTest::testBeforeStart",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\CustomerData\\Plugin\\SessionCheckerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeStart"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

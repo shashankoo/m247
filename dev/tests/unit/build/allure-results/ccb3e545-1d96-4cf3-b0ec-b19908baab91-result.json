@@ -1,0 +1,43 @@
+{
+    "uuid": "ccb3e545-1d96-4cf3-b0ec-b19908baab91",
+    "name": "Magento\\Store\\Test\\Unit\\Model\\StoreSwitcher\\HashProcessorTest::testShouldNotProcessIfDataUnserializationFailed",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041939,
+    "stop": 1711693041939,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ae26f39f4ff3669b541b48cf52ecf85a",
+    "testCaseId": "44dd5e8fd4336206d5b71ae602513a05",
+    "rerunOf": null,
+    "fullName": "Magento\\Store\\Test\\Unit\\Model\\StoreSwitcher\\HashProcessorTest::testShouldNotProcessIfDataUnserializationFailed",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Store\\Test\\Unit\\Model\\StoreSwitcher\\HashProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testShouldNotProcessIfDataUnserializationFailed"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "6dd779c1-3465-457d-997a-b7e18dfb0966",
+    "name": "Magento\\Persistent\\Test\\Unit\\CustomerData\\PersistentTest::testGetSectionDataWhenCustomerNotLoggedInReturnsEmptyArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032477,
+    "stop": 1711693032477,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ce5a87426da3cbe57bed721ecf45080d",
+    "testCaseId": "9122bd4e1218a650eb95c230619a0427",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\CustomerData\\PersistentTest::testGetSectionDataWhenCustomerNotLoggedInReturnsEmptyArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\CustomerData\\PersistentTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetSectionDataWhenCustomerNotLoggedInReturnsEmptyArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

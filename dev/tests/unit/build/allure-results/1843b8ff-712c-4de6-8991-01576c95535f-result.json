@@ -1,0 +1,50 @@
+{
+    "uuid": "1843b8ff-712c-4de6-8991-01576c95535f",
+    "name": "Magento\\Developer\\Test\\Unit\\Model\\TemplateEngine\\Plugin\\DebugHintsTest::testAfterCreateInactive",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021562,
+    "stop": 1711693021563,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "105cde6b9e4ebbcdbcb7745246a7b481",
+    "testCaseId": "6ec8c3c5d77c50943e2563bcf5b22a43",
+    "rerunOf": null,
+    "fullName": "Magento\\Developer\\Test\\Unit\\Model\\TemplateEngine\\Plugin\\DebugHintsTest::testAfterCreateInactive",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Developer\\Test\\Unit\\Model\\TemplateEngine\\Plugin\\DebugHintsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterCreateInactive"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

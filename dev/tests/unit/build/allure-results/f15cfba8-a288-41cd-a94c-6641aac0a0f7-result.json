@@ -1,0 +1,50 @@
+{
+    "uuid": "f15cfba8-a288-41cd-a94c-6641aac0a0f7",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\ResourceModel\\Address\\DeleteRelationTest::testDeleteRelation",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020975,
+    "stop": 1711693020975,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#4",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4373e7fcc1d8d25ed7404144eb99314a",
+    "testCaseId": "d40038d211bda43107f305dc3af3d89a",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\ResourceModel\\Address\\DeleteRelationTest::testDeleteRelation",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\ResourceModel\\Address\\DeleteRelationTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteRelation"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

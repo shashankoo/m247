@@ -1,0 +1,50 @@
+{
+    "uuid": "9b2af69d-3854-4647-aec1-27d8c55f1599",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\MultilineTest::testValidateValueRequired",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020797,
+    "stop": 1711693020798,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"false\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "afb54bc08abe24bb11fdb15c871dfedc",
+    "testCaseId": "a17ffd140ac7ab193137bc170f7d50a9",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\MultilineTest::testValidateValueRequired",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\Metadata\\Form\\MultilineTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateValueRequired"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

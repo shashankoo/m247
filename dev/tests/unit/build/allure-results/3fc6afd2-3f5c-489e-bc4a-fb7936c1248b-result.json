@@ -1,0 +1,43 @@
+{
+    "uuid": "3fc6afd2-3f5c-489e-bc4a-fb7936c1248b",
+    "name": "Magento\\Persistent\\Test\\Unit\\Observer\\RemovePersistentCookieOnRegisterObserverTest::testExecuteWhenSessionIsNotPersistent",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032580,
+    "stop": 1711693032580,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "22d74593129a885caf7a5ae59a7e892f",
+    "testCaseId": "e72fe0a376be083a1c99954b73994fb9",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Observer\\RemovePersistentCookieOnRegisterObserverTest::testExecuteWhenSessionIsNotPersistent",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Observer\\RemovePersistentCookieOnRegisterObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWhenSessionIsNotPersistent"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

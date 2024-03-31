@@ -1,0 +1,50 @@
+{
+    "uuid": "a2e95429-a628-4d12-a6cd-6124eb5721a4",
+    "name": "Magento\\Integration\\Test\\Unit\\Model\\Config\\XsdTest::testExemplarXml",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030070,
+    "stop": 1711693030071,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"invalid email\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "df23d5aa776b24e03d49bf698e584523",
+    "testCaseId": "f6a30e5150b7aba1b3764b1406bb0e2a",
+    "rerunOf": null,
+    "fullName": "Magento\\Integration\\Test\\Unit\\Model\\Config\\XsdTest::testExemplarXml",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Integration\\Test\\Unit\\Model\\Config\\XsdTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExemplarXml"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

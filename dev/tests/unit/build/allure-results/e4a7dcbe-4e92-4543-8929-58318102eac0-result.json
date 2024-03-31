@@ -1,0 +1,43 @@
+{
+    "uuid": "e4a7dcbe-4e92-4543-8929-58318102eac0",
+    "name": "Magento\\Cms\\Test\\Unit\\Controller\\Adminhtml\\Block\\DeleteTest::testDeleteActionThrowsException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017098,
+    "stop": 1711693017099,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e307c21f241a6fc65a6ae15235746eef",
+    "testCaseId": "17202f159366c26bebd12acaad1d90b7",
+    "rerunOf": null,
+    "fullName": "Magento\\Cms\\Test\\Unit\\Controller\\Adminhtml\\Block\\DeleteTest::testDeleteActionThrowsException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cms\\Test\\Unit\\Controller\\Adminhtml\\Block\\DeleteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteActionThrowsException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

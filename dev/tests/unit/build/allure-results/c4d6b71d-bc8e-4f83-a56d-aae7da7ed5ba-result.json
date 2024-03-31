@@ -1,0 +1,50 @@
+{
+    "uuid": "c4d6b71d-bc8e-4f83-a56d-aae7da7ed5ba",
+    "name": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\AbstractElementTest::testIsVisibleReturnsFalseForNonProperScopes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693017960,
+    "stop": 1711693017961,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "0be710983379537ebf805c5dc4dbcb1b",
+    "testCaseId": "4bf7c5de40ad8bfbd2d3a4e0f899dec7",
+    "rerunOf": null,
+    "fullName": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\AbstractElementTest::testIsVisibleReturnsFalseForNonProperScopes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Config\\Test\\Unit\\Model\\Config\\Structure\\AbstractElementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsVisibleReturnsFalseForNonProperScopes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "c9236ec4-db91-460a-a155-bfb87b8429a4",
+    "name": "Magento\\GoogleOptimizer\\Test\\Unit\\Observer\\CmsPage\\SaveGoogleExperimentScriptObserverTest::testRemovingCode",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024195,
+    "stop": 1711693024195,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ce979012d67119f152242d916088e49a",
+    "testCaseId": "99277d6d6a2a7f2096d5fb054b1d23f2",
+    "rerunOf": null,
+    "fullName": "Magento\\GoogleOptimizer\\Test\\Unit\\Observer\\CmsPage\\SaveGoogleExperimentScriptObserverTest::testRemovingCode",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GoogleOptimizer\\Test\\Unit\\Observer\\CmsPage\\SaveGoogleExperimentScriptObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRemovingCode"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

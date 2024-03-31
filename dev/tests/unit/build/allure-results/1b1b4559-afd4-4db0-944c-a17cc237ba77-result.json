@@ -1,0 +1,43 @@
+{
+    "uuid": "1b1b4559-afd4-4db0-944c-a17cc237ba77",
+    "name": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\CancelTest::testExecuteNoInvoice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037080,
+    "stop": 1711693037080,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "95d36f50017a8b541194a42d040523a2",
+    "testCaseId": "a74680d33f778abacf7d498dcdd5d5da",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\CancelTest::testExecuteNoInvoice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Controller\\Adminhtml\\Order\\Invoice\\CancelTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteNoInvoice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

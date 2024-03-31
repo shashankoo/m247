@@ -1,0 +1,43 @@
+{
+    "uuid": "85defaa5-d58c-4201-a5c5-3c1b65c7c5f0",
+    "name": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\NewActionTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041507,
+    "stop": 1711693041509,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4c4e2fcff9bff6e16380ac1c2c7c6076",
+    "testCaseId": "be11215d16280e4ce6b85fc8742b228b",
+    "rerunOf": null,
+    "fullName": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\NewActionTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Shipping\\Test\\Unit\\Controller\\Adminhtml\\Order\\Shipment\\NewActionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

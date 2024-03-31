@@ -1,0 +1,43 @@
+{
+    "uuid": "c7f1a831-7cfc-47c9-9586-a4fd743eb8e1",
+    "name": "Magento\\CatalogRule\\Test\\Unit\\Model\\Rule\\Condition\\MappableConditionProcessorTest::testConditionV2",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012347,
+    "stop": 1711693012348,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "b3cd3194d7ecc2a60a17db6410a7e0c0",
+    "testCaseId": "76e9b4944de8a5f82c6ef6980787a2fd",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogRule\\Test\\Unit\\Model\\Rule\\Condition\\MappableConditionProcessorTest::testConditionV2",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogRule\\Test\\Unit\\Model\\Rule\\Condition\\MappableConditionProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConditionV2"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

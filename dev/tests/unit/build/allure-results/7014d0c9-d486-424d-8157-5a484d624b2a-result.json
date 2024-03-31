@@ -1,0 +1,50 @@
+{
+    "uuid": "7014d0c9-d486-424d-8157-5a484d624b2a",
+    "name": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Attribute\\ValidateTest::testWhitespaceOption",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013853,
+    "stop": 1711693013853,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"not empty admin scope options\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "929738da16a59e07a1900ebe1c3675e6",
+    "testCaseId": "266b4e2e9262ac189fc45fd3351ab97a",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Attribute\\ValidateTest::testWhitespaceOption",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\Attribute\\ValidateTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testWhitespaceOption"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

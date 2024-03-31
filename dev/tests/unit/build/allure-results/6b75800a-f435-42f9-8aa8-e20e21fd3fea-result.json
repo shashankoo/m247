@@ -1,0 +1,50 @@
+{
+    "uuid": "6b75800a-f435-42f9-8aa8-e20e21fd3fea",
+    "name": "Magento\\Captcha\\Test\\Unit\\Cron\\DeleteExpiredImagesTest::testDeleteExpiredImages",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011253,
+    "stop": 1711693011254,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4ca5e60805fdf54b0e91e792fce11700",
+    "testCaseId": "ff35feda0db67a284b479aba46ec5a6b",
+    "rerunOf": null,
+    "fullName": "Magento\\Captcha\\Test\\Unit\\Cron\\DeleteExpiredImagesTest::testDeleteExpiredImages",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Captcha\\Test\\Unit\\Cron\\DeleteExpiredImagesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDeleteExpiredImages"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

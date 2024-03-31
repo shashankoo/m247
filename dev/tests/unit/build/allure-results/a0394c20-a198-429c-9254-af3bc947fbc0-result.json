@@ -1,0 +1,43 @@
+{
+    "uuid": "a0394c20-a198-429c-9254-af3bc947fbc0",
+    "name": "Magento\\SalesInventory\\Test\\Unit\\Observer\\RefundOrderInventoryObserverTest::testRefundOrderInventory",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693035896,
+    "stop": 1711693035899,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6575225c9a8d35d9db1ea3ddfdec5725",
+    "testCaseId": "0536975881d9073527c59ba08ea68f0c",
+    "rerunOf": null,
+    "fullName": "Magento\\SalesInventory\\Test\\Unit\\Observer\\RefundOrderInventoryObserverTest::testRefundOrderInventory",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\SalesInventory\\Test\\Unit\\Observer\\RefundOrderInventoryObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRefundOrderInventory"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

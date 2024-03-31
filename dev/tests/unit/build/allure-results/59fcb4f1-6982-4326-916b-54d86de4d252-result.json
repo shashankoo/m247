@@ -1,0 +1,50 @@
+{
+    "uuid": "59fcb4f1-6982-4326-916b-54d86de4d252",
+    "name": "Magento\\GroupedCatalogInventory\\Test\\Unit\\Plugin\\OutOfStockFilterTest::testFilterOnlyProcessesArray",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024246,
+    "stop": 1711693024246,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5ad16f50b0d3cd0f734360ac324e3ba0",
+    "testCaseId": "fec7746213820a21b618200fd4df6794",
+    "rerunOf": null,
+    "fullName": "Magento\\GroupedCatalogInventory\\Test\\Unit\\Plugin\\OutOfStockFilterTest::testFilterOnlyProcessesArray",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GroupedCatalogInventory\\Test\\Unit\\Plugin\\OutOfStockFilterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFilterOnlyProcessesArray"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

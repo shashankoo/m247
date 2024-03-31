@@ -1,0 +1,50 @@
+{
+    "uuid": "4e859eb3-1ff9-4376-8c2b-88f943c90f44",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\State\\RegisterCaptureNotificationCommandTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038270,
+    "stop": 1711693038271,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "a4e0f30bfbe78606c8aa80701b7d5956",
+    "testCaseId": "78c0a5118c93e1e65cb72e843bca5347",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\State\\RegisterCaptureNotificationCommandTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Payment\\State\\RegisterCaptureNotificationCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

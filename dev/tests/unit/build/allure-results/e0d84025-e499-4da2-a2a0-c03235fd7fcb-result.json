@@ -1,0 +1,50 @@
+{
+    "uuid": "e0d84025-e499-4da2-a2a0-c03235fd7fcb",
+    "name": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Order\\CollectionTest::testPrepareSummary",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033516,
+    "stop": 1711693033517,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ac51359fbb450657751a590d2df2623b",
+    "testCaseId": "02c1db2dc0ddff817ee21425c8b600fa",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Order\\CollectionTest::testPrepareSummary",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Model\\ResourceModel\\Order\\CollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPrepareSummary"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

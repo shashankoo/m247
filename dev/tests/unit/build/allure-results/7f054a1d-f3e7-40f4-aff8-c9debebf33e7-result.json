@@ -1,0 +1,43 @@
+{
+    "uuid": "7f054a1d-f3e7-40f4-aff8-c9debebf33e7",
+    "name": "Magento\\Cron\\Test\\Unit\\Observer\\ProcessCronQueueObserverTest::testDispatchNotGenerate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019065,
+    "stop": 1711693019066,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "1cf1ebeb2eb2f62eae43a920ef8813d1",
+    "testCaseId": "74eca561ae4c6f10b54a35c82c3b6e57",
+    "rerunOf": null,
+    "fullName": "Magento\\Cron\\Test\\Unit\\Observer\\ProcessCronQueueObserverTest::testDispatchNotGenerate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Cron\\Test\\Unit\\Observer\\ProcessCronQueueObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testDispatchNotGenerate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

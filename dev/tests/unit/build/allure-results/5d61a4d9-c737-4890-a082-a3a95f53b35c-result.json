@@ -1,0 +1,50 @@
+{
+    "uuid": "5d61a4d9-c737-4890-a082-a3a95f53b35c",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\TypeLocatorTest::testGetType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022908,
+    "stop": 1711693022911,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "64972d85ed8b8e149c8034ad62dd9714",
+    "testCaseId": "4e790a53cbe798ed1471f303c760bc85",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\TypeLocatorTest::testGetType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\TypeLocatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

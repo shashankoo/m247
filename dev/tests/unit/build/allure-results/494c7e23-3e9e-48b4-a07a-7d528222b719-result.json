@@ -1,0 +1,50 @@
+{
+    "uuid": "494c7e23-3e9e-48b4-a07a-7d528222b719",
+    "name": "Magento\\Catalog\\Test\\Unit\\Helper\\ProductTest::testIsDataForPriceIndexerWasChanged",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014076,
+    "stop": 1711693014077,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "dcde3f131d4d33c3501e9200b6649626",
+    "testCaseId": "292b2fccc036bc0c53a85ab9804d6aa5",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Helper\\ProductTest::testIsDataForPriceIndexerWasChanged",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Helper\\ProductTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsDataForPriceIndexerWasChanged"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

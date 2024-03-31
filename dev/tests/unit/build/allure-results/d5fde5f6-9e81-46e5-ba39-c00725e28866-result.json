@@ -1,0 +1,43 @@
+{
+    "uuid": "d5fde5f6-9e81-46e5-ba39-c00725e28866",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\System\\Message\\Notification\\RoundingErrorsTest::testIsDisplayedIgnoreWrongConfiguration",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042753,
+    "stop": 1711693042753,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2444c0b1d8b725561a38ec6bcabed5a3",
+    "testCaseId": "4b4377d19cc268eca2885e5df9117f9d",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\System\\Message\\Notification\\RoundingErrorsTest::testIsDisplayedIgnoreWrongConfiguration",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\System\\Message\\Notification\\RoundingErrorsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsDisplayedIgnoreWrongConfiguration"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

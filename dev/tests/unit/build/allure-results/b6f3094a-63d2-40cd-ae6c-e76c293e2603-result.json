@@ -1,0 +1,50 @@
+{
+    "uuid": "b6f3094a-63d2-40cd-ae6c-e76c293e2603",
+    "name": "Magento\\Indexer\\Test\\Unit\\Block\\Backend\\Grid\\Column\\Renderer\\StatusTest::testRender",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024789,
+    "stop": 1711693024790,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"set1\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1c0e5fc53c8b4ecc07df549a0c49797d",
+    "testCaseId": "df813f9bdb9e522c9cdcfa597ac01067",
+    "rerunOf": null,
+    "fullName": "Magento\\Indexer\\Test\\Unit\\Block\\Backend\\Grid\\Column\\Renderer\\StatusTest::testRender",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Indexer\\Test\\Unit\\Block\\Backend\\Grid\\Column\\Renderer\\StatusTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRender"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

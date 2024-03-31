@@ -1,0 +1,43 @@
+{
+    "uuid": "306bac4d-8d00-4790-93d9-8ea76e448423",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Plugin\\Model\\ResourceModel\\Attribute\\InStockOptionSelectBuilderTest::testAfterGetSelect",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018697,
+    "stop": 1711693018698,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "ad7fcb52e22631590c7cfea8b05320a8",
+    "testCaseId": "9962c77b0647e06f523f631a61f442a3",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Plugin\\Model\\ResourceModel\\Attribute\\InStockOptionSelectBuilderTest::testAfterGetSelect",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Plugin\\Model\\ResourceModel\\Attribute\\InStockOptionSelectBuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterGetSelect"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

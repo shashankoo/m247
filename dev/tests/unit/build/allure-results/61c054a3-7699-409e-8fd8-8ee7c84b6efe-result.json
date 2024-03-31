@@ -1,0 +1,43 @@
+{
+    "uuid": "61c054a3-7699-409e-8fd8-8ee7c84b6efe",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\QuoteManagementTest::testCreateEmptyCartForCustomer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032959,
+    "stop": 1711693032961,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e247ba8961248672ca21bb7939a5f762",
+    "testCaseId": "7b7747298ff57dd09d6cc05bc835ee7f",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\QuoteManagementTest::testCreateEmptyCartForCustomer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\QuoteManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateEmptyCartForCustomer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

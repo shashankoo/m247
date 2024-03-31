@@ -1,0 +1,43 @@
+{
+    "uuid": "7f97e300-05f3-499d-a34f-daf3d6621afc",
+    "name": "Magento\\Framework\\Test\\Unit\\ValidatorTest::testAddValidator",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057474,
+    "stop": 1711693057474,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skipped in #27500 due to testing protected\/private methods and properties",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "9f33ed1cf0c783752dc78c31cd2f4c7d",
+    "testCaseId": "9998c61ec37f2a0ef022cc95905976f0",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Test\\Unit\\ValidatorTest::testAddValidator",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Test\\Unit\\ValidatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAddValidator"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "24b27c6a-d67e-424c-a25a-7b9f470d5341",
+    "name": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\StatTest::testActions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693075390,
+    "stop": 1711693075391,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Start and stop consequentially\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "83981b435f2918d2c262c8bc4caf6d22",
+    "testCaseId": "480033ba43dfc8373a152c1656cc0856",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\StatTest::testActions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Profiler\\Test\\Unit\\Driver\\Standard\\StatTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testActions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

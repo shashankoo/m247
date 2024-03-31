@@ -1,0 +1,43 @@
+{
+    "uuid": "721e2b1c-82ea-4e31-80d5-56aae5aa8c72",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Plugin\\ProductRepository\\TransactionWrapperTest::testAroundDeleteByIdCommit",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014878,
+    "stop": 1711693014878,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "697b2ef17f5837555aa28d3f55f09839",
+    "testCaseId": "3acd544f9793d9882bc34758a17b2ea8",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Plugin\\ProductRepository\\TransactionWrapperTest::testAroundDeleteByIdCommit",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Plugin\\ProductRepository\\TransactionWrapperTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAroundDeleteByIdCommit"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

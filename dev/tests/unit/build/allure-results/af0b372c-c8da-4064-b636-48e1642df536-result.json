@@ -1,0 +1,50 @@
+{
+    "uuid": "af0b372c-c8da-4064-b636-48e1642df536",
+    "name": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Plugin\\Catalog\\Block\\Adminhtml\\Category\\Tab\\AttributesTest::testGetAttributesMeta",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013201,
+    "stop": 1711693013204,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"save rewrite history config enabled\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "01bb7903bc11281099270ae3329b5616",
+    "testCaseId": "79070d954d5eda388284f9273cbb3c99",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Plugin\\Catalog\\Block\\Adminhtml\\Category\\Tab\\AttributesTest::testGetAttributesMeta",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogUrlRewrite\\Test\\Unit\\Plugin\\Catalog\\Block\\Adminhtml\\Category\\Tab\\AttributesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetAttributesMeta"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

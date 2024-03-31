@@ -1,0 +1,50 @@
+{
+    "uuid": "8ead5634-cd08-4061-8ac3-cc3f63f69766",
+    "name": "Magento\\Framework\\Mail\\Test\\Unit\\Template\\TransportBuilderTest::testGetTransport",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074087,
+    "stop": 1711693074088,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "52b9e3aec1f1b9045792d00c4cd9ea2e",
+    "testCaseId": "1482d2558895f20a474268dc4f9803cf",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Mail\\Test\\Unit\\Template\\TransportBuilderTest::testGetTransport",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Mail\\Test\\Unit\\Template\\TransportBuilderTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetTransport"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

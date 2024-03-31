@@ -1,0 +1,50 @@
+{
+    "uuid": "8d2f4f9b-6bc5-4205-8c84-571e2088cb8e",
+    "name": "Magento\\Framework\\Indexer\\Test\\Unit\\Config\\ConverterTest::testConvertWithCircularDependencies",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693073718,
+    "stop": 1711693073719,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Circular dependency on the first level\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "5db71d62889194b313701496b1ce772b",
+    "testCaseId": "5c61289c75c96f6ecc99bb2877f5539d",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Indexer\\Test\\Unit\\Config\\ConverterTest::testConvertWithCircularDependencies",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Indexer\\Test\\Unit\\Config\\ConverterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConvertWithCircularDependencies"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

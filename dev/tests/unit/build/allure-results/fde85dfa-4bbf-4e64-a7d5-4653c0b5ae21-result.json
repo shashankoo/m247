@@ -1,0 +1,43 @@
+{
+    "uuid": "fde85dfa-4bbf-4e64-a7d5-4653c0b5ae21",
+    "name": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Quote\\AddressAdapterTest::testGetLastname",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031446,
+    "stop": 1711693031446,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "744c9fbc78b3eb7d62f10ddc99c113ec",
+    "testCaseId": "231c4566c4825c60e8752f6b32597228",
+    "rerunOf": null,
+    "fullName": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Quote\\AddressAdapterTest::testGetLastname",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Payment\\Test\\Unit\\Gateway\\Data\\Quote\\AddressAdapterTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLastname"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

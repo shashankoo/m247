@@ -1,0 +1,50 @@
+{
+    "uuid": "e23b1ce1-84d0-4b32-a475-b8b92f6706b7",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Shipment\\TrackTest::testIsCustom",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038916,
+    "stop": 1711693038916,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "80a67cd6e3a3de38480c8bb741f8152b",
+    "testCaseId": "e5259d8897f9b8392bfe3f7693db3330",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Shipment\\TrackTest::testIsCustom",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Shipment\\TrackTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsCustom"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

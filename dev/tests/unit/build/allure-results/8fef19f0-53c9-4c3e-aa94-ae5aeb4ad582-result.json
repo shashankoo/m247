@@ -1,0 +1,43 @@
+{
+    "uuid": "8fef19f0-53c9-4c3e-aa94-ae5aeb4ad582",
+    "name": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Filter\\IteratorTest::testLoopIteratesDosntIterateNotAllowedItems",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693010024,
+    "stop": 1711693010024,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "97fe16ee9b1716d71893bd4a556960ae",
+    "testCaseId": "4f8541af87aae980a9bdea5f7164635b",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Filter\\IteratorTest::testLoopIteratesDosntIterateNotAllowedItems",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Model\\Menu\\Filter\\IteratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLoopIteratesDosntIterateNotAllowedItems"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

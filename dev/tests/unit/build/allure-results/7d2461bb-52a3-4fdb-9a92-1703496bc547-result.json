@@ -1,0 +1,43 @@
+{
+    "uuid": "7d2461bb-52a3-4fdb-9a92-1703496bc547",
+    "name": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testValidateCustomerStoreIdByWebsiteIdException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693020007,
+    "stop": 1711693020008,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "f384de2cf23aa882fcd2f14d206c76e1",
+    "testCaseId": "0f51eff624ce1d5a45617cff3e28cef4",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest::testValidateCustomerStoreIdByWebsiteIdException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Model\\AccountManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateCustomerStoreIdByWebsiteIdException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

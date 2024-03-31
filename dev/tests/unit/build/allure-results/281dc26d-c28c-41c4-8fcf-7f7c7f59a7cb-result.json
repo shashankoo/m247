@@ -1,0 +1,43 @@
+{
+    "uuid": "281dc26d-c28c-41c4-8fcf-7f7c7f59a7cb",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowproTest::testCanCapturePartial",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032368,
+    "stop": 1711693032369,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "10ec132327a7cd9f9fc2bd903718f302",
+    "testCaseId": "8b2e345a88d9ecb382eda72925e032be",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowproTest::testCanCapturePartial",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\PayflowproTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanCapturePartial"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

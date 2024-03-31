@@ -1,0 +1,50 @@
+{
+    "uuid": "70ba84de-b255-445b-accc-19fceff39bdd",
+    "name": "Magento\\Catalog\\Test\\Unit\\Observer\\SynchronizeWebsiteAttributesOnStoreChangeTest::testExecuteSuccess",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016044,
+    "stop": 1711693016044,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "feb94229adbb846bdb103526840434e3",
+    "testCaseId": "85f3ef03e59ca6d6c5a3c55bc145f6db",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Observer\\SynchronizeWebsiteAttributesOnStoreChangeTest::testExecuteSuccess",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Observer\\SynchronizeWebsiteAttributesOnStoreChangeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteSuccess"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

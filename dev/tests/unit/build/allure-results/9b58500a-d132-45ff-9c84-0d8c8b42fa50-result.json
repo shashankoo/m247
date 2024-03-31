@@ -1,0 +1,43 @@
+{
+    "uuid": "9b58500a-d132-45ff-9c84-0d8c8b42fa50",
+    "name": "Magento\\UrlRewrite\\Test\\Unit\\Model\\Storage\\DbStorageTest::testReplaceIfThrewExceptionOnDuplicateUrlInInput",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693052894,
+    "stop": 1711693052894,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4b15a1f486df5c5ed5d3d33a9cd5b4c3",
+    "testCaseId": "e24d6f91cbfc2e56099e78d0cff2324b",
+    "rerunOf": null,
+    "fullName": "Magento\\UrlRewrite\\Test\\Unit\\Model\\Storage\\DbStorageTest::testReplaceIfThrewExceptionOnDuplicateUrlInInput",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\UrlRewrite\\Test\\Unit\\Model\\Storage\\DbStorageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReplaceIfThrewExceptionOnDuplicateUrlInInput"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

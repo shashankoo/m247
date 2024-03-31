@@ -1,0 +1,43 @@
+{
+    "uuid": "32535bbe-9673-4c8b-ab54-3d2366e91a59",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\CronJob\\CleanExpiredOrdersTest::testExecuteWithException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037473,
+    "stop": 1711693037473,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "6ddccae0cb9cf5d0736f171580558228",
+    "testCaseId": "13bb2a41bc065d175ff755f25769f9c3",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\CronJob\\CleanExpiredOrdersTest::testExecuteWithException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\CronJob\\CleanExpiredOrdersTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteWithException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

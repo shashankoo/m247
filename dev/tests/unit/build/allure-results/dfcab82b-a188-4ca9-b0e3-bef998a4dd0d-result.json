@@ -1,0 +1,50 @@
+{
+    "uuid": "dfcab82b-a188-4ca9-b0e3-bef998a4dd0d",
+    "name": "Magento\\Captcha\\Test\\Unit\\Model\\DefaultTest::testIsShownToLoggedInUser",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011319,
+    "stop": 1711693011319,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c785392c6a8fd3ae591e13edb1908b8e",
+    "testCaseId": "7037643f64f3be91c2ed4095e32d2f58",
+    "rerunOf": null,
+    "fullName": "Magento\\Captcha\\Test\\Unit\\Model\\DefaultTest::testIsShownToLoggedInUser",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Captcha\\Test\\Unit\\Model\\DefaultTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsShownToLoggedInUser"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

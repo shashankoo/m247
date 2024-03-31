@@ -1,0 +1,50 @@
+{
+    "uuid": "e7fb9f27-157e-4c8d-9f37-d4bd63518e02",
+    "name": "Magento\\GoogleAdwords\\Test\\Unit\\Observer\\SetConversionValueObserverTest::testSetConversionValueWhenAdwordsDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024094,
+    "stop": 1711693024097,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "1378260ca526b40271d1a532e01d0d46",
+    "testCaseId": "abf62b8929257e964da95ceb7cdef54c",
+    "rerunOf": null,
+    "fullName": "Magento\\GoogleAdwords\\Test\\Unit\\Observer\\SetConversionValueObserverTest::testSetConversionValueWhenAdwordsDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GoogleAdwords\\Test\\Unit\\Observer\\SetConversionValueObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetConversionValueWhenAdwordsDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "db9cea78-6a90-4b8b-9718-766ae6583b55",
+    "name": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Factory\\FactoryTest::testCreateUsingVariadic",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074818,
+    "stop": 1711693074818,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"with_full_args\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "724354c535b6314d0d58d6e9b6c62891",
+    "testCaseId": "0cf55209093da2f082e40204fc886b79",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Factory\\FactoryTest::testCreateUsingVariadic",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\ObjectManager\\Test\\Unit\\Factory\\FactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateUsingVariadic"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

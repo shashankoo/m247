@@ -1,0 +1,43 @@
+{
+    "uuid": "4f4cc662-deac-4ab4-a846-fbbf2ffdea33",
+    "name": "Magento\\Analytics\\Test\\Unit\\Plugin\\BearerTokenValidatorPluginTest::testFalseWhenIntegrationDoesntMatch",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009173,
+    "stop": 1711693009173,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4ec31e8131061331e0c7a43ee122240f",
+    "testCaseId": "2ea40d4f51ed0e4f02cfaf19c1e59dfc",
+    "rerunOf": null,
+    "fullName": "Magento\\Analytics\\Test\\Unit\\Plugin\\BearerTokenValidatorPluginTest::testFalseWhenIntegrationDoesntMatch",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Analytics\\Test\\Unit\\Plugin\\BearerTokenValidatorPluginTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFalseWhenIntegrationDoesntMatch"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

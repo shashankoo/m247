@@ -1,0 +1,50 @@
+{
+    "uuid": "8b8ba14b-9d43-4fb6-ae03-bfa4bd685e15",
+    "name": "Magento\\Webapi\\Test\\Unit\\Model\\Rest\\Swagger\\GeneratorTest::testGetObjectSchema",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693053603,
+    "stop": 1711693053603,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e801cbe06242edaec95495a8f940a91d",
+    "testCaseId": "3d35551a769476a9f9a34a691af01022",
+    "rerunOf": null,
+    "fullName": "Magento\\Webapi\\Test\\Unit\\Model\\Rest\\Swagger\\GeneratorTest::testGetObjectSchema",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Webapi\\Test\\Unit\\Model\\Rest\\Swagger\\GeneratorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetObjectSchema"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

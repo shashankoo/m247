@@ -1,0 +1,43 @@
+{
+    "uuid": "09a29750-8a8c-4101-9ac2-0537a7528962",
+    "name": "Magento\\Security\\Test\\Unit\\Model\\ConfigTest::testGetLimitationTimePeriod",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693041265,
+    "stop": 1711693041265,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "09d493eda3daffacd23e3914b74a0bef",
+    "testCaseId": "535badb1424640a1a2c9b4ab4cb1d913",
+    "rerunOf": null,
+    "fullName": "Magento\\Security\\Test\\Unit\\Model\\ConfigTest::testGetLimitationTimePeriod",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Security\\Test\\Unit\\Model\\ConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetLimitationTimePeriod"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "6d6cd927-d732-4ded-b8a6-1bf2e6782f2b",
+    "name": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\Source\\CsvTest::testOptionalArgs",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024737,
+    "stop": 1711693024737,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "86fc714eec11edf4f4a7bd6ce7f25c92",
+    "testCaseId": "ee8a7e8c8e8548163ba47c2a53c32b4c",
+    "rerunOf": null,
+    "fullName": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\Source\\CsvTest::testOptionalArgs",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ImportExport\\Test\\Unit\\Model\\Import\\Source\\CsvTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testOptionalArgs"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

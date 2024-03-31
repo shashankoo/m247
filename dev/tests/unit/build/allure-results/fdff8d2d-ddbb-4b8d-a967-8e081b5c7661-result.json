@@ -1,0 +1,50 @@
+{
+    "uuid": "fdff8d2d-ddbb-4b8d-a967-8e081b5c7661",
+    "name": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest::testCanSendNewOrderConfirmationEmail",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693037334,
+    "stop": 1711693037334,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "87fbeda5863201882c72803dc57c3705",
+    "testCaseId": "5ec8b037ea344a59021d96176a647b49",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest::testCanSendNewOrderConfirmationEmail",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Helper\\DataTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanSendNewOrderConfirmationEmail"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

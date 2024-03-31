@@ -1,0 +1,43 @@
+{
+    "uuid": "681fb523-1c90-4b30-94c2-94d02263c966",
+    "name": "Magento\\Tax\\Test\\Unit\\Block\\Item\\Price\\RendererTest::testGetItemDisplayPriceExclTaxOrderItem",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042409,
+    "stop": 1711693042409,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "94f16a4b0b51958f7b7ee27e71de738f",
+    "testCaseId": "2a6a6cf6e148b850fb6c25347545c91e",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Block\\Item\\Price\\RendererTest::testGetItemDisplayPriceExclTaxOrderItem",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Block\\Item\\Price\\RendererTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetItemDisplayPriceExclTaxOrderItem"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

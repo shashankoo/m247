@@ -1,0 +1,50 @@
+{
+    "uuid": "9dc8f8b1-f617-4b7f-b4e1-27bd3cd7010b",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\Api\\ProcessableExceptionTest::testGetUserMessage",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031955,
+    "stop": 1711693031956,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "6a483be22f47d09c26c21a01b0ddf9ef",
+    "testCaseId": "3cdc6a2cf3fce94d46cf8176753d4d33",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\Api\\ProcessableExceptionTest::testGetUserMessage",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\Api\\ProcessableExceptionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetUserMessage"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

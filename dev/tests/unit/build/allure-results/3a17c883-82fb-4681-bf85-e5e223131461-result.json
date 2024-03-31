@@ -1,0 +1,43 @@
+{
+    "uuid": "3a17c883-82fb-4681-bf85-e5e223131461",
+    "name": "Magento\\Tax\\Test\\Unit\\Model\\Sales\\Total\\Quote\\CommonTaxCollectorTest::testUpdateItemTaxInfo",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042722,
+    "stop": 1711693042723,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "87e01eec790f8992d607cf0c689b6e18",
+    "testCaseId": "b7cebb56d3b624a31bb1bab287c5aa89",
+    "rerunOf": null,
+    "fullName": "Magento\\Tax\\Test\\Unit\\Model\\Sales\\Total\\Quote\\CommonTaxCollectorTest::testUpdateItemTaxInfo",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Tax\\Test\\Unit\\Model\\Sales\\Total\\Quote\\CommonTaxCollectorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testUpdateItemTaxInfo"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

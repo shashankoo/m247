@@ -1,0 +1,43 @@
+{
+    "uuid": "b636d877-0b68-4081-a769-320b6f4cadeb",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TierPriceManagementTest::testSetNewPriceWithGlobalPriceScopeAll",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015330,
+    "stop": 1711693015331,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "87a2db1cfcf916ad1eaa78833a85c010",
+    "testCaseId": "1e7ac7cd57e050c1b5ed88b2aa22ac38",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TierPriceManagementTest::testSetNewPriceWithGlobalPriceScopeAll",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TierPriceManagementTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSetNewPriceWithGlobalPriceScopeAll"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

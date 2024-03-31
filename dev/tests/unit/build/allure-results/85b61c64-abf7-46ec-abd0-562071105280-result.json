@@ -1,0 +1,50 @@
+{
+    "uuid": "85b61c64-abf7-46ec-abd0-562071105280",
+    "name": "Magento\\OfflinePayments\\Test\\Unit\\Observer\\BeforeOrderPaymentSaveObserverTest::testBeforeOrderPaymentSaveWithInstructions",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031067,
+    "stop": 1711693031068,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f74833653d8c3aec7a92b43b6d9a1a1c",
+    "testCaseId": "6861773446ef00ebc511da34869c0d57",
+    "rerunOf": null,
+    "fullName": "Magento\\OfflinePayments\\Test\\Unit\\Observer\\BeforeOrderPaymentSaveObserverTest::testBeforeOrderPaymentSaveWithInstructions",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\OfflinePayments\\Test\\Unit\\Observer\\BeforeOrderPaymentSaveObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testBeforeOrderPaymentSaveWithInstructions"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

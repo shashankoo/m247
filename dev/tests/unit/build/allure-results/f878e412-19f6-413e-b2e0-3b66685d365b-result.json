@@ -1,0 +1,50 @@
+{
+    "uuid": "f878e412-19f6-413e-b2e0-3b66685d365b",
+    "name": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\VariationHandlerTest::testGenerateSimpleProducts",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693018645,
+    "stop": 1711693018645,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4454db3b431e06ba2fd39bb082b28a37",
+    "testCaseId": "c114d9ce2c3694c4291ab3b9be7700e7",
+    "rerunOf": null,
+    "fullName": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\VariationHandlerTest::testGenerateSimpleProducts",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\ConfigurableProduct\\Test\\Unit\\Model\\Product\\VariationHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerateSimpleProducts"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

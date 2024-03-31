@@ -1,0 +1,43 @@
+{
+    "uuid": "a999b30a-2277-41e2-a180-3485ffe65d8b",
+    "name": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Cron\\ReportNewRelicCronTest::testReportNewRelicCron",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693030863,
+    "stop": 1711693030864,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "28e4063f774eecd960aee97537398546",
+    "testCaseId": "9faf746f320a7e509698ecb3a7b07930",
+    "rerunOf": null,
+    "fullName": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Cron\\ReportNewRelicCronTest::testReportNewRelicCron",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\NewRelicReporting\\Test\\Unit\\Model\\Cron\\ReportNewRelicCronTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testReportNewRelicCron"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

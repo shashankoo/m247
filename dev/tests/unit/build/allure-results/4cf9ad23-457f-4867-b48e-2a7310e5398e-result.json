@@ -1,0 +1,43 @@
+{
+    "uuid": "4cf9ad23-457f-4867-b48e-2a7310e5398e",
+    "name": "Magento\\Authorization\\Test\\Unit\\Model\\Acl\\Loader\\RuleTest::testPopulateAclFromCache",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009357,
+    "stop": 1711693009358,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "fa0adc61db453e08451ad21754d96c6c",
+    "testCaseId": "d1e4bfd436b27f398f34c0744c64f23d",
+    "rerunOf": null,
+    "fullName": "Magento\\Authorization\\Test\\Unit\\Model\\Acl\\Loader\\RuleTest::testPopulateAclFromCache",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Authorization\\Test\\Unit\\Model\\Acl\\Loader\\RuleTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testPopulateAclFromCache"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

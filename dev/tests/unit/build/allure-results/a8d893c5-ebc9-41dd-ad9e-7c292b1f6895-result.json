@@ -1,0 +1,43 @@
+{
+    "uuid": "a8d893c5-ebc9-41dd-ad9e-7c292b1f6895",
+    "name": "Magento\\Theme\\Test\\Unit\\Controller\\Adminhtml\\System\\Design\\Wysiwyg\\Files\\DeleteFilesTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693043008,
+    "stop": 1711693043009,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a436177166ab69d7d5c8ff8feb5a7a0f",
+    "testCaseId": "951c30a11bee0fa95ec4c48a16feead8",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Controller\\Adminhtml\\System\\Design\\Wysiwyg\\Files\\DeleteFilesTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Controller\\Adminhtml\\System\\Design\\Wysiwyg\\Files\\DeleteFilesTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

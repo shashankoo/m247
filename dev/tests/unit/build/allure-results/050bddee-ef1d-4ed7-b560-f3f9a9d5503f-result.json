@@ -1,0 +1,50 @@
+{
+    "uuid": "050bddee-ef1d-4ed7-b560-f3f9a9d5503f",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Validation\\CanInvoiceTest::testCanInvoice",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693039516,
+    "stop": 1711693039516,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "97ee393b8638026eae90c08604794a02",
+    "testCaseId": "417cbfcfc45dcc956e35d0dfdbb0a26e",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Validation\\CanInvoiceTest::testCanInvoice",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Validation\\CanInvoiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCanInvoice"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

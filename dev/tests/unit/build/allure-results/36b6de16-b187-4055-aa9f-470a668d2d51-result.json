@@ -1,0 +1,50 @@
+{
+    "uuid": "36b6de16-b187-4055-aa9f-470a668d2d51",
+    "name": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\SaveTest::testExecuteSetsProductDataToSessionAndRedirectsToNewActionOnError",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013946,
+    "stop": 1711693013949,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "3b1705d113d7eb80efd6c884667878c0",
+    "testCaseId": "1ce75c59e5dbe08b21ff9be0f6d7970c",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\SaveTest::testExecuteSetsProductDataToSessionAndRedirectsToNewActionOnError",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Controller\\Adminhtml\\Product\\SaveTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteSetsProductDataToSessionAndRedirectsToNewActionOnError"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

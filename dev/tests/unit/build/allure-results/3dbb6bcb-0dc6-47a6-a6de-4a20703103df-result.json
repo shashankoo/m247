@@ -1,0 +1,50 @@
+{
+    "uuid": "3dbb6bcb-0dc6-47a6-a6de-4a20703103df",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\AttributeTest::testGetDefaultValueByInput",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022741,
+    "stop": 1711693022741,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#3",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "d7e3e5c53e7599e83016f91b390f522d",
+    "testCaseId": "e9d64edf28935b0b0f0358074eff048b",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\AttributeTest::testGetDefaultValueByInput",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\AttributeTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetDefaultValueByInput"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

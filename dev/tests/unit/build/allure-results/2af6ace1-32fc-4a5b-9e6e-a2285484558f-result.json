@@ -1,0 +1,43 @@
+{
+    "uuid": "2af6ace1-32fc-4a5b-9e6e-a2285484558f",
+    "name": "Magento\\Catalog\\Test\\Unit\\Plugin\\Model\\Indexer\\Category\\Product\\ExecuteTest::testAfterExecuteInvalidate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693016066,
+    "stop": 1711693016066,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a1a4095c1b08cb943ff8fb3679a7d145",
+    "testCaseId": "4e1257990843af774092a7992e1d9a55",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Plugin\\Model\\Indexer\\Category\\Product\\ExecuteTest::testAfterExecuteInvalidate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Plugin\\Model\\Indexer\\Category\\Product\\ExecuteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterExecuteInvalidate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "f505f1db-ed27-41f1-839d-ede23a772bd7",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\Plugin\\ImportTest::testAfterImportSourceWithFlatEnabledAndIndexerScheduledDisabled",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011836,
+    "stop": 1711693011838,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "42bfc191c3937045a731f23d65044824",
+    "testCaseId": "49e4917e6d9885eeb971af5868133973",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\Plugin\\ImportTest::testAfterImportSourceWithFlatEnabledAndIndexerScheduledDisabled",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\Plugin\\ImportTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAfterImportSourceWithFlatEnabledAndIndexerScheduledDisabled"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

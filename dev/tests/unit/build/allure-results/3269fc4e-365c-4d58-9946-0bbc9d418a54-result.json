@@ -1,0 +1,43 @@
+{
+    "uuid": "3269fc4e-365c-4d58-9946-0bbc9d418a54",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfigTest::testIsAvailable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057897,
+    "stop": 1711693057897,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "117d189e076f5b66e085d107c6954d18",
+    "testCaseId": "a0885dabd0ee4f2f6f235e92e380461e",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfigTest::testIsAvailable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\DeploymentConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsAvailable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

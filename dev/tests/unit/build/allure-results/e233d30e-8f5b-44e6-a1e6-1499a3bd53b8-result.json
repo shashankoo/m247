@@ -1,0 +1,43 @@
+{
+    "uuid": "e233d30e-8f5b-44e6-a1e6-1499a3bd53b8",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\AbstractTest::testInsertTotals",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038520,
+    "stop": 1711693038531,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "e2f405000a186414eb2cd6d9d3a233a8",
+    "testCaseId": "037c56c8327f47e902cf0c0964c1d4a6",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\AbstractTest::testInsertTotals",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\AbstractTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInsertTotals"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

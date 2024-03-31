@@ -1,0 +1,50 @@
+{
+    "uuid": "885796c4-1bfb-4610-8af8-be95ca825d74",
+    "name": "Magento\\Paypal\\Test\\Unit\\Model\\AbstractConfigTest::testIsWppApiAvailable",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693031921,
+    "stop": 1711693031921,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "f90b5cc3f0ff23e2760a6720e869c4a5",
+    "testCaseId": "24b9688945e97be026f4f3ecc3217a10",
+    "rerunOf": null,
+    "fullName": "Magento\\Paypal\\Test\\Unit\\Model\\AbstractConfigTest::testIsWppApiAvailable",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Paypal\\Test\\Unit\\Model\\AbstractConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsWppApiAvailable"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

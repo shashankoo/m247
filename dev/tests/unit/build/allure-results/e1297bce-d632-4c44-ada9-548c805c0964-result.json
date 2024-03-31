@@ -1,0 +1,43 @@
+{
+    "uuid": "e1297bce-d632-4c44-ada9-548c805c0964",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\CatalogPriceTest::testGetCatalogRegularPriceWhenPoolContainsPriceModelForGivenProductType",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014999,
+    "stop": 1711693014999,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "2b21a837e6e81c5f8c198787462224c3",
+    "testCaseId": "e226909f60106c91850dad9961befa00",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\CatalogPriceTest::testGetCatalogRegularPriceWhenPoolContainsPriceModelForGivenProductType",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\CatalogPriceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCatalogRegularPriceWhenPoolContainsPriceModelForGivenProductType"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

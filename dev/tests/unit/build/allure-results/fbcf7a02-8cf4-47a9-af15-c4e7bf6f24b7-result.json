@@ -1,0 +1,50 @@
+{
+    "uuid": "fbcf7a02-8cf4-47a9-af15-c4e7bf6f24b7",
+    "name": "Magento\\Setup\\Test\\Unit\\Console\\Command\\InstallStoreConfigurationCommandTest::testExecuteInvalidData",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054838,
+    "stop": 1711693054839,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#9",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "2853abaf5e8f1a8570063a66dbf495b1",
+    "testCaseId": "56938524f0a5cc7c6886aabac16e3332",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Console\\Command\\InstallStoreConfigurationCommandTest::testExecuteInvalidData",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Console\\Command\\InstallStoreConfigurationCommandTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteInvalidData"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,43 @@
+{
+    "uuid": "3acd0637-1ae5-49f1-8ecc-13327b873d96",
+    "name": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Response\\CardDetailsHandlerTest::testHandle",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693056282,
+    "stop": 1711693056285,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "bfe71cd87d2c627c61a05e4733f908c4",
+    "testCaseId": "b6b39d77c5c9766eb4e9def2933ab1a5",
+    "rerunOf": null,
+    "fullName": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Response\\CardDetailsHandlerTest::testHandle",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "PayPal\\Braintree\\Test\\Unit\\Gateway\\Response\\CardDetailsHandlerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testHandle"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

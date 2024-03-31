@@ -1,0 +1,50 @@
+{
+    "uuid": "ea1862a1-a9a2-4c0a-9aa4-908f49ef775c",
+    "name": "Magento\\Setup\\Test\\Unit\\Fixtures\\CartPriceRulesFixtureTest::testGenerateAdvancedCondition",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693054993,
+    "stop": 1711693054993,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ca40534927c6826f8781fb4d9df21a26",
+    "testCaseId": "7b0bd276152c996f6c0c7a1843c0c466",
+    "rerunOf": null,
+    "fullName": "Magento\\Setup\\Test\\Unit\\Fixtures\\CartPriceRulesFixtureTest::testGenerateAdvancedCondition",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Setup\\Test\\Unit\\Fixtures\\CartPriceRulesFixtureTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGenerateAdvancedCondition"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

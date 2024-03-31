@@ -1,0 +1,50 @@
+{
+    "uuid": "fc556c94-89f0-470c-be2e-f3db098934e9",
+    "name": "Magento\\CatalogWidget\\Test\\Unit\\Block\\Product\\ProductsListTest::testCreateCollection",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693013275,
+    "stop": 1711693013277,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "283de4d8bb37a9cb476760c05c39c928",
+    "testCaseId": "59d8b7e2b59a4f4efefaf8978b429f3f",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogWidget\\Test\\Unit\\Block\\Product\\ProductsListTest::testCreateCollection",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogWidget\\Test\\Unit\\Block\\Product\\ProductsListTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateCollection"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

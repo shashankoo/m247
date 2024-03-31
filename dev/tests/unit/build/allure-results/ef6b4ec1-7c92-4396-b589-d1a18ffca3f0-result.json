@@ -1,0 +1,50 @@
+{
+    "uuid": "ef6b4ec1-7c92-4396-b589-d1a18ffca3f0",
+    "name": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Collection\\AbstractCollectionTest::testAttributeIdIsInt",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693022776,
+    "stop": 1711693022777,
+    "status": "skipped",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": "Skipped in #27500 due to testing protected\/private methods and properties",
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4801690e76e08ea64d66e4da97b9970d",
+    "testCaseId": "a48acd044641de50b3212a66abd89ebe",
+    "rerunOf": null,
+    "fullName": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Collection\\AbstractCollectionTest::testAttributeIdIsInt",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Eav\\Test\\Unit\\Model\\Entity\\Collection\\AbstractCollectionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testAttributeIdIsInt"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

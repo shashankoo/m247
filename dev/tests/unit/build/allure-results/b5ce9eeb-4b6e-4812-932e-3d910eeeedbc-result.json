@@ -1,0 +1,43 @@
+{
+    "uuid": "b5ce9eeb-4b6e-4812-932e-3d910eeeedbc",
+    "name": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Type\\Db\\ConnectionFactoryTest::testCreateNoActiveConfig",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693074360,
+    "stop": 1711693074361,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a4c518ab9164f34365fd95b4ac97d157",
+    "testCaseId": "f3da7df251bb9e796060761088f35e39",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Type\\Db\\ConnectionFactoryTest::testCreateNoActiveConfig",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Model\\Test\\Unit\\ResourceModel\\Type\\Db\\ConnectionFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateNoActiveConfig"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

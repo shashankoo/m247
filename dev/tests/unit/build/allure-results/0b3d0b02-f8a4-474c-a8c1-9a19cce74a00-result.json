@@ -1,0 +1,50 @@
+{
+    "uuid": "0b3d0b02-f8a4-474c-a8c1-9a19cce74a00",
+    "name": "Magento\\Persistent\\Test\\Unit\\Model\\SessionTest::testRenewPersistentCookie",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032526,
+    "stop": 1711693032526,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"no cookie\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "c30da61a2191c0d58ddcb42fb74da0aa",
+    "testCaseId": "84edde307bbdf9dd1a7fb672e951cd05",
+    "rerunOf": null,
+    "fullName": "Magento\\Persistent\\Test\\Unit\\Model\\SessionTest::testRenewPersistentCookie",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Persistent\\Test\\Unit\\Model\\SessionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRenewPersistentCookie"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

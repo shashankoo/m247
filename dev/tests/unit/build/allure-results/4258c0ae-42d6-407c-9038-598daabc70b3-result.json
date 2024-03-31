@@ -1,0 +1,50 @@
+{
+    "uuid": "4258c0ae-42d6-407c-9038-598daabc70b3",
+    "name": "Magento\\Swatches\\Test\\Unit\\Helper\\MediaTest::testGetFolderNameSize",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042222,
+    "stop": 1711693042223,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "4be5c7be405d2086c36bb62435a1177a",
+    "testCaseId": "e1d3df867cc61ca2dcf2c1cdd91f3ab1",
+    "rerunOf": null,
+    "fullName": "Magento\\Swatches\\Test\\Unit\\Helper\\MediaTest::testGetFolderNameSize",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Swatches\\Test\\Unit\\Helper\\MediaTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetFolderNameSize"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

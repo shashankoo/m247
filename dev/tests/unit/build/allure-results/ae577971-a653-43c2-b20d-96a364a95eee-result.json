@@ -1,0 +1,43 @@
+{
+    "uuid": "ae577971-a653-43c2-b20d-96a364a95eee",
+    "name": "Magento\\Customer\\Test\\Unit\\Controller\\Adminhtml\\Index\\ResetPasswordTest::testResetPasswordActionCoreException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693019743,
+    "stop": 1711693019744,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "86a98cf56d98a1ca0b3ee5588d2c23f3",
+    "testCaseId": "0144993828cebb578bfe96911fb902fd",
+    "rerunOf": null,
+    "fullName": "Magento\\Customer\\Test\\Unit\\Controller\\Adminhtml\\Index\\ResetPasswordTest::testResetPasswordActionCoreException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Customer\\Test\\Unit\\Controller\\Adminhtml\\Index\\ResetPasswordTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testResetPasswordActionCoreException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

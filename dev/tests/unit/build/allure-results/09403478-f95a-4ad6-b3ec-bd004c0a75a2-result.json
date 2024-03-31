@@ -1,0 +1,50 @@
+{
+    "uuid": "09403478-f95a-4ad6-b3ec-bd004c0a75a2",
+    "name": "Magento\\Framework\\Encryption\\Test\\Unit\\CryptTest::testConstructorException",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071655,
+    "stop": 1711693071655,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"tooLongKey-rijndael-256-cbc-false\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ac5829ed0cbf5e337075b05db83123f2",
+    "testCaseId": "f9f4774c4dcff9623bfad31f6f47ee4a",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Encryption\\Test\\Unit\\CryptTest::testConstructorException",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Encryption\\Test\\Unit\\CryptTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testConstructorException"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

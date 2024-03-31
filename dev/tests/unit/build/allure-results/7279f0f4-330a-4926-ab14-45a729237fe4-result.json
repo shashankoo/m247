@@ -1,0 +1,50 @@
+{
+    "uuid": "7279f0f4-330a-4926-ab14-45a729237fe4",
+    "name": "Magento\\GiftMessage\\Test\\Unit\\Observer\\SalesEventOrderToQuoteObserverTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024053,
+    "stop": 1711693024055,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "9319bc7c4b0ce18faaff3eac86132167",
+    "testCaseId": "f5ff57bf08e1e7cda493f4b4c6425531",
+    "rerunOf": null,
+    "fullName": "Magento\\GiftMessage\\Test\\Unit\\Observer\\SalesEventOrderToQuoteObserverTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GiftMessage\\Test\\Unit\\Observer\\SalesEventOrderToQuoteObserverTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

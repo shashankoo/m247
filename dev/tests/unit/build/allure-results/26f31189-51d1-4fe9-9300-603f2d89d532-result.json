@@ -1,0 +1,43 @@
+{
+    "uuid": "26f31189-51d1-4fe9-9300-603f2d89d532",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\Indexer\\Eav\\BatchSizeCalculatorTest::testEstimateBatchSizeThrowsExceptionIfIndexerIdIsNotRecognized",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015950,
+    "stop": 1711693015950,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "986bf1b186ebbecdc7cba5bc56e2999a",
+    "testCaseId": "d99f9e28cfb928a1d287200e471db2d6",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\Indexer\\Eav\\BatchSizeCalculatorTest::testEstimateBatchSizeThrowsExceptionIfIndexerIdIsNotRecognized",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\ResourceModel\\Product\\Indexer\\Eav\\BatchSizeCalculatorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEstimateBatchSizeThrowsExceptionIfIndexerIdIsNotRecognized"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

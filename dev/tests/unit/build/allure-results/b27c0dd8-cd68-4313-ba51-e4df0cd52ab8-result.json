@@ -1,0 +1,50 @@
+{
+    "uuid": "b27c0dd8-cd68-4313-ba51-e4df0cd52ab8",
+    "name": "Magento\\GoogleGtag\\Test\\Unit\\Model\\Config\\GtagConfigTest::testIsGoogleAdwordsActive",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693024145,
+    "stop": 1711693024146,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#2",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "ac7cfb0c283d9e026fefc5bdf211870b",
+    "testCaseId": "fdf29be7763f3aca669cc79bac3165f5",
+    "rerunOf": null,
+    "fullName": "Magento\\GoogleGtag\\Test\\Unit\\Model\\Config\\GtagConfigTest::testIsGoogleAdwordsActive",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\GoogleGtag\\Test\\Unit\\Model\\Config\\GtagConfigTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testIsGoogleAdwordsActive"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

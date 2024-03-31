@@ -1,0 +1,50 @@
+{
+    "uuid": "d3c48e72-53ef-403e-a3c3-da4d9826581c",
+    "name": "Magento\\Framework\\DB\\Test\\Unit\\Ddl\\SequenceTest::testGetCreateSequenceDdl",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693070672,
+    "stop": 1711693070672,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "79afc4e53bba114bc12c24f170a53bf9",
+    "testCaseId": "5c962e3018ad4c8c012bfd87c2bd9ff6",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\DB\\Test\\Unit\\Ddl\\SequenceTest::testGetCreateSequenceDdl",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\DB\\Test\\Unit\\Ddl\\SequenceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetCreateSequenceDdl"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

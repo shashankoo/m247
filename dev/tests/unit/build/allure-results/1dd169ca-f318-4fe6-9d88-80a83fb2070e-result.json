@@ -1,0 +1,43 @@
+{
+    "uuid": "1dd169ca-f318-4fe6-9d88-80a83fb2070e",
+    "name": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\SensitiveConfigSet\\CollectorFactoryTest::testCreateNonExisted",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693021224,
+    "stop": 1711693021224,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a026fdaf73a319475349cc06c53a830c",
+    "testCaseId": "da9b76b7f095d92ea9f5e2165b8bc35e",
+    "rerunOf": null,
+    "fullName": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\SensitiveConfigSet\\CollectorFactoryTest::testCreateNonExisted",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Deploy\\Test\\Unit\\Console\\Command\\App\\SensitiveConfigSet\\CollectorFactoryTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testCreateNonExisted"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

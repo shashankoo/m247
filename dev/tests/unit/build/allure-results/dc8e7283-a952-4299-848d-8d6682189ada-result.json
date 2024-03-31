@@ -1,0 +1,50 @@
+{
+    "uuid": "dc8e7283-a952-4299-848d-8d6682189ada",
+    "name": "Magento\\Framework\\Encryption\\Test\\Unit\\EncryptorTest::testValidateHash",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693071974,
+    "stop": 1711693071974,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "02798f9952e6ae7641c2ad5745aed308",
+    "testCaseId": "471c5cbcc78b0a4a08ca1ab013566f0b",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Encryption\\Test\\Unit\\EncryptorTest::testValidateHash",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Encryption\\Test\\Unit\\EncryptorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testValidateHash"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "a5e4a3ec-f89a-4e09-bbb8-563c56b8166b",
+    "name": "Magento\\Framework\\App\\Test\\Unit\\Console\\MaintenanceModeEnablerTest::testFailedTaskWithRestoredModeOnFailure",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693057863,
+    "stop": 1711693057863,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"Maintenance mode disabled initially\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "e6b0b98935a00e284dc7be60cd3bb1f6",
+    "testCaseId": "cf6dffe4ebf09e5715c33580424828d1",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\App\\Test\\Unit\\Console\\MaintenanceModeEnablerTest::testFailedTaskWithRestoredModeOnFailure",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\App\\Test\\Unit\\Console\\MaintenanceModeEnablerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testFailedTaskWithRestoredModeOnFailure"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

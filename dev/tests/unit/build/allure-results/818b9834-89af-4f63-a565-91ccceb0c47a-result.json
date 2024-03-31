@@ -1,0 +1,43 @@
+{
+    "uuid": "818b9834-89af-4f63-a565-91ccceb0c47a",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\InvoiceTest::testGetPdfInitRenderer",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038685,
+    "stop": 1711693038686,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "d72d9cf808c9cb2bbb1ccf2c3a21db6a",
+    "testCaseId": "cb95dc159d53b14a7b61bf020c067463",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\InvoiceTest::testGetPdfInitRenderer",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Pdf\\InvoiceTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPdfInitRenderer"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

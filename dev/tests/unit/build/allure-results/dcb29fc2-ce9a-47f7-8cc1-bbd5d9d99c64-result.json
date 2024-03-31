@@ -1,0 +1,43 @@
+{
+    "uuid": "dcb29fc2-ce9a-47f7-8cc1-bbd5d9d99c64",
+    "name": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\MassactionTest::testGetGridIdsJsonWithoutUseSelectAll",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693009685,
+    "stop": 1711693009685,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "58340e80bff7e11071be9089be29fdad",
+    "testCaseId": "4beb60ffde0442291312af8fd9a329c1",
+    "rerunOf": null,
+    "fullName": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\MassactionTest::testGetGridIdsJsonWithoutUseSelectAll",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Backend\\Test\\Unit\\Block\\Widget\\Grid\\MassactionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetGridIdsJsonWithoutUseSelectAll"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

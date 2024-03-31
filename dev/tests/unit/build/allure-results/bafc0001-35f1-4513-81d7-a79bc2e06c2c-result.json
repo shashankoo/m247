@@ -1,0 +1,43 @@
+{
+    "uuid": "bafc0001-35f1-4513-81d7-a79bc2e06c2c",
+    "name": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Quote\\Item\\QuantityValidator\\Initializer\\OptionTest::testInitializeWhenResultIsDecimalGetBackordersMessageHasOptionQtyUpdate",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693012005,
+    "stop": 1711693012009,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "51cdb8e511e59cbede3f9f43e25119e9",
+    "testCaseId": "1892caf2f65cc5820403088ef158abe4",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Quote\\Item\\QuantityValidator\\Initializer\\OptionTest::testInitializeWhenResultIsDecimalGetBackordersMessageHasOptionQtyUpdate",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogInventory\\Test\\Unit\\Model\\Quote\\Item\\QuantityValidator\\Initializer\\OptionTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testInitializeWhenResultIsDecimalGetBackordersMessageHasOptionQtyUpdate"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

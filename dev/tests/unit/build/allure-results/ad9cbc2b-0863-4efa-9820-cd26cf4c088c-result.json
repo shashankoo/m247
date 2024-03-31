@@ -1,0 +1,50 @@
+{
+    "uuid": "ad9cbc2b-0863-4efa-9820-cd26cf4c088c",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Config\\CatalogClone\\Media\\ImageTest::testGetPrefixes",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014317,
+    "stop": 1711693014317,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "85b54cba880a091df1c47ffa6faf7dcf",
+    "testCaseId": "aa981eb3567faecaa03768a2f04eecc1",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Config\\CatalogClone\\Media\\ImageTest::testGetPrefixes",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Config\\CatalogClone\\Media\\ImageTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetPrefixes"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

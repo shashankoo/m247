@@ -1,0 +1,43 @@
+{
+    "uuid": "9d6bf049-7386-4b1d-b7b5-86d45d7d3b50",
+    "name": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ItemTest::testRemoveErrorInfosByParams",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693032922,
+    "stop": 1711693032923,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "a50e848a9265286e6700a95247eeef66",
+    "testCaseId": "17f64d1848b6e539cf66d449ec65f78f",
+    "rerunOf": null,
+    "fullName": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ItemTest::testRemoveErrorInfosByParams",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Quote\\Test\\Unit\\Model\\Quote\\ItemTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRemoveErrorInfosByParams"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

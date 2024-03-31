@@ -1,0 +1,50 @@
+{
+    "uuid": "1ca03eb5-afd0-4731-acbf-7309dc2adab3",
+    "name": "Magento\\Theme\\Test\\Unit\\Controller\\Adminhtml\\System\\Design\\Theme\\DeleteTest::testExecuteInvalidArgument",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693042948,
+    "stop": 1711693042949,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"isVirtual\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "17d863502eb806f28b08159c6426ebda",
+    "testCaseId": "5f47975f1be0c557aaa8060c6a48dba4",
+    "rerunOf": null,
+    "fullName": "Magento\\Theme\\Test\\Unit\\Controller\\Adminhtml\\System\\Design\\Theme\\DeleteTest::testExecuteInvalidArgument",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Theme\\Test\\Unit\\Controller\\Adminhtml\\System\\Design\\Theme\\DeleteTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecuteInvalidArgument"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

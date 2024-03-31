@@ -1,0 +1,43 @@
+{
+    "uuid": "71642f0c-f94f-416d-bff3-c209a274dff4",
+    "name": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Shipment\\TrackTest::testGetStoreId",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693038915,
+    "stop": 1711693038915,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "0ef03f91d0fff60c595b98784b454235",
+    "testCaseId": "3662d859b25826d2838d720a9f329660",
+    "rerunOf": null,
+    "fullName": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Shipment\\TrackTest::testGetStoreId",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Sales\\Test\\Unit\\Model\\Order\\Shipment\\TrackTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testGetStoreId"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

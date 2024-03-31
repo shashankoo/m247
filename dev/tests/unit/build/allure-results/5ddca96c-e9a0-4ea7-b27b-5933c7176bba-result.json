@@ -1,0 +1,50 @@
+{
+    "uuid": "5ddca96c-e9a0-4ea7-b27b-5933c7176bba",
+    "name": "Magento\\AdobeIms\\Test\\Unit\\Controller\\Adminhtml\\User\\ProfileTest::testExecute",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693008580,
+    "stop": 1711693008581,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "7a802eb29a3335f61357f3a227bf9ab2",
+    "testCaseId": "06af4bf84e0730d3ee5c3cea543bd112",
+    "rerunOf": null,
+    "fullName": "Magento\\AdobeIms\\Test\\Unit\\Controller\\Adminhtml\\User\\ProfileTest::testExecute",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\AdobeIms\\Test\\Unit\\Controller\\Adminhtml\\User\\ProfileTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testExecute"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

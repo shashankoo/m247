@@ -1,0 +1,50 @@
+{
+    "uuid": "4a4d3f59-5cfb-4fab-b03e-e0b31ad2aa5c",
+    "name": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\LinkProcessorTest::testSaveLinks",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693011453,
+    "stop": 1711693011455,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#0",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b16f91109111c0ccee20f2bb2d678039",
+    "testCaseId": "673a52ebff8f7d4481482fb6f83a9892",
+    "rerunOf": null,
+    "fullName": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\LinkProcessorTest::testSaveLinks",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\CatalogImportExport\\Test\\Unit\\Model\\Import\\Product\\LinkProcessorTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testSaveLinks"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

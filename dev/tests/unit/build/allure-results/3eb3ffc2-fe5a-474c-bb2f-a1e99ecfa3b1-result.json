@@ -1,0 +1,43 @@
+{
+    "uuid": "3eb3ffc2-fe5a-474c-bb2f-a1e99ecfa3b1",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\Action\\RowsTest::testEmptyIds",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693014518,
+    "stop": 1711693014519,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [],
+    "historyId": "4fb22d8fd161ae9b49d2e365f67d82ed",
+    "testCaseId": "b0bae656682eacfa60db6b9d7567ff64",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\Action\\RowsTest::testEmptyIds",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Indexer\\Product\\Flat\\Action\\RowsTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testEmptyIds"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

@@ -1,0 +1,50 @@
+{
+    "uuid": "e2e0202e-e754-4c6b-8f6f-27a22ad2f5de",
+    "name": "Magento\\Reports\\Test\\Unit\\Block\\Adminhtml\\Grid\\Column\\Renderer\\CurrencyTest::testRender",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693033395,
+    "stop": 1711693033395,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"rate conversion with different admin and storefront rate\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "8327196a779cee5e3debc182278e4fe4",
+    "testCaseId": "6dad7fc882698e80abf6bad6a4050c81",
+    "rerunOf": null,
+    "fullName": "Magento\\Reports\\Test\\Unit\\Block\\Adminhtml\\Grid\\Column\\Renderer\\CurrencyTest::testRender",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Reports\\Test\\Unit\\Block\\Adminhtml\\Grid\\Column\\Renderer\\CurrencyTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testRender"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

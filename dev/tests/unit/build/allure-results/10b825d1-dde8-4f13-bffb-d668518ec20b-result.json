@@ -1,0 +1,50 @@
+{
+    "uuid": "10b825d1-dde8-4f13-bffb-d668518ec20b",
+    "name": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TypeTransitionManagerTest::testProcessProduct",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693015379,
+    "stop": 1711693015379,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "#1",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "b37a957262ebb7ded0ee61d0df3d94ad",
+    "testCaseId": "e4e0425c18b0b3d5f14632e2015ae77e",
+    "rerunOf": null,
+    "fullName": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TypeTransitionManagerTest::testProcessProduct",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Catalog\\Test\\Unit\\Model\\Product\\TypeTransitionManagerTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testProcessProduct"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}

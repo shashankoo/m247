@@ -1,0 +1,50 @@
+{
+    "uuid": "eafeb431-22c7-4b8b-a009-36f4b6e4e884",
+    "name": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\DatabaseTest::testLoad",
+    "description": null,
+    "descriptionHtml": null,
+    "start": 1711693059158,
+    "stop": 1711693059159,
+    "status": "passed",
+    "statusDetails": {
+        "known": null,
+        "muted": null,
+        "flaky": null,
+        "message": null,
+        "trace": null
+    },
+    "stage": "finished",
+    "steps": [],
+    "attachments": [],
+    "parameters": [
+        {
+            "name": "Data set",
+            "value": "\"with_store_data\"",
+            "excluded": null,
+            "mode": null
+        }
+    ],
+    "historyId": "16f01dd6885f9e118aa6b86711ed1fba",
+    "testCaseId": "82218d25a156f45ba1a32dfd0a1f84af",
+    "rerunOf": null,
+    "fullName": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\DatabaseTest::testLoad",
+    "labels": [
+        {
+            "name": "testClass",
+            "value": "Magento\\Framework\\Cache\\Test\\Unit\\Backend\\DatabaseTest"
+        },
+        {
+            "name": "testMethod",
+            "value": "testLoad"
+        },
+        {
+            "name": "host",
+            "value": "shashank"
+        },
+        {
+            "name": "thread",
+            "value": null
+        }
+    ],
+    "links": []
+}
