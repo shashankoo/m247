@@ -1,9 +1,0 @@
-<?xml version="1.0"?>
-
-<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
-    <menu>
-        <add id="Test_Hello::manager" title="Test Menu" module="Test_Hello" sortOrder="10" resource="Test_Hello::manager"/>
-        <add id="Test_Hello::employee" title="Employee Manager" module="Test_Hello" sortOrder="0" parent="Test_Hello::manager"
-                action="hello/employee" resource="Test_Hello::employee"/>
-    </menu>
-</config>
