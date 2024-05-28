@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+
+<config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="urn:magento:module:Magento_Backend:etc/menu.xsd">
+    <menu>
+        <add id="Pixelmechanics_Hello::manager" title="Pixelmechanics Menu" module="Pixelmechanics_Hello" sortOrder="10" resource="Pixelmechanics_Hello::manager"/>
+        <add id="Pixelmechanics_Hello::employee" title="Employee Manager" module="Pixelmechanics_Hello" sortOrder="0" parent="Pixelmechanics_Hello::manager"
+                action="hello/employee" resource="Pixelmechanics_Hello::employee"/>
+    </menu>
+</config>
