@@ -1,7 +1,7 @@
 <?php
 // create a model calss to perform the calculation
 
-namespace PixelMechanics\Hello\Model;
+namespace Test\Hello\Model;
 
 class Calculator
 {

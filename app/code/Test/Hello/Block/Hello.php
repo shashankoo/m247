@@ -1,6 +1,6 @@
 <?php
 
-namespace Pixelmechanics\Hello\Block;
+namespace Test\Hello\Block;
 
 class Hello extends \Magento\Framework\View\Element\Template
 {
@@ -18,6 +18,6 @@ class Hello extends \Magento\Framework\View\Element\Template
      */
     public function getContentForDisplay()
     {
-        return __("Successful! This is a sample module in Magento 2 by Pixelmechanics.");
+        return __("Successful! This is a sample module in Magento 2 by Test.");
     }
 }

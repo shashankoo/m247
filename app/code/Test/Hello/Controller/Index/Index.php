@@ -1,6 +1,6 @@
 <?php
 
-namespace Pixelmechanics\Hello\Controller\Index;
+namespace Test\Hello\Controller\Index;
 
 use Magento\Framework\App\Action\Action;
 use Magento\Framework\App\Action\Context;

@@ -1,9 +1,9 @@
 <?php
-//Create unit test for class PixelMechanics/Hello/Test/Unit/Model/Calculator.php
-namespace PixelMechanics\Hello\Test\Unit\Model;
+//Create unit test for class Test/Hello/Test/Unit/Model/Calculator.php
+namespace Test\Hello\Test\Unit\Model;
 
 use PHPUnit\Framework\TestCase;
-use PixelMechanics\Hello\Model\Calculator;
+use Test\Hello\Model\Calculator;
 
 class CalculatorTest extends TestCase
 {

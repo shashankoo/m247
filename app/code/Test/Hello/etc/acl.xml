@@ -4,7 +4,7 @@
     <acl>
         <resources>
             <resource id="Magento_Backend::admin">
-                <resource id="Pixelmechanics_Hello::Employee" title="Pixelmechanics Menu" sortOrder="10" />
+                <resource id="Test_Hello::Employee" title="Test Menu" sortOrder="10" />
             </resource>
         </resources>
     </acl>

@@ -348,7 +348,7 @@ return [
         'Magento_WishlistSampleData' => 1,
         'PayPal_Braintree' => 1,
         'PayPal_BraintreeGraphQl' => 1,
-        'Pixelmechanics_Hello' => 1,
+        'Test_Hello' => 1,
         'Temando_ShippingRemover' => 1
     ]
 ];

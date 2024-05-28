@@ -1,6 +1,6 @@
 <?php
 
-namespace Pixelmechanics\Hello\Controller\Adminhtml\Employee;
+namespace Test\Hello\Controller\Adminhtml\Employee;
 
 class Index extends \Magento\Backend\App\Action
 {
@@ -11,7 +11,7 @@ class Index extends \Magento\Backend\App\Action
      */
     public function execute()
     {
-        echo __('Hello Pixelmechanics Team.');
+        echo __('Hello Test Team.');
     }
 
     /**
@@ -21,6 +21,6 @@ class Index extends \Magento\Backend\App\Action
      */
     protected function _isAllowed()
     {
-        return $this->_authorization->isAllowed('Pixelmechanics_Hello::employee');
+        return $this->_authorization->isAllowed('Test_Hello::employee');
     }
 }
